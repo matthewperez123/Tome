@@ -1,5 +1,6 @@
 import {
   Home,
+  LayoutDashboard,
   Library,
   BookOpen,
   BrainCircuit,
@@ -18,6 +19,7 @@ export type NavItem = {
 
 export const sidebarNav: NavItem[] = [
   { label: "Home", href: "/", icon: Home },
+  { label: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
   { label: "Library", href: "/library", icon: Library },
   { label: "Reading", href: "/reading", icon: BookOpen },
   { label: "Quizzes", href: "/quizzes", icon: BrainCircuit },

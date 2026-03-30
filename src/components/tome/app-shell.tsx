@@ -2,6 +2,7 @@
 
 import { SidebarProvider } from "@/components/ui/sidebar"
 import { TooltipProvider } from "@/components/ui/tooltip"
+import { TomeEconomyProvider } from "@/components/tome/economy-provider"
 import { AppSidebar } from "@/components/tome/app-sidebar"
 import { TopBar } from "@/components/tome/top-bar"
 import { MobileDock } from "@/components/tome/mobile-dock"
@@ -9,6 +10,7 @@ import { PageTransition } from "@/components/tome/page-transition"
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   return (
+    <TomeEconomyProvider>
     <TooltipProvider>
       <SidebarProvider>
         <AppSidebar />
@@ -21,5 +23,6 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         <MobileDock />
       </SidebarProvider>
     </TooltipProvider>
+    </TomeEconomyProvider>
   )
 }

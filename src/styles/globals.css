@@ -131,7 +131,19 @@
   from {
     transform: translateY(0);}
   to {
-    transform: translateY(calc(-100% - var(--gap)));}}}
+    transform: translateY(calc(-100% - var(--gap)));}}
+  --animate-pulse: pulse var(--duration) ease-out infinite;
+  --animate-orbit: orbit calc(var(--duration)*1s) linear infinite;
+  @keyframes pulse {
+  0%, 100% {
+    boxShadow: 0 0 0 0 var(--pulse-color);}
+  50% {
+    boxShadow: 0 0 0 8px var(--pulse-color);}}
+  @keyframes orbit {
+  0% {
+    transform: rotate(calc(var(--angle) * 1deg)) translateY(calc(var(--radius) * 1px)) rotate(calc(var(--angle) * -1deg));}
+  100% {
+    transform: rotate(calc(var(--angle) * 1deg + 360deg)) translateY(calc(var(--radius) * 1px)) rotate(calc((var(--angle) * -1deg) - 360deg));}}}
 
 :root {
   --background: oklch(1 0 0);
