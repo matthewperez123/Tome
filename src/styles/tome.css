@@ -1,0 +1,170 @@
+/* ─────────────────────────────────────────────
+   Tome Design System — CSS Custom Properties
+   ───────────────────────────────────────────── */
+
+:root {
+  /* ── Hue Spectrum (18 colors) ────────────── */
+  --tome-red: #ef4444;
+  --tome-coral: #f97316;
+  --tome-orange: #fb923c;
+  --tome-amber: #f59e0b;
+  --tome-gold: #eab308;
+  --tome-lime: #84cc16;
+  --tome-green: #22c55e;
+  --tome-emerald: #10b981;
+  --tome-teal: #14b8a6;
+  --tome-cyan: #06b6d4;
+  --tome-sky: #0ea5e9;
+  --tome-blue: #3b82f6;
+  --tome-indigo: #6366f1;
+  --tome-violet: #8b5cf6;
+  --tome-purple: #a855f7;
+  --tome-fuchsia: #d946ef;
+  --tome-pink: #ec4899;
+  --tome-rose: #f43f5e;
+
+  /* ── Surfaces ────────────────────────────── */
+  --tome-surface-white: #ffffff;
+  --tome-surface-elevated: #f9fafb;
+  --tome-surface-recessed: #f3f4f6;
+  --tome-surface-spotlight: #111827;
+
+  /* ── Semantic ────────────────────────────── */
+  --tome-success: #22c55e;
+  --tome-warning: #f59e0b;
+  --tome-error: #ef4444;
+  --tome-accent: #6366f1;
+
+  /* ── Typography ──────────────────────────── */
+  --tome-fs-display: 40px;
+  --tome-fw-display: 800;
+  --tome-ls-display: -0.03em;
+
+  --tome-fs-h1: 32px;
+  --tome-fw-h1: 700;
+  --tome-ls-h1: -0.025em;
+
+  --tome-fs-h2: 24px;
+  --tome-fw-h2: 600;
+  --tome-ls-h2: -0.02em;
+
+  --tome-fs-h3: 20px;
+  --tome-fw-h3: 600;
+  --tome-ls-h3: -0.015em;
+
+  --tome-fs-body: 16px;
+  --tome-fw-body: 400;
+  --tome-ls-body: 0em;
+
+  --tome-fs-body-strong: 16px;
+  --tome-fw-body-strong: 500;
+  --tome-ls-body-strong: 0em;
+
+  --tome-fs-small: 14px;
+  --tome-fw-small: 400;
+  --tome-ls-small: 0.01em;
+
+  --tome-fs-micro: 12px;
+  --tome-fw-micro: 500;
+  --tome-ls-micro: 0.02em;
+
+  /* ── Spacing (4px base grid) ─────────────── */
+  --tome-space-1: 4px;
+  --tome-space-2: 8px;
+  --tome-space-3: 12px;
+  --tome-space-4: 16px;
+  --tome-space-5: 20px;
+  --tome-space-6: 24px;
+  --tome-space-8: 32px;
+  --tome-space-10: 40px;
+  --tome-space-12: 48px;
+  --tome-space-16: 64px;
+  --tome-space-20: 80px;
+  --tome-space-24: 96px;
+
+  /* ── Motion: Easing ──────────────────────── */
+  --tome-ease-scholarly: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --tome-ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* ── Motion: Durations ───────────────────── */
+  --tome-duration-instant: 100ms;
+  --tome-duration-fast: 200ms;
+  --tome-duration-normal: 350ms;
+  --tome-duration-slow: 500ms;
+  --tome-duration-reveal: 800ms;
+
+  /* ── Motion: Stagger ─────────────────────── */
+  --tome-stagger: 0.06s;
+}
+
+/* ── Selection ───────────────────────────────── */
+
+::selection {
+  background-color: rgb(99 102 241 / 0.2);
+}
+
+/* ── Scrollbar ───────────────────────────────── */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #d1d5db transparent;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d1d5db;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #9ca3af;
+}
+
+/* ── Focus Ring ──────────────────────────────── */
+
+:focus-visible {
+  outline: 2px solid var(--tome-accent);
+  outline-offset: 2px;
+}
+
+/* ── Skeleton Shimmer Keyframe ────────────────── */
+
+@keyframes tome-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+[data-slot="skeleton"] {
+  background-image: linear-gradient(
+    90deg,
+    rgb(234 179 8 / 0.06) 0%,
+    rgb(234 179 8 / 0.15) 50%,
+    rgb(234 179 8 / 0.06) 100%
+  );
+  background-size: 200% 100%;
+}
+
+/* ── Reduced Motion ──────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
