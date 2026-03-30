@@ -156,6 +156,46 @@
   background-size: 200% 100%;
 }
 
+/* ── Reader Prose Styling ─────────────────────── */
+
+.prose-reader p {
+  margin-bottom: 1.5em;
+  break-inside: avoid;
+}
+
+.prose-reader p + p {
+  text-indent: 2em;
+}
+
+.prose-reader blockquote {
+  margin: 2em 0;
+  padding-left: 1.25em;
+  border-left: 2px solid var(--tome-accent);
+  font-style: italic;
+}
+
+.prose-reader h2,
+.prose-reader h3,
+.prose-reader h4 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  font-weight: 600;
+}
+
+.prose-reader em {
+  font-style: italic;
+}
+
+.prose-reader br {
+  display: block;
+  margin-bottom: 0.25em;
+  content: "";
+}
+
+.prose-reader span {
+  display: inline;
+}
+
 /* ── Reduced Motion ──────────────────────────── */
 
 @media (prefers-reduced-motion: reduce) {
