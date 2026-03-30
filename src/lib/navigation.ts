@@ -6,6 +6,7 @@ import {
   BrainCircuit,
   Trophy,
   Users,
+  Globe2,
   ShoppingBag,
   User,
   type LucideIcon,
@@ -23,8 +24,9 @@ export const sidebarNav: NavItem[] = [
   { label: "Library", href: "/library", icon: Library },
   { label: "Reading", href: "/reading", icon: BookOpen },
   { label: "Quizzes", href: "/quizzes", icon: BrainCircuit },
+  { label: "Explore", href: "/explore", icon: Globe2 },
   { label: "Achievements", href: "/achievements", icon: Trophy },
-  { label: "Book Clubs", href: "/clubs", icon: Users },
+  { label: "Community", href: "/social", icon: Users },
   { label: "Shop", href: "/shop", icon: ShoppingBag },
 ]
 
