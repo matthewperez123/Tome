@@ -8,6 +8,7 @@ import { sidebarNav } from "@/lib/navigation"
 import {
   Sidebar,
   SidebarContent,
+  SidebarFooter,
   SidebarGroup,
   SidebarGroupContent,
   SidebarHeader,
@@ -17,11 +18,23 @@ import {
   SidebarRail,
   useSidebar,
 } from "@/components/ui/sidebar"
+import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
+import { getCurrentAvatar } from "@/lib/avatar-state"
+import type { BookCharacter } from "@/data/character-avatars"
+import { CHARACTER_MAP } from "@/data/character-avatars"
 
 export function AppSidebar() {
   const pathname = usePathname()
   const { state } = useSidebar()
   const collapsed = state === "collapsed"
+
+  const [character, setCharacter] = React.useState<BookCharacter | null>(null)
+
+  React.useEffect(() => {
+    setCharacter(getCurrentAvatar())
+  }, [])
+
+  const displayCharacter = character ?? CHARACTER_MAP["virgil"]
 
   return (
     <Sidebar collapsible="icon" className="border-r-0">
@@ -45,6 +58,25 @@ export function AppSidebar() {
           </SidebarGroupContent>
         </SidebarGroup>
       </SidebarContent>
+      {displayCharacter && (
+        <SidebarFooter className="px-3 py-3 border-t border-border">
+          <Link
+            href="/profile/avatar"
+            className="flex items-center gap-2 rounded-md p-1.5 hover:bg-accent/50 transition-colors"
+          >
+            <UserAvatar
+              character={displayCharacter}
+              size="sm"
+              showRarityRing={true}
+            />
+            {!collapsed && (
+              <span className="text-xs text-muted-foreground max-w-[80px] truncate leading-tight">
+                {displayCharacter.name}
+              </span>
+            )}
+          </Link>
+        </SidebarFooter>
+      )}
       <SidebarRail />
     </Sidebar>
   )

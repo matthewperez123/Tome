@@ -15,6 +15,10 @@ import { BookCover, getCoverParams } from "@/components/tome/book-cover"
 import { AuthorLink } from "@/components/tome/author-link"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { cn } from "@/lib/utils"
+import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
+import { getCurrentAvatar, getSelectedCharacterId } from "@/lib/avatar-state"
+import type { BookCharacter } from "@/data/character-avatars"
+import { CHARACTER_MAP } from "@/data/character-avatars"
 
 // ── Level system ───────────────────────────────
 
@@ -164,10 +168,14 @@ export default function ProfilePage() {
   const [settingGoal, setSettingGoal]    = useState(20)
   const [settingTheme,setSettingTheme]   = useState("default")
   const [shareOpen,   setShareOpen]      = useState(false)
+  const [avatarCharacter, setAvatarCharacter] = useState<BookCharacter | null>(null)
 
   useEffect(() => {
     setAllProgress(getAllBookProgress())
+    setAvatarCharacter(getCurrentAvatar())
   }, [])
+
+  const displayCharacter = avatarCharacter ?? CHARACTER_MAP["virgil"]
 
   const allBooks = useMemo(() => getBooks(), [])
 
@@ -213,20 +221,30 @@ export default function ProfilePage() {
         <BlurFade delay={0.05} inView>
           <section className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
             {/* Avatar */}
-            <div className="relative shrink-0">
-              <div
-                className="size-24 rounded-full flex items-center justify-center font-serif font-bold text-3xl select-none"
-                style={{
-                  background: `radial-gradient(135% 135% at 25% 20%, ${accentColor}55 0%, ${accentColor}22 60%, transparent 100%)`,
-                  border: `2px solid ${accentColor}55`,
-                  color: accentColor,
-                }}
+            <div className="relative shrink-0 flex flex-col items-center gap-1.5">
+              <Link href="/profile/avatar">
+                {displayCharacter && (
+                  <UserAvatar
+                    character={displayCharacter}
+                    size="lg"
+                    showRarityRing={true}
+                  />
+                )}
+              </Link>
+              {displayCharacter && (
+                <span className="text-xs text-muted-foreground text-center max-w-[80px] truncate leading-tight">
+                  {displayCharacter.name}
+                </span>
+              )}
+              <Link
+                href="/profile/avatar"
+                className="text-[10px] text-muted-foreground/70 hover:text-foreground transition-colors"
               >
-                M
-              </div>
+                Change Avatar →
+              </Link>
               {/* Level badge */}
               <div
-                className="absolute -bottom-1 -right-1 rounded-full px-2 py-0.5 text-[10px] font-bold leading-tight"
+                className="rounded-full px-2 py-0.5 text-[10px] font-bold leading-tight"
                 style={{ background: accentColor, color: "#fff" }}
               >
                 Lv {levelInfo.current.level}
