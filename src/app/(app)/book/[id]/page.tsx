@@ -132,8 +132,8 @@ export default function BookDetailPage() {
     }
   }
 
-  function handleModeSelect(mode: "guided" | "free") {
-    const newProgress = createBookProgress(bookId, mode)
+  function handleModeSelect(mode: "guided" | "free", difficulty?: import("@/lib/book-progress").QuizDifficulty) {
+    const newProgress = createBookProgress(bookId, mode, difficulty ?? "Apprentice")
     saveBookProgress(newProgress)
     setProgress(newProgress)
     setShowModeModal(false)
