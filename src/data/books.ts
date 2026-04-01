@@ -8,13 +8,13 @@ export interface TomeBook {
   author: string;
   authorId: string;
   year: number;
-  language: string;
-  readingLanguage: string;
+  language?: string;
+  readingLanguage?: string;
   tradition: string;
   era: string;
   genres: string[];
   difficulty: "Beginner" | "Intermediate" | "Advanced" | "Scholar";
-  difficultyReason: string;
+  difficultyReason?: string;
   chapters: number;
   estimatedReadingTime: string;
   wordCount: number;
@@ -33,6 +33,8 @@ export interface TomeBook {
   };
   readProgress?: number;
   standardEbooksUrl?: string;
+  coverImagePath?: string;
+  source?: "standard-ebooks" | "metadata-only";
 }
 
 export const BOOKS: TomeBook[] = [

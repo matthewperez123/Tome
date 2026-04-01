@@ -21,12 +21,14 @@ import Link from "next/link"
 import {
   BookOpen, Bookmark, BookmarkCheck, ChevronRight, Clock,
   Globe, Lock, Play, CheckCircle2, ArrowRight, Hash,
-  LayoutList, ChevronDown,
+  LayoutList, ChevronDown, Palette, ExternalLink,
 } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Skeleton } from "@/components/ui/skeleton"
-import { BookCover, getCoverParams } from "@/components/tome/book-cover"
+import { getCoverParams } from "@/components/tome/book-cover"
+import { ClassicsCover } from "@/components/tome/ClassicsCover"
+import { getBookCoverArt } from "@/data/cover-art"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { AuthorLink } from "@/components/tome/author-link"
 import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
@@ -177,6 +179,7 @@ export default function BookDetailPage() {
   const tradColor = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
   const diffColor = DIFFICULTY_COLORS[book.difficulty] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca" }
   const coverParams = getCoverParams(book)
+  const coverArt = getBookCoverArt(bookId)
   const authorBio1 = author?.bio.split("\n\n")[0] ?? ""
   const authorInitials = author?.name.split(" ").map(w => w[0]).join("").slice(0, 2).toUpperCase() ?? "?"
   const visibleChapters = showAllChapters ? chapters : chapters.slice(0, INITIAL_CHAPTERS)
@@ -213,9 +216,16 @@ export default function BookDetailPage() {
             <div className="flex gap-5 md:gap-8 items-start">
               {/* Cover */}
               <div className="w-28 shrink-0 sm:w-36 md:w-44">
-                <BookCover
-                  {...coverParams}
-                  className="w-full shadow-xl rounded-lg"
+                <ClassicsCover
+                  bookId={book.id}
+                  title={book.title}
+                  author={book.author}
+                  tradition={book.tradition}
+                  artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
+                  fallbackColors={book.coverColors}
+                  showTomeWordmark
+                  priority
+                  className="w-full rounded-lg"
                 />
               </div>
 
@@ -341,6 +351,43 @@ export default function BookDetailPage() {
               <OrnamentalDivider />
             </section>
           </BlurFade>
+
+          {/* ── Cover Art Credit ── */}
+          {coverArt && (
+            <BlurFade delay={0.115} inView>
+              <section>
+                <div className="flex items-start gap-3 px-4 py-3 rounded-xl border border-border/60 bg-card/50">
+                  <Palette className="size-3.5 shrink-0 text-muted-foreground/60 mt-0.5" />
+                  <div className="min-w-0 flex-1">
+                    <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/70 mb-0.5">
+                      Cover Artwork
+                    </p>
+                    <p className="text-xs text-foreground/80 leading-relaxed">
+                      <span className="font-medium">{coverArt.title}</span>
+                      {coverArt.artist && coverArt.artist !== "Unknown" && (
+                        <> &mdash; {coverArt.artist}</>
+                      )}
+                      {coverArt.date && <>, {coverArt.date}</>}
+                    </p>
+                    <div className="flex items-center gap-2 mt-1">
+                      <p className="text-[10px] text-muted-foreground/60 flex-1 truncate">
+                        {coverArt.creditLine}
+                      </p>
+                      <a
+                        href={coverArt.objectUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="shrink-0 flex items-center gap-1 text-[10px] text-[var(--tome-accent)] hover:underline"
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        View <ExternalLink className="size-2.5" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </BlurFade>
+          )}
 
           {/* ── Themes ── */}
           {book.themes.length > 0 && (
