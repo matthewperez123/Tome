@@ -415,7 +415,7 @@ function TrendingCard({ book, rank }: { book: TomeBook; rank: number }) {
 
   return (
     <a
-      href={`/read/${book.id}`}
+      href={`/book/${book.id}`}
       className={cn(
         "group flex flex-col w-36 shrink-0 rounded-xl border border-border bg-card overflow-hidden snap-start",
         "transition-[transform,box-shadow] duration-200 hover:scale-[1.02] hover:shadow-md motion-reduce:hover:scale-100"

@@ -64,7 +64,7 @@ export function BookCard({ book, progress, size = "sm", className }: BookCardPro
 
   return (
     <a
-      href={`/read/${book.id}`}
+      href={`/book/${book.id}`}
       className={cn(
         "group flex flex-col rounded-xl border border-border bg-card overflow-hidden",
         "transition-[transform,box-shadow] duration-[200ms] ease-[var(--tome-ease-scholarly)]",
