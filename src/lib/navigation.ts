@@ -10,6 +10,8 @@ import {
   Globe2,
   ShoppingBag,
   User,
+  Bookmark,
+  BookMarked,
   type LucideIcon,
 } from "lucide-react"
 
@@ -24,6 +26,8 @@ export const sidebarNav: NavItem[] = [
   { label: "Home", href: "/", icon: Home },
   { label: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
   { label: "Library", href: "/library", icon: Library },
+  { label: "Bookmarks", href: "/bookmarks", icon: Bookmark },
+  { label: "My Shelves", href: "/shelves", icon: BookMarked },
   { label: "Authors", href: "/authors", icon: Users2 },
   { label: "Reading", href: "/reading", icon: BookOpen },
   { label: "Quizzes", href: "/quizzes", icon: BrainCircuit },

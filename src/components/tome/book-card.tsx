@@ -1,5 +1,7 @@
 "use client"
 
+import { useState, useEffect } from "react"
+import { Heart } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { type TomeBook } from "@/data/books"
 import { getCoverParams } from "@/components/tome/book-cover"
@@ -38,6 +40,55 @@ const TREND_ICONS: Record<string, string> = {
   hot:     "🔥",
   rising:  "📈",
   steady:  "📚",
+}
+
+// ── HeartButton ────────────────────────────────
+
+function HeartButton({ bookId }: { bookId: string }) {
+  const [fav, setFav] = useState(false)
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+    try {
+      const all = JSON.parse(localStorage.getItem("tome-shelves") ?? "[]")
+      setFav(all.some((e: { bookId: string; shelfType: string }) => e.bookId === bookId && e.shelfType === "favorites"))
+    } catch {}
+  }, [bookId])
+
+  if (!mounted) return null
+
+  function toggle(e: React.MouseEvent) {
+    e.preventDefault()
+    e.stopPropagation()
+    try {
+      const all = JSON.parse(localStorage.getItem("tome-shelves") ?? "[]")
+      if (fav) {
+        const filtered = all.filter(
+          (e: { bookId: string; shelfType: string }) =>
+            !(e.bookId === bookId && e.shelfType === "favorites")
+        )
+        localStorage.setItem("tome-shelves", JSON.stringify(filtered))
+        setFav(false)
+      } else {
+        all.push({ bookId, shelfType: "favorites", addedAt: new Date().toISOString() })
+        localStorage.setItem("tome-shelves", JSON.stringify(all))
+        setFav(true)
+      }
+    } catch {}
+  }
+
+  return (
+    <button
+      onClick={toggle}
+      className="absolute bottom-1.5 left-1.5 flex size-5 items-center justify-center rounded-full bg-black/30 backdrop-blur-sm transition-colors hover:bg-black/50"
+      aria-label={fav ? "Remove from favorites" : "Add to favorites"}
+    >
+      <Heart
+        className={cn("size-3", fav ? "fill-rose-500 text-rose-500" : "text-white/70")}
+      />
+    </button>
+  )
 }
 
 // ── BookCard ───────────────────────────────────
@@ -113,6 +164,9 @@ export function BookCard({ book, progress, size = "sm", className }: BookCardPro
             {TREND_ICONS[book.trending.trend]}
           </span>
         )}
+
+        {/* Heart / favorite button — bottom-left */}
+        <HeartButton bookId={book.id} />
       </div>
 
       {/* ── Meta ── */}

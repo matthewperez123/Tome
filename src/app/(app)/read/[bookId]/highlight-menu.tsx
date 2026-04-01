@@ -2,17 +2,87 @@
 
 import { useEffect, useState, useCallback } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Bookmark, MessageSquare, BookOpen } from "lucide-react"
+import { MessageSquare, BookOpen } from "lucide-react"
+import { toast } from "sonner"
 import { springs } from "@/lib/design-tokens"
+
+// ── Bookmark types & helpers ─────────────────────────────────────────────────
+
+type BookmarkColor = "gold" | "blue" | "green" | "purple" | "coral"
+
+const COLOR_HEX: Record<BookmarkColor, string> = {
+  gold:   "#EAB308",
+  blue:   "#3B82F6",
+  green:  "#22C55E",
+  purple: "#8B5CF6",
+  coral:  "#F97316",
+}
+
+const COLORS: BookmarkColor[] = ["gold", "blue", "green", "purple", "coral"]
+
+interface StoredBookmark {
+  id: string
+  bookId: string
+  bookTitle: string
+  chapterId: string
+  chapterNumber: number
+  chapterTitle: string
+  paragraphIndex: number
+  selectedText: string
+  color: BookmarkColor
+  createdAt: string
+  updatedAt: string
+}
+
+function saveColorBookmark(params: {
+  bookId: string
+  bookTitle: string
+  chapterId: string
+  chapterNumber: number
+  chapterTitle: string
+  paragraphIndex: number
+  selectedText: string
+  color: BookmarkColor
+}) {
+  if (typeof window === "undefined") return
+  try {
+    const all: StoredBookmark[] = JSON.parse(localStorage.getItem("tome-bookmarks") ?? "[]")
+    const bm: StoredBookmark = {
+      id: Date.now().toString(36) + Math.random().toString(36).slice(2, 5),
+      ...params,
+      selectedText: params.selectedText.slice(0, 200),
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
+    }
+    all.unshift(bm)
+    if (all.length > 500) all.splice(500)
+    localStorage.setItem("tome-bookmarks", JSON.stringify(all))
+  } catch {}
+}
+
+// ── Props ────────────────────────────────────────────────────────────────────
 
 interface HighlightMenuProps {
   bookId: string
+  bookTitle: string
+  chapterId: string
   chapterIndex: number
+  chapterTitle: string
+  onBookmarkAdded?: () => void
 }
 
 type MenuPosition = { x: number; y: number } | null
 
-export function HighlightMenu({ bookId, chapterIndex }: HighlightMenuProps) {
+// ── Component ────────────────────────────────────────────────────────────────
+
+export function HighlightMenu({
+  bookId,
+  bookTitle,
+  chapterId,
+  chapterIndex,
+  chapterTitle,
+  onBookmarkAdded,
+}: HighlightMenuProps) {
   const [position, setPosition] = useState<MenuPosition>(null)
   const [selectedText, setSelectedText] = useState("")
 
@@ -67,23 +137,26 @@ export function HighlightMenu({ bookId, chapterIndex }: HighlightMenuProps) {
     setPosition(null)
   }, [selectedText, bookId, chapterIndex])
 
-  const handleBookmark = useCallback(() => {
-    if (!selectedText) return
-    const bookmarks = JSON.parse(
-      localStorage.getItem(`tome-bookmarks-${bookId}`) ?? "[]"
-    )
-    bookmarks.push({
-      text: selectedText.slice(0, 100),
-      chapter: chapterIndex,
-      timestamp: new Date().toISOString(),
-    })
-    localStorage.setItem(
-      `tome-bookmarks-${bookId}`,
-      JSON.stringify(bookmarks)
-    )
-    window.getSelection()?.removeAllRanges()
-    setPosition(null)
-  }, [selectedText, bookId, chapterIndex])
+  const handleColorBookmark = useCallback(
+    (color: BookmarkColor) => {
+      if (!selectedText) return
+      saveColorBookmark({
+        bookId,
+        bookTitle,
+        chapterId,
+        chapterNumber: chapterIndex,
+        chapterTitle,
+        paragraphIndex: 0,
+        selectedText,
+        color,
+      })
+      window.getSelection()?.removeAllRanges()
+      setPosition(null)
+      toast("Bookmark saved", { duration: 2000 })
+      onBookmarkAdded?.()
+    },
+    [selectedText, bookId, bookTitle, chapterId, chapterIndex, chapterTitle, onBookmarkAdded]
+  )
 
   return (
     <AnimatePresence>
@@ -113,11 +186,16 @@ export function HighlightMenu({ bookId, chapterIndex }: HighlightMenuProps) {
               setPosition(null)
             }}
           />
-          <MenuButton
-            icon={<Bookmark className="size-3.5" />}
-            label="Bookmark"
-            onClick={handleBookmark}
-          />
+          <div className="h-4 w-px bg-white/20 mx-0.5" />
+          {COLORS.map((color) => (
+            <button
+              key={color}
+              onClick={() => handleColorBookmark(color)}
+              className="size-[22px] rounded-full border-2 border-white/30 transition-transform hover:scale-110 active:scale-95"
+              style={{ backgroundColor: COLOR_HEX[color] }}
+              title={`Bookmark (${color})`}
+            />
+          ))}
         </motion.div>
       )}
     </AnimatePresence>

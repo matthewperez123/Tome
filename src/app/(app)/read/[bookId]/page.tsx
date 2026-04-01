@@ -18,7 +18,7 @@
 import { useEffect, useState, useRef, useCallback } from "react"
 import { useParams, useRouter } from "next/navigation"
 import { AnimatePresence, motion } from "framer-motion"
-import { MessageSquare, BookCheck } from "lucide-react"
+import { MessageSquare, BookCheck, Bookmark } from "lucide-react"
 import { toast } from "sonner"
 import { supabase } from "@/lib/supabase"
 import type { Book } from "@/lib/supabase"
@@ -33,6 +33,7 @@ import { Skeleton } from "@/components/ui/skeleton"
 import { ChapterSidebar } from "./chapter-sidebar"
 import { HighlightMenu } from "./highlight-menu"
 import { AnnotationSidebar } from "./annotation-sidebar"
+import { BookmarkPanel } from "./bookmark-panel"
 import { ReaderSettings, type ReaderTheme, type ReaderLayout, type FontSize } from "./reader-settings"
 import { WordTooltipProvider } from "./word-tooltip"
 import { useBookProgress } from "@/components/tome/book-progress-provider"
@@ -83,6 +84,7 @@ export default function ReaderPage() {
   const [currentChapter, setCurrentChapter] = useState(0)
   const [sidebarOpen, setSidebarOpen] = useState(true)
   const [annotationOpen, setAnnotationOpen] = useState(false)
+  const [bookmarkOpen, setBookmarkOpen] = useState(false)
   const [theme, setTheme]             = useState<ReaderTheme>("light")
   const [viewMode, setViewMode]       = useState<ReaderLayout>("scroll")
   const [fontSize, setFontSize]       = useState<FontSize>(18)
@@ -556,6 +558,14 @@ export default function ReaderPage() {
               >
                 <MessageSquare className="size-3.5" />
               </button>
+              <button
+                onClick={() => setBookmarkOpen(!bookmarkOpen)}
+                className="flex size-7 items-center justify-center rounded-md transition-colors hover:opacity-70"
+                style={{ color: t.muted }}
+                aria-label="Bookmarks"
+              >
+                <Bookmark className="size-3.5" />
+              </button>
               <ReaderSettings
                 theme={theme}
                 layout={viewMode}
@@ -700,8 +710,23 @@ export default function ReaderPage() {
           onClose={() => setAnnotationOpen(false)}
         />
 
+        {/* Bookmark Panel */}
+        <BookmarkPanel
+          bookId={bookId}
+          bookTitle={book.title}
+          isOpen={bookmarkOpen}
+          onClose={() => setBookmarkOpen(false)}
+        />
+
         {/* Highlight Menu */}
-        <HighlightMenu bookId={bookId} chapterIndex={currentChapter} />
+        <HighlightMenu
+          bookId={bookId}
+          bookTitle={book.title}
+          chapterId={chapter.id}
+          chapterIndex={currentChapter}
+          chapterTitle={chapter.title}
+          onBookmarkAdded={() => setBookmarkOpen(true)}
+        />
       </div>
     </WordTooltipProvider>
   )
