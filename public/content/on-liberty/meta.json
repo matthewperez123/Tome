@@ -1,0 +1,46 @@
+{
+  "bookId": "on-liberty",
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "chapterCount": 6,
+  "totalWordCount": 50691,
+  "totalMinutes": 202,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 3988,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "I: Introductory",
+      "wordCount": 5604,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "II: Of the Liberty of Thought and Discussion",
+      "wordCount": 16026,
+      "estimatedMinutes": 64
+    },
+    {
+      "index": 3,
+      "title": "III: Of Individuality, as One of the Elements of Well-Being",
+      "wordCount": 7838,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "IV: Of the Limits to the Authority of Society Over the Individual",
+      "wordCount": 7887,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 5,
+      "title": "V: Applications",
+      "wordCount": 9348,
+      "estimatedMinutes": 37
+    }
+  ]
+}

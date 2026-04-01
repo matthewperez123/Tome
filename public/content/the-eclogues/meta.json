@@ -1,0 +1,70 @@
+{
+  "bookId": "the-eclogues",
+  "title": "The Eclogues",
+  "author": "Virgil",
+  "chapterCount": 10,
+  "totalWordCount": 9686,
+  "totalMinutes": 38,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Pastoral I: Tityrus and Meliboeus",
+      "wordCount": 940,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Pastoral II: Alexis",
+      "wordCount": 844,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Pastoral III: Palaemon",
+      "wordCount": 1466,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "Pastoral IV: Pollio",
+      "wordCount": 598,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "Pastoral V: Daphnis",
+      "wordCount": 1123,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "Pastoral VI: Silenus",
+      "wordCount": 979,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "Pastoral VII: Meliboeus",
+      "wordCount": 786,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "Pastoral VIII: Pharmaceutria",
+      "wordCount": 1259,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "Pastoral IX: Lycidas and Moeris",
+      "wordCount": 774,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "Pastoral X: Gallus",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    }
+  ]
+}

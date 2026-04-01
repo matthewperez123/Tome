@@ -1,0 +1,142 @@
+{
+  "bookId": "clouds-of-witness",
+  "title": "Clouds of Witness",
+  "author": "Dorothy L. Sayers",
+  "chapterCount": 22,
+  "totalWordCount": 83639,
+  "totalMinutes": 337,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 383,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 24,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 112,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Of His Malice Aforethought",
+      "wordCount": 8176,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 4,
+      "title": "II: The Green-Eyed Cat",
+      "wordCount": 7358,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "III: Mudstains and Bloodstains",
+      "wordCount": 7631,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "IV: —And His Daughter Much-Afraid",
+      "wordCount": 5137,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "V: The Rue St. Honoré and the Rue de la Paix",
+      "wordCount": 5223,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "VI: Mary Quite Contrary",
+      "wordCount": 4326,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "VII: The Club and the Bullet",
+      "wordCount": 3915,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "VIII: Mr. Parker Takes Notes",
+      "wordCount": 1246,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "IX: Goyles",
+      "wordCount": 4945,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "X: Nothing Abides at the Noon",
+      "wordCount": 4548,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XI: Meribah",
+      "wordCount": 5244,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XII: The Alibi",
+      "wordCount": 4973,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XIII: Manon",
+      "wordCount": 2539,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Edge of the Axe Towards Him",
+      "wordCount": 5137,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XV: Bar Falling",
+      "wordCount": 1737,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVI: The Second String",
+      "wordCount": 1763,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XVII: The Eloquent Dead",
+      "wordCount": 2330,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Speech for the Defense",
+      "wordCount": 5094,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "XIX: Who Goes Home?",
+      "wordCount": 1798,
+      "estimatedMinutes": 7
+    }
+  ]
+}

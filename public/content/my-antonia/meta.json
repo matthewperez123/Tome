@@ -1,0 +1,316 @@
+{
+  "bookId": "my-antonia",
+  "title": "My Ántonia",
+  "author": "Willa Cather",
+  "chapterCount": 51,
+  "totalWordCount": 81562,
+  "totalMinutes": 329,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1298,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Shimerdas",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1205,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2461,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2023,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 1212,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 1201,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 2117,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 927,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 904,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 2247,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 1171,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 1632,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "Book II: The Hired Girls",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "I",
+      "wordCount": 991,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "II",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "III",
+      "wordCount": 993,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "IV",
+      "wordCount": 2292,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "V",
+      "wordCount": 674,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "VI",
+      "wordCount": 1858,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "VII",
+      "wordCount": 2730,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "VIII",
+      "wordCount": 1015,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "IX",
+      "wordCount": 1536,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "X",
+      "wordCount": 965,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XI",
+      "wordCount": 1120,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XII",
+      "wordCount": 2730,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XIII",
+      "wordCount": 1089,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XIV",
+      "wordCount": 3335,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XV",
+      "wordCount": 1857,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "Book III: Lena Lingard",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "II",
+      "wordCount": 1854,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "III",
+      "wordCount": 1570,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "IV",
+      "wordCount": 3566,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "Book IV: The Pioneer Woman’s Story",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "I",
+      "wordCount": 1311,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "II",
+      "wordCount": 643,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "III",
+      "wordCount": 3039,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 46,
+      "title": "IV",
+      "wordCount": 991,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 47,
+      "title": "Book V: Cuzak’s Boys",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "I",
+      "wordCount": 6115,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 49,
+      "title": "II",
+      "wordCount": 3208,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 50,
+      "title": "III",
+      "wordCount": 981,
+      "estimatedMinutes": 4
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "bookId": "the-history-of-henry-esmond",
+  "title": "The History of Henry Esmond",
+  "author": "William Makepeace Thackeray",
+  "chapterCount": 46,
+  "totalWordCount": 188436,
+  "totalMinutes": 756,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 2140,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Early Youth of Henry Esmond, Up to the Time of His Leaving Trinity College, in Cambridge",
+      "wordCount": 1335,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: An Account of the Family of Esmond of Castlewood Hall",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "II: Relates How Francis, Fourth Viscount, Arrives at Castlewood",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "III: Whither in the Time of Thomas, Third Viscount, I Had Preceded Him as Page to Isabella",
+      "wordCount": 4442,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "IV: I Am Placed Under a Popish Priest and Bred to That Religion—Viscountess Castlewood",
+      "wordCount": 2689,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "V: My Superiors Are Engaged in Plots for the Restoration of King James II",
+      "wordCount": 4540,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VI: The Issue of the Plots—The Death of Thomas, Third Viscount of Castlewood; and the Imprisonment of His Viscountess",
+      "wordCount": 5613,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "VII: I Am Left at Castlewood an Orphan, and Find Most Kind Protectors There",
+      "wordCount": 3396,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII: After Good Fortune Comes Evil",
+      "wordCount": 3699,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "IX: I Have the Smallpox, and Prepare to Leave Castlewood",
+      "wordCount": 7926,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 11,
+      "title": "X: I Go to Cambridge, and Do but Little Good There",
+      "wordCount": 2935,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XI: I Come Home for a Holiday to Castlewood, and Find a Skeleton in the House",
+      "wordCount": 5273,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XII: My Lord Mohun Comes Among Us for No Good",
+      "wordCount": 3918,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII: My Lord Leaves Us and His Evil Behind Him",
+      "wordCount": 5284,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XIV: We Ride After Him to London",
+      "wordCount": 6320,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 16,
+      "title": "Book II: Contains Mr. Esmond’s Military Life, and Other Matters Appertaining to the Esmond Family",
+      "wordCount": 15,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I: I Am in Prison, and Visited, but Not Consoled There",
+      "wordCount": 3958,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "II: I Come to the End of My Captivity, but Not of My Trouble",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "III: I Take the Queen’s Pay in Quin’s Regiment",
+      "wordCount": 3880,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "IV: Recapitulations",
+      "wordCount": 2410,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "V: I Go on the Vigo Bay Expedition, Taste Saltwater and Smell Powder",
+      "wordCount": 4536,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "VI: The 29th December",
+      "wordCount": 2896,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "VII: I Am Made Welcome at Walcote",
+      "wordCount": 3989,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "VIII: Family Talk",
+      "wordCount": 2825,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "IX: I Make the Campaign of 1704",
+      "wordCount": 3781,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "X: An Old Story About a Fool and a Woman",
+      "wordCount": 3784,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XI: The Famous Mr. Joseph Addison",
+      "wordCount": 4532,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 28,
+      "title": "XII: I Get a Company in the Campaign of 1706",
+      "wordCount": 2131,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XIII: I Meet an Old Acquaintance in Flanders, and Find My Mother’s Grave and My Own Cradle There",
+      "wordCount": 5070,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 30,
+      "title": "XIV: The Campaign of 1707, 1708",
+      "wordCount": 3168,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "XV: General Webb Wins the Battle of Wynendael",
+      "wordCount": 10381,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 32,
+      "title": "Book III: Containing the End of Mr. Esmond’s Adventures in England",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "I: I Come to an End of My Battles and Bruises",
+      "wordCount": 5632,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 34,
+      "title": "II: I Go Home, and Harp on the Old String",
+      "wordCount": 5872,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 35,
+      "title": "III: A Paper Out of the Spectator",
+      "wordCount": 7838,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 36,
+      "title": "IV: Beatrix’s New Suitor",
+      "wordCount": 4265,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "V: Mohun Appears for the Last Time in This History",
+      "wordCount": 5622,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 38,
+      "title": "VI: Poor Beatrix",
+      "wordCount": 2334,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 39,
+      "title": "VII: I Visit Castlewood Once More",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 40,
+      "title": "VIII: I Travel to France and Bring Home a Portrait of Rigaud",
+      "wordCount": 4040,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 41,
+      "title": "IX: The Original of the Portrait Comes to England",
+      "wordCount": 5620,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 42,
+      "title": "X: We Entertain a Very Distinguished Guest at Kensington",
+      "wordCount": 5609,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 43,
+      "title": "XI: Our Guest Quits Us as Not Being Hospitable Enough",
+      "wordCount": 3990,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 44,
+      "title": "XII: A Great Scheme, and Who Balked It",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 45,
+      "title": "XIII: August 1st, 1714",
+      "wordCount": 5392,
+      "estimatedMinutes": 22
+    }
+  ]
+}

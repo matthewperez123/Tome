@@ -1,0 +1,88 @@
+{
+  "bookId": "his-masterpiece",
+  "title": "His Masterpiece",
+  "author": "Émile Zola",
+  "chapterCount": 13,
+  "totalWordCount": 144814,
+  "totalMinutes": 579,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1709,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 8613,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 10751,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 13114,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 10987,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 10305,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 10493,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 13260,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 11823,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 13917,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 17377,
+      "estimatedMinutes": 70
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 14084,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 8381,
+      "estimatedMinutes": 34
+    }
+  ]
+}

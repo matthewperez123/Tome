@@ -1,0 +1,154 @@
+{
+  "bookId": "persuasion",
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "chapterCount": 24,
+  "totalWordCount": 83391,
+  "totalMinutes": 331,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2621,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1973,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2847,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3304,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3438,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3357,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2868,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3858,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3003,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 2412,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 4074,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2391,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 3501,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 6998,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 5878,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 6586,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 1577,
+      "estimatedMinutes": 6
+    }
+  ]
+}

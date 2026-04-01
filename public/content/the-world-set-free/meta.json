@@ -1,0 +1,58 @@
+{
+  "bookId": "the-world-set-free",
+  "title": "The World Set Free: A Story of Mankind",
+  "author": "H. G. Wells",
+  "chapterCount": 8,
+  "totalWordCount": 65783,
+  "totalMinutes": 263,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 417,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1047,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Prelude",
+      "wordCount": 6341,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "I: The New Source of Energy",
+      "wordCount": 10371,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 4,
+      "title": "II: The Last War",
+      "wordCount": 13166,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 5,
+      "title": "III: The Ending of War",
+      "wordCount": 13016,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 6,
+      "title": "IV: The New Phase",
+      "wordCount": 11738,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 7,
+      "title": "V: The Last Days of Marcus Karenin",
+      "wordCount": 9687,
+      "estimatedMinutes": 39
+    }
+  ]
+}

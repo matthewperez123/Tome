@@ -1,0 +1,52 @@
+{
+  "bookId": "richard-ii",
+  "title": "Richard II",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 23816,
+  "totalMinutes": 95,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 431,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 145,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 5370,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 5387,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4872,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 2814,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4797,
+      "estimatedMinutes": 19
+    }
+  ]
+}

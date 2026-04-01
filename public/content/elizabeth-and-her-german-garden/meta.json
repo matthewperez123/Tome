@@ -1,0 +1,112 @@
+{
+  "bookId": "elizabeth-and-her-german-garden",
+  "title": "Elizabeth and Her German Garden",
+  "author": "Elizabeth von Arnim",
+  "chapterCount": 17,
+  "totalWordCount": 48291,
+  "totalMinutes": 193,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "May 7th",
+      "wordCount": 2959,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "May 10th",
+      "wordCount": 1018,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "May 14th",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "May 15th",
+      "wordCount": 361,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "May 16th",
+      "wordCount": 1840,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "June 3rd",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "July 11th",
+      "wordCount": 2094,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "September 15th",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "November 11th",
+      "wordCount": 10021,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 9,
+      "title": "November 20th",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "December 7th",
+      "wordCount": 1887,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "December 22nd",
+      "wordCount": 3877,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "December 27th",
+      "wordCount": 2237,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "January 1st",
+      "wordCount": 4579,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "January 15th",
+      "wordCount": 3345,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "January 28th",
+      "wordCount": 5239,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "April 18th",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    }
+  ]
+}

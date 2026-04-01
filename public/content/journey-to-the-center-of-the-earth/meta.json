@@ -1,0 +1,280 @@
+{
+  "bookId": "journey-to-the-center-of-the-earth",
+  "title": "Journey to the Center of the Earth",
+  "author": "Jules Verne",
+  "chapterCount": 45,
+  "totalWordCount": 72412,
+  "totalMinutes": 291,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Professor and His Family",
+      "wordCount": 1443,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: A Mystery to Be Solved at Any Price",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "III: The Runic Writing Exercises the Professor",
+      "wordCount": 1959,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: The Enemy to Be Starved Into Submission",
+      "wordCount": 1279,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "V: Famine, Then Victory, Followed by Dismay",
+      "wordCount": 1697,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: Exciting Discussions About an Unparalleled Enterprise",
+      "wordCount": 2509,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: A Woman’s Courage",
+      "wordCount": 1864,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Serious Preparations for Vertical Descent",
+      "wordCount": 2049,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: Iceland! But What Next?",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X: Interesting Conversations with Icelandic Savants",
+      "wordCount": 1377,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: A Guide Found to the Centre of the Earth",
+      "wordCount": 1772,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: A Barren Land",
+      "wordCount": 1654,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Hospitality Under the Arctic Circle",
+      "wordCount": 1742,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: But Arctics Can Be Inhospitable, Too",
+      "wordCount": 1867,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: Snæfells at Last",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: Boldly Down the Crater",
+      "wordCount": 1763,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: Vertical Descent",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Wonders of Terrestrial Depths",
+      "wordCount": 1564,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX: Geological Studies In Situ",
+      "wordCount": 1400,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XX: The First Signs of Distress",
+      "wordCount": 1422,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI: Compassion Fuses the Professor’s Heart",
+      "wordCount": 1328,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXII: Total Failure of Water",
+      "wordCount": 929,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Water Discovered",
+      "wordCount": 1552,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Well Said, Old Mole! Canst Thou Work i’ the Ground So Fast?",
+      "wordCount": 1153,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV: De Profundis",
+      "wordCount": 1281,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Worst Peril of All",
+      "wordCount": 826,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Lost in the Bowels of the Earth",
+      "wordCount": 1137,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Rescue in the Whispering Gallery",
+      "wordCount": 1449,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Thalatta! Thalatta!",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXX: A New Mare Internum",
+      "wordCount": 2292,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Preparations for a Voyage of Discovery",
+      "wordCount": 1243,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Wonders of the Deep",
+      "wordCount": 2055,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: A Battle of Monsters",
+      "wordCount": 2048,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: The Great Geyser",
+      "wordCount": 1418,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XXXV: An Electric Storm",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Calm Philosophic Discussions",
+      "wordCount": 1721,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Liedenbrock Museum of Geology",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: The Professor in His Chair Again",
+      "wordCount": 1773,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Forest Scenery Illuminated by Electricity",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "XL: Preparations for Blasting a Passage to the Centre of the Earth",
+      "wordCount": 1564,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XLI: The Great Explosion and the Rush Down Below",
+      "wordCount": 1593,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "XLII: Headlong Speed Upward Through the Horrors of Darkness",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 42,
+      "title": "XLIII: Shot Out of a Volcano at Last!",
+      "wordCount": 1906,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 43,
+      "title": "XLIV: Sunny Lands in the Blue Mediterranean",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 44,
+      "title": "XLV: All’s Well That Ends Well",
+      "wordCount": 1126,
+      "estimatedMinutes": 5
+    }
+  ]
+}

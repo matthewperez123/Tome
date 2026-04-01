@@ -1,0 +1,82 @@
+{
+  "bookId": "the-wind-in-the-willows",
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "chapterCount": 12,
+  "totalWordCount": 58893,
+  "totalMinutes": 235,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The River Bank",
+      "wordCount": 4363,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 1,
+      "title": "II: The Open Road",
+      "wordCount": 4294,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: The Wild Wood",
+      "wordCount": 4447,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "IV: Mr. Badger",
+      "wordCount": 4717,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "V: Dulce Domum",
+      "wordCount": 5292,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: Mr. Toad",
+      "wordCount": 4475,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VII: The Piper at the Gates of Dawn",
+      "wordCount": 3786,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: Toad’s Adventures",
+      "wordCount": 4814,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: Wayfarers All",
+      "wordCount": 5896,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 9,
+      "title": "X: The Further Adventures of Toad",
+      "wordCount": 5948,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "XI: “Like Summer Tempests Came His Tears”",
+      "wordCount": 6076,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "XII: The Return of Ulysses",
+      "wordCount": 4785,
+      "estimatedMinutes": 19
+    }
+  ]
+}

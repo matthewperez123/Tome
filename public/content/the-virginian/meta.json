@@ -1,0 +1,232 @@
+{
+  "bookId": "the-virginian",
+  "title": "The Virginian: A Horseman of the Plains",
+  "author": "Owen Wister",
+  "chapterCount": 37,
+  "totalWordCount": 129979,
+  "totalMinutes": 519,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To the Reader",
+      "wordCount": 882,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "I: Enter the Man",
+      "wordCount": 1902,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: “When You Call Me That, Smile!”",
+      "wordCount": 5494,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "III: Steve Treats",
+      "wordCount": 3009,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: Deep Into Cattle Land",
+      "wordCount": 4302,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "V: Enter the Woman",
+      "wordCount": 1179,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI: Em’ly",
+      "wordCount": 5101,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: Through Two Snows",
+      "wordCount": 1075,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Sincere Spinster",
+      "wordCount": 1471,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "IX: The Spinster Meets the Unknown",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X: Where Fancy Was Bred",
+      "wordCount": 3835,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI: “You’re Going to Love Me Before We Get Through”",
+      "wordCount": 3489,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: Quality and Equality",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Game and the Nation—Act First",
+      "wordCount": 2506,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: Between the Acts",
+      "wordCount": 1858,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV: The Game and the Nation—Act Second",
+      "wordCount": 2180,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Game and the Nation—Last Act",
+      "wordCount": 7176,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 17,
+      "title": "XVII: Scipio Moralizes",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII: “Would You Be a Parson?”",
+      "wordCount": 2924,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: Dr. Macbride Begs Pardon",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XX: The Judge Ignores Particulars",
+      "wordCount": 1480,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXI: In a State of Sin",
+      "wordCount": 4531,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "XXII: “What Is a Rustler?”",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Various Points",
+      "wordCount": 2836,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIV: A Letter with a Moral",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXV: Progress of the Lost Dog",
+      "wordCount": 4204,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Balaam and Pedro",
+      "wordCount": 5716,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Grandmother Stark",
+      "wordCount": 9912,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: No Dream to Wake from",
+      "wordCount": 639,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Word to Bennington",
+      "wordCount": 4527,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "XXX: A Stable on the Flat",
+      "wordCount": 4111,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Cottonwoods",
+      "wordCount": 3100,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Superstition Trail",
+      "wordCount": 5550,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Spinster Loses Some Sleep",
+      "wordCount": 3935,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: To Fit Her Finger",
+      "wordCount": 1746,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XXXV: With Malice Aforethought",
+      "wordCount": 10089,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: At Dunbarton",
+      "wordCount": 5970,
+      "estimatedMinutes": 24
+    }
+  ]
+}

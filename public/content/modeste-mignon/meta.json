@@ -1,0 +1,16 @@
+{
+  "bookId": "modeste-mignon",
+  "title": "Modeste Mignon",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 93897,
+  "totalMinutes": 376,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Modeste Mignon",
+      "wordCount": 93897,
+      "estimatedMinutes": 376
+    }
+  ]
+}

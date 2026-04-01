@@ -1,0 +1,190 @@
+{
+  "bookId": "the-blithedale-romance",
+  "title": "The Blithedale Romance",
+  "author": "Nathaniel Hawthorne",
+  "chapterCount": 30,
+  "totalWordCount": 77028,
+  "totalMinutes": 308,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 749,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: Old Moodie",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "II: Blithedale",
+      "wordCount": 1585,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "III: A Knot of Dreamers",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Supper-Table",
+      "wordCount": 2652,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Until Bedtime",
+      "wordCount": 2190,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VI: Coverdale’s Sick-Chamber",
+      "wordCount": 3275,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: The Convalescent",
+      "wordCount": 2720,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII: A Modern Arcadia",
+      "wordCount": 3768,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: Hollingsworth, Zenobia, Priscilla",
+      "wordCount": 4113,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: A Visitor from Town",
+      "wordCount": 2456,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XI: The Wood-Path",
+      "wordCount": 2887,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: Coverdale’s Hermitage",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: Zenobia’s Legend",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Eliot’s Pulpit",
+      "wordCount": 3567,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: A Crisis",
+      "wordCount": 2738,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: Leave-Takings",
+      "wordCount": 2513,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Hotel",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Boardinghouse",
+      "wordCount": 2095,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XIX: Zenobia’s Drawing-Room",
+      "wordCount": 2600,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: They Vanish",
+      "wordCount": 1636,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI: An Old Acquaintance",
+      "wordCount": 2404,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXII: Fauntleroy",
+      "wordCount": 3719,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIII: A Village Hall",
+      "wordCount": 3141,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Masqueraders",
+      "wordCount": 2866,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Three Together",
+      "wordCount": 2734,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Zenobia and Coverdale",
+      "wordCount": 2253,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Midnight",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Blithedale Pasture",
+      "wordCount": 2086,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Miles Coverdale’s Confession",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    }
+  ]
+}

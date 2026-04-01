@@ -1,0 +1,118 @@
+{
+  "bookId": "murder-in-the-maze",
+  "title": "Murder in the Maze",
+  "author": "J. J. Connington",
+  "chapterCount": 18,
+  "totalWordCount": 78187,
+  "totalMinutes": 312,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Hackleton Case",
+      "wordCount": 5867,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 1,
+      "title": "II: The Affair in the Maze",
+      "wordCount": 5180,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III: The Immediate Results",
+      "wordCount": 2935,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "IV: The Chief Constable",
+      "wordCount": 3471,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V: The Evidence in the Case",
+      "wordCount": 5014,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "VI: The Toxicologist",
+      "wordCount": 3319,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII: The Pot of Curare",
+      "wordCount": 3545,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: Opportunity, Method, and Motive",
+      "wordCount": 3025,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX: The Burglary at Whistlefield",
+      "wordCount": 4150,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "X: The Third Attack in the Maze",
+      "wordCount": 3941,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "XI: The Squire’s Theories",
+      "wordCount": 5788,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "XII: The Fourth Attack",
+      "wordCount": 5343,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Dart",
+      "wordCount": 4564,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Forged Cheque",
+      "wordCount": 2229,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: The Secretary’s Affairs",
+      "wordCount": 2685,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Last Attack in the Maze",
+      "wordCount": 4180,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Siege in the Maze",
+      "wordCount": 4873,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Truth of the Matter",
+      "wordCount": 8078,
+      "estimatedMinutes": 32
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "bookId": "the-rubaiyat-of-omar-khayyam",
+  "title": "The Rubáiyát of Omar Khayyám",
+  "author": "Omar Khayyám",
+  "chapterCount": 3,
+  "totalWordCount": 7397,
+  "totalMinutes": 30,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 407,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Omar Khayyám, the Astronomer-Poet of Persia",
+      "wordCount": 3719,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "Chapter 3",
+      "wordCount": 3271,
+      "estimatedMinutes": 13
+    }
+  ]
+}

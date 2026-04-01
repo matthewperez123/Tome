@@ -1,0 +1,52 @@
+{
+  "bookId": "lost-face",
+  "title": "Lost Face",
+  "author": "Jack London",
+  "chapterCount": 7,
+  "totalWordCount": 41109,
+  "totalMinutes": 165,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Lost Face",
+      "wordCount": 4670,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "Trust",
+      "wordCount": 5005,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "To Build a Fire",
+      "wordCount": 7101,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 3,
+      "title": "That Spot",
+      "wordCount": 4127,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "Flush of Gold",
+      "wordCount": 6310,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 5,
+      "title": "The Passing of Marcus O’Brien",
+      "wordCount": 5021,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "The Wit of Porportuk",
+      "wordCount": 8875,
+      "estimatedMinutes": 36
+    }
+  ]
+}

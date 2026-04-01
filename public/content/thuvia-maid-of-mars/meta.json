@@ -1,0 +1,94 @@
+{
+  "bookId": "thuvia-maid-of-mars",
+  "title": "Thuvia, Maid of Mars",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 14,
+  "totalWordCount": 45518,
+  "totalMinutes": 181,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Carthoris and Thuvia",
+      "wordCount": 3594,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: Slavery",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III: Treachery",
+      "wordCount": 1784,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: A Green Man’s Captive",
+      "wordCount": 3327,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Fair Race",
+      "wordCount": 4325,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: The Jeddak of Lothar",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: The Phantom Bowmen",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Hall of Doom",
+      "wordCount": 3273,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: The Battle in the Plain",
+      "wordCount": 2873,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "X: Kar Komak, the Bowman",
+      "wordCount": 3194,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: Green Men and White Apes",
+      "wordCount": 3827,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XII: To Save Dusar",
+      "wordCount": 2873,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII: Turjun, the Panthan",
+      "wordCount": 3666,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV: Kulan Tith’s Sacrifice",
+      "wordCount": 4013,
+      "estimatedMinutes": 16
+    }
+  ]
+}

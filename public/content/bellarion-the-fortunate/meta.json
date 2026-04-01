@@ -1,0 +1,310 @@
+{
+  "bookId": "bellarion-the-fortunate",
+  "title": "Bellarion the Fortunate",
+  "author": "Rafael Sabatini",
+  "chapterCount": 50,
+  "totalWordCount": 141224,
+  "totalMinutes": 566,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Threshold",
+      "wordCount": 3458,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: The Grey Friar",
+      "wordCount": 3841,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: The Door Ajar",
+      "wordCount": 4082,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "IV: Sanctuary",
+      "wordCount": 2768,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: The Princess",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: The Winds of Fate",
+      "wordCount": 3266,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: Service",
+      "wordCount": 3374,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Stalemate",
+      "wordCount": 2171,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "IX: The Marquis Theodore",
+      "wordCount": 1785,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "X: The Warning",
+      "wordCount": 2766,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI: Under Suspicion",
+      "wordCount": 2347,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: Count Spigno",
+      "wordCount": 2030,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Trial",
+      "wordCount": 3415,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Evasion",
+      "wordCount": 1408,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: The Miracle of the Dogs",
+      "wordCount": 4157,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "II: Facino Cane",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "III: The Countess of Biandrate",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "IV: The Champion",
+      "wordCount": 2580,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "V: The Commune of Milan",
+      "wordCount": 3195,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "VI: The Fruitless Wooing",
+      "wordCount": 2055,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "VII: Manoeuvres",
+      "wordCount": 4120,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "VIII: The Battle of Travo",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "IX: De Mortuis",
+      "wordCount": 2226,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "X: The Knight Bellarion",
+      "wordCount": 4087,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XI: The Siege of Alessandria",
+      "wordCount": 3905,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XII: Visconti Faith",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XIII: The Victuallers",
+      "wordCount": 2831,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "XIV: The Muleteer",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XV: The Camisade",
+      "wordCount": 1631,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XVI: Severance",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XVII: The Return",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XVIII: The Hostage",
+      "wordCount": 3900,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "I: The Lord Bellarion",
+      "wordCount": 3088,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "II: The Battle of Novi",
+      "wordCount": 3313,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 37,
+      "title": "III: Facino’s Return",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "IV: The Count of Pavia",
+      "wordCount": 3589,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 39,
+      "title": "V: Justice",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 40,
+      "title": "VI: The Inheritance",
+      "wordCount": 3166,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "VII: Prince of Valsassina",
+      "wordCount": 3935,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "VIII: Carmagnola’s Bridges",
+      "wordCount": 3795,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "IX: Vercelli",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "X: The Arrest",
+      "wordCount": 3460,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XI: The Pledge",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XII: Carmagnola’s Duty",
+      "wordCount": 3865,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "XIII: The Occupation of Casale",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 48,
+      "title": "XIV: The Vanquished",
+      "wordCount": 2374,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XV: The Last Fight",
+      "wordCount": 1444,
+      "estimatedMinutes": 6
+    }
+  ]
+}

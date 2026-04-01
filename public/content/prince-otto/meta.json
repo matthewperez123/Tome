@@ -1,0 +1,166 @@
+{
+  "bookId": "prince-otto",
+  "title": "Prince Otto: A Romance",
+  "author": "Robert Louis Stevenson",
+  "chapterCount": 26,
+  "totalWordCount": 61818,
+  "totalMinutes": 250,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: Prince Errant",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: In Which the Prince Departs on an Adventure",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "II: In Which the Prince Plays Haroun-al-Raschid",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: In Which the Prince Comforts Age and Beauty and Delivers a Lecture on Discretion in Love",
+      "wordCount": 3502,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: In Which the Prince Collects Opinions by the Way",
+      "wordCount": 3997,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "Book II: Of Love and Politics",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "I: What Happened in the Library",
+      "wordCount": 3319,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "II: “On the Court of Grünewald,” Being a Portion of the Traveller’s Manuscript",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "III: The Prince and the English Traveller",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "IV: While the Prince Is in the Anteroom …",
+      "wordCount": 1623,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "V: … Gondremark Is in My Lady’s Chamber",
+      "wordCount": 2124,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "VI: The Prince Delivers a Lecture on Marriage, with Practical Illustrations of Divorce",
+      "wordCount": 2761,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "VII: The Prince Dissolves the Council",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "VIII: The Party of War Takes Action",
+      "wordCount": 2126,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "IX: The Price of the River Farm; in Which Vainglory Goes Before a Fall",
+      "wordCount": 3711,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "X: Gotthold’s Revised Opinion; and the Fall Completed",
+      "wordCount": 2743,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XI: Providence von Rosen: Act the First",
+      "wordCount": 2019,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XII: Providence von Rosen: Act the Second",
+      "wordCount": 3325,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIII: Providence von Rosen: Act the Third",
+      "wordCount": 2226,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XIV: Relates the Cause and Outbreak of the Revolution",
+      "wordCount": 3186,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "Book III: Fortunate Misfortune",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I: Princess Cinderella",
+      "wordCount": 5629,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "II: Treats of a Christian Virtue",
+      "wordCount": 1765,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "III: Providence von Rosen: Act the Last",
+      "wordCount": 2716,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "IV: Babes in the Wood",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "Bibliographical Postscript to Complete the Story",
+      "wordCount": 765,
+      "estimatedMinutes": 3
+    }
+  ]
+}

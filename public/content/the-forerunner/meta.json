@@ -1,0 +1,160 @@
+{
+  "bookId": "the-forerunner",
+  "title": "The Forerunner: His Parables and Poems",
+  "author": "Khalil Gibran",
+  "chapterCount": 25,
+  "totalWordCount": 6887,
+  "totalMinutes": 35,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 289,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "God’s Fool",
+      "wordCount": 777,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Love",
+      "wordCount": 126,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "The King-Hermit",
+      "wordCount": 682,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "The Lion’s Daughter",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 5,
+      "title": "Tyranny",
+      "wordCount": 82,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "The Saint",
+      "wordCount": 253,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "The Plutocrat",
+      "wordCount": 90,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "The Greater Self",
+      "wordCount": 265,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "War and the Small Nations",
+      "wordCount": 133,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "Critics",
+      "wordCount": 210,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "Poets",
+      "wordCount": 220,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "The Weather-Cock",
+      "wordCount": 41,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "The King of Aradus",
+      "wordCount": 100,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "Out of My Deeper Heart",
+      "wordCount": 185,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Dynasties",
+      "wordCount": 395,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "Knowledge and Half-Knowledge",
+      "wordCount": 266,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "“Said a Sheet of Snow-White Paper …”",
+      "wordCount": 99,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "The Scholar and the Poet",
+      "wordCount": 364,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "Values",
+      "wordCount": 138,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "Other Seas",
+      "wordCount": 67,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "Repentance",
+      "wordCount": 52,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "The Dying Man and the Vulture",
+      "wordCount": 240,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "Beyond My Solitude",
+      "wordCount": 223,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "The Last Watch",
+      "wordCount": 1158,
+      "estimatedMinutes": 5
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "bookId": "the-importance-of-being-earnest",
+  "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+  "author": "Oscar Wilde",
+  "chapterCount": 5,
+  "totalWordCount": 20643,
+  "totalMinutes": 84,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 26,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Scenes of the Play",
+      "wordCount": 37,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 7294,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 8663,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4623,
+      "estimatedMinutes": 18
+    }
+  ]
+}

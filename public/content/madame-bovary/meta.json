@@ -1,0 +1,238 @@
+{
+  "bookId": "madame-bovary",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "chapterCount": 38,
+  "totalWordCount": 115971,
+  "totalMinutes": 466,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2979,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2073,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1944,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1799,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3486,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4057,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I",
+      "wordCount": 3458,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "II",
+      "wordCount": 2259,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "III",
+      "wordCount": 3894,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "IV",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "V",
+      "wordCount": 3044,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "VI",
+      "wordCount": 4184,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "VII",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "VIII",
+      "wordCount": 7696,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 19,
+      "title": "IX",
+      "wordCount": 3345,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "X",
+      "wordCount": 2954,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XI",
+      "wordCount": 4329,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XII",
+      "wordCount": 4618,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XIII",
+      "wordCount": 3325,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XIV",
+      "wordCount": 3689,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XV",
+      "wordCount": 2935,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "I",
+      "wordCount": 4842,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "II",
+      "wordCount": 3241,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "III",
+      "wordCount": 693,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "IV",
+      "wordCount": 994,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "V",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 32,
+      "title": "VI",
+      "wordCount": 5575,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "VII",
+      "wordCount": 4361,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 34,
+      "title": "VIII",
+      "wordCount": 5774,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 35,
+      "title": "IX",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "X",
+      "wordCount": 2000,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XI",
+      "wordCount": 3077,
+      "estimatedMinutes": 12
+    }
+  ]
+}

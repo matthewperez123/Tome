@@ -1,0 +1,3256 @@
+{
+  "bookId": "clarissa",
+  "title": "Clarissa: Or, the History of a Young Lady",
+  "author": "Samuel Richardson",
+  "chapterCount": 541,
+  "totalWordCount": 936799,
+  "totalMinutes": 3756,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1563,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Letter 1: Miss Anna Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1010,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "Letter 2: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2188,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "Letter 3: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "Letter 4: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3487,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "Letter 5: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1056,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "Letter 6: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1519,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "Letter 7: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1973,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "Letter 8: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2212,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "Letter 9: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "Letter 10: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 3035,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "Letter 11: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 980,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "Letter 12: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "Letter 13: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4434,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "Letter 14: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 577,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "Letter 15: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1754,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "Letter 16: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4326,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "Letter 17: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 5132,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "Letter 18: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1087,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "Letter 19: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "Letter 20: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3992,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "Letter 21: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "Letter 22: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1294,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "Letter 23: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 766,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "Letter 24: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 593,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "Letter 25: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2530,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "Letter 26: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1430,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "Letter 27: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 29,
+      "title": "Letter 28: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "Letter 29: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2780,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "Letter 30: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1012,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "Letter 31: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3597,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "Letter 32: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 6654,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 34,
+      "title": "Letter 33: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "Letter 34: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "Letter 35: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1070,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "Letter 36: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4794,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "Letter 37: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "Letter 38: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 738,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "Letter 39: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3002,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "Letter 40: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4104,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "Letter 41: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2460,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "Letter 42: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4515,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 44,
+      "title": "Letter 43: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "Letter 44: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2229,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 46,
+      "title": "Letter 45: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2783,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "Letter 46: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 48,
+      "title": "Letter 47: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2001,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "Letter 48: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1015,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 50,
+      "title": "Letter 49: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 51,
+      "title": "Letter 50: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 52,
+      "title": "Letter 51: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 53,
+      "title": "Letter 52: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1432,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 54,
+      "title": "Letter 53: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2956,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 55,
+      "title": "Letter 54: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "Letter 55: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 57,
+      "title": "Letter 56: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1804,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 58,
+      "title": "Letter 57: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2551,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "Letter 58: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 3041,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 60,
+      "title": "Letter 59: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1906,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "Letter 60: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1856,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 62,
+      "title": "Letter 61: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2610,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 63,
+      "title": "Letter 62: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1813,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 64,
+      "title": "Letter 63: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3760,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "Letter 64: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 66,
+      "title": "Letter 65: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2232,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 67,
+      "title": "Letter 66: Mr. Hickman, to Mrs. Howe",
+      "wordCount": 545,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 68,
+      "title": "Letter 67: Mrs. Howe, to Charles Hickman, Esq.",
+      "wordCount": 984,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 69,
+      "title": "Letter 68: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 70,
+      "title": "Letter 69: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2847,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 71,
+      "title": "Letter 70: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 621,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 72,
+      "title": "Letter 71: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 709,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 73,
+      "title": "Letter 72: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 574,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 74,
+      "title": "Letter 73: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2422,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 75,
+      "title": "Letter 74: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1186,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 76,
+      "title": "Letter 75: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2488,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 77,
+      "title": "Letter 76: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 78,
+      "title": "Letter 77: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 79,
+      "title": "Letter 78: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 11821,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 80,
+      "title": "Letter 79: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2671,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 81,
+      "title": "Letter 80: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2606,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 82,
+      "title": "Letter 81: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1884,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "Letter 82: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2846,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 84,
+      "title": "Letter 83: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3618,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 85,
+      "title": "Letter 84: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 86,
+      "title": "Letter 85: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3079,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 87,
+      "title": "Letter 86: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 88,
+      "title": "Letter 87: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 89,
+      "title": "Letter 88: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1103,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 90,
+      "title": "Letter 89: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2372,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 91,
+      "title": "Letter 90: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 92,
+      "title": "Letter 91: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2546,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 93,
+      "title": "Letter 92: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 94,
+      "title": "Letter 93: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 490,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 95,
+      "title": "Letter 94: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 6962,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 96,
+      "title": "Letter 95: Mr. Lovelace, to Joseph Leman",
+      "wordCount": 1509,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 97,
+      "title": "Letter 96: To Robert Lovelace, Esquier, His Honner",
+      "wordCount": 643,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 98,
+      "title": "Letter 97: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 576,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 99,
+      "title": "Letter 98: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 7138,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 100,
+      "title": "Letter 99: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 101,
+      "title": "Letter 100: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 3349,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 102,
+      "title": "Letter 101: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1462,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 103,
+      "title": "Letter 102: To Miss Arabella Harlowe",
+      "wordCount": 324,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 104,
+      "title": "Letter 103: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2156,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 105,
+      "title": "Letter 104: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 783,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 106,
+      "title": "Letter 105: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1364,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 107,
+      "title": "Letter 106: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 108,
+      "title": "Letter 107: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1906,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 109,
+      "title": "Letter 108: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1462,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 110,
+      "title": "Letter 109: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1115,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 111,
+      "title": "Letter 110: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 112,
+      "title": "Letter 111: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1141,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 113,
+      "title": "Letter 112: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 904,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 114,
+      "title": "Letter 113: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 115,
+      "title": "Letter 114: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 407,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 116,
+      "title": "Letter 115: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 874,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 117,
+      "title": "Letter 116: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3344,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 118,
+      "title": "Letter 117: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1428,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 119,
+      "title": "Letter 118: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 120,
+      "title": "Letter 119: Miss Howe, to Mis Clarissa Harlowe",
+      "wordCount": 750,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 121,
+      "title": "Letter 120: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 122,
+      "title": "Letter 121: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3365,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 123,
+      "title": "Letter 122: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 124,
+      "title": "Letter 123: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 125,
+      "title": "Letter 124: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 750,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 126,
+      "title": "Letter 125: Miss Clarissa Harlowe",
+      "wordCount": 1645,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 127,
+      "title": "Letter 126: Miss Clarissa Harlowe",
+      "wordCount": 504,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 128,
+      "title": "Letter 127: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2743,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 129,
+      "title": "Letter 128: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 130,
+      "title": "Letter 129: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 387,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 131,
+      "title": "Letter 130: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1689,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 132,
+      "title": "Letter 131: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1057,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 133,
+      "title": "Letter 132: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 3187,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 134,
+      "title": "Letter 133: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1572,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 135,
+      "title": "Letter 134: Miss Clarissa Harlowe",
+      "wordCount": 727,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 136,
+      "title": "Letter 135: Miss Clarissa Harlowe",
+      "wordCount": 1602,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 137,
+      "title": "Letter 136: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1830,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 138,
+      "title": "Letter 137: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 139,
+      "title": "Letter 138: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1275,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 140,
+      "title": "Letter 139: To Robert Lovelace, Esq. His Honner",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 141,
+      "title": "Letter 140: Mr. Lovelace, to Joseph Leman",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 142,
+      "title": "Letter 141: Miss Clarissa Harlowe, to Mrs. Hervey",
+      "wordCount": 534,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 143,
+      "title": "Letter 142: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 144,
+      "title": "Letter 143: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1900,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 145,
+      "title": "Letter 144: Mrs. Hervey, to Miss Clarissa Harlowe",
+      "wordCount": 1624,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 146,
+      "title": "Letter 145: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1514,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 147,
+      "title": "Letter 146: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 197,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 148,
+      "title": "Letter 147: To Miss Clarissa Harlowe",
+      "wordCount": 775,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 149,
+      "title": "Letter 148: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1293,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 150,
+      "title": "Letter 149: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 974,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 151,
+      "title": "Letter 150: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1022,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 152,
+      "title": "Letter 151: From Miss Howe",
+      "wordCount": 1462,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 153,
+      "title": "Letter 152: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 154,
+      "title": "Letter 153: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 971,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 155,
+      "title": "Letter 154: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 156,
+      "title": "Letter 155: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3661,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 157,
+      "title": "Letter 156: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 464,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 158,
+      "title": "Letter 157: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3630,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 159,
+      "title": "Letter 158: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4470,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 160,
+      "title": "Letter 159: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1894,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 161,
+      "title": "Letter 160: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 679,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 162,
+      "title": "Letter 161: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2383,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 163,
+      "title": "Letter 162: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 792,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 164,
+      "title": "Letter 163: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 503,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 165,
+      "title": "Letter 164: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 918,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 166,
+      "title": "Letter 165: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 498,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 167,
+      "title": "Letter 166: Mr. Hickman, to Miss Clarissa Harlowe",
+      "wordCount": 214,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 168,
+      "title": "Letter 167: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 169,
+      "title": "Letter 168: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 456,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 170,
+      "title": "Letter 169: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 890,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 171,
+      "title": "Letter 170: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 172,
+      "title": "Letter 171: Mr. Lovelace",
+      "wordCount": 1859,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 173,
+      "title": "Letter 172: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 505,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 174,
+      "title": "Letter 173: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 4169,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 175,
+      "title": "Letter 174: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3002,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 176,
+      "title": "Letter 175: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 177,
+      "title": "Letter 176: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 628,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 178,
+      "title": "Letter 177: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 179,
+      "title": "Letter 178: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1059,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 180,
+      "title": "Letter 179: Miss Howe, to Mrs. Judith Norton",
+      "wordCount": 580,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 181,
+      "title": "Letter 180: Mrs. Norton, to Miss Howe",
+      "wordCount": 217,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 182,
+      "title": "Letter 181: Miss Howe, to Mrs. Judith Norton",
+      "wordCount": 220,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 183,
+      "title": "Letter 182: Mrs. Harlowe, to Mrs. Norton",
+      "wordCount": 1646,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 184,
+      "title": "Letter 183: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 2411,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 185,
+      "title": "Letter 184: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1313,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 186,
+      "title": "Letter 185: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3344,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 187,
+      "title": "Letter 186: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1152,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 188,
+      "title": "Letter 187: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3316,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 189,
+      "title": "Letter 188: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 747,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 190,
+      "title": "Letter 189: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1378,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 191,
+      "title": "Letter 190: Lord M. to John Belford, Esq.",
+      "wordCount": 1757,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 192,
+      "title": "Letter 191: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2240,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 193,
+      "title": "Letter 192: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 3054,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 194,
+      "title": "Letter 193: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 394,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 195,
+      "title": "Letter 194: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2193,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 196,
+      "title": "Letter 195: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 197,
+      "title": "Letter 196: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1261,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 198,
+      "title": "Letter 197: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 5561,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 199,
+      "title": "Letter 198: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3976,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 200,
+      "title": "Letter 199: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1034,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 201,
+      "title": "Letter 200: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3465,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 202,
+      "title": "Letter 201: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 5788,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 203,
+      "title": "Letter 202: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3481,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 204,
+      "title": "Letter 203: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1812,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 205,
+      "title": "Letter 204: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 878,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 206,
+      "title": "Letter 205: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 433,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 207,
+      "title": "Letter 206: Lord M. to Robert Lovelace, Esq.",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 208,
+      "title": "Letter 207: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2573,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 209,
+      "title": "Letter 208: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2910,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 210,
+      "title": "Letter 209: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 211,
+      "title": "Letter 210: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1738,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 212,
+      "title": "Letter 211: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 213,
+      "title": "Letter 212: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 983,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 214,
+      "title": "Letter 213: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 215,
+      "title": "Letter 214: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4317,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 216,
+      "title": "Letter 215: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1860,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 217,
+      "title": "Letter 216: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 218,
+      "title": "Letter 217: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 219,
+      "title": "Letter 218: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2019,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 220,
+      "title": "Letter 219: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 221,
+      "title": "Letter 220: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1276,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 222,
+      "title": "Letter 221: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2142,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 223,
+      "title": "Letter 222: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 3385,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 224,
+      "title": "Letter 223: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3597,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 225,
+      "title": "Letter 224: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 226,
+      "title": "Letter 225: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3457,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 227,
+      "title": "Letter 226: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 228,
+      "title": "Letter 227: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2779,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 229,
+      "title": "Letter 228: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4075,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 230,
+      "title": "Letter 229: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 6703,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 231,
+      "title": "Letter 230: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 232,
+      "title": "Letter 231: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2393,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 233,
+      "title": "Letter 232: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 234,
+      "title": "Letter 233: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 12949,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 235,
+      "title": "Letter 234: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 570,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 236,
+      "title": "Letter 235: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 6493,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 237,
+      "title": "Letter 236: Mr. Lovelace",
+      "wordCount": 1118,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 238,
+      "title": "Letter 237: Mr. Lovelace",
+      "wordCount": 2127,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 239,
+      "title": "Letter 238: Mr. Lovelace",
+      "wordCount": 1945,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 240,
+      "title": "Letter 239: Mr. Lovelace",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 241,
+      "title": "Letter 240: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 494,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 242,
+      "title": "Letter 241: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1201,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 243,
+      "title": "Letter 242: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 244,
+      "title": "Letter 243: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 7442,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 245,
+      "title": "Letter 244: Mr. Lovelace",
+      "wordCount": 4504,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 246,
+      "title": "Letter 245: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4709,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 247,
+      "title": "Letter 246: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 248,
+      "title": "Letter 247: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 610,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 249,
+      "title": "Letter 248: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2677,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 250,
+      "title": "Letter 249: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1130,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 251,
+      "title": "Letter 250: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 121,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 252,
+      "title": "Letter 251: Mr. Lovelace",
+      "wordCount": 2258,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 253,
+      "title": "Letter 252: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4832,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 254,
+      "title": "Letter 253: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2509,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 255,
+      "title": "Letter 254: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2206,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 256,
+      "title": "Letter 255: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 257,
+      "title": "Letter 256: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3611,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 258,
+      "title": "Letter 257: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 57,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 259,
+      "title": "Letter 258: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1015,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 260,
+      "title": "Letter 259: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1148,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 261,
+      "title": "Letter 260: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 610,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 262,
+      "title": "Letter 261: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 6112,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 263,
+      "title": "Letter 262: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 264,
+      "title": "Letter 263: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3040,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 265,
+      "title": "Letter 264: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 266,
+      "title": "Letter 265: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 534,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 267,
+      "title": "Letter 266: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2291,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 268,
+      "title": "Letter 267: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1954,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 269,
+      "title": "Letter 268: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1205,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 270,
+      "title": "Letter 269: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 538,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 271,
+      "title": "Letter 270: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1416,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 272,
+      "title": "Letter 271: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 273,
+      "title": "Letter 272: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 942,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 274,
+      "title": "Letter 273: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 275,
+      "title": "Letter 274: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1662,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 276,
+      "title": "Letter 275: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1042,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 277,
+      "title": "Letter 276: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2442,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 278,
+      "title": "Letter 277: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 279,
+      "title": "Letter 278: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 742,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 280,
+      "title": "Letter 279: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 774,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 281,
+      "title": "Letter 280: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 593,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 282,
+      "title": "Letter 281: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4457,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 283,
+      "title": "Letter 282: Mr. Lovelace, to Miss Clarissa Harlowe",
+      "wordCount": 1062,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 284,
+      "title": "Letter 283: Mr. Lovelace, to Miss Clarissa Harlowe",
+      "wordCount": 372,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 285,
+      "title": "Letter 284: Mr. Lovelace, to Miss Clarissa Harlowe",
+      "wordCount": 681,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 286,
+      "title": "Letter 285: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 693,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 287,
+      "title": "Letter 286: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 522,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 288,
+      "title": "Letter 287: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 623,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 289,
+      "title": "Letter 288: Mr. Lovelace, to Miss Clarissa Harlowe",
+      "wordCount": 413,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 290,
+      "title": "Letter 289: To Mr. Patrick McDonald",
+      "wordCount": 743,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 291,
+      "title": "Letter 290: To Captain Tomlinson",
+      "wordCount": 390,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 292,
+      "title": "Letter 291: To Robert Lovelace, Esq.",
+      "wordCount": 313,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 293,
+      "title": "Letter 292: Mr. Mowbray, to Robert Lovelace, Esq.",
+      "wordCount": 248,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 294,
+      "title": "Letter 293: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 3492,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 295,
+      "title": "Letter 294: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 296,
+      "title": "Letter 295: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 297,
+      "title": "Letter 296: Mrs. Howe, to Miss Clarissa Harlowe",
+      "wordCount": 475,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 298,
+      "title": "Letter 297: Miss Clarissa Harlowe, to Mrs. Howe",
+      "wordCount": 486,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 299,
+      "title": "Letter 298: Miss Clarissa Harlowe, to Hannah Burton",
+      "wordCount": 279,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 300,
+      "title": "Letter 299: Hannah Burton",
+      "wordCount": 154,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 301,
+      "title": "Letter 300: Miss Clarissa Harlowe, to Mrs. Judith Norton",
+      "wordCount": 515,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 302,
+      "title": "Letter 301: Mrs. Norton",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 303,
+      "title": "Letter 302: Miss Cl. Harlowe, to Lady Betty Lawrance",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 304,
+      "title": "Letter 303: Lady Betty Lawrance, to Miss Cl. Harlowe",
+      "wordCount": 606,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 305,
+      "title": "Letter 304: Miss Clarissa Harlowe, to Mrs. Hodges Enfield",
+      "wordCount": 319,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 306,
+      "title": "Letter 305: Mrs. Hodges",
+      "wordCount": 260,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 307,
+      "title": "Letter 306: Miss Cl. Harlowe, to Lady Betty Lawrance",
+      "wordCount": 766,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 308,
+      "title": "Letter 307: Miss Clarissa Harlowe, to Mrs. Norton",
+      "wordCount": 2146,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 309,
+      "title": "Letter 308: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 1001,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 310,
+      "title": "Letter 309: Miss Clarissa Harlowe, to Mrs. Judith Norton",
+      "wordCount": 1062,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 311,
+      "title": "Letter 310: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1209,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 312,
+      "title": "Letter 311: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1297,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 313,
+      "title": "Letter 312: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1854,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 314,
+      "title": "Letter 313: Miss Clarissa Harlowe",
+      "wordCount": 2818,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 315,
+      "title": "Letter 314: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 316,
+      "title": "Letter 315: Miss Clarissa Harlowe",
+      "wordCount": 986,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 317,
+      "title": "Letter 316: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 318,
+      "title": "Letter 317: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1171,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 319,
+      "title": "Letter 318: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1299,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 320,
+      "title": "Letter 319: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 508,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 321,
+      "title": "Letter 320: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1027,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 322,
+      "title": "Letter 321: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1164,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 323,
+      "title": "Letter 322: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 841,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 324,
+      "title": "Letter 323: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4940,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 325,
+      "title": "Letter 324: Mr. Lovelace",
+      "wordCount": 2360,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 326,
+      "title": "Letter 325: Mr. Lovelace",
+      "wordCount": 1233,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 327,
+      "title": "Letter 326: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1122,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 328,
+      "title": "Letter 327: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1457,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 329,
+      "title": "Letter 328: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 330,
+      "title": "Letter 329: Miss Howe, to Miss Charlotte Montague",
+      "wordCount": 531,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 331,
+      "title": "Letter 330: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 731,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 332,
+      "title": "Letter 331: Miss Charlotte Montague, to Miss Howe M. Hall,",
+      "wordCount": 227,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 333,
+      "title": "Letter 332: Miss Montague, to Miss Howe",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 334,
+      "title": "Letter 333: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 7662,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 335,
+      "title": "Letter 334: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2906,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 336,
+      "title": "Letter 335: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 308,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 337,
+      "title": "Letter 336: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2805,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 338,
+      "title": "Letter 337: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 297,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 339,
+      "title": "Letter 338: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 857,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 340,
+      "title": "Letter 339: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 341,
+      "title": "Letter 340: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 342,
+      "title": "Letter 341: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3003,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 343,
+      "title": "Letter 342: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 725,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 344,
+      "title": "Letter 343: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 481,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 345,
+      "title": "Letter 344: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1921,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 346,
+      "title": "Letter 345: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 384,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 347,
+      "title": "Letter 346: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 4892,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 348,
+      "title": "Letter 347: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 349,
+      "title": "Letter 348: Mr. Belford, to Mr. Robert Lovelace, Esq.",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 350,
+      "title": "Letter 349: Mr. Belford",
+      "wordCount": 3149,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 351,
+      "title": "Letter 350: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1611,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 352,
+      "title": "Letter 351: Miss Howe, to Miss Arabella Harlowe",
+      "wordCount": 106,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 353,
+      "title": "Letter 352: Miss Arabella Harlowe",
+      "wordCount": 129,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 354,
+      "title": "Letter 353: Miss Howe",
+      "wordCount": 108,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 355,
+      "title": "Letter 354: Miss Arabella Harlowe, to Miss Howe",
+      "wordCount": 142,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 356,
+      "title": "Letter 355: Miss Howe, to Miss Arabella Harlowe",
+      "wordCount": 479,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 357,
+      "title": "Letter 356: Mrs. Harlowe, to Mrs. Howe",
+      "wordCount": 188,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 358,
+      "title": "Letter 357: Mrs. Howe",
+      "wordCount": 409,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 359,
+      "title": "Letter 358: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 865,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 360,
+      "title": "Letter 359: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 361,
+      "title": "Letter 360: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 362,
+      "title": "Letter 361: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 363,
+      "title": "Letter 362: Miss Clarissa Harlowe, to Mrs. Norton",
+      "wordCount": 1126,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 364,
+      "title": "Letter 363: Miss Clarissa Harlowe, to Miss Arabella Harlowe",
+      "wordCount": 291,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 365,
+      "title": "Letter 364: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 366,
+      "title": "Letter 365: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1464,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 367,
+      "title": "Letter 366: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2023,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 368,
+      "title": "Letter 367: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 4222,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 369,
+      "title": "Letter 368: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1395,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 370,
+      "title": "Letter 369: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 284,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 371,
+      "title": "Letter 370: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 372,
+      "title": "Letter 371: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2363,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 373,
+      "title": "Letter 372: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1808,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 374,
+      "title": "Letter 373: Miss Howe, to the Two Misses Montague",
+      "wordCount": 689,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 375,
+      "title": "Letter 374: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 720,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 376,
+      "title": "Letter 375: Mrs. Norton, to Mrs. Harlowe",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 377,
+      "title": "Letter 376: Mrs. Harlowe, to Mrs. Judith Norton",
+      "wordCount": 1710,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 378,
+      "title": "Letter 377: Miss Clarissa Harlowe, to Mrs. Judith Norton",
+      "wordCount": 597,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 379,
+      "title": "Letter 378: Miss Ar. Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 545,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 380,
+      "title": "Letter 379: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 3011,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 381,
+      "title": "Letter 380: Miss Clarissa Harlowe, to Miss Harlowe",
+      "wordCount": 389,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 382,
+      "title": "Letter 381: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 791,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 383,
+      "title": "Letter 382: Miss Clarissa Harlowe, to Mrs. Norton",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 384,
+      "title": "Letter 383: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1202,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 385,
+      "title": "Letter 384: Miss Montague, to Miss Clarissa Harlowe",
+      "wordCount": 402,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 386,
+      "title": "Letter 385: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 255,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 387,
+      "title": "Letter 386: Miss Clarissa Harlowe, to Miss Montague",
+      "wordCount": 413,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 388,
+      "title": "Letter 387: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 832,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 389,
+      "title": "Letter 388: Mr. Belford, to Miss Clarissa Harlowe",
+      "wordCount": 551,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 390,
+      "title": "Letter 389: Miss Clarissa Harlowe, to John Belford, Esq.",
+      "wordCount": 946,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 391,
+      "title": "Letter 390: Mr. Belford, to Miss Clarissa Harlowe",
+      "wordCount": 215,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 392,
+      "title": "Letter 391: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 964,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 393,
+      "title": "Letter 392: Miss Ar. Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 388,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 394,
+      "title": "Letter 393: Miss Clarissa Harlowe, to Her Mother",
+      "wordCount": 514,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 395,
+      "title": "Letter 394: Miss Montague, to Miss Clarissa Harlowe",
+      "wordCount": 374,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 396,
+      "title": "Letter 395: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 397,
+      "title": "Letter 396: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 459,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 398,
+      "title": "Letter 397: Mr. Lovelace to Miss Clarissa Harlowe",
+      "wordCount": 706,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 399,
+      "title": "Letter 398: Miss Clarissa Harlowe, to Lord M. and to the Ladies of His House",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 400,
+      "title": "Letter 399: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 401,
+      "title": "Letter 400: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 207,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 402,
+      "title": "Letter 401: Miss Cl. Harlowe, to Robert Lovelace, Esq.",
+      "wordCount": 224,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 403,
+      "title": "Letter 402: Mr. John Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 568,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 404,
+      "title": "Letter 403: Miss Clarissa Harlowe, to John Harlowe, Esq.",
+      "wordCount": 278,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 405,
+      "title": "Letter 404: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 177,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 406,
+      "title": "Letter 405: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 483,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 407,
+      "title": "Letter 406: Mr. Antony Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 644,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 408,
+      "title": "Letter 407: Miss Cl. Harlowe, to Antony Harlowe, Esq.",
+      "wordCount": 735,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 409,
+      "title": "Letter 408: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 721,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 410,
+      "title": "Letter 409: Miss Clarissa Harlowe, to Mrs. Norton",
+      "wordCount": 1377,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 411,
+      "title": "Letter 410: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1290,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 412,
+      "title": "Letter 411: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 291,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 413,
+      "title": "Letter 412: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 345,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 414,
+      "title": "Letter 413: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1912,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 415,
+      "title": "Letter 414: Mr. Belford, to Miss Clarissa Harlowe",
+      "wordCount": 295,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 416,
+      "title": "Letter 415: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 597,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 417,
+      "title": "Letter 416: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 5056,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 418,
+      "title": "Letter 417: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 638,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 419,
+      "title": "Letter 418: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2577,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 420,
+      "title": "Letter 419: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 5212,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 421,
+      "title": "Letter 420: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 802,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 422,
+      "title": "Letter 421: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 423,
+      "title": "Letter 422: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 739,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 424,
+      "title": "Letter 423: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1568,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 425,
+      "title": "Letter 424: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2760,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 426,
+      "title": "Letter 425: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 674,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 427,
+      "title": "Letter 426: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 3612,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 428,
+      "title": "Letter 427: The Rev. Dr. Lewen, to Miss Cl. Harlowe",
+      "wordCount": 988,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 429,
+      "title": "Letter 428: Miss Cl. Harlowe, to the Rev. Dr. Lewen",
+      "wordCount": 1684,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 430,
+      "title": "Letter 429: Miss Arab. Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 896,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 431,
+      "title": "Letter 430: Miss Cl. Harlowe, to Miss Arab. Harlowe",
+      "wordCount": 514,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 432,
+      "title": "Letter 431: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 503,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 433,
+      "title": "Letter 432: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 850,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 434,
+      "title": "Letter 433: Miss Cl. Harlowe, to Mrs. Judith Norton",
+      "wordCount": 745,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 435,
+      "title": "Letter 434: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 462,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 436,
+      "title": "Letter 435: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 1393,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 437,
+      "title": "Letter 436: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 689,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 438,
+      "title": "Letter 437: Mr. Wyerley, to Miss Clarissa Harlowe",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 439,
+      "title": "Letter 438: Miss Cl. Harlowe, to Alex. Wyerley, Esq.",
+      "wordCount": 481,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 440,
+      "title": "Letter 439: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1483,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 441,
+      "title": "Letter 440: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 3186,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 442,
+      "title": "Letter 441: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1539,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 443,
+      "title": "Letter 442: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 5246,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 444,
+      "title": "Letter 443: Mr. Lovelace",
+      "wordCount": 3266,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 445,
+      "title": "Letter 444: Mr. Brand, to John Harlowe, Esq.",
+      "wordCount": 1333,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 446,
+      "title": "Letter 445: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1624,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 447,
+      "title": "Letter 446: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 448,
+      "title": "Letter 447: Colonel Morden, to Miss Clarissa Harlowe",
+      "wordCount": 509,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 449,
+      "title": "Letter 448: Miss Clarissa Harlowe, to Wm. Morden, Esq.",
+      "wordCount": 639,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 450,
+      "title": "Letter 449: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1371,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 451,
+      "title": "Letter 450: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 990,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 452,
+      "title": "Letter 451: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1063,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 453,
+      "title": "Letter 452: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 654,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 454,
+      "title": "Letter 453: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 455,
+      "title": "Letter 454: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 502,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 456,
+      "title": "Letter 455: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 457,
+      "title": "Letter 456: Miss Howe, to Miss Clarissa Harlowe",
+      "wordCount": 1065,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 458,
+      "title": "Letter 457: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 786,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 459,
+      "title": "Letter 458: Miss Clarissa Harlowe, to Miss Howe",
+      "wordCount": 2268,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 460,
+      "title": "Letter 459: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 4473,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 461,
+      "title": "Letter 460: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 462,
+      "title": "Letter 461: Dr. H. to James Harlowe, Senior, Esq.",
+      "wordCount": 361,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 463,
+      "title": "Letter 462: Mr. Belford, to William Morden, Esq.",
+      "wordCount": 184,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 464,
+      "title": "Letter 463: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1368,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 465,
+      "title": "Letter 464: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1103,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 466,
+      "title": "Letter 465: Miss Clarissa Harlowe, to Mrs. Norton",
+      "wordCount": 1293,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 467,
+      "title": "Letter 466: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 468,
+      "title": "Letter 467: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1561,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 469,
+      "title": "Letter 468: Mr. Brand, to Mr. John Walton",
+      "wordCount": 2255,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 470,
+      "title": "Letter 469: Mr. Brand, to John Harlowe, Esq.",
+      "wordCount": 3434,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 471,
+      "title": "Letter 470: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 922,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 472,
+      "title": "Letter 471: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 534,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 473,
+      "title": "Letter 472: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 576,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 474,
+      "title": "Letter 473: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 475,
+      "title": "Letter 474: Mr. Belford",
+      "wordCount": 3398,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 476,
+      "title": "Letter 475: Mr. Belford",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 477,
+      "title": "Letter 476: Mr. Belford",
+      "wordCount": 545,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 478,
+      "title": "Letter 477: Mr. Belford, to Richard Mowbray, Esq.",
+      "wordCount": 189,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 479,
+      "title": "Letter 478: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 237,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 480,
+      "title": "Letter 479: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 34,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 481,
+      "title": "Letter 480: Mr. Mowbray, to John Belford, Esq.",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 482,
+      "title": "Letter 481: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 483,
+      "title": "Letter 482: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 270,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 484,
+      "title": "Letter 483: Mrs. Norton, to Miss Clarissa Harlowe",
+      "wordCount": 737,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 485,
+      "title": "Letter 484: Miss Arab. Harlowe, to Miss Cl. Harlowe",
+      "wordCount": 327,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 486,
+      "title": "Letter 485: To His Dear Niece, Miss Clarissa Harlowe",
+      "wordCount": 340,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 487,
+      "title": "Letter 486: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1677,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 488,
+      "title": "Letter 487: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 489,
+      "title": "Letter 488: To the Ever-Honoured Jas. Harlowe, Sen. Esq.",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 490,
+      "title": "Letter 489: To the Ever-Honoured Mrs. Harlowe",
+      "wordCount": 411,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 491,
+      "title": "Letter 490: To James Harlowe, Jun. Esq.",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 492,
+      "title": "Letter 491: To Miss Harlowe",
+      "wordCount": 271,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 493,
+      "title": "Letter 492: To John and Antony Harlowe, Esqrs",
+      "wordCount": 1493,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 494,
+      "title": "Letter 493: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 565,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 495,
+      "title": "Letter 494: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1571,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 496,
+      "title": "Letter 495: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 234,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 497,
+      "title": "Letter 496: Mr. Mowbray, to John Belford, Esq.",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 498,
+      "title": "Letter 497: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1372,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 499,
+      "title": "Letter 498: Mr. Belford, to Richard Mowbray, Esq.",
+      "wordCount": 381,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 500,
+      "title": "Letter 499: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 5158,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 501,
+      "title": "Letter 500: Colonel Morden, to John Belford, Esq.",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 502,
+      "title": "Letter 501: Colonel Morden",
+      "wordCount": 1287,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 503,
+      "title": "Letter 502: Colonel Morden",
+      "wordCount": 1350,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 504,
+      "title": "Letter 503: Colonel Morden",
+      "wordCount": 970,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 505,
+      "title": "Letter 504: Colonel Morden",
+      "wordCount": 1221,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 506,
+      "title": "Letter 505: Mr. Belford, to William Morden, Esq.",
+      "wordCount": 568,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 507,
+      "title": "Letter 506: Mr. James Harlowe, to John Belford, Esq. Harlowe-Place,",
+      "wordCount": 484,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 508,
+      "title": "Letter 507: Mr. Belford, to Mr. James Harlowe, Jun. Esq.",
+      "wordCount": 6685,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 509,
+      "title": "Letter 508: Colonel Morden, to John Belford, Esq.",
+      "wordCount": 1302,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 510,
+      "title": "Letter 509: Mr. Belford, to the Right Hon. Lord M.",
+      "wordCount": 216,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 511,
+      "title": "Letter 510: Miss Montague, to John Belford, Esq. M. Hall,",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 512,
+      "title": "Letter 511: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1625,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 513,
+      "title": "Letter 512: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 918,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 514,
+      "title": "Letter 513: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 583,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 515,
+      "title": "Letter 514: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 1970,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 516,
+      "title": "Letter 515: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1862,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 517,
+      "title": "Letter 516: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2235,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 518,
+      "title": "Letter 517: Mr. Belford, to Colonel Morden",
+      "wordCount": 948,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 519,
+      "title": "Letter 518: To Col. Morden",
+      "wordCount": 846,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 520,
+      "title": "Letter 519: Colonel Morden, to John Belford, Esq.",
+      "wordCount": 2032,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 521,
+      "title": "Letter 520: Colonel Morden, to John Belford, Esq.",
+      "wordCount": 2179,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 522,
+      "title": "Letter 521: Mr. Belford, to Miss Howe",
+      "wordCount": 537,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 523,
+      "title": "Letter 522: Miss Howe, to John Belford, Esq.",
+      "wordCount": 743,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 524,
+      "title": "Letter 523: Miss Howe, to John Belford, Esq.",
+      "wordCount": 2349,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 525,
+      "title": "Letter 524: Mr. Belford, to Miss Howe",
+      "wordCount": 265,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 526,
+      "title": "Letter 525: Lord M. to John Belford, Esq. M. Hall,",
+      "wordCount": 295,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 527,
+      "title": "Letter 526: Mr. Belford, to Lord M.",
+      "wordCount": 1772,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 528,
+      "title": "Letter 527: Mr. Belford, to Lord M.",
+      "wordCount": 573,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 529,
+      "title": "Letter 528: Mr. Belford, to Lord M.",
+      "wordCount": 1074,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 530,
+      "title": "Letter 529: Miss Howe, to John Belford, Esq.",
+      "wordCount": 8900,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 531,
+      "title": "Letter 530: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 710,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 532,
+      "title": "Letter 531: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 749,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 533,
+      "title": "Letter 532: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 867,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 534,
+      "title": "Letter 533: Mr. Belford, to Robert Lovelace, Esq.",
+      "wordCount": 879,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 535,
+      "title": "Letter 534: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 536,
+      "title": "Letter 535: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 537,
+      "title": "Letter 536: Mr. Lovelace, to John Belford, Esq.",
+      "wordCount": 959,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 538,
+      "title": "Letter 537: Translation of a Letter from F. J. de la Tour",
+      "wordCount": 1248,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 539,
+      "title": "Conclusion",
+      "wordCount": 8568,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 540,
+      "title": "Postscript Referred to in the Preface",
+      "wordCount": 7002,
+      "estimatedMinutes": 28
+    }
+  ]
+}

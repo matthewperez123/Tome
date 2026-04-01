@@ -1,0 +1,166 @@
+{
+  "bookId": "flatland",
+  "title": "Flatland: A Romance of Many Dimensions",
+  "author": "Edwin A. Abbott",
+  "chapterCount": 26,
+  "totalWordCount": 35063,
+  "totalMinutes": 142,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1564,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Preface to the Second and Revised Edition, 1884",
+      "wordCount": 1341,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Part I: This World",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Of the Nature of Flatland",
+      "wordCount": 740,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "II: Of the Climate and Houses in Flatland",
+      "wordCount": 825,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "III: Concerning the Inhabitants of Flatland",
+      "wordCount": 1151,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "IV: Concerning the Women",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "V: Of Our Methods of Recognizing One Another",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VI: Of Recognition by Sight",
+      "wordCount": 1785,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VII: Concerning Irregular Figures",
+      "wordCount": 1247,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "VIII: Of the Ancient Practice of Painting",
+      "wordCount": 997,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "IX: Of the Universal Colour Bill",
+      "wordCount": 1321,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "X: Of the Suppression of the Chromatic Sedition",
+      "wordCount": 1469,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XI: Concerning Our Priests",
+      "wordCount": 1004,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XII: Of the Doctrine of Our Priests",
+      "wordCount": 1719,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "Part II: Other Worlds",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "XIII: How I Had a Vision of Lineland",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XIV: How I Vainly Tried to Explain the Nature of Flatland",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XV: Concerning a Stranger from Spaceland",
+      "wordCount": 1196,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVI: How the Stranger Vainly Endeavoured to Reveal to Me in Words the Mysteries of Spaceland",
+      "wordCount": 2726,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XVII: How the Sphere, Having in Vain Tried Words, Resorted to Deeds",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XVIII: How I Came to Spaceland, and What I Saw There",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XIX: How, Though the Sphere Showed Me Other Mysteries of Spaceland, I Still Desired More; and What Came of It",
+      "wordCount": 2446,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XX: How the Sphere Encouraged Me in a Vision",
+      "wordCount": 1128,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXI: How I Tried to Teach the Theory of Three Dimensions to My Grandson, and with What Success",
+      "wordCount": 998,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "XXII: How I Then Tried to Diffuse the Theory of Three Dimensions by Other Means, and of the Result",
+      "wordCount": 1541,
+      "estimatedMinutes": 6
+    }
+  ]
+}

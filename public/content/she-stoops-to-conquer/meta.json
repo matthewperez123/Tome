@@ -1,0 +1,64 @@
+{
+  "bookId": "she-stoops-to-conquer",
+  "title": "She Stoops to Conquer",
+  "author": "Oliver Goldsmith",
+  "chapterCount": 9,
+  "totalWordCount": 23421,
+  "totalMinutes": 94,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 24,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 6449,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 3765,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4366,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4337,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "Epilogue I",
+      "wordCount": 285,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "Epilogue II",
+      "wordCount": 194,
+      "estimatedMinutes": 1
+    }
+  ]
+}

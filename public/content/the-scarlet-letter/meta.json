@@ -1,0 +1,166 @@
+{
+  "bookId": "the-scarlet-letter",
+  "title": "The Scarlet Letter: A Romance",
+  "author": "Nathaniel Hawthorne",
+  "chapterCount": 26,
+  "totalWordCount": 83925,
+  "totalMinutes": 337,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface to the Second Edition",
+      "wordCount": 270,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Customhouse",
+      "wordCount": 14957,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 2,
+      "title": "I: The Prison-Door",
+      "wordCount": 490,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "II: The Marketplace",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "III: The Recognition",
+      "wordCount": 3194,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV: The Interview",
+      "wordCount": 2383,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: Hester at Her Needle",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI: Pearl",
+      "wordCount": 3457,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VII: The Governor’s Hall",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Elf-Child and the Minister",
+      "wordCount": 3135,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX: The Leech",
+      "wordCount": 3516,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "X: The Leech and His Patient",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XI: The Interior of a Heart",
+      "wordCount": 2461,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: The Minister’s Vigil",
+      "wordCount": 3785,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIII: Another View of Hester",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XIV: Hester and the Physician",
+      "wordCount": 2251,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XV: Hester and Pearl",
+      "wordCount": 2283,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI: A Forest Walk",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Pastor and His Parishioner",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XVIII: A Flood of Sunshine",
+      "wordCount": 2155,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Child at the Brook-Side",
+      "wordCount": 2422,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XX: The Minister in a Maze",
+      "wordCount": 3853,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXI: The New England Holiday",
+      "wordCount": 3136,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Procession",
+      "wordCount": 3729,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Revelation of the Scarlet Letter",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Conclusion",
+      "wordCount": 2108,
+      "estimatedMinutes": 8
+    }
+  ]
+}

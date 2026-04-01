@@ -1,0 +1,250 @@
+{
+  "bookId": "unspoken-sermons",
+  "title": "Unspoken Sermons",
+  "author": "George MacDonald",
+  "chapterCount": 40,
+  "totalWordCount": 174030,
+  "totalMinutes": 699,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 468,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "First Series",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Child in the Midst",
+      "wordCount": 4846,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "The Consuming Fire",
+      "wordCount": 4313,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "The Higher Faith",
+      "wordCount": 3005,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "It Shall Not Be Forgiven",
+      "wordCount": 6210,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "The New Name",
+      "wordCount": 3278,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "The Heart with the Treasure",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "The Temptation in the Wilderness",
+      "wordCount": 6817,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "The Eloi",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "The Hands of the Father",
+      "wordCount": 1710,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "Love Thy Neighbour",
+      "wordCount": 5334,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "Love Thine Enemy",
+      "wordCount": 2558,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "The God of the Living",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "Second Series",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "The Way",
+      "wordCount": 5487,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "The Hardness of the Way",
+      "wordCount": 4804,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "The Cause of Spiritual Stupidity",
+      "wordCount": 4657,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "The Word of Jesus on Prayer",
+      "wordCount": 5198,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "Man’s Difficulty Concerning Prayer",
+      "wordCount": 5464,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "The Last Farthing",
+      "wordCount": 4519,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "Abba, Father!",
+      "wordCount": 6031,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "Life",
+      "wordCount": 5164,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 23,
+      "title": "The Fear of God",
+      "wordCount": 3859,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "The Voice of Job",
+      "wordCount": 10150,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 25,
+      "title": "Self-Denial",
+      "wordCount": 6293,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 26,
+      "title": "The Truth in Jesus",
+      "wordCount": 8472,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 27,
+      "title": "Third Series",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "The Creation in Christ",
+      "wordCount": 5516,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 29,
+      "title": "The Knowing of the Son",
+      "wordCount": 3859,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "The Mirrors of the Lord",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "The Truth",
+      "wordCount": 6220,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 32,
+      "title": "Freedom",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "Kingship",
+      "wordCount": 2361,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "Justice",
+      "wordCount": 12048,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 35,
+      "title": "Light",
+      "wordCount": 4412,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 36,
+      "title": "The Displeasure of Jesus",
+      "wordCount": 5888,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 37,
+      "title": "Righteousness",
+      "wordCount": 4493,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 38,
+      "title": "The Final Unmasking",
+      "wordCount": 3918,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 39,
+      "title": "The Inheritance",
+      "wordCount": 3475,
+      "estimatedMinutes": 14
+    }
+  ]
+}

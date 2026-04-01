@@ -1,0 +1,334 @@
+{
+  "bookId": "my-reminiscences",
+  "title": "My Reminiscences",
+  "author": "Rabindranath Tagore",
+  "chapterCount": 54,
+  "totalWordCount": 58315,
+  "totalMinutes": 240,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 512,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Translator’s Preface",
+      "wordCount": 373,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 529,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "II: Teaching Begins",
+      "wordCount": 973,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "III: Within and Without",
+      "wordCount": 3436,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "IV: Servocracy",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "V: The Normal School",
+      "wordCount": 951,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VI: Versification",
+      "wordCount": 678,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "VII: Various Learning",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "VIII: My First Outing",
+      "wordCount": 892,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "IX: Practising Poetry",
+      "wordCount": 609,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 13,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "X: Srikantha Babu",
+      "wordCount": 931,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XI: Our Bengali Course Ends",
+      "wordCount": 688,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XII: The Professor",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XIII: My Father",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIV: A Journey with My Father",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XV: At the Himalayas",
+      "wordCount": 1807,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "XVI: My Return",
+      "wordCount": 2292,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XVII: Home Studies",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XVII: My Home Environment",
+      "wordCount": 1842,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XIX: Literary Companions",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XX: Publishing",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "XXI: Bhanu Singha",
+      "wordCount": 623,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "XXII: Patriotism",
+      "wordCount": 1904,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXIII: The Bharati",
+      "wordCount": 1074,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "Part V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "XXIV: Ahmedabad",
+      "wordCount": 487,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "XXV: England",
+      "wordCount": 4233,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXVI: Loken Palit",
+      "wordCount": 580,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 33,
+      "title": "XXVII: The Broken Heart",
+      "wordCount": 1995,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "Part VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "XXVIII: European Music",
+      "wordCount": 781,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 36,
+      "title": "XXIX: Valmiki Pratibha",
+      "wordCount": 1558,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "XXX: Evening Songs",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "XXXI: An Essay on Music",
+      "wordCount": 1017,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 39,
+      "title": "XXXII: The Riverside",
+      "wordCount": 656,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "XXXIII: More About the Evening Songs",
+      "wordCount": 801,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XXXIV: Morning Songs",
+      "wordCount": 3079,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "Part VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "XXXV: Rajendrahal Mitra",
+      "wordCount": 919,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "XXXVI: Karwar",
+      "wordCount": 741,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XXXVII: Nature’s Revenge",
+      "wordCount": 620,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XXXVIII: Pictures and Songs",
+      "wordCount": 556,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 47,
+      "title": "XXXIX: An Intervening Period",
+      "wordCount": 887,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "XL: Bankim Chandra",
+      "wordCount": 1131,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 49,
+      "title": "Part VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "XLI: The Steamer Hulk",
+      "wordCount": 599,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 51,
+      "title": "XLII: Bereavements",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 52,
+      "title": "XLIII: The Rains and Autumn",
+      "wordCount": 835,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 53,
+      "title": "XLIV: Sharps and Flats",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    }
+  ]
+}

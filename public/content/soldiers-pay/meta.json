@@ -1,0 +1,64 @@
+{
+  "bookId": "soldiers-pay",
+  "title": "Soldiers’ Pay",
+  "author": "William Faulkner",
+  "chapterCount": 9,
+  "totalWordCount": 89748,
+  "totalMinutes": 359,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 13734,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 11231,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 14997,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 7597,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 11451,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 9414,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 9578,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 7579,
+      "estimatedMinutes": 30
+    }
+  ]
+}

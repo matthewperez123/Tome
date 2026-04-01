@@ -1,0 +1,34 @@
+{
+  "bookId": "green-forest-stories",
+  "title": "Green Forest Stories",
+  "author": "Thornton W. Burgess",
+  "chapterCount": 4,
+  "totalWordCount": 82536,
+  "totalMinutes": 330,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Lightfoot the Deer",
+      "wordCount": 20889,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 1,
+      "title": "Blacky the Crow",
+      "wordCount": 22200,
+      "estimatedMinutes": 89
+    },
+    {
+      "index": 2,
+      "title": "Whitefoot the Wood Mouse",
+      "wordCount": 18606,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 3,
+      "title": "Buster Bear’s Twins",
+      "wordCount": 20841,
+      "estimatedMinutes": 83
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "bookId": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "chapterCount": 113,
+  "totalWordCount": 351159,
+  "totalMinutes": 1421,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I: The History of a Family",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Fyodor Pavlovitch Karamazov",
+      "wordCount": 1336,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "II: He Gets Rid of His Eldest Son",
+      "wordCount": 1304,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III: The Second Marriage and the Second Family",
+      "wordCount": 2591,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV: The Third Son, Alyosha",
+      "wordCount": 3517,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "V: Elders",
+      "wordCount": 3637,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "Book II: An Unfortunate Gathering",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "I: They Arrive at the Monastery",
+      "wordCount": 1813,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "II: The Old Buffoon",
+      "wordCount": 3587,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "III: Peasant Women Who Have Faith",
+      "wordCount": 3246,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "IV: A Lady of Little Faith",
+      "wordCount": 3045,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "V: So Be It! So Be It!",
+      "wordCount": 3684,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "VI: Why Is Such a Man Alive?",
+      "wordCount": 3945,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "VII: A Young Man Bent on a Career",
+      "wordCount": 3481,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "VIII: The Scandalous Scene",
+      "wordCount": 3527,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "Book III: The Sensualists",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I: In the Servants’ Quarters",
+      "wordCount": 2257,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "II: Lizaveta",
+      "wordCount": 1650,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "III: The Confession of a Passionate Heart—In Verse",
+      "wordCount": 3341,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "IV: The Confession of a Passionate Heart—In Anecdote",
+      "wordCount": 3401,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "V: The Confession of a Passionate Heart—“Heels Up”",
+      "wordCount": 3403,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "VI: Smerdyakov",
+      "wordCount": 2156,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "VII: The Controversy",
+      "wordCount": 2179,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "VIII: Over the Brandy",
+      "wordCount": 2895,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "IX: The Sensualists",
+      "wordCount": 2073,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "X: Both Together",
+      "wordCount": 4462,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 27,
+      "title": "XI: Another Reputation Ruined",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "Book IV: Lacerations",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: Father Ferapont",
+      "wordCount": 4136,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 31,
+      "title": "II: At His Father’s",
+      "wordCount": 1963,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "III: A Meeting with the Schoolboys",
+      "wordCount": 1827,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "IV: At the Hohlakovs’",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "V: A Laceration in the Drawing-Room",
+      "wordCount": 4575,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 35,
+      "title": "VI: A Laceration in the Cottage",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "VII: And in the Open Air",
+      "wordCount": 4412,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 37,
+      "title": "Book V: Pro and Contra",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I: The Engagement",
+      "wordCount": 4471,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 39,
+      "title": "II: Smerdyakov with a Guitar",
+      "wordCount": 2544,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "III: The Brothers Make Friends",
+      "wordCount": 3850,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "IV: Rebellion",
+      "wordCount": 4957,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 42,
+      "title": "V: The Grand Inquisitor",
+      "wordCount": 9313,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 43,
+      "title": "VI: For Awhile a Very Obscure One",
+      "wordCount": 4356,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 44,
+      "title": "VII: “It’s Always Worth While Speaking to a Clever Man”",
+      "wordCount": 3422,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "Book VI: The Russian Monk",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 46,
+      "title": "I: Father Zossima and His Visitors",
+      "wordCount": 6337,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 47,
+      "title": "II: The Duel",
+      "wordCount": 9129,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 48,
+      "title": "III: Conversations and Exhortations of Father Zossima",
+      "wordCount": 6179,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 49,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "Book VII: Alyosha",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 51,
+      "title": "I: The Breath of Corruption",
+      "wordCount": 5188,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 52,
+      "title": "II: A Critical Moment",
+      "wordCount": 2433,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 53,
+      "title": "III: An Onion",
+      "wordCount": 7840,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 54,
+      "title": "IV: Cana of Galilee",
+      "wordCount": 2099,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "Book VIII: Mitya",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 56,
+      "title": "I: Kuzma Samsonov",
+      "wordCount": 4786,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 57,
+      "title": "II: Lyagavy",
+      "wordCount": 2970,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 58,
+      "title": "III: Goldmines",
+      "wordCount": 4768,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 59,
+      "title": "IV: In the Dark",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 60,
+      "title": "V: A Sudden Resolution",
+      "wordCount": 6333,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 61,
+      "title": "VI: “I Am Coming, Too!”",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 62,
+      "title": "VII: The First and Rightful Lover",
+      "wordCount": 6432,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 63,
+      "title": "VIII: Delirium",
+      "wordCount": 5608,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 64,
+      "title": "Book IX: The Preliminary Investigation",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 65,
+      "title": "I: The Beginning of Perhotin’s Official Career",
+      "wordCount": 2822,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 66,
+      "title": "II: The Alarm",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 67,
+      "title": "III: The Sufferings of a Soul, the First Ordeal",
+      "wordCount": 3601,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 68,
+      "title": "IV: The Second Ordeal",
+      "wordCount": 3034,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 69,
+      "title": "V: The Third Ordeal",
+      "wordCount": 4443,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 70,
+      "title": "VI: The Prosecutor Catches Mitya",
+      "wordCount": 3195,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 71,
+      "title": "VII: Mitya’s Great Secret. Received with Hisses",
+      "wordCount": 4794,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 72,
+      "title": "VIII: The Evidence of the Witnesses. The Babe",
+      "wordCount": 3934,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 73,
+      "title": "IX: They Carry Mitya Away",
+      "wordCount": 1530,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 74,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 75,
+      "title": "Book X: The Boys",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 76,
+      "title": "I: Kolya Krassotkin",
+      "wordCount": 2252,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 77,
+      "title": "II: Children",
+      "wordCount": 2268,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 78,
+      "title": "III: The Schoolboy",
+      "wordCount": 2924,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 79,
+      "title": "IV: The Lost Dog",
+      "wordCount": 3285,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 80,
+      "title": "V: By Ilusha’s Bedside",
+      "wordCount": 6681,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 81,
+      "title": "VI: Precocity",
+      "wordCount": 2646,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 82,
+      "title": "VII: Ilusha",
+      "wordCount": 1408,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 83,
+      "title": "Book XI: Ivan",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 84,
+      "title": "I: At Grushenka’s",
+      "wordCount": 3963,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 85,
+      "title": "II: The Injured Foot",
+      "wordCount": 4422,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 86,
+      "title": "III: A Little Demon",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 87,
+      "title": "IV: A Hymn and a Secret",
+      "wordCount": 5833,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 88,
+      "title": "V: Not You, Not You!",
+      "wordCount": 2255,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 89,
+      "title": "VI: The First Interview with Smerdyakov",
+      "wordCount": 4006,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 90,
+      "title": "VII: The Second Visit to Smerdyakov",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 91,
+      "title": "VIII: The Third and Last Interview with Smerdyakov",
+      "wordCount": 6422,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 92,
+      "title": "IX: The Devil. Ivan’s Nightmare",
+      "wordCount": 8001,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 93,
+      "title": "X: “It Was He Who Said That”",
+      "wordCount": 2267,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 94,
+      "title": "Book XII: A Judicial Error",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 95,
+      "title": "I: The Fatal Day",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 96,
+      "title": "II: Dangerous Witnesses",
+      "wordCount": 3810,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 97,
+      "title": "III: The Medical Experts and a Pound of Nuts",
+      "wordCount": 2320,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 98,
+      "title": "IV: Fortune Smiles on Mitya",
+      "wordCount": 4000,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 99,
+      "title": "V: A Sudden Catastrophe",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 100,
+      "title": "VI: The Prosecutor’s Speech. Sketches of Character",
+      "wordCount": 4060,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 101,
+      "title": "VII: An Historical Survey",
+      "wordCount": 2076,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 102,
+      "title": "VIII: A Treatise on Smerdyakov",
+      "wordCount": 4121,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 103,
+      "title": "IX: The Galloping Troika. The End of the Prosecutor’s Speech",
+      "wordCount": 4603,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 104,
+      "title": "X: The Speech for the Defense. An Argument That Cuts Both Ways",
+      "wordCount": 1716,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 105,
+      "title": "XI: There Was No Money. There Was No Robbery",
+      "wordCount": 2830,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 106,
+      "title": "XII: And There Was No Murder Either",
+      "wordCount": 3436,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 107,
+      "title": "XIII: A Corrupter of Thought",
+      "wordCount": 3446,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 108,
+      "title": "XIV: The Peasants Stand Firm",
+      "wordCount": 2585,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 109,
+      "title": "Epilogue",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 110,
+      "title": "I: Plans for Mitya’s Escape",
+      "wordCount": 2236,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 111,
+      "title": "II: For a Moment the Lie Becomes Truth",
+      "wordCount": 3120,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 112,
+      "title": "III: Ilusha’s Funeral. The Speech at the Stone",
+      "wordCount": 4040,
+      "estimatedMinutes": 16
+    }
+  ]
+}

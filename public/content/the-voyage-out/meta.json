@@ -1,0 +1,178 @@
+{
+  "bookId": "the-voyage-out",
+  "title": "The Voyage Out",
+  "author": "Virginia Woolf",
+  "chapterCount": 28,
+  "totalWordCount": 138753,
+  "totalMinutes": 554,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1698,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 5232,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5353,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5568,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5820,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2857,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2684,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2985,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 6942,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4775,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 4788,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 7401,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 6826,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 5487,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 5807,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 7830,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1849,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 7383,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 4713,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 4844,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 5313,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 4891,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 11175,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 4752,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 2678,
+      "estimatedMinutes": 11
+    }
+  ]
+}

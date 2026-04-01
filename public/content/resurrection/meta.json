@@ -1,0 +1,808 @@
+{
+  "bookId": "resurrection",
+  "title": "Resurrection",
+  "author": "Leo Tolstoy",
+  "chapterCount": 133,
+  "totalWordCount": 173161,
+  "totalMinutes": 695,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Translator’s Preface",
+      "wordCount": 222,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1190,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2365,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 904,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 861,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 1137,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1075,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 1147,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2091,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 1735,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 1407,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 1464,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 1559,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 1054,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 1194,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 834,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 1194,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 1717,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 1175,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 2694,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 593,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 1739,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 1748,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 2250,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 1211,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 1200,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 1041,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 1399,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XXXIII",
+      "wordCount": 1353,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXXIV",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXV",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "XXXVI",
+      "wordCount": 787,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "XXXVII",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII",
+      "wordCount": 790,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "XXXIX",
+      "wordCount": 1244,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 41,
+      "title": "XL",
+      "wordCount": 1005,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 42,
+      "title": "XLI",
+      "wordCount": 1686,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 43,
+      "title": "XLII",
+      "wordCount": 774,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "XLIII",
+      "wordCount": 2009,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XLIV",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 46,
+      "title": "XLV",
+      "wordCount": 2315,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "XLVI",
+      "wordCount": 1001,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "XLVII",
+      "wordCount": 873,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "XLVIII",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "XLIX",
+      "wordCount": 1106,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "L",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 52,
+      "title": "LI",
+      "wordCount": 1058,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 53,
+      "title": "LII",
+      "wordCount": 864,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 54,
+      "title": "LIII",
+      "wordCount": 862,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 55,
+      "title": "LIV",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 56,
+      "title": "LV",
+      "wordCount": 773,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 57,
+      "title": "LVI",
+      "wordCount": 817,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 58,
+      "title": "LVII",
+      "wordCount": 1338,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 59,
+      "title": "LVIII",
+      "wordCount": 951,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "LIX",
+      "wordCount": 1401,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 61,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 62,
+      "title": "I",
+      "wordCount": 2177,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 63,
+      "title": "II",
+      "wordCount": 1465,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 64,
+      "title": "III",
+      "wordCount": 974,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 65,
+      "title": "IV",
+      "wordCount": 1462,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 66,
+      "title": "V",
+      "wordCount": 1383,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "VI",
+      "wordCount": 2136,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 68,
+      "title": "VII",
+      "wordCount": 1282,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 69,
+      "title": "VIII",
+      "wordCount": 1230,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 70,
+      "title": "IX",
+      "wordCount": 2199,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "X",
+      "wordCount": 1560,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 72,
+      "title": "XI",
+      "wordCount": 822,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 73,
+      "title": "XII",
+      "wordCount": 834,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 74,
+      "title": "XIII",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 75,
+      "title": "XIV",
+      "wordCount": 1912,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 76,
+      "title": "XV",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 77,
+      "title": "XVI",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 78,
+      "title": "XVII",
+      "wordCount": 1132,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 79,
+      "title": "XVIII",
+      "wordCount": 1145,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 80,
+      "title": "XIX",
+      "wordCount": 2234,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 81,
+      "title": "XX",
+      "wordCount": 1288,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 82,
+      "title": "XXI",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 83,
+      "title": "XXII",
+      "wordCount": 860,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 84,
+      "title": "XXIII",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 85,
+      "title": "XXIV",
+      "wordCount": 2456,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 86,
+      "title": "XXV",
+      "wordCount": 1484,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 87,
+      "title": "XXVI",
+      "wordCount": 670,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 88,
+      "title": "XXVII",
+      "wordCount": 2097,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 89,
+      "title": "XXVIII",
+      "wordCount": 1428,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 90,
+      "title": "XXIX",
+      "wordCount": 2111,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 91,
+      "title": "XXX",
+      "wordCount": 1678,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 92,
+      "title": "XXXI",
+      "wordCount": 992,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 93,
+      "title": "XXXII",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 94,
+      "title": "XXXIII",
+      "wordCount": 1325,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 95,
+      "title": "XXXIV",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 96,
+      "title": "XXXV",
+      "wordCount": 1313,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 97,
+      "title": "XXXVI",
+      "wordCount": 1560,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 98,
+      "title": "XXXVII",
+      "wordCount": 1720,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 99,
+      "title": "XXXVIII",
+      "wordCount": 1161,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 100,
+      "title": "XXXIX",
+      "wordCount": 1937,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 101,
+      "title": "XL",
+      "wordCount": 1592,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 102,
+      "title": "XLI",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 103,
+      "title": "XLII",
+      "wordCount": 1521,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 104,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 105,
+      "title": "I",
+      "wordCount": 973,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 106,
+      "title": "II",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 107,
+      "title": "III",
+      "wordCount": 891,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 108,
+      "title": "IV",
+      "wordCount": 991,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 109,
+      "title": "V",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 110,
+      "title": "VI",
+      "wordCount": 1686,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 111,
+      "title": "VII",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 112,
+      "title": "VIII",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 113,
+      "title": "IX",
+      "wordCount": 788,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 114,
+      "title": "X",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 115,
+      "title": "XI",
+      "wordCount": 1213,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 116,
+      "title": "XII",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 117,
+      "title": "XIII",
+      "wordCount": 885,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 118,
+      "title": "XIV",
+      "wordCount": 755,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 119,
+      "title": "XV",
+      "wordCount": 760,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 120,
+      "title": "XVI",
+      "wordCount": 1197,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 121,
+      "title": "XVII",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 122,
+      "title": "XVIII",
+      "wordCount": 1071,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 123,
+      "title": "XIX",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 124,
+      "title": "XX",
+      "wordCount": 1318,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 125,
+      "title": "XXI",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 126,
+      "title": "XXII",
+      "wordCount": 1579,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 127,
+      "title": "XXIII",
+      "wordCount": 1171,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 128,
+      "title": "XXIV",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 129,
+      "title": "XXV",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 130,
+      "title": "XXVI",
+      "wordCount": 619,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 131,
+      "title": "XXVII",
+      "wordCount": 894,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 132,
+      "title": "XXVIII",
+      "wordCount": 2271,
+      "estimatedMinutes": 9
+    }
+  ]
+}

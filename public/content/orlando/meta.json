@@ -1,0 +1,58 @@
+{
+  "bookId": "orlando",
+  "title": "Orlando: A Biography",
+  "author": "Virginia Woolf",
+  "chapterCount": 8,
+  "totalWordCount": 79518,
+  "totalMinutes": 320,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 549,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 13275,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 13707,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 8156,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 18426,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 8767,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 16638,
+      "estimatedMinutes": 67
+    }
+  ]
+}

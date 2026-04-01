@@ -1,0 +1,202 @@
+{
+  "bookId": "pollyanna",
+  "title": "Pollyanna",
+  "author": "Eleanor H. Porter",
+  "chapterCount": 32,
+  "totalWordCount": 56879,
+  "totalMinutes": 228,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Miss Polly",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: Old Tom and Nancy",
+      "wordCount": 967,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "III: The Coming of Pollyanna",
+      "wordCount": 2307,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV: The Little Attic Room",
+      "wordCount": 2411,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: The Game",
+      "wordCount": 1512,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "VI: A Question of Duty",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: Pollyanna and Punishments",
+      "wordCount": 1715,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Pollyanna Pays a Visit",
+      "wordCount": 2625,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "IX: Which Tells of the Man",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "X: A Surprise for Mrs. Snow",
+      "wordCount": 2531,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: Introducing Jimmy",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: Before the Ladies’ Aid",
+      "wordCount": 1143,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XIII: In Pendleton Woods",
+      "wordCount": 1938,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV: Just a Matter of Jelly",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XV: Dr. Chilton",
+      "wordCount": 2758,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI: A Red Rose and a Lace Shawl",
+      "wordCount": 2123,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVII: “Just Like a Book”",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Prisms",
+      "wordCount": 1615,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX: Which Is Somewhat Surprising",
+      "wordCount": 921,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XX: Which Is More Surprising",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: A Question Answered",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: Sermons and Woodboxes",
+      "wordCount": 2351,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: An Accident",
+      "wordCount": 1604,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: John Pendleton",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV: A Waiting Game",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Door Ajar",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Two Visits",
+      "wordCount": 2060,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Game and Its Players",
+      "wordCount": 3876,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Through an Open Window",
+      "wordCount": 1376,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXX: Jimmy Takes the Helm",
+      "wordCount": 791,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "XXXI: A New Uncle",
+      "wordCount": 475,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Which Is a Letter from Pollyanna",
+      "wordCount": 291,
+      "estimatedMinutes": 1
+    }
+  ]
+}

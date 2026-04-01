@@ -1,0 +1,118 @@
+{
+  "bookId": "the-man-in-the-queue",
+  "title": "The Man in the Queue",
+  "author": "Josephine Tey",
+  "chapterCount": 18,
+  "totalWordCount": 80501,
+  "totalMinutes": 323,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Murder",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "II: Inspector Grant",
+      "wordCount": 5199,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III: Danny Miller",
+      "wordCount": 4378,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "IV: Raoul Legarde",
+      "wordCount": 4089,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "V: Danny Again",
+      "wordCount": 3451,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI: The Levantine",
+      "wordCount": 3381,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII: Things Move",
+      "wordCount": 6799,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 7,
+      "title": "VIII: Mrs. Everett",
+      "wordCount": 5217,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "IX: Grant Gets More Information Than He Expected",
+      "wordCount": 6612,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 9,
+      "title": "X: The Burst to the North",
+      "wordCount": 4677,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "XI: Carninnish",
+      "wordCount": 4186,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XII: Capture",
+      "wordCount": 6980,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 12,
+      "title": "XIII: Marking Time",
+      "wordCount": 3223,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Statement",
+      "wordCount": 4859,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XV: The Brooch",
+      "wordCount": 3912,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI: Miss Dinmont Assists",
+      "wordCount": 4364,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII: Solution",
+      "wordCount": 4868,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Conclusion",
+      "wordCount": 2147,
+      "estimatedMinutes": 9
+    }
+  ]
+}

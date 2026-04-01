@@ -1,0 +1,172 @@
+{
+  "bookId": "tarzan-the-terrible",
+  "title": "Tarzan the Terrible",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 27,
+  "totalWordCount": 93718,
+  "totalMinutes": 375,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Pithecanthropus",
+      "wordCount": 4245,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 1,
+      "title": "II: “To the Death!”",
+      "wordCount": 4299,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: Pan-at-lee",
+      "wordCount": 4225,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: Tarzan-jad-guru",
+      "wordCount": 3585,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V: In the Kor-ul-gryf",
+      "wordCount": 4302,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: Tor-o-don",
+      "wordCount": 4786,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: Jungle Craft",
+      "wordCount": 3512,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: A-lur",
+      "wordCount": 4112,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "IX: Bloodstained Altars",
+      "wordCount": 3217,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "X: The Forbidden Garden",
+      "wordCount": 3826,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: The Sentence of Death",
+      "wordCount": 3493,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: The Giant Stranger",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Masquerader",
+      "wordCount": 3458,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Temple of the Gryf",
+      "wordCount": 4083,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XV: “The King Is Dead!”",
+      "wordCount": 3662,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Secret Way",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVII: By Jad-bal-lul",
+      "wordCount": 4045,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Lion Pit of Tu-lur",
+      "wordCount": 3771,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XIX: Diana of the Jungle",
+      "wordCount": 3676,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XX: Silently in the Night",
+      "wordCount": 4132,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Maniac",
+      "wordCount": 4615,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXII: A Journey on a Gryf",
+      "wordCount": 3315,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Taken Alive",
+      "wordCount": 3450,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Messenger of Death",
+      "wordCount": 3394,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXV: Home",
+      "wordCount": 1418,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "Map of Pal-ul-don",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "Glossary",
+      "wordCount": 769,
+      "estimatedMinutes": 3
+    }
+  ]
+}

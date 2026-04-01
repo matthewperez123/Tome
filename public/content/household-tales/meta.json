@@ -1,0 +1,1222 @@
+{
+  "bookId": "household-tales",
+  "title": "Household Tales",
+  "author": "Jacob Grimm & Wilhelm Grimm",
+  "chapterCount": 202,
+  "totalWordCount": 282975,
+  "totalMinutes": 1138,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Frog-King, or Iron Henry",
+      "wordCount": 1416,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Cat and Mouse in Partnership",
+      "wordCount": 982,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Our Lady’s Child",
+      "wordCount": 1902,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
+      "wordCount": 3818,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "The Wolf and the Seven Little Kids",
+      "wordCount": 1113,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "Faithful John",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "The Good Bargain",
+      "wordCount": 1731,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "The Wonderful Musician",
+      "wordCount": 1065,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "The Twelve Brothers",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "The Pack of Ragamuffins",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "Little Brother and Little Sister",
+      "wordCount": 2428,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "Rapunzel",
+      "wordCount": 1436,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "The Three Little Men in the Wood",
+      "wordCount": 2043,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "The Three Spinners",
+      "wordCount": 911,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "Hänsel and Grethel",
+      "wordCount": 2953,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "The Three Snake-Leaves",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "The White Snake",
+      "wordCount": 1605,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "The Straw, the Coal, and the Bean",
+      "wordCount": 512,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "The Fisherman and His Wife",
+      "wordCount": 3070,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "The Valiant Little Tailor",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "Cinderella",
+      "wordCount": 2634,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "The Riddle",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "The Mouse, the Bird, and the Sausage",
+      "wordCount": 636,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "Mother Holle",
+      "wordCount": 1200,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "The Seven Ravens",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "Little Redcap",
+      "wordCount": 1381,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "The Bremen Town-Musicians",
+      "wordCount": 1266,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "The Singing Bone",
+      "wordCount": 740,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "The Devil with the Three Golden Hairs",
+      "wordCount": 2542,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "The Louse and the Flea",
+      "wordCount": 460,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "The Girl Without Hands",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "Clever Hans",
+      "wordCount": 895,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "The Three Languages",
+      "wordCount": 949,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "Clever Elsie",
+      "wordCount": 1333,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "The Tailor in Heaven",
+      "wordCount": 776,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack",
+      "wordCount": 3827,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 36,
+      "title": "Thumbling",
+      "wordCount": 2213,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "The Wedding of Mrs. Fox",
+      "wordCount": 791,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "The Elves",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "The Robber Bridegroom",
+      "wordCount": 1387,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "Herr Korbes",
+      "wordCount": 393,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 41,
+      "title": "The Godfather",
+      "wordCount": 627,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 42,
+      "title": "Frau Trude",
+      "wordCount": 303,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "Godfather Death",
+      "wordCount": 1225,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "Thumbling as Journeyman",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 45,
+      "title": "Fitcher’s Bird",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "The Juniper-Tree",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 47,
+      "title": "Old Sultan",
+      "wordCount": 866,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 48,
+      "title": "The Six Swans",
+      "wordCount": 1986,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "Briar-Rose",
+      "wordCount": 1318,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "Fundevogel (Bird-Foundling)",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "King Thrushbeard",
+      "wordCount": 1643,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 52,
+      "title": "Little Snow-White",
+      "wordCount": 3117,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 53,
+      "title": "The Knapsack, the Hat, and the Horn",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 54,
+      "title": "Rumpelstiltskin",
+      "wordCount": 1088,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "Sweetheart Roland",
+      "wordCount": 1480,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "The Golden Bird",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 57,
+      "title": "The Dog and the Sparrow",
+      "wordCount": 1205,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 58,
+      "title": "Frederick and Catherine",
+      "wordCount": 2578,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "The Two Brothers",
+      "wordCount": 8567,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 60,
+      "title": "The Little Peasant",
+      "wordCount": 2079,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "The Queen Bee",
+      "wordCount": 811,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 62,
+      "title": "The Three Feathers",
+      "wordCount": 1019,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 63,
+      "title": "The Golden Goose",
+      "wordCount": 1092,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 64,
+      "title": "Allerleirauh",
+      "wordCount": 2174,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "The Hare’s Bride",
+      "wordCount": 486,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 66,
+      "title": "The Twelve Huntsmen",
+      "wordCount": 1087,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 67,
+      "title": "The Thief and His Master",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 68,
+      "title": "Jorinda and Joringel",
+      "wordCount": 944,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 69,
+      "title": "The Three Sons of Fortune",
+      "wordCount": 987,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 70,
+      "title": "How Six Men Got on in the World",
+      "wordCount": 2079,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 71,
+      "title": "The Wolf and the Man",
+      "wordCount": 411,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 72,
+      "title": "The Wolf and the Fox",
+      "wordCount": 722,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 73,
+      "title": "The Fox and His Cousin",
+      "wordCount": 379,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 74,
+      "title": "The Fox and the Cat",
+      "wordCount": 294,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 75,
+      "title": "The Pink",
+      "wordCount": 1801,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 76,
+      "title": "Clever Grethel",
+      "wordCount": 923,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 77,
+      "title": "The Old Man and His Grandson",
+      "wordCount": 255,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 78,
+      "title": "The Water-Nix",
+      "wordCount": 303,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 79,
+      "title": "The Death of the Little Hen",
+      "wordCount": 673,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 80,
+      "title": "Brother Lustig",
+      "wordCount": 4144,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 81,
+      "title": "Gambling Hansel",
+      "wordCount": 983,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 82,
+      "title": "Hans in Luck",
+      "wordCount": 2059,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "Hans Married",
+      "wordCount": 446,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 84,
+      "title": "The Gold-Children",
+      "wordCount": 1929,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 85,
+      "title": "The Fox and the Geese",
+      "wordCount": 233,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 86,
+      "title": "The Poor Man and the Rich Man",
+      "wordCount": 1736,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 87,
+      "title": "The Singing, Springing Lark",
+      "wordCount": 2342,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 88,
+      "title": "The Goose-Girl",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 89,
+      "title": "The Young Giant",
+      "wordCount": 3093,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 90,
+      "title": "The Gnome",
+      "wordCount": 1854,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 91,
+      "title": "The King of the Golden Mountain",
+      "wordCount": 2433,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 92,
+      "title": "The Raven",
+      "wordCount": 2263,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 93,
+      "title": "The Peasant’s Wise Daughter",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 94,
+      "title": "Old Hildebrand",
+      "wordCount": 1322,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 95,
+      "title": "The Three Little Birds",
+      "wordCount": 1475,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 96,
+      "title": "The Water of Life",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 97,
+      "title": "Doctor Knowall",
+      "wordCount": 769,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 98,
+      "title": "The Spirit in the Bottle",
+      "wordCount": 1793,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 99,
+      "title": "The Devil’s Sooty Brother",
+      "wordCount": 1268,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 100,
+      "title": "Bearskin",
+      "wordCount": 1981,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 101,
+      "title": "The Willow-Wren and the Bear",
+      "wordCount": 919,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 102,
+      "title": "Sweet Porridge",
+      "wordCount": 247,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 103,
+      "title": "Wise Folks",
+      "wordCount": 1584,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 104,
+      "title": "Stories About Snakes",
+      "wordCount": 521,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 105,
+      "title": "The Poor Miller’s Boy and the Cat",
+      "wordCount": 1404,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 106,
+      "title": "The Two Travellers",
+      "wordCount": 4172,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 107,
+      "title": "Hans the Hedgehog",
+      "wordCount": 2120,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 108,
+      "title": "The Shroud",
+      "wordCount": 258,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 109,
+      "title": "The Jew Among Thorns",
+      "wordCount": 1795,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 110,
+      "title": "The Skilful Huntsman",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 111,
+      "title": "The Flail from Heaven",
+      "wordCount": 400,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 112,
+      "title": "The Two Kings’ Children",
+      "wordCount": 3421,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 113,
+      "title": "The Cunning Little Tailor",
+      "wordCount": 1218,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 114,
+      "title": "The Bright Sun Brings It to Light",
+      "wordCount": 548,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 115,
+      "title": "The Blue Light",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 116,
+      "title": "The Wilful Child",
+      "wordCount": 145,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 117,
+      "title": "The Three Army-Surgeons",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 118,
+      "title": "The Seven Swabians",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 119,
+      "title": "The Three Apprentices",
+      "wordCount": 1168,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 120,
+      "title": "The King’s Son Who Feared Nothing",
+      "wordCount": 2142,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 121,
+      "title": "Donkey Cabbages",
+      "wordCount": 2636,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 122,
+      "title": "The Old Woman in the Wood",
+      "wordCount": 924,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 123,
+      "title": "The Three Brothers",
+      "wordCount": 662,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 124,
+      "title": "The Devil and His Grandmother",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 125,
+      "title": "Ferdinand the Faithful",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 126,
+      "title": "The Iron Stove",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 127,
+      "title": "The Lazy Spinner",
+      "wordCount": 771,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 128,
+      "title": "The Four Skilful Brothers",
+      "wordCount": 1667,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 129,
+      "title": "One-Eye, Two-Eyes, and Three-Eyes",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 130,
+      "title": "Fair Katrinelje and Pif-Paf-Poltrie",
+      "wordCount": 312,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 131,
+      "title": "The Fox and the Horse",
+      "wordCount": 486,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 132,
+      "title": "The Shoes That Were Danced to Pieces",
+      "wordCount": 1471,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 133,
+      "title": "The Six Servants",
+      "wordCount": 2707,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 134,
+      "title": "The White Bride and the Black One",
+      "wordCount": 1552,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 135,
+      "title": "Iron John",
+      "wordCount": 3222,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 136,
+      "title": "The Three Black Princesses",
+      "wordCount": 715,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 137,
+      "title": "Knoist and His Three Sons",
+      "wordCount": 157,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 138,
+      "title": "The Maid of Brakel",
+      "wordCount": 137,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 139,
+      "title": "Domestic Servants",
+      "wordCount": 149,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 140,
+      "title": "The Lambkin and the Little Fish",
+      "wordCount": 646,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 141,
+      "title": "Simeli Mountain",
+      "wordCount": 852,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 142,
+      "title": "Going A-Travelling",
+      "wordCount": 429,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 143,
+      "title": "The Donkey",
+      "wordCount": 1297,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 144,
+      "title": "The Ungrateful Son",
+      "wordCount": 170,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 145,
+      "title": "The Turnip",
+      "wordCount": 1155,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 146,
+      "title": "The Old Man Made Young Again",
+      "wordCount": 549,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 147,
+      "title": "The Lord’s Animals and the Devil’s",
+      "wordCount": 371,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 148,
+      "title": "The Beam",
+      "wordCount": 284,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 149,
+      "title": "The Old Beggar-Woman",
+      "wordCount": 167,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 150,
+      "title": "The Three Sluggards",
+      "wordCount": 226,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 151,
+      "title": "The Twelve Idle Servants",
+      "wordCount": 1114,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 152,
+      "title": "The Shepherd Boy",
+      "wordCount": 365,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 153,
+      "title": "The Star-Money",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 154,
+      "title": "The Stolen Farthings",
+      "wordCount": 353,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 155,
+      "title": "Brides on Their Trial",
+      "wordCount": 159,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 156,
+      "title": "Odds and Ends",
+      "wordCount": 209,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 157,
+      "title": "The Sparrow and His Four Children",
+      "wordCount": 934,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 158,
+      "title": "The Story of Schlauraffen Land",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 159,
+      "title": "The Ditmarsch Tale of Wonders",
+      "wordCount": 214,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 160,
+      "title": "A Riddling Tale",
+      "wordCount": 134,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 161,
+      "title": "Snow-White and Rose-Red",
+      "wordCount": 2435,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 162,
+      "title": "The Wise Servant",
+      "wordCount": 255,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 163,
+      "title": "The Glass Coffin",
+      "wordCount": 2374,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 164,
+      "title": "Lazy Harry",
+      "wordCount": 999,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 165,
+      "title": "The Griffin",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 166,
+      "title": "Strong Hans",
+      "wordCount": 2636,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 167,
+      "title": "The Peasant in Heaven",
+      "wordCount": 259,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 168,
+      "title": "Lean Lisa",
+      "wordCount": 460,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 169,
+      "title": "The Hut in the Forest",
+      "wordCount": 1899,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 170,
+      "title": "Sharing Joy and Sorrow",
+      "wordCount": 381,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 171,
+      "title": "The Willow-Wren",
+      "wordCount": 1145,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 172,
+      "title": "The Sole",
+      "wordCount": 242,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 173,
+      "title": "The Bittern and the Hoopoe",
+      "wordCount": 243,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 174,
+      "title": "The Owl",
+      "wordCount": 840,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 175,
+      "title": "The Moon",
+      "wordCount": 781,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 176,
+      "title": "The Duration of Life",
+      "wordCount": 580,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 177,
+      "title": "Death’s Messengers",
+      "wordCount": 586,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 178,
+      "title": "Master Pfriem (Master Cobbler’s Awl)",
+      "wordCount": 1442,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 179,
+      "title": "The Goose-Girl at the Well",
+      "wordCount": 3876,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 180,
+      "title": "Eve’s Various Children",
+      "wordCount": 680,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 181,
+      "title": "The Nix of the Millpond",
+      "wordCount": 2130,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 182,
+      "title": "The Little Folks’ Presents",
+      "wordCount": 985,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 183,
+      "title": "The Giant and the Tailor",
+      "wordCount": 731,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 184,
+      "title": "The Nail",
+      "wordCount": 267,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 185,
+      "title": "The Poor Boy in the Grave",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 186,
+      "title": "The True Sweethearts",
+      "wordCount": 2666,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 187,
+      "title": "The Hare and the Hedgehog",
+      "wordCount": 1365,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 188,
+      "title": "The Spindle, the Shuttle, and the Needle",
+      "wordCount": 1107,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 189,
+      "title": "The Peasant and the Devil",
+      "wordCount": 381,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 190,
+      "title": "The Crumbs on the Table",
+      "wordCount": 186,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 191,
+      "title": "The Sea-Hare",
+      "wordCount": 1311,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 192,
+      "title": "The Master-Thief",
+      "wordCount": 3074,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 193,
+      "title": "The Drummer",
+      "wordCount": 3823,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 194,
+      "title": "The Ear of Corn",
+      "wordCount": 243,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 195,
+      "title": "The Grave-Mound",
+      "wordCount": 1485,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 196,
+      "title": "Old Rinkrank",
+      "wordCount": 765,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 197,
+      "title": "The Crystal Ball",
+      "wordCount": 1082,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 198,
+      "title": "Maid Maleen",
+      "wordCount": 1983,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 199,
+      "title": "The Boots of Buffalo-Leather",
+      "wordCount": 1464,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 200,
+      "title": "The Golden Key",
+      "wordCount": 187,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 201,
+      "title": "Children’s Legends",
+      "wordCount": 4680,
+      "estimatedMinutes": 19
+    }
+  ]
+}

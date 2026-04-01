@@ -1,0 +1,136 @@
+{
+  "bookId": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "chapterCount": 21,
+  "totalWordCount": 79165,
+  "totalMinutes": 317,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 382,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 4943,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5624,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4435,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5585,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 4383,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2825,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4433,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 5299,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3910,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 7381,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2766,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2507,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 4551,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3107,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1930,
+      "estimatedMinutes": 8
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "bookId": "lady-audleys-secret",
+  "title": "Lady Audley’s Secret",
+  "author": "M. E. Braddon",
+  "chapterCount": 41,
+  "totalWordCount": 149807,
+  "totalMinutes": 600,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Lucy",
+      "wordCount": 4443,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II: On Board the Argus",
+      "wordCount": 4248,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: Hidden Relics",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "IV: In the First Page of the Times",
+      "wordCount": 1868,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V: The Headstone at Ventnor",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "VI: Anywhere, Anywhere Out of the World",
+      "wordCount": 1861,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: After a Year",
+      "wordCount": 4239,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VIII: Before the Storm",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: After the Storm",
+      "wordCount": 2501,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X: Missing",
+      "wordCount": 1416,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: The Mark Upon My Lady’s Wrist",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: Still Missing",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Troubled Dreams",
+      "wordCount": 2526,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIV: Phoebe’s Suitor",
+      "wordCount": 2816,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV: On the Watch",
+      "wordCount": 3811,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: Robert Audley Gets His Conge",
+      "wordCount": 3137,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII: At the Castle Inn",
+      "wordCount": 2006,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Robert Receives a Visitor Whom He Had Scarcely Expected",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Writing in the Book",
+      "wordCount": 4584,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XX: Mrs. Plowson",
+      "wordCount": 2901,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI: Little Georgey Leaves His Old Home",
+      "wordCount": 4606,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXII: Coming to a Standstill",
+      "wordCount": 4889,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Clara",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIV: George’s Letters",
+      "wordCount": 2707,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXV: Retrograde Investigation",
+      "wordCount": 5507,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXVI: So Far and No Farther",
+      "wordCount": 4260,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Beginning at the Other End",
+      "wordCount": 4099,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Hidden in the Grave",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXIX: In the Lime-Walk",
+      "wordCount": 6214,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 29,
+      "title": "XXX: Preparing the Ground",
+      "wordCount": 3982,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Phoebe’s Petition",
+      "wordCount": 5182,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Red Light in the Sky",
+      "wordCount": 6710,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: The Bearer of the Tidings",
+      "wordCount": 5608,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: My Lady Tells the Truth",
+      "wordCount": 6181,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Hush That Succeeds the Tempest",
+      "wordCount": 4373,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Dr. Mosgrave’s Advice",
+      "wordCount": 3064,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: Buried Alive",
+      "wordCount": 4233,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Ghost-Haunted",
+      "wordCount": 5523,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: That Which the Dying Man Had to Tell",
+      "wordCount": 5470,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 39,
+      "title": "XL: Restored",
+      "wordCount": 3399,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 40,
+      "title": "XLI: At Peace",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    }
+  ]
+}

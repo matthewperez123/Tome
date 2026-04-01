@@ -1,0 +1,298 @@
+{
+  "bookId": "a-connecticut-yankee-in-king-arthurs-court",
+  "title": "A Connecticut Yankee in King Arthur’s Court",
+  "author": "Mark Twain",
+  "chapterCount": 48,
+  "totalWordCount": 118983,
+  "totalMinutes": 475,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 393,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 292,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "A Word of Explanation",
+      "wordCount": 2379,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "I: Camelot",
+      "wordCount": 803,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "II: King Arthur’s Court",
+      "wordCount": 2052,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "III: Knights of the Table Round",
+      "wordCount": 2128,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "IV: Sir Dinadan the Humorist",
+      "wordCount": 1163,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "V: An Inspiration",
+      "wordCount": 1959,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VI: The Eclipse",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VII: Merlin’s Tower",
+      "wordCount": 2414,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "VIII: The Boss",
+      "wordCount": 2230,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "IX: The Tournament",
+      "wordCount": 2281,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "X: Beginnings of Civilization",
+      "wordCount": 1623,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XI: The Yankee in Search of Adventures",
+      "wordCount": 2957,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XII: Slow Torture",
+      "wordCount": 1738,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XIII: Freemen!",
+      "wordCount": 3100,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XIV: “Defend Thee, Lord!”",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XV: Sandy’s Tale",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVI: Morgan le Fay",
+      "wordCount": 2349,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XVII: A Royal Banquet",
+      "wordCount": 3158,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XVIII: In the Queen’s Dungeons",
+      "wordCount": 4014,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XIX: Knight-Errantry as a Trade",
+      "wordCount": 1180,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XX: The Ogre’s Castle",
+      "wordCount": 2612,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXI: The Pilgrims",
+      "wordCount": 4455,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "XXII: The Holy Fountain",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXIII: Restoration of the Fountain",
+      "wordCount": 2786,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXIV: A Rival Magician",
+      "wordCount": 3779,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XXV: A Competitive Examination",
+      "wordCount": 4284,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "XXVI: The First Newspaper",
+      "wordCount": 3320,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXVII: The Yankee and the King Travel Incognito",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: Drilling the King",
+      "wordCount": 1499,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "XXIX: The Smallpox Hut",
+      "wordCount": 2348,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXX: The Tragedy of the Manor-House",
+      "wordCount": 3589,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXI: Marco",
+      "wordCount": 2650,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXII: Dowley’s Humiliation",
+      "wordCount": 2292,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: Sixth Century Political Economy",
+      "wordCount": 4082,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: The Yankee and the King Sold as Slaves",
+      "wordCount": 4050,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 37,
+      "title": "XXXV: A Pitiful Incident",
+      "wordCount": 2789,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXVI: An Encounter in the Dark",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "XXXVII: An Awful Predicament",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XXXVIII: Sir Launcelot and Knights to the Rescue",
+      "wordCount": 873,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XXXIX: The Yankee’s Fight with the Knights",
+      "wordCount": 3590,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "XL: Three Years Later",
+      "wordCount": 2752,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XLI: The Interdict",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 44,
+      "title": "XLII: War!",
+      "wordCount": 3923,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "XLIII: The Battle of the Sand-Belt",
+      "wordCount": 4718,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 46,
+      "title": "XLIV: A Postscript by Clarence",
+      "wordCount": 664,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 47,
+      "title": "Final P.S. by M. T.",
+      "wordCount": 632,
+      "estimatedMinutes": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "henry-viii",
+  "title": "Henry VIII",
+  "author": "William Shakespeare",
+  "chapterCount": 9,
+  "totalWordCount": 26462,
+  "totalMinutes": 107,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 482,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 157,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 266,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 5589,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 6019,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 5640,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "Act IV",
+      "wordCount": 2967,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "Act V",
+      "wordCount": 5217,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "Epilogue",
+      "wordCount": 125,
+      "estimatedMinutes": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "the-son-of-the-wolf",
+  "title": "The Son of the Wolf",
+  "author": "Jack London",
+  "chapterCount": 9,
+  "totalWordCount": 48923,
+  "totalMinutes": 197,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The White Silence",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "The Son of the Wolf",
+      "wordCount": 6128,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 2,
+      "title": "The Men of Forty-Mile",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "In a Far Country",
+      "wordCount": 6252,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "To the Man on Trail",
+      "wordCount": 3161,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "The Priestly Prerogative",
+      "wordCount": 4738,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "The Wisdom of the Trail",
+      "wordCount": 2996,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "The Wife of a King",
+      "wordCount": 5729,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "An Odyssey of the North",
+      "wordCount": 13000,
+      "estimatedMinutes": 52
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "bookId": "albert-savarus",
+  "title": "Albert Savarus",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 41597,
+  "totalMinutes": 166,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Albert Savarus",
+      "wordCount": 41597,
+      "estimatedMinutes": 166
+    }
+  ]
+}

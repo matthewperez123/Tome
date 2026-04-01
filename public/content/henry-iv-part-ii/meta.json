@@ -1,0 +1,64 @@
+{
+  "bookId": "henry-iv-part-ii",
+  "title": "Henry IV, Part II",
+  "author": "William Shakespeare",
+  "chapterCount": 9,
+  "totalWordCount": 27999,
+  "totalMinutes": 112,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 358,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 146,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Induction",
+      "wordCount": 311,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 4984,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 6755,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 3637,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "Act IV",
+      "wordCount": 7224,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "Act V",
+      "wordCount": 4247,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "Epilogue",
+      "wordCount": 337,
+      "estimatedMinutes": 1
+    }
+  ]
+}

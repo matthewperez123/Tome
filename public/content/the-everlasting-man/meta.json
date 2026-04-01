@@ -1,0 +1,136 @@
+{
+  "bookId": "the-everlasting-man",
+  "title": "The Everlasting Man",
+  "author": "G. K. Chesterton",
+  "chapterCount": 21,
+  "totalWordCount": 107006,
+  "totalMinutes": 431,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prefatory Note",
+      "wordCount": 260,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 4641,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "Part I: On the Creature Called Man",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: The Man in the Cave",
+      "wordCount": 7194,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "II: Professors and Prehistoric Men",
+      "wordCount": 6597,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "III: The Antiquity of Civilisation",
+      "wordCount": 10735,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 6,
+      "title": "IV: God and Comparative Religion",
+      "wordCount": 7723,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 7,
+      "title": "V: Man and Mythologies",
+      "wordCount": 6455,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "VI: The Demons and the Philosophers",
+      "wordCount": 8615,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 9,
+      "title": "VII: The War of the Gods and Demons",
+      "wordCount": 5922,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "VIII: The End of the World",
+      "wordCount": 5989,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "Part II: On the Man Called Christ",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I: The God in the Cave",
+      "wordCount": 6976,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 13,
+      "title": "II: The Riddles of the Gospel",
+      "wordCount": 5307,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "III: The Strangest Story in the World",
+      "wordCount": 6189,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 15,
+      "title": "IV: The Witness of the Heretics",
+      "wordCount": 7387,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 16,
+      "title": "V: The Escape from Paganism",
+      "wordCount": 7366,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 17,
+      "title": "VI: The Five Deaths of the Faith",
+      "wordCount": 4732,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "Conclusion",
+      "wordCount": 3984,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "Appendix I: On Prehistoric Man",
+      "wordCount": 517,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 20,
+      "title": "Appendix II: On Authority and Accuracy",
+      "wordCount": 403,
+      "estimatedMinutes": 2
+    }
+  ]
+}

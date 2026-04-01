@@ -1,0 +1,442 @@
+{
+  "bookId": "notre-dame-de-paris",
+  "title": "Notre-Dame de Paris",
+  "author": "Victor Hugo",
+  "chapterCount": 72,
+  "totalWordCount": 184026,
+  "totalMinutes": 746,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 321,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Grand Hall",
+      "wordCount": 5233,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "II: Pierre Gringoire",
+      "wordCount": 3219,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "III: Monsieur the Cardinal",
+      "wordCount": 2475,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV: Master Jacques Coppenole",
+      "wordCount": 3271,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V: Quasimodo",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: Esmeralda",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: From Charybdis to Scylla",
+      "wordCount": 1008,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "II: The Place de Grève",
+      "wordCount": 864,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "III: Kisses for Blows",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "IV: The Inconveniences of Following a Pretty Woman Through the Streets in the Evening",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "V: Result of the Dangers",
+      "wordCount": 791,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "VI: The Broken Jug",
+      "wordCount": 6846,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 15,
+      "title": "VII: A Bridal Night",
+      "wordCount": 3355,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I: Notre-Dame",
+      "wordCount": 3090,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "II: A Bird’s-Eye View of Paris",
+      "wordCount": 9447,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 19,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "I: Good Souls",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "II: Claude Frollo",
+      "wordCount": 1966,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "III: Immanis Pecoris Custos, Immanior Ipse",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "IV: The Dog and His Master",
+      "wordCount": 420,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "V: More About Claude Frollo",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "VI: Unpopularity",
+      "wordCount": 293,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "I: Abbas Beati Martini",
+      "wordCount": 3591,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "II: This Will Kill That",
+      "wordCount": 5534,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 29,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: An Impartial Glance at the Ancient Magistracy",
+      "wordCount": 4011,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "II: The Rat-Hole",
+      "wordCount": 1614,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "III: History of a Leavened Cake of Maize",
+      "wordCount": 7682,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 33,
+      "title": "IV: A Tear for a Drop of Water",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "V: End of the Story of the Cake",
+      "wordCount": 244,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "I: The Danger of Confiding One’s Secret to a Goat",
+      "wordCount": 5152,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 37,
+      "title": "II: A Priest and a Philosopher Are Two Different Things",
+      "wordCount": 3410,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 38,
+      "title": "III: The Bells",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 39,
+      "title": "IV: Ἀνάγκη",
+      "wordCount": 4871,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 40,
+      "title": "V: The Two Men Clothed in Black",
+      "wordCount": 2064,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 41,
+      "title": "VI: The Effect Which Seven Oaths in the Open Air Can Produce",
+      "wordCount": 1447,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "VII: The Mysterious Monk",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "VIII: The Utility of Windows Which Open on the River",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "Book VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "I: The Crown Changed Into a Dry Leaf",
+      "wordCount": 3429,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "II: Continuation of the Crown Which Was Changed Into a Dry Leaf",
+      "wordCount": 1628,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "III: End of the Crown Which Was Turned Into a Dry Leaf",
+      "wordCount": 1051,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "IV: Lasciate Ogni Speranza—Leave All Hope Behind, Ye Who Enter Here",
+      "wordCount": 5407,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 49,
+      "title": "V: The Mother",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 50,
+      "title": "VI: Three Human Hearts Differently Constructed",
+      "wordCount": 6071,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 51,
+      "title": "Book IX",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 52,
+      "title": "I: Delirium",
+      "wordCount": 4269,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "II: Hunchbacked, One-Eyed, Lame",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 54,
+      "title": "III: Deaf",
+      "wordCount": 1038,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "IV: Earthenware and Crystal",
+      "wordCount": 3929,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 56,
+      "title": "V: The Key to the Red Door",
+      "wordCount": 745,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 57,
+      "title": "VI: Continuation of the Key to the Red Door",
+      "wordCount": 1093,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 58,
+      "title": "Book X",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 59,
+      "title": "I: Gringoire Has Many Good Ideas in Succession.—Rue des Bernardins",
+      "wordCount": 3507,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 60,
+      "title": "II: Turn Vagabond",
+      "wordCount": 705,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 61,
+      "title": "III: Long Live Mirth",
+      "wordCount": 2887,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 62,
+      "title": "IV: An Awkward Friend",
+      "wordCount": 7257,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 63,
+      "title": "V: The Retreat in Which Monsieur Louis of France Says His Prayers",
+      "wordCount": 11251,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 64,
+      "title": "VI: Little Sword in Pocket",
+      "wordCount": 311,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 65,
+      "title": "VII: Châteaupers to the Rescue",
+      "wordCount": 724,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 66,
+      "title": "Book XI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 67,
+      "title": "I: The Little Shoe",
+      "wordCount": 12607,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 68,
+      "title": "II: “La Creatura Bella Bianco Vestita”",
+      "wordCount": 3328,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 69,
+      "title": "III: The Marriage of Phoebus",
+      "wordCount": 270,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 70,
+      "title": "IV: The Marriage of Quasimodo",
+      "wordCount": 758,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 71,
+      "title": "Note",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    }
+  ]
+}

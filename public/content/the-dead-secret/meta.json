@@ -1,0 +1,220 @@
+{
+  "bookId": "the-dead-secret",
+  "title": "The Dead Secret",
+  "author": "Wilkie Collins",
+  "chapterCount": 35,
+  "totalWordCount": 140452,
+  "totalMinutes": 568,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Twenty-Third of August, 1829",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "II: The Child",
+      "wordCount": 1899,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: The Hiding of the Secret",
+      "wordCount": 3584,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: Fifteen Years After",
+      "wordCount": 5438,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "II: The Sale of Porthgenna Tower",
+      "wordCount": 4814,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "III: The Bride and Bridegroom",
+      "wordCount": 6455,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: Timon of London",
+      "wordCount": 5318,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "II: Will They Come?",
+      "wordCount": 1769,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "III: Mrs. Jazeph",
+      "wordCount": 4237,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "IV: The New Nurse",
+      "wordCount": 8727,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 13,
+      "title": "V: A Council of Three",
+      "wordCount": 2903,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "VI: Another Surprise",
+      "wordCount": 2638,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: A Plot Against the Secret",
+      "wordCount": 6584,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 17,
+      "title": "II: Outside the House",
+      "wordCount": 6289,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "III: Inside the House",
+      "wordCount": 6739,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 19,
+      "title": "IV: Mr. Munder on the Seat of Judgment",
+      "wordCount": 6023,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 20,
+      "title": "V: Mozart Plays Farewell",
+      "wordCount": 5953,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 21,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "I: An Old Friend and a New Scheme",
+      "wordCount": 2861,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "II: The Beginning of the End",
+      "wordCount": 3399,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "III: Approaching the Precipice",
+      "wordCount": 4575,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "IV: Standing on the Brink",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "V: The Myrtle Room",
+      "wordCount": 6202,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 27,
+      "title": "VI: The Telling of the Secret",
+      "wordCount": 3992,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "I: Uncle Joseph",
+      "wordCount": 6211,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 30,
+      "title": "II: Waiting and Hoping",
+      "wordCount": 6270,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 31,
+      "title": "III: The Story of the Past",
+      "wordCount": 6886,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 32,
+      "title": "IV: The Close of Day",
+      "wordCount": 7072,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 33,
+      "title": "V: Forty Thousand Pounds",
+      "wordCount": 3614,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "VI: The Dawn of a New Life",
+      "wordCount": 906,
+      "estimatedMinutes": 4
+    }
+  ]
+}

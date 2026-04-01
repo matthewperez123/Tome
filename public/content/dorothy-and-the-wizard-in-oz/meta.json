@@ -1,0 +1,136 @@
+{
+  "bookId": "dorothy-and-the-wizard-in-oz",
+  "title": "Dorothy and the Wizard in Oz",
+  "author": "L. Frank Baum",
+  "chapterCount": 21,
+  "totalWordCount": 41942,
+  "totalMinutes": 168,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To My Readers",
+      "wordCount": 665,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: The Earthquake",
+      "wordCount": 1446,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "II: The Glass City",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: The Arrival of the Wizard",
+      "wordCount": 2524,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: The Vegetable Kingdom",
+      "wordCount": 1845,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V: Dorothy Picks the Princess",
+      "wordCount": 2116,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: The Mangaboos Prove Dangerous",
+      "wordCount": 1831,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: Into the Black Pit and Out Again",
+      "wordCount": 1222,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Valley of Voices",
+      "wordCount": 1659,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX: They Fight the Invisible Bears",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X: The Braided Man of Pyramid Mountain",
+      "wordCount": 1587,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XI: They Meet the Wooden Gargoyles",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: A Wonderful Escape",
+      "wordCount": 2692,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Den of the Dragonettes",
+      "wordCount": 2070,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV: Ozma Uses the Magic Belt",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XV: Old Friends Are Reunited",
+      "wordCount": 2892,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVI: Jim, the Cab-Horse",
+      "wordCount": 2212,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Nine Tiny Piglets",
+      "wordCount": 2305,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Trial of Eureka the Kitten",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Wizard Performs Another Trick",
+      "wordCount": 1817,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XX: Zeb Returns to the Ranch",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    }
+  ]
+}

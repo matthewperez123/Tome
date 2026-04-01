@@ -1,0 +1,100 @@
+{
+  "bookId": "the-haunted-bookshop",
+  "title": "The Haunted Bookshop",
+  "author": "Christopher Morley",
+  "chapterCount": 15,
+  "totalWordCount": 61687,
+  "totalMinutes": 248,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Haunted Bookshop",
+      "wordCount": 5584,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 1,
+      "title": "II: The Corn Cob Club",
+      "wordCount": 5634,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "III: Titania Arrives",
+      "wordCount": 4765,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV: The Disappearing Volume",
+      "wordCount": 4666,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "V: Aubrey Walks Part Way Home—and Rides the Rest of the Way",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: Titania Learns the Business",
+      "wordCount": 5631,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "VII: Aubrey Takes Lodgings",
+      "wordCount": 3969,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII: Aubrey Goes to the Movies, and Wishes He Knew More German",
+      "wordCount": 3693,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: Again the Narrative Is Retarded",
+      "wordCount": 3304,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "X: Roger Raids the Icebox",
+      "wordCount": 2380,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: Titania Tries Reading in Bed",
+      "wordCount": 4077,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XII: Aubrey Determines to Give Service That’s Different",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Battle of Ludlow Street",
+      "wordCount": 3717,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Cromwell Makes Its Last Appearance",
+      "wordCount": 4396,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "XV: Mr. Chapman Waves His Wand",
+      "wordCount": 4217,
+      "estimatedMinutes": 17
+    }
+  ]
+}

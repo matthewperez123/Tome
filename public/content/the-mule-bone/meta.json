@@ -1,0 +1,40 @@
+{
+  "bookId": "the-mule-bone",
+  "title": "The Mule-Bone: A Comedy of Negro Life in Three Acts",
+  "author": "Langston Hughes & Zora Neale Hurston",
+  "chapterCount": 5,
+  "totalWordCount": 18928,
+  "totalMinutes": 76,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 433,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Characters",
+      "wordCount": 204,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 12051,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 2555,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    }
+  ]
+}

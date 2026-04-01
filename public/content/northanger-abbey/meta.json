@@ -1,0 +1,202 @@
+{
+  "bookId": "northanger-abbey",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "chapterCount": 32,
+  "totalWordCount": 77556,
+  "totalMinutes": 311,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Advertisement",
+      "wordCount": 136,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1714,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1302,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1280,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1697,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2724,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3300,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3943,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3116,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3387,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3184,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 2748,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1417,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2083,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 2976,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 3397,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 2805,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 2924,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 2554,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 1302,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXIX",
+      "wordCount": 3336,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXXI",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "bookId": "tarzan-the-untamed",
+  "title": "Tarzan the Untamed",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 24,
+  "totalWordCount": 108953,
+  "totalMinutes": 434,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Murder and Pillage",
+      "wordCount": 4831,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II: The Lion’s Cave",
+      "wordCount": 5455,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "III: In the German Lines",
+      "wordCount": 3577,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "IV: When the Lion Fed",
+      "wordCount": 5677,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "V: The Golden Locket",
+      "wordCount": 5198,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: Vengeance and Mercy",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII: When Blood Told",
+      "wordCount": 3968,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII: Tarzan and the Great Apes",
+      "wordCount": 6573,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "IX: Dropped from the Sky",
+      "wordCount": 5542,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "X: In the Hands of Savages",
+      "wordCount": 5708,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 10,
+      "title": "XI: Finding the Airplane",
+      "wordCount": 4225,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XII: The Black Flier",
+      "wordCount": 2936,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII: Usanga’s Reward",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Black Lion",
+      "wordCount": 4357,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: Mysterious Footprints",
+      "wordCount": 4862,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Night Attack",
+      "wordCount": 3255,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Walled City",
+      "wordCount": 4078,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Among the Maniacs",
+      "wordCount": 5247,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Queen’s Story",
+      "wordCount": 6093,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "XX: Came Tarzan",
+      "wordCount": 3369,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XXI: In the Alcove",
+      "wordCount": 4939,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "XXII: Out of the Niche",
+      "wordCount": 3572,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Flight from Xuja",
+      "wordCount": 5101,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Tommies",
+      "wordCount": 3241,
+      "estimatedMinutes": 13
+    }
+  ]
+}

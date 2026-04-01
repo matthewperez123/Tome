@@ -1,0 +1,838 @@
+{
+  "bookId": "moby-dick",
+  "title": "Moby Dick: Or, The Whale",
+  "author": "Herman Melville",
+  "chapterCount": 138,
+  "totalWordCount": 211615,
+  "totalMinutes": 850,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Etymology",
+      "wordCount": 194,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Extracts",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "I: Loomings",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II: The Carpetbag",
+      "wordCount": 1436,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "III: The Spouter-Inn",
+      "wordCount": 5851,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "IV: The Counterpane",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V: Breakfast",
+      "wordCount": 742,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI: The Street",
+      "wordCount": 813,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VII: The Chapel",
+      "wordCount": 950,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Pulpit",
+      "wordCount": 950,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX: The Sermon",
+      "wordCount": 3592,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "X: A Bosom Friend",
+      "wordCount": 1563,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XI: Nightgown",
+      "wordCount": 723,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XII: Biographical",
+      "wordCount": 882,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIII: Wheelbarrow",
+      "wordCount": 1698,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XIV: Nantucket",
+      "wordCount": 756,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV: Chowder",
+      "wordCount": 1185,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Ship",
+      "wordCount": 5498,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Ramadan",
+      "wordCount": 2275,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XVIII: His Mark",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Prophet",
+      "wordCount": 1218,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XX: All Astir",
+      "wordCount": 921,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXI: Going Aboard",
+      "wordCount": 1073,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XXII: Merry Christmas",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Lee Shore",
+      "wordCount": 365,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Advocate",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXV: Postscript",
+      "wordCount": 282,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Knights and Squires",
+      "wordCount": 1220,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Knights and Squires",
+      "wordCount": 1675,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Ahab",
+      "wordCount": 1402,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Enter Ahab; To Him, Stubb",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXX: The Pipe",
+      "wordCount": 292,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "XXXI: Queen Mab",
+      "wordCount": 860,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Cetology",
+      "wordCount": 5035,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: The Specksnyder",
+      "wordCount": 966,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: The Cabin-Table",
+      "wordCount": 2194,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "XXXV: The Masthead",
+      "wordCount": 2543,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: The Quarterdeck",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: Sunset",
+      "wordCount": 509,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: Dusk",
+      "wordCount": 394,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: First Night-Watch",
+      "wordCount": 270,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "XL: Midnight, Forecastle",
+      "wordCount": 1591,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XLI: Moby Dick",
+      "wordCount": 3775,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "XLII: The Whiteness of the Whale",
+      "wordCount": 2993,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "XLIII: Hark!",
+      "wordCount": 304,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "XLIV: The Chart",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLV: The Affidavit",
+      "wordCount": 3267,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 47,
+      "title": "XLVI: Surmises",
+      "wordCount": 997,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "XLVII: The Mat-Maker",
+      "wordCount": 924,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: The First Lowering",
+      "wordCount": 3948,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 50,
+      "title": "XLIX: The Hyena",
+      "wordCount": 838,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "L: Ahab’s Boat and Crew. Fedallah",
+      "wordCount": 1008,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "LI: The Spirit-Spout",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 53,
+      "title": "LII: The Albatross",
+      "wordCount": 719,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 54,
+      "title": "LIII: The Gam",
+      "wordCount": 1616,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 55,
+      "title": "LIV: The Town-Ho’s Story",
+      "wordCount": 8008,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 56,
+      "title": "LV: Of the Monstrous Pictures of Whales",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 57,
+      "title": "LVI: Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes",
+      "wordCount": 1305,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 58,
+      "title": "LVII: Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars",
+      "wordCount": 945,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 59,
+      "title": "LVIII: Brit",
+      "wordCount": 950,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "LIX: Squid",
+      "wordCount": 920,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 61,
+      "title": "LX: The Line",
+      "wordCount": 1461,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "LXI: Stubb Kills a Whale",
+      "wordCount": 1807,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 63,
+      "title": "LXII: The Dart",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 64,
+      "title": "LXIII: The Crotch",
+      "wordCount": 475,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 65,
+      "title": "LXIV: Stubb’s Supper",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 66,
+      "title": "LXV: The Whale as a Dish",
+      "wordCount": 991,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 67,
+      "title": "LXVI: The Shark Massacre",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 68,
+      "title": "LXVII: Cutting In",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 69,
+      "title": "LXVIII: The Blanket",
+      "wordCount": 1197,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 70,
+      "title": "LXIX: The Funeral",
+      "wordCount": 434,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 71,
+      "title": "LXX: The Sphynx",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 72,
+      "title": "LXXI: The Jeroboam’s Story",
+      "wordCount": 2269,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 73,
+      "title": "LXXII: The Monkey-Rope",
+      "wordCount": 1579,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 74,
+      "title": "LXXIII: Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him",
+      "wordCount": 2170,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 75,
+      "title": "LXXIV: The Sperm Whale’s Head—Contrasted View",
+      "wordCount": 1636,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 76,
+      "title": "LXXV: The Right Whale’s Head—Contrasted View",
+      "wordCount": 1178,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 77,
+      "title": "LXXVI: The Battering-Ram",
+      "wordCount": 869,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 78,
+      "title": "LXXVII: The Great Heidelburgh Tun",
+      "wordCount": 587,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 79,
+      "title": "LXXVIII: Cistern and Buckets",
+      "wordCount": 1646,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 80,
+      "title": "LXXIX: The Prairie",
+      "wordCount": 931,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "LXXX: The Nut",
+      "wordCount": 902,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 82,
+      "title": "LXXXI: The Pequod Meets the Virgin",
+      "wordCount": 4341,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 83,
+      "title": "LXXXII: The Honor and Glory of Whaling",
+      "wordCount": 1151,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 84,
+      "title": "LXXXIII: Jonah Historically Regarded",
+      "wordCount": 781,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 85,
+      "title": "LXXXIV: Pitchpoling",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 86,
+      "title": "LXXXV: The Fountain",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 87,
+      "title": "LXXXVI: The Tail",
+      "wordCount": 1764,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 88,
+      "title": "LXXXVII: The Grand Armada",
+      "wordCount": 4615,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 89,
+      "title": "LXXXVIII: Schools and Schoolmasters",
+      "wordCount": 1188,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 90,
+      "title": "LXXXIX: Fast-Fish and Loose-Fish",
+      "wordCount": 1395,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 91,
+      "title": "XC: Heads or Tails",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 92,
+      "title": "XCI: The Pequod Meets the Rose-Bud",
+      "wordCount": 2474,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 93,
+      "title": "XCII: Ambergris",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 94,
+      "title": "XCIII: The Castaway",
+      "wordCount": 1603,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 95,
+      "title": "XCIV: A Squeeze of the Hand",
+      "wordCount": 1266,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 96,
+      "title": "XCV: The Cassock",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 97,
+      "title": "XCVI: The Try-Works",
+      "wordCount": 1820,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 98,
+      "title": "XCVII: The Lamp",
+      "wordCount": 245,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 99,
+      "title": "XCVIII: Stowing Down and Clearing Up",
+      "wordCount": 1023,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "XCIX: The Doubloon",
+      "wordCount": 2429,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 101,
+      "title": "C: Leg and Arm",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 102,
+      "title": "CI: The Decanter",
+      "wordCount": 1769,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 103,
+      "title": "CII: A Bower in the Arsacides",
+      "wordCount": 1547,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 104,
+      "title": "CIII: Measurement of the Whale’s Skeleton",
+      "wordCount": 921,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 105,
+      "title": "CIV: The Fossil Whale",
+      "wordCount": 1417,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 106,
+      "title": "CV: Does the Whale’s Magnitude Diminish?—Will He Perish?",
+      "wordCount": 1554,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 107,
+      "title": "CVI: Ahab’s Leg",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 108,
+      "title": "CVII: The Carpenter",
+      "wordCount": 1039,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 109,
+      "title": "CVIII: Ahab and the Carpenter",
+      "wordCount": 1575,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 110,
+      "title": "CIX: Ahab and Starbuck in the Cabin",
+      "wordCount": 843,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 111,
+      "title": "CX: Queequeg in His Coffin",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 112,
+      "title": "CXI: The Pacific",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 113,
+      "title": "CXII: The Blacksmith",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 114,
+      "title": "CXIII: The Forge",
+      "wordCount": 1226,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 115,
+      "title": "CXIV: The Gilder",
+      "wordCount": 641,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 116,
+      "title": "CXV: The Pequod Meets the Bachelor",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 117,
+      "title": "CXVI: The Dying Whale",
+      "wordCount": 517,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 118,
+      "title": "CXVII: The Whale Watch",
+      "wordCount": 473,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 119,
+      "title": "CXVIII: The Quadrant",
+      "wordCount": 890,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 120,
+      "title": "CXIX: The Candles",
+      "wordCount": 2530,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 121,
+      "title": "CXX: The Deck Towards the End of the First Night Watch",
+      "wordCount": 181,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 122,
+      "title": "CXXI: Midnight.—The Forecastle Bulwarks",
+      "wordCount": 621,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 123,
+      "title": "CXXII: Midnight Aloft.—Thunder and Lightning",
+      "wordCount": 51,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 124,
+      "title": "CXXIII: The Musket",
+      "wordCount": 1237,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 125,
+      "title": "CXXIV: The Needle",
+      "wordCount": 1200,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 126,
+      "title": "CXXV: The Log and Line",
+      "wordCount": 1103,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 127,
+      "title": "CXXVI: The Life-Buoy",
+      "wordCount": 1367,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 128,
+      "title": "CXXVII: The Deck",
+      "wordCount": 704,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 129,
+      "title": "CXXVIII: The Pequod Meets the Rachel",
+      "wordCount": 1409,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 130,
+      "title": "CXXIX: The Cabin",
+      "wordCount": 581,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 131,
+      "title": "CXXX: The Hat",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 132,
+      "title": "CXXXI: The Pequod Meets the Delight",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 133,
+      "title": "CXXXII: The Symphony",
+      "wordCount": 1613,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 134,
+      "title": "CXXXIII: The Chase—First Day",
+      "wordCount": 3492,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 135,
+      "title": "CXXXIV: The Chase—Second Day",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 136,
+      "title": "CXXXV: The Chase—Third Day",
+      "wordCount": 4522,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 137,
+      "title": "Epilogue",
+      "wordCount": 257,
+      "estimatedMinutes": 1
+    }
+  ]
+}

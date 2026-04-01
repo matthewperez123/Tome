@@ -1,0 +1,16 @@
+{
+  "bookId": "new-hampshire",
+  "title": "New Hampshire: A Poem with Notes and Grace Notes",
+  "author": "Robert Frost",
+  "chapterCount": 1,
+  "totalWordCount": 19454,
+  "totalMinutes": 78,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 19454,
+      "estimatedMinutes": 78
+    }
+  ]
+}

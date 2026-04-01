@@ -1,0 +1,142 @@
+{
+  "bookId": "a-room-with-a-view",
+  "title": "A Room With a View",
+  "author": "E. M. Forster",
+  "chapterCount": 22,
+  "totalWordCount": 67267,
+  "totalMinutes": 273,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Bertolini",
+      "wordCount": 3882,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "II: In Santa Croce with No Baedeker",
+      "wordCount": 4942,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "III: Music, Violets, and the Letter S",
+      "wordCount": 3424,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: Fourth Chapter",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V: Possibilities of a Pleasant Outing",
+      "wordCount": 3918,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them",
+      "wordCount": 3644,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VII: They Return",
+      "wordCount": 3628,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "VIII: Medieval",
+      "wordCount": 4720,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX: Lucy as a Work of Art",
+      "wordCount": 4202,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "X: Cecil as a Humourist",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XI: In Mrs. Vyse’s Well-Appointed Flat",
+      "wordCount": 1715,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XII: Twelfth Chapter",
+      "wordCount": 2918,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIII: How Miss Bartlett’s Boiler Was So Tiresome",
+      "wordCount": 2545,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XIV: How Lucy Faced the External Situation Bravely",
+      "wordCount": 1971,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XV: The Disaster Within",
+      "wordCount": 4366,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XVI: Lying to George",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVII: Lying to Cecil",
+      "wordCount": 2015,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and the Servants",
+      "wordCount": 5133,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 20,
+      "title": "XIX: Lying to Mr. Emerson",
+      "wordCount": 5077,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "XX: The End of the Middle Ages",
+      "wordCount": 1580,
+      "estimatedMinutes": 6
+    }
+  ]
+}

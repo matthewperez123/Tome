@@ -1,0 +1,124 @@
+{
+  "bookId": "the-secret-of-sarek",
+  "title": "The Secret of Sarek",
+  "author": "Maurice Leblanc",
+  "chapterCount": 19,
+  "totalWordCount": 91743,
+  "totalMinutes": 366,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 452,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Deserted Cabin",
+      "wordCount": 3746,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: On the Edge of the Atlantic",
+      "wordCount": 4105,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "III: Vorski’s Son",
+      "wordCount": 5964,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "IV: The Poor People of Sarek",
+      "wordCount": 4583,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "V: “Four Women Crucified”",
+      "wordCount": 6596,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "VI: All’s Well",
+      "wordCount": 5123,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: François and Stéphane",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "VIII: Anguish",
+      "wordCount": 4560,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "IX: The Death-Chamber",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X: The Escape",
+      "wordCount": 4729,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XI: The Scourge of God",
+      "wordCount": 5754,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: The Ascent of Golgotha",
+      "wordCount": 5473,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIII: “Eloi, Eloi, Lama Sabachthani!”",
+      "wordCount": 4653,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Ancient Druid",
+      "wordCount": 5092,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XV: The Hall of the Underground Sacrifices",
+      "wordCount": 6531,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Hall of the Kings of Bohemia",
+      "wordCount": 5126,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVII: “Cruel Prince, Obeying Destiny”",
+      "wordCount": 5656,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The God-Stone",
+      "wordCount": 6096,
+      "estimatedMinutes": 24
+    }
+  ]
+}

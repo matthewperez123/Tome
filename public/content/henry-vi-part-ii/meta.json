@@ -1,0 +1,52 @@
+{
+  "bookId": "henry-vi-part-ii",
+  "title": "Henry VI, Part II",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 27247,
+  "totalMinutes": 110,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 423,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 176,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 5578,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4394,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6935,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 6773,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 2968,
+      "estimatedMinutes": 12
+    }
+  ]
+}

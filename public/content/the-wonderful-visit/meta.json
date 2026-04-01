@@ -1,0 +1,334 @@
+{
+  "bookId": "the-wonderful-visit",
+  "title": "The Wonderful Visit",
+  "author": "H. G. Wells",
+  "chapterCount": 54,
+  "totalWordCount": 39286,
+  "totalMinutes": 159,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 363,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Night of the Strange Bird",
+      "wordCount": 364,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "II: The Coming of the Strange Bird",
+      "wordCount": 682,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "III: The Hunting of the Strange Bird",
+      "wordCount": 500,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "IV: The Hunting of the Strange Bird (Continued)",
+      "wordCount": 365,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "V: The Hunting of the Strange Bird (Continued)",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "VI: The Vicar and the Angel",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: The Vicar and the Angel (Continued)",
+      "wordCount": 508,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Vicar and the Angel (Continued)",
+      "wordCount": 617,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 9,
+      "title": "IX: Parenthesis on Angels",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "X: At the Vicarage",
+      "wordCount": 605,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "XI: At the Vicarage (Continued)",
+      "wordCount": 383,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 12,
+      "title": "XII: At the Vicarage (Continued)",
+      "wordCount": 770,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Man of Science",
+      "wordCount": 752,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Man of Science (Continued)",
+      "wordCount": 912,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XV: The Curate",
+      "wordCount": 756,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Curate (Continued)",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Curate (Continued)",
+      "wordCount": 636,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XVIII: After Dinner",
+      "wordCount": 1716,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: After Dinner (Continued)",
+      "wordCount": 323,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XX: After Dinner (Continued)",
+      "wordCount": 674,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "XXI: After Dinner (Continued)",
+      "wordCount": 651,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXII: Morning",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The Violin",
+      "wordCount": 769,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Angel Explores the Village",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Angel Explores the Village (Continued)",
+      "wordCount": 332,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Angel Explores the Village (Continued)",
+      "wordCount": 1168,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Angel Explores the Village (Continued)",
+      "wordCount": 787,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Lady Hammergallow’s View",
+      "wordCount": 1298,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Further Adventures of the Angel in the Village",
+      "wordCount": 954,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXX: Further Adventures of the Angel in the Village (Continued)",
+      "wordCount": 1160,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Mrs. Jehoram’s Breadth of View",
+      "wordCount": 835,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "XXXII: A Trivial Incident",
+      "wordCount": 242,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Warp and the Woof of Things",
+      "wordCount": 538,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: The Angel’s Debut",
+      "wordCount": 3067,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "XXXV: The Angel’s Debut (Continued)",
+      "wordCount": 497,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: The Angel’s Debut (Continued)",
+      "wordCount": 153,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Angel’s Debut (Continued)",
+      "wordCount": 422,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Trouble of the Barbed Wire",
+      "wordCount": 900,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: The Trouble of the Barbed Wire (Continued)",
+      "wordCount": 497,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 40,
+      "title": "XL: Delia",
+      "wordCount": 702,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XLI: Doctor Crump Acts",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XLII: Sir John Gotch Acts",
+      "wordCount": 724,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Sea Cliff",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Mrs. Hinijer Acts",
+      "wordCount": 642,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Angel in Trouble",
+      "wordCount": 536,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Angel in Trouble (Continued)",
+      "wordCount": 577,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The Last Day of the Visit",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: The Last Day of the Visit (Continued)",
+      "wordCount": 896,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 49,
+      "title": "XLIX: The Last Day of the Visit (Continued)",
+      "wordCount": 168,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "L: The Last Day of the Visit (Continued)",
+      "wordCount": 448,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 51,
+      "title": "LI: The Last Day of the Visit (Continued)",
+      "wordCount": 437,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 52,
+      "title": "LII: The Last Day of the Visit (Continued)",
+      "wordCount": 247,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 53,
+      "title": "LIII: The Epilogue",
+      "wordCount": 462,
+      "estimatedMinutes": 2
+    }
+  ]
+}

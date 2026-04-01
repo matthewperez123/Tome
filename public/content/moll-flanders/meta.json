@@ -1,0 +1,22 @@
+{
+  "bookId": "moll-flanders",
+  "title": "Moll Flanders",
+  "author": "Daniel Defoe",
+  "chapterCount": 2,
+  "totalWordCount": 138163,
+  "totalMinutes": 552,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Preface",
+      "wordCount": 1823,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Moll Flanders",
+      "wordCount": 136340,
+      "estimatedMinutes": 545
+    }
+  ]
+}

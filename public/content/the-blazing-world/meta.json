@@ -1,0 +1,34 @@
+{
+  "bookId": "the-blazing-world",
+  "title": "The Blazing World",
+  "author": "Margaret Cavendish",
+  "chapterCount": 4,
+  "totalWordCount": 40224,
+  "totalMinutes": 160,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 341,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Description of a New World, Called the Blazing-World",
+      "wordCount": 31103,
+      "estimatedMinutes": 124
+    },
+    {
+      "index": 2,
+      "title": "The Second Part of the Description of the New Blazing-World",
+      "wordCount": 8335,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 3,
+      "title": "The Epilogue to the Reader",
+      "wordCount": 445,
+      "estimatedMinutes": 2
+    }
+  ]
+}

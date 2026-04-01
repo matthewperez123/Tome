@@ -1,0 +1,184 @@
+{
+  "bookId": "a-princess-of-mars",
+  "title": "A Princess of Mars",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 29,
+  "totalWordCount": 67086,
+  "totalMinutes": 269,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I: On the Arizona Hills",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: The Escape of the Dead",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III: My Advent on Mars",
+      "wordCount": 2600,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: A Prisoner",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V: I Elude My Watch Dog",
+      "wordCount": 1529,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI: A Fight That Won Friends",
+      "wordCount": 1628,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: Child-Raising on Mars",
+      "wordCount": 2003,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: A Fair Captive from the Sky",
+      "wordCount": 2027,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX: I Learn the Language",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "X: Champion and Chief",
+      "wordCount": 3516,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI: With Dejah Thoris",
+      "wordCount": 2386,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII: A Prisoner with Power",
+      "wordCount": 1890,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII: Lovemaking on Mars",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Duel to the Death",
+      "wordCount": 3260,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV: Sola Tells Me Her Story",
+      "wordCount": 3165,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVI: We Plan Escape",
+      "wordCount": 3765,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Costly Recapture",
+      "wordCount": 3022,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Chained in Warhoon",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XIX: Battling in the Arena",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XX: In the Atmosphere Factory",
+      "wordCount": 3310,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: An Air Scout for Zodanga",
+      "wordCount": 3508,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXII: I Find Dejah",
+      "wordCount": 3498,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Lost in the Sky",
+      "wordCount": 2250,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Tars Tarkas Finds a Friend",
+      "wordCount": 2619,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Looting of Zodanga",
+      "wordCount": 1815,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Through Carnage to Joy",
+      "wordCount": 2182,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVII: From Joy to Death",
+      "wordCount": 1886,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: At the Arizona Cave",
+      "wordCount": 670,
+      "estimatedMinutes": 3
+    }
+  ]
+}

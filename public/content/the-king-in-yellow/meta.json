@@ -1,0 +1,70 @@
+{
+  "bookId": "the-king-in-yellow",
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "chapterCount": 10,
+  "totalWordCount": 71637,
+  "totalMinutes": 286,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Repairer of Reputations",
+      "wordCount": 12247,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 1,
+      "title": "The Mask",
+      "wordCount": 6627,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "In the Court of the Dragon",
+      "wordCount": 3356,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "The Yellow Sign",
+      "wordCount": 7346,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "The Demoiselle d’Ys",
+      "wordCount": 5799,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "The Prophets’ Paradise",
+      "wordCount": 1013,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "The Street of the Four Winds",
+      "wordCount": 2298,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "The Street of the First Shell",
+      "wordCount": 11923,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 8,
+      "title": "The Street of Our Lady of the Fields",
+      "wordCount": 13109,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 9,
+      "title": "Rue Barrée",
+      "wordCount": 7919,
+      "estimatedMinutes": 32
+    }
+  ]
+}

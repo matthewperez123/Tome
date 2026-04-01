@@ -1,0 +1,64 @@
+{
+  "bookId": "the-faerie-queene",
+  "title": "The Faerie Queene",
+  "author": "Edmund Spenser",
+  "chapterCount": 9,
+  "totalWordCount": 276264,
+  "totalMinutes": 1105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 322,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "A Letter to Sir Walter Raleigh",
+      "wordCount": 1515,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "Book I: The Legend of the Knight of the Red Cross, or of Holiness",
+      "wordCount": 44485,
+      "estimatedMinutes": 178
+    },
+    {
+      "index": 3,
+      "title": "Book II: The Legend of Sir Guyon, or of Temperance",
+      "wordCount": 48310,
+      "estimatedMinutes": 193
+    },
+    {
+      "index": 4,
+      "title": "Book III: The Legend of Britomartis, or of Chastity",
+      "wordCount": 47995,
+      "estimatedMinutes": 192
+    },
+    {
+      "index": 5,
+      "title": "Book IV: The Legend of Cambel and Triamond, or of Friendship",
+      "wordCount": 42843,
+      "estimatedMinutes": 171
+    },
+    {
+      "index": 6,
+      "title": "Book V: The Legend of Artegall, or of Justice",
+      "wordCount": 41676,
+      "estimatedMinutes": 167
+    },
+    {
+      "index": 7,
+      "title": "Book VI: The Legend of Calidore, or of Courtesy",
+      "wordCount": 40672,
+      "estimatedMinutes": 163
+    },
+    {
+      "index": 8,
+      "title": "Mutability: The Legend of Constancy",
+      "wordCount": 8446,
+      "estimatedMinutes": 34
+    }
+  ]
+}

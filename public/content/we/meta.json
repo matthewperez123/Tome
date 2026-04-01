@@ -1,0 +1,256 @@
+{
+  "bookId": "we",
+  "title": "We",
+  "author": "Yevgeny Zamyatin",
+  "chapterCount": 41,
+  "totalWordCount": 64659,
+  "totalMinutes": 259,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 1709,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Record One",
+      "wordCount": 510,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Record Two",
+      "wordCount": 1748,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "Record Three",
+      "wordCount": 1501,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "Record Four",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "Record Five",
+      "wordCount": 921,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "Record Six",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "Record Seven",
+      "wordCount": 1787,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "Record Eight",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "Record Nine",
+      "wordCount": 1222,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "Record Ten",
+      "wordCount": 2662,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "Record Eleven",
+      "wordCount": 1600,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "Record Twelve",
+      "wordCount": 1264,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "Record Thirteen",
+      "wordCount": 1824,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "Record Fourteen",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "Record Fifteen",
+      "wordCount": 1523,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "Record Sixteen",
+      "wordCount": 2144,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "Record Seventeen",
+      "wordCount": 2175,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "Record Eighteen",
+      "wordCount": 2106,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "Record Nineteen",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "Record Twenty",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "Record Twenty-One",
+      "wordCount": 1885,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "Record Twenty-Two",
+      "wordCount": 1260,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "Record Twenty-Three",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "Record Twenty-Four",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "Record Twenty-Five",
+      "wordCount": 2247,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "Record Twenty-Six",
+      "wordCount": 1233,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "Record Twenty-Seven",
+      "wordCount": 2076,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "Record Twenty-Eight",
+      "wordCount": 2623,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "Record Twenty-Nine",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "Record Thirty",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "Record Thirty-One",
+      "wordCount": 2262,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "Record Thirty-Two",
+      "wordCount": 2051,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "Record Thirty-Three",
+      "wordCount": 297,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "Record Thirty-Four",
+      "wordCount": 2669,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "Record Thirty-Five",
+      "wordCount": 1983,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "Record Thirty-Six",
+      "wordCount": 1336,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "Record Thirty-Seven",
+      "wordCount": 1260,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "Record Thirty-Eight",
+      "wordCount": 837,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "Record Thirty-Nine",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "Record Forty",
+      "wordCount": 492,
+      "estimatedMinutes": 2
+    }
+  ]
+}

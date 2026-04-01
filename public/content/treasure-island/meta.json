@@ -1,0 +1,250 @@
+{
+  "bookId": "treasure-island",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "chapterCount": 40,
+  "totalWordCount": 68115,
+  "totalMinutes": 280,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: The Old Buccaneer",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: At the Admiral Benbow",
+      "wordCount": 2210,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: Black Dog Appears and Disappears",
+      "wordCount": 2266,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: The Black Spot",
+      "wordCount": 2165,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV: The Sea-Chest",
+      "wordCount": 2146,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "V: The Last of the Blind Man",
+      "wordCount": 1867,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Captain’s Papers",
+      "wordCount": 1968,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "Part II: The Sea-Cook",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "VII: I Go to Bristol",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII: At the Sign of the Spy-Glass",
+      "wordCount": 1787,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "IX: Powder and Arms",
+      "wordCount": 1720,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "X: The Voyage",
+      "wordCount": 1951,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XI: What I Heard in the Apple Barrel",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XII: Council of War",
+      "wordCount": 1849,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "Part III: My Shore Adventure",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XIII: How My Shore Adventure Began",
+      "wordCount": 1802,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XIV: The First Blow",
+      "wordCount": 1925,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XV: The Man of the Island",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "Part IV: The Stockade",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "XVI: Narrative Continued by the Doctor—How the Ship Was Abandoned",
+      "wordCount": 1658,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XVII: Narrative Continued by the Doctor—The Jolly-Boat’s Last Trip",
+      "wordCount": 1492,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XVIII: Narrative Continued by the Doctor—End of the First Day’s Fighting",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XIX: Narrative Resumed by Jim Hawkins—The Garrison in the Stockade",
+      "wordCount": 2029,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XX: Silver’s Embassy",
+      "wordCount": 1898,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXI: The Attack",
+      "wordCount": 1976,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "Part V: My Sea Adventure",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XXII: How My Sea Adventure Began",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXIII: The Ebb-Tide Runs",
+      "wordCount": 1594,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXIV: The Cruise of the Coracle",
+      "wordCount": 1988,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXV: I Strike the Jolly Roger",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXVI: Israel Hands",
+      "wordCount": 2954,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXVII: “Pieces of Eight”",
+      "wordCount": 2160,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "Part VI: Captain Silver",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "XXVIII: In the Enemy’s Camp",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXIX: The Black Spot Again",
+      "wordCount": 2135,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXX: On Parole",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "XXXI: The Treasure-Hunt—Flint’s Pointer",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXII: The Treasure-Hunt—The Voice Among the Trees",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "XXXIII: The Fall of a Chieftain",
+      "wordCount": 2006,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "XXXIV: And Last",
+      "wordCount": 1907,
+      "estimatedMinutes": 8
+    }
+  ]
+}

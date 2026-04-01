@@ -1,0 +1,232 @@
+{
+  "bookId": "around-the-world-in-eighty-days",
+  "title": "Around the World in Eighty Days",
+  "author": "Jules Verne",
+  "chapterCount": 37,
+  "totalWordCount": 62476,
+  "totalMinutes": 247,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1461,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1115,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1986,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 949,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 937,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 1307,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 770,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1087,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1557,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1560,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 2086,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1917,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1619,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1729,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 1348,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2078,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 2574,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1934,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 1960,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 1610,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 1950,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 2453,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2128,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 1060,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 2492,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 971,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 1581,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "XXXVI",
+      "wordCount": 1060,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "XXXVII",
+      "wordCount": 954,
+      "estimatedMinutes": 4
+    }
+  ]
+}

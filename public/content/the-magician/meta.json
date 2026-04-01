@@ -1,0 +1,106 @@
+{
+  "bookId": "the-magician",
+  "title": "The Magician",
+  "author": "W. Somerset Maugham",
+  "chapterCount": 16,
+  "totalWordCount": 71687,
+  "totalMinutes": 286,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2529,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3120,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 5615,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2709,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 5691,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 5026,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 6692,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 5251,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3507,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 4986,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 5212,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 4663,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2512,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 6576,
+      "estimatedMinutes": 26
+    }
+  ]
+}

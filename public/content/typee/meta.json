@@ -1,0 +1,238 @@
+{
+  "bookId": "typee",
+  "title": "Typee: A Real Romance of the South Sea",
+  "author": "Herman Melville",
+  "chapterCount": 38,
+  "totalWordCount": 112421,
+  "totalMinutes": 452,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction to the Edition of 1892",
+      "wordCount": 6019,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 630,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2416,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 1371,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 4340,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 1624,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2853,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3947,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3203,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 4133,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 5192,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3644,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 3684,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 1804,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 5244,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 2344,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 1638,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 1413,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 2347,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 4702,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 3170,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 4246,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 2505,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 1332,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 3530,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 3638,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXIII",
+      "wordCount": 1869,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XXXIV",
+      "wordCount": 3689,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 36,
+      "title": "The Story of Toby",
+      "wordCount": 4987,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 37,
+      "title": "Note",
+      "wordCount": 100,
+      "estimatedMinutes": 1
+    }
+  ]
+}

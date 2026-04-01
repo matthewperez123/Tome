@@ -1,0 +1,1078 @@
+{
+  "bookId": "dangerous-liaisons",
+  "title": "Dangerous Liaisons: A Series of Letters, Selected from the Correspondence of a Private Circle; and Published for the Instruction of Society",
+  "author": "Pierre Choderlos de Laclos",
+  "chapterCount": 178,
+  "totalWordCount": 136244,
+  "totalMinutes": 544,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Advertisement from the Editor",
+      "wordCount": 271,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Letter 1: Cecilia Volanges to Sophia Carnay, at the Convent of the Ursulines of —﻿—﻿—",
+      "wordCount": 709,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "Letter 2: The Marchioness de Merteuil to the Viscount Valmont, at the Castle of —﻿—﻿—",
+      "wordCount": 624,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "Letter 3: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 372,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "Letter 4: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 825,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "Letter 5: The Marchioness de Merteuil, to the Viscount Valmont",
+      "wordCount": 885,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "Letter 6: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1057,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "Letter 7: Cecilia Volanges to Sophia Carnay.",
+      "wordCount": 328,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "Letter 8: Presidente de Tourvel to Madame de Volanges",
+      "wordCount": 467,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "Letter 9: Madame de Volanges to the Presidente de Tourvel",
+      "wordCount": 731,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "Letter 10: The Marchioness de Merteuil, to Viscount Valmont",
+      "wordCount": 1752,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "Letter 11: The Presidente de Tourvel to Madame Volanges",
+      "wordCount": 818,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "Letter 12: Cecilia Volanges to the Marchioness de Merteuil",
+      "wordCount": 128,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "Letter 13: The Marchioness de Merteuil to Cecilia Volanges",
+      "wordCount": 137,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Letter 14: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "Letter 15: Viscount Valmont to the Marchioness de Merteuil",
+      "wordCount": 580,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "Letter 16: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 659,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "Letter 17: The Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "Letter 18: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 800,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "Letter 19: Cecilia Volanges to Chevalier Danceny",
+      "wordCount": 197,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "Letter 20: The Marchioness de Merteuil to Viscount Valmont",
+      "wordCount": 690,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "Letter 21: From Viscount Valmont to the Marchioness de Merteuil",
+      "wordCount": 1014,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "Letter 22: The Presidente de Tourvel to Madame de Volanges",
+      "wordCount": 596,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "Letter 23: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1508,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "Letter 24: Viscount Valmont to the Presidente de Tourvel",
+      "wordCount": 618,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "Letter 25: Viscount Valmont to the Marchioness de Merteuil",
+      "wordCount": 557,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "Letter 26: The Presidente de Tourvel to Viscount Valmont",
+      "wordCount": 620,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 28,
+      "title": "Letter 27: Cecilia Volanges to the Marchioness de Merteuil",
+      "wordCount": 747,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "Letter 28: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "Letter 29: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 517,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "Letter 30: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 330,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "Letter 31: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "Letter 32: Madame de Volanges to the Presidente de Tourvel",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 34,
+      "title": "Letter 33: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 795,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "Letter 34: Viscount Valmont to the Marchioness de Merteuil",
+      "wordCount": 1237,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "Letter 35: Viscount Valmont to the Presidente de Tourvel",
+      "wordCount": 846,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 37,
+      "title": "Letter 36: Viscount Valmont to the Presidente de Tourvel",
+      "wordCount": 939,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "Letter 37: The Presidente de Tourvel to Madame de Volanges",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 39,
+      "title": "Letter 38: The Marchioness de Merteuil to Viscount Valmont",
+      "wordCount": 629,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "Letter 39: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 607,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 41,
+      "title": "Letter 40: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 810,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 42,
+      "title": "Letter 41: The Presidente de Tourvel to Viscount Valmont",
+      "wordCount": 547,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 43,
+      "title": "Letter 42: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 486,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 44,
+      "title": "Sequel to the Fortieth Letter",
+      "wordCount": 666,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "Letter 43: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 499,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "Letter 44: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 2145,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "Letter 45: The Presidente de Tourvel to Madame de Volanges",
+      "wordCount": 288,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "Letter 46: The Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 463,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 49,
+      "title": "Letter 47: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 569,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 50,
+      "title": "Letter 48: The Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 604,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 51,
+      "title": "Letter 49: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 338,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 52,
+      "title": "Letter 50: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 542,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 53,
+      "title": "Letter 51: The Marchioness de Merteuil to Viscount Valmont",
+      "wordCount": 974,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 54,
+      "title": "Letter 52: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 862,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 55,
+      "title": "Letter 53: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 227,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 56,
+      "title": "Letter 54: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 632,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 57,
+      "title": "Letter 55: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 568,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 58,
+      "title": "Letter 56: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 640,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 59,
+      "title": "Letter 57: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 60,
+      "title": "Letter 58: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 670,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 61,
+      "title": "Letter 59: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 280,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 62,
+      "title": "Letter 60: Chevalier Danceny to the Viscount de Valmont",
+      "wordCount": 217,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 63,
+      "title": "Letter 61: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 540,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 64,
+      "title": "Letter 62: Madame de Volanges to Chevalier Danceny",
+      "wordCount": 222,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 65,
+      "title": "Letter 63: Marchioness de Merteuil to Viscount de Valmont",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 66,
+      "title": "Letter 64: The Chevalier Danceny to Madame de Volanges",
+      "wordCount": 1001,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 67,
+      "title": "Letter 65: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 618,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 68,
+      "title": "Letter 66: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 527,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 69,
+      "title": "Letter 67: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 459,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 70,
+      "title": "Letter 68: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 631,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 71,
+      "title": "Letter 69: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 195,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 72,
+      "title": "Letter 70: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 916,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 73,
+      "title": "Letter 71: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 74,
+      "title": "Letter 72: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 412,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 75,
+      "title": "Letter 73: Viscount de Valmont to Cecilia Volanges",
+      "wordCount": 227,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 76,
+      "title": "Letter 74: Marchioness de Merteuil to Viscount de Valmont",
+      "wordCount": 844,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 77,
+      "title": "Letter 75: Cecilia Volanges to Sophia Carnay",
+      "wordCount": 424,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 78,
+      "title": "Letter 76: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 2050,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 79,
+      "title": "Letter 77: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 511,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 80,
+      "title": "Letter 78: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "Letter 79: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 2418,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 82,
+      "title": "Letter 80: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 696,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 83,
+      "title": "Letter 81: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 84,
+      "title": "Letter 82: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 783,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 85,
+      "title": "Letter 83: Viscount de Valmont, to the Presidente de Tourvel",
+      "wordCount": 942,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 86,
+      "title": "Letter 84: Viscount de Valmont to Cecilia Volanges",
+      "wordCount": 944,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 87,
+      "title": "Letter 85: Marchioness de Merteuil to Viscount de Valmont",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 88,
+      "title": "Letter 86: The Marechale de —﻿—﻿— to the Marchioness de Merteuil",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 89,
+      "title": "Letter 87: The Marchioness de Merteuil to Madame de Volanges",
+      "wordCount": 869,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 90,
+      "title": "Letter 88: Cecilia Volanges to the Viscount de Valmont",
+      "wordCount": 405,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 91,
+      "title": "Letter 89: The Viscount de Valmont to the Chevalier Danceny",
+      "wordCount": 438,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 92,
+      "title": "Letter 90: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 93,
+      "title": "Letter 91: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 704,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 94,
+      "title": "Letter 92: Chevalier Danceny to the Viscount de Valmont",
+      "wordCount": 515,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 95,
+      "title": "Letter 93: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 96,
+      "title": "Letter 94: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 469,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 97,
+      "title": "Letter 95: Cecilia Volanges to the Viscount de Valmont",
+      "wordCount": 319,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 98,
+      "title": "Letter 96: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1971,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 99,
+      "title": "Letter 97: Cecilia Volanges to the Marchioness de Merteuil",
+      "wordCount": 1022,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "Letter 98: Madame de Volanges to the Marchioness de Merteuil",
+      "wordCount": 976,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 101,
+      "title": "Letter 99: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 2149,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 102,
+      "title": "Letter 100: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 103,
+      "title": "Letter 101: The Viscount de Valmont to Azolan, His Huntsman",
+      "wordCount": 729,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 104,
+      "title": "Letter 102: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 859,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 105,
+      "title": "Letter 103: Madame de Rosemonde to the Presidente de Tourvel",
+      "wordCount": 584,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 106,
+      "title": "Letter 104: The Marchioness de Merteuil to Madame de Volanges",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 107,
+      "title": "Letter 105: The Marchioness de Merteuil to Cecilia Volanges",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 108,
+      "title": "Letter 106: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 109,
+      "title": "Letter 107: Azolan to the Viscount de Valmont",
+      "wordCount": 1153,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 110,
+      "title": "Letter 108: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 690,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 111,
+      "title": "Letter 109: Cecilia Volanges to the Marchioness de Merteuil",
+      "wordCount": 703,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 112,
+      "title": "Letter 110: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1480,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 113,
+      "title": "Letter 111: Count Gercourt to Madame de Volanges",
+      "wordCount": 263,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 114,
+      "title": "Letter 112: Madame de Rosemonde to the Presidente de Tourvel",
+      "wordCount": 316,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 115,
+      "title": "Letter 113: Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 2048,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 116,
+      "title": "Letter 114: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 487,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 117,
+      "title": "Letter 115: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1474,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 118,
+      "title": "Letter 116: Chevalier Danceny to Cecilia Volanges",
+      "wordCount": 510,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 119,
+      "title": "Letter 117: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 473,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 120,
+      "title": "Letter 118: Chevalier Danceny to the Marchioness de Merteuil",
+      "wordCount": 814,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 121,
+      "title": "Letter 119: Madame de Rosemonde to the Presidente de Tourvel",
+      "wordCount": 273,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 122,
+      "title": "Letter 120: Viscount de Valmont to Father Anselmus,",
+      "wordCount": 351,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 123,
+      "title": "Letter 121: The Marchioness de Merteuil to Chevalier Danceny",
+      "wordCount": 763,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 124,
+      "title": "Letter 122: Madame de Rosemonde to the Presidente de Tourvel",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 125,
+      "title": "Letter 123: Father Anselmus to the Viscount de Valmont",
+      "wordCount": 392,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 126,
+      "title": "Letter 124: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 1049,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 127,
+      "title": "Letter 125: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 2971,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 128,
+      "title": "Letter 126: Madame de Rosemonde to the Presidente de Tourvel",
+      "wordCount": 701,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 129,
+      "title": "Letter 127: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 582,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 130,
+      "title": "Letter 128: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 463,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 131,
+      "title": "Letter 129: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 776,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 132,
+      "title": "Letter 130: Madame de Rosemonde, to the Presidente de Tourvel",
+      "wordCount": 641,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 133,
+      "title": "Letter 131: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 718,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 134,
+      "title": "Letter 132: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 530,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 135,
+      "title": "Letter 133: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 1105,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 136,
+      "title": "Letter 134: Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 1014,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 137,
+      "title": "Letter 135: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 712,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 138,
+      "title": "Letter 136: The Presidente de Tourvel to the Viscount de Valmont",
+      "wordCount": 226,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 139,
+      "title": "Letter 137: Viscount de Valmont to the Presidente de Tourvel",
+      "wordCount": 1005,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 140,
+      "title": "Letter 138: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 681,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 141,
+      "title": "Letter 139: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 333,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 142,
+      "title": "Letter 140: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 749,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 143,
+      "title": "Letter 141: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 1056,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 144,
+      "title": "Letter 142: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 145,
+      "title": "Letter 143: The Presidente de Tourvel to Madame de Rosemonde",
+      "wordCount": 219,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 146,
+      "title": "Letter 144: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 897,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 147,
+      "title": "Letter 145: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 691,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 148,
+      "title": "Letter 146: The Marchioness de Merteuil to the Chevalier Danceny",
+      "wordCount": 425,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 149,
+      "title": "Letter 147: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 1048,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 150,
+      "title": "Letter 148: The Chevalier Danceny to the Marchioness de Merteuil",
+      "wordCount": 544,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 151,
+      "title": "Letter 149: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 1072,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 152,
+      "title": "Letter 150: Chevalier Danceny to the Marchioness de Merteuil",
+      "wordCount": 851,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 153,
+      "title": "Letter 151: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 776,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 154,
+      "title": "Letter 152: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 942,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 155,
+      "title": "Letter 153: Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 344,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 156,
+      "title": "Letter 154: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 269,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 157,
+      "title": "Letter 155: The Viscount de Valmont to the Chevalier Danceny",
+      "wordCount": 1075,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 158,
+      "title": "Letter 156: Cecilia Volanges to the Chevalier Danceny",
+      "wordCount": 561,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 159,
+      "title": "Letter 157: The Chevalier Danceny to the Viscount de Valmont",
+      "wordCount": 425,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 160,
+      "title": "Letter 158: The Viscount de Valmont to the Marchioness de Merteuil",
+      "wordCount": 416,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 161,
+      "title": "Letter 159: The Marchioness de Merteuil to the Viscount de Valmont",
+      "wordCount": 97,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 162,
+      "title": "Letter 160: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 285,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 163,
+      "title": "Letter 161: The Presidente de Tourvel",
+      "wordCount": 675,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 164,
+      "title": "Letter 162: Chevalier Danceny to the Viscount de Valmont",
+      "wordCount": 152,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 165,
+      "title": "Letter 163: M. Bertrand to Madame de Rosemonde",
+      "wordCount": 587,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 166,
+      "title": "Letter 164: Madame de Rosemonde to M. Bertrand",
+      "wordCount": 239,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 167,
+      "title": "Letter 165: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 1064,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 168,
+      "title": "Letter 166: M. Bertrand to Madame de Rosemonde",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 169,
+      "title": "Letter 167: Anonymous to the Chevalier Danceny",
+      "wordCount": 227,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 170,
+      "title": "Letter 168: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 905,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 171,
+      "title": "Letter 169: The Chevalier Danceny to Madame de Rosemonde",
+      "wordCount": 789,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 172,
+      "title": "Letter 170: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 835,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 173,
+      "title": "Letter 171: Madame de Rosemonde to the Chevalier Danceny",
+      "wordCount": 542,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 174,
+      "title": "Letter 172: Madame de Rosemonde to Madame de Volanges",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 175,
+      "title": "Letter 173: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 1042,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 176,
+      "title": "Letter 174: The Chevalier Danceny to Madame de Rosemonde",
+      "wordCount": 570,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 177,
+      "title": "Letter 175: Madame de Volanges to Madame de Rosemonde",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    }
+  ]
+}

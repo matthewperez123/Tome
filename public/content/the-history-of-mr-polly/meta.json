@@ -1,0 +1,76 @@
+{
+  "bookId": "the-history-of-mr-polly",
+  "title": "The History of Mr. Polly",
+  "author": "H. G. Wells",
+  "chapterCount": 11,
+  "totalWordCount": 69625,
+  "totalMinutes": 279,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 386,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Beginnings, and the Bazaar",
+      "wordCount": 6748,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "II: The Dismissal of Parsons",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III: Cribs",
+      "wordCount": 3323,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV: Mr. Polly an Orphan",
+      "wordCount": 6691,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "V: Mr. Polly Takes a Vacation",
+      "wordCount": 6536,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "VI: Miriam",
+      "wordCount": 10058,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 7,
+      "title": "VII: The Little Shop at Fishbourne",
+      "wordCount": 8334,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 8,
+      "title": "VIII: Making an End to Things",
+      "wordCount": 6916,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 9,
+      "title": "IX: The Potwell Inn",
+      "wordCount": 13891,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 10,
+      "title": "X: Miriam Revisited",
+      "wordCount": 3667,
+      "estimatedMinutes": 15
+    }
+  ]
+}

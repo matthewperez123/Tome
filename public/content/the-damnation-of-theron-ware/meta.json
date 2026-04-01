@@ -1,0 +1,232 @@
+{
+  "bookId": "the-damnation-of-theron-ware",
+  "title": "The Damnation of Theron Ware",
+  "author": "Harold Frederic",
+  "chapterCount": 37,
+  "totalWordCount": 119740,
+  "totalMinutes": 483,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 428,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3288,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 4229,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3864,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3197,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3214,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 3649,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3519,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 3989,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 3876,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 3358,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XII",
+      "wordCount": 3078,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 3968,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 4004,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 3617,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 3682,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XVII",
+      "wordCount": 4095,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "XVIII",
+      "wordCount": 3269,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XIX",
+      "wordCount": 4491,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XX",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXI",
+      "wordCount": 4611,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "XXII",
+      "wordCount": 3690,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXIII",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XXIV",
+      "wordCount": 4635,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "XXV",
+      "wordCount": 4536,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "XXVI",
+      "wordCount": 3093,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXVII",
+      "wordCount": 2076,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXVIII",
+      "wordCount": 4449,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 33,
+      "title": "XXIX",
+      "wordCount": 3998,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "XXX",
+      "wordCount": 4690,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 35,
+      "title": "XXXI",
+      "wordCount": 4499,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 36,
+      "title": "XXXII",
+      "wordCount": 2142,
+      "estimatedMinutes": 9
+    }
+  ]
+}

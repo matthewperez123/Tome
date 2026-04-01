@@ -1,0 +1,142 @@
+{
+  "bookId": "ozma-of-oz",
+  "title": "Ozma of Oz",
+  "author": "L. Frank Baum",
+  "chapterCount": 22,
+  "totalWordCount": 38421,
+  "totalMinutes": 153,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 272,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Girl in the Chicken-Coop",
+      "wordCount": 1792,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "II: The Yellow Hen",
+      "wordCount": 2160,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: Letters in the Sand",
+      "wordCount": 1758,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: Tiktok the Machine Man",
+      "wordCount": 1969,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V: Dorothy Opens the Dinner-Pail",
+      "wordCount": 1810,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Heads of Langwidere",
+      "wordCount": 3691,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VII: Ozma of Oz to the Rescue",
+      "wordCount": 2218,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Hungry Tiger",
+      "wordCount": 1531,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "IX: The Royal Family of Ev",
+      "wordCount": 2074,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "X: The Giant with the Hammer",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: The Nome King",
+      "wordCount": 2897,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: The Eleven Guesses",
+      "wordCount": 994,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Nome King Laughs",
+      "wordCount": 1424,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIV: Dorothy Tries to Be Brave",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: Billina Frightens the Nome King",
+      "wordCount": 1355,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI: Purple, Green, and Gold",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Scarecrow Wins the Fight",
+      "wordCount": 1562,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Fate of the Tin Woodman",
+      "wordCount": 1639,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: The King of Ev",
+      "wordCount": 1170,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XX: The Emerald City",
+      "wordCount": 1352,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXI: Dorothy’s Magic Belt",
+      "wordCount": 1068,
+      "estimatedMinutes": 4
+    }
+  ]
+}

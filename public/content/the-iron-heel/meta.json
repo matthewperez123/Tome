@@ -1,0 +1,166 @@
+{
+  "bookId": "the-iron-heel",
+  "title": "The Iron Heel",
+  "author": "Jack London",
+  "chapterCount": 26,
+  "totalWordCount": 77236,
+  "totalMinutes": 308,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 1292,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I: My Eagle",
+      "wordCount": 4409,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II: Challenges",
+      "wordCount": 4175,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: Jackson’s Arm",
+      "wordCount": 3392,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: Slaves of the Machine",
+      "wordCount": 2676,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: The Philomaths",
+      "wordCount": 6584,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "VI: Adumbrations",
+      "wordCount": 2245,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII: The Bishop’s Vision",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Machine Breakers",
+      "wordCount": 4675,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "IX: The Mathematics of a Dream",
+      "wordCount": 4409,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X: The Vortex",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI: The Great Adventure",
+      "wordCount": 2593,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII: The Bishop",
+      "wordCount": 3766,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: The General Strike",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Beginning of the End",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV: Last Days",
+      "wordCount": 1757,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI: The End",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Scarlet Livery",
+      "wordCount": 1781,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII: In the Shadow of Sonoma",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIX: Transformation",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: A Lost Oligarch",
+      "wordCount": 2420,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Roaring Abysmal Beast",
+      "wordCount": 1798,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Chicago Commune",
+      "wordCount": 4111,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The People of the Abyss",
+      "wordCount": 4799,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Nightmare",
+      "wordCount": 2001,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Terrorists",
+      "wordCount": 277,
+      "estimatedMinutes": 1
+    }
+  ]
+}

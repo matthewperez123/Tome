@@ -1,0 +1,142 @@
+{
+  "bookId": "the-chinese-parrot",
+  "title": "The Chinese Parrot",
+  "author": "Earl Derr Biggers",
+  "chapterCount": 22,
+  "totalWordCount": 80746,
+  "totalMinutes": 323,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Phillimore Pearls",
+      "wordCount": 4302,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 1,
+      "title": "II: The Detective from Hawaii",
+      "wordCount": 3478,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "III: At Chan Kee Lim’s",
+      "wordCount": 3814,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "IV: The Oasis Special",
+      "wordCount": 3661,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "V: Madden’s Ranch",
+      "wordCount": 4351,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: Tony’s Happy New Year",
+      "wordCount": 4815,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: The Postman Sets Out",
+      "wordCount": 4512,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Friendly Little Game",
+      "wordCount": 4289,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: A Ride in the Dark",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "X: Bliss of the Homicide Squad",
+      "wordCount": 3962,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "XI: Thorn Goes on a Mission",
+      "wordCount": 3428,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: The Tramcar in the Desert",
+      "wordCount": 3449,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII: What Mr. Cherry Saw",
+      "wordCount": 3558,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Third Man",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV: Will Holley’s Theory",
+      "wordCount": 2716,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Movies Are in Town",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII: In Madden’s Footsteps",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Barstow Train",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Voice on the Air",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX: Petticoat Mine",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XXI: End of the Postman’s Journey",
+      "wordCount": 2632,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Road to Eldorado",
+      "wordCount": 4258,
+      "estimatedMinutes": 17
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "the-duchess-of-malfi",
+  "title": "The Duchess of Malfi",
+  "author": "John Webster",
+  "chapterCount": 6,
+  "totalWordCount": 25619,
+  "totalMinutes": 103,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 80,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4408,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 4559,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 6076,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 4389,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 6107,
+      "estimatedMinutes": 24
+    }
+  ]
+}

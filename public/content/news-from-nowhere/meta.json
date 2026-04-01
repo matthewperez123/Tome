@@ -1,0 +1,208 @@
+{
+  "bookId": "news-from-nowhere",
+  "title": "News from Nowhere: Or, an Epoch of Rest, Being Some Chapters From a Utopian Romance",
+  "author": "William Morris",
+  "chapterCount": 33,
+  "totalWordCount": 79650,
+  "totalMinutes": 318,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1729,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "I: Discussion and Bed",
+      "wordCount": 940,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: A Morning Bath",
+      "wordCount": 3113,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III: The Guest House and the Breakfast Therein",
+      "wordCount": 3611,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: A Market by the Way",
+      "wordCount": 1161,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V: Children on the Road",
+      "wordCount": 2595,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI: A Little Shopping",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII: Trafalgar Square",
+      "wordCount": 2763,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII: An Old Friend",
+      "wordCount": 1312,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "IX: Concerning Love",
+      "wordCount": 4195,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "X: Question and Answers",
+      "wordCount": 4330,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: Concerning Government",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XII: Concerning the Arrangement of Life",
+      "wordCount": 1935,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII: Concerning Politics",
+      "wordCount": 122,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XIV: How Matters Are Managed",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: On the Lack of Incentive to Labour in a Communist Society",
+      "wordCount": 2937,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVI: Dinner in the Hall of the Bloomsbury Market",
+      "wordCount": 1457,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVII: How the Change Came",
+      "wordCount": 10052,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Beginning of the New Life",
+      "wordCount": 1877,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Drive Back to Hammersmith",
+      "wordCount": 1960,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX: The Hammersmith Guesthouse Again",
+      "wordCount": 536,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XXI: Going Up the River",
+      "wordCount": 1072,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXII: Hampton Court and a Praiser of Past Times",
+      "wordCount": 3558,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: An Early Morning by the Runnymede",
+      "wordCount": 2070,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Up the Thames: The Second Day",
+      "wordCount": 3433,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Third Day on the Thames",
+      "wordCount": 1618,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Obstinate Refusers",
+      "wordCount": 1650,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Upper Waters",
+      "wordCount": 3993,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Little River",
+      "wordCount": 1466,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXIX: A Resting-Place on the Upper Thames",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXX: The Journey’s End",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXXI: An Old House Amongst New Folk",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The Feast’s Beginning … The End",
+      "wordCount": 2270,
+      "estimatedMinutes": 9
+    }
+  ]
+}

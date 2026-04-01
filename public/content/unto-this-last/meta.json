@@ -1,0 +1,40 @@
+{
+  "bookId": "unto-this-last",
+  "title": "Unto This Last: Four Essays on the First Principles of Political Economy",
+  "author": "John Ruskin",
+  "chapterCount": 5,
+  "totalWordCount": 27073,
+  "totalMinutes": 108,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "I: The Roots of Honour",
+      "wordCount": 5857,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "II: The Veins of Wealth",
+      "wordCount": 4288,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: Qui Judicatis Terram",
+      "wordCount": 5189,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "IV: Ad Valorem",
+      "wordCount": 10026,
+      "estimatedMinutes": 40
+    }
+  ]
+}

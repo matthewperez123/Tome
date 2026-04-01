@@ -1,0 +1,220 @@
+{
+  "bookId": "the-story-of-my-life",
+  "title": "The Story of My Life",
+  "author": "Helen Keller",
+  "chapterCount": 35,
+  "totalWordCount": 133266,
+  "totalMinutes": 538,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Preface",
+      "wordCount": 344,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Story of My Life",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 2268,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 922,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 1134,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "V",
+      "wordCount": 996,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 994,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 564,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 1112,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 706,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 1423,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XII",
+      "wordCount": 676,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 1450,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 2782,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 523,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 19,
+      "title": "XVII",
+      "wordCount": 784,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XVIII",
+      "wordCount": 1765,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XIX",
+      "wordCount": 1539,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XX",
+      "wordCount": 2475,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXI",
+      "wordCount": 3844,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXII",
+      "wordCount": 3700,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXIII",
+      "wordCount": 2545,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "II: Letters (1887–1901)",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "Introduction",
+      "wordCount": 637,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "Letters (1887–1901)",
+      "wordCount": 34171,
+      "estimatedMinutes": 137
+    },
+    {
+      "index": 29,
+      "title": "III: A Supplementary Account of Helen Keller’s Life and Education",
+      "wordCount": 10,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: The Writing of the Book",
+      "wordCount": 999,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "II: Personality",
+      "wordCount": 4641,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 32,
+      "title": "III: Education",
+      "wordCount": 36495,
+      "estimatedMinutes": 146
+    },
+    {
+      "index": 33,
+      "title": "IV: Speech",
+      "wordCount": 3758,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "V: Literary Style",
+      "wordCount": 15200,
+      "estimatedMinutes": 61
+    }
+  ]
+}

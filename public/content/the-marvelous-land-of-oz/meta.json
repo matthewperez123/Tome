@@ -1,0 +1,160 @@
+{
+  "bookId": "the-marvelous-land-of-oz",
+  "title": "The Marvelous Land of Oz",
+  "author": "L. Frank Baum",
+  "chapterCount": 25,
+  "totalWordCount": 41592,
+  "totalMinutes": 168,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 186,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Tip Manufactures a Pumpkinhead",
+      "wordCount": 1249,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "The Marvelous Powder of Life",
+      "wordCount": 2046,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "The Flight of the Fugitives",
+      "wordCount": 1387,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "Tip Makes an Experiment in Magic",
+      "wordCount": 962,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "The Awakening of the Sawhorse",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "Jack Pumpkinhead’s Ride to the Emerald City",
+      "wordCount": 2062,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "His Majesty the Scarecrow",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "General Jinjur’s Army of Revolt",
+      "wordCount": 1733,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "The Scarecrow Plans an Escape",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "The Journey to the Tin Woodman",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "A Nickel-Plated Emperor",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "Mr. H. M. Woggle-Bug, T.E.",
+      "wordCount": 1888,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "A Highly Magnified History",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "Old Mombi Indulges in Witchcraft",
+      "wordCount": 1629,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "The Prisoners of the Queen",
+      "wordCount": 1665,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "The Scarecrow Takes Time to Think",
+      "wordCount": 1495,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "The Astonishing Flight of the Gump",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "In the Jackdaw’s Nest",
+      "wordCount": 2970,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "Dr. Nikidik’s Famous Wishing Pills",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "The Scarecrow Appeals to Glinda the Good",
+      "wordCount": 2544,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "The Tin-Woodman Plucks a Rose",
+      "wordCount": 1615,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "The Transformation of Old Mombi",
+      "wordCount": 1152,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "Princess Ozma of Oz",
+      "wordCount": 1988,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "The Riches of Content",
+      "wordCount": 1499,
+      "estimatedMinutes": 6
+    }
+  ]
+}

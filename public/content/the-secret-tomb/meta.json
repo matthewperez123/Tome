@@ -1,0 +1,118 @@
+{
+  "bookId": "the-secret-tomb",
+  "title": "The Secret Tomb",
+  "author": "Maurice Leblanc",
+  "chapterCount": 18,
+  "totalWordCount": 72174,
+  "totalMinutes": 290,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Château de Roborey",
+      "wordCount": 4675,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II: Dorothy’s Circus",
+      "wordCount": 4769,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "III: Extra-Lucid",
+      "wordCount": 3889,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV: The Cross-Examination",
+      "wordCount": 3973,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "V: “We Will Help You”",
+      "wordCount": 4304,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: On the Road",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VII: The Hour Draws Near",
+      "wordCount": 2907,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VIII: On the Iron Wire",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: Face to Face",
+      "wordCount": 4805,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X: Towards the Golden Fleece",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "XI: The Will of the Marquis de Beaugreval",
+      "wordCount": 5018,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XII: The Elixir of Resurrection",
+      "wordCount": 3850,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII: Lazarus",
+      "wordCount": 3920,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Fourth Medal",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV: The Kidnapping of Montfaucon",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Last Quarter of a Minute",
+      "wordCount": 4764,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Secret Perishes",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XVIII: In Robore Fortuna",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "the-house-of-the-seven-gables",
+  "title": "The House of the Seven Gables",
+  "author": "Nathaniel Hawthorne",
+  "chapterCount": 22,
+  "totalWordCount": 104139,
+  "totalMinutes": 417,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 898,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "I: The Old Pyncheon Family",
+      "wordCount": 8565,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "II: The Little Shopwindow",
+      "wordCount": 4059,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "III: The First Customer",
+      "wordCount": 4647,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "IV: A Day Behind the Counter",
+      "wordCount": 4776,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "V: May and November",
+      "wordCount": 5165,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "VI: Maule’s Well",
+      "wordCount": 3648,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VII: The Guest",
+      "wordCount": 5541,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Pyncheon of Today",
+      "wordCount": 5714,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "IX: Clifford and Phoebe",
+      "wordCount": 4077,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: The Pyncheon Garden",
+      "wordCount": 4509,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: The Arched Window",
+      "wordCount": 4600,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: The Daguerreotypist",
+      "wordCount": 4688,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "XIII: Alice Pyncheon",
+      "wordCount": 7753,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 14,
+      "title": "XIV: Phoebe’s Goodbye",
+      "wordCount": 3812,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XV: The Scowl and Smile",
+      "wordCount": 5480,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XVI: Clifford’s Chamber",
+      "wordCount": 4168,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Flight of Two Owls",
+      "wordCount": 4806,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Governor Pyncheon",
+      "wordCount": 5492,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 19,
+      "title": "XIX: Alice’s Posies",
+      "wordCount": 5321,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 20,
+      "title": "XX: The Flower of Eden",
+      "wordCount": 2896,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Departure",
+      "wordCount": 3524,
+      "estimatedMinutes": 14
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "bookId": "nostromo",
+  "title": "Nostromo: A Tale of the Seaboard",
+  "author": "Joseph Conrad",
+  "chapterCount": 33,
+  "totalWordCount": 171444,
+  "totalMinutes": 689,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 2565,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "Part I: The Silver of the Mine",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1971,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3533,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2975,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 13038,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 2623,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 11290,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 10,
+      "title": "Part II: The Isabels",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I",
+      "wordCount": 2744,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "II",
+      "wordCount": 1976,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "III",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "IV",
+      "wordCount": 3847,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "V",
+      "wordCount": 10255,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 16,
+      "title": "VI",
+      "wordCount": 4533,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "VII",
+      "wordCount": 15516,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 18,
+      "title": "VIII",
+      "wordCount": 10584,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 19,
+      "title": "Part III: The Lighthouse",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "I",
+      "wordCount": 4843,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 21,
+      "title": "II",
+      "wordCount": 6206,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 22,
+      "title": "III",
+      "wordCount": 5911,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 23,
+      "title": "IV",
+      "wordCount": 6355,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 24,
+      "title": "V",
+      "wordCount": 2981,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "VI",
+      "wordCount": 2491,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "VII",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "VIII",
+      "wordCount": 8134,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 28,
+      "title": "IX",
+      "wordCount": 9802,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 29,
+      "title": "X",
+      "wordCount": 9635,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 30,
+      "title": "XI",
+      "wordCount": 5630,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 31,
+      "title": "XII",
+      "wordCount": 6760,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 32,
+      "title": "XIII",
+      "wordCount": 6127,
+      "estimatedMinutes": 25
+    }
+  ]
+}

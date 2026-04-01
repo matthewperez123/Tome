@@ -1,0 +1,148 @@
+{
+  "bookId": "riders-of-the-purple-sage",
+  "title": "Riders of the Purple Sage",
+  "author": "Zane Grey",
+  "chapterCount": 23,
+  "totalWordCount": 105279,
+  "totalMinutes": 421,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Lassiter",
+      "wordCount": 3310,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II: Cottonwoods",
+      "wordCount": 3727,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "III: Amber Spring",
+      "wordCount": 4046,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV: Deception Pass",
+      "wordCount": 4486,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "V: The Masked Rider",
+      "wordCount": 4217,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: The Mill-Wheel of Steers",
+      "wordCount": 5537,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VII: The Daughter of Withersteen",
+      "wordCount": 3388,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: Surprise Valley",
+      "wordCount": 4825,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: Silver Spruce and Aspens",
+      "wordCount": 5122,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "X: Love",
+      "wordCount": 5211,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "XI: Faith and Unfaith",
+      "wordCount": 5691,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "XII: The Invisible Hand",
+      "wordCount": 5284,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XIII: Solitude and Storm",
+      "wordCount": 4397,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIV: West Wind",
+      "wordCount": 3208,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: Shadows on the Sage-Slope",
+      "wordCount": 6706,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 15,
+      "title": "XVI: Gold",
+      "wordCount": 3690,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII: Wrangle’s Race Run",
+      "wordCount": 5832,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Oldring’s Knell",
+      "wordCount": 5435,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XIX: Fay",
+      "wordCount": 4748,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XX: Lassiter’s Way",
+      "wordCount": 4110,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XXI: Black Star and Night",
+      "wordCount": 5792,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 21,
+      "title": "XXII: Riders of the Purple Sage",
+      "wordCount": 2367,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Fall of Balancing Rock",
+      "wordCount": 4150,
+      "estimatedMinutes": 17
+    }
+  ]
+}

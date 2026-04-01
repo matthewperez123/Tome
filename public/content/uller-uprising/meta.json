@@ -1,0 +1,118 @@
+{
+  "bookId": "uller-uprising",
+  "title": "Uller Uprising",
+  "author": "H. Beam Piper",
+  "chapterCount": 18,
+  "totalWordCount": 52950,
+  "totalMinutes": 212,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 385,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "I: Commander-in-Chief Front and Center",
+      "wordCount": 4781,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "II: Rakkeed, Stalin, and the Rev. Keeluk",
+      "wordCount": 2304,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "III: Four-and-Twenty Geek Heads",
+      "wordCount": 1960,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "IV: If You Read It in Stanley-Browne",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "V: You Can Depend on It It’s Wrong",
+      "wordCount": 3116,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VI: The Bad News Came After the Coffee",
+      "wordCount": 2368,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VII: Bismillah! How Dumb Can We Get?",
+      "wordCount": 3203,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "VIII: Authority of Governor-General von Schlichten",
+      "wordCount": 4203,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "IX: Don’t Push Them Anywhere Put Them Back in the Bottle",
+      "wordCount": 3384,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "X: The Geek Luftwaffe and the Kragan Airlift",
+      "wordCount": 2595,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XI: Of Princedoms Which Have Been Won by Conquest",
+      "wordCount": 3189,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XII: The Shadow of Niflheim",
+      "wordCount": 3446,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XIII: A Bag of Tricks We Don’t Have",
+      "wordCount": 3688,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Reviewers Panned Hell Out of It",
+      "wordCount": 4340,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XV: A Place in My Heart for Hildegarde",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    }
+  ]
+}

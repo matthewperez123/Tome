@@ -1,0 +1,34 @@
+{
+  "bookId": "the-unicorn-from-the-stars",
+  "title": "The Unicorn from the Stars",
+  "author": "Lady Gregory & W. B. Yeats",
+  "chapterCount": 4,
+  "totalWordCount": 15383,
+  "totalMinutes": 63,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Persons in the Play",
+      "wordCount": 26,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 5658,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 4705,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4994,
+      "estimatedMinutes": 20
+    }
+  ]
+}

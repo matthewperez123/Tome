@@ -1,0 +1,22 @@
+{
+  "bookId": "lady-into-fox",
+  "title": "Lady Into Fox",
+  "author": "David Garnett",
+  "chapterCount": 2,
+  "totalWordCount": 24939,
+  "totalMinutes": 100,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 422,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Lady Into Fox",
+      "wordCount": 24517,
+      "estimatedMinutes": 98
+    }
+  ]
+}

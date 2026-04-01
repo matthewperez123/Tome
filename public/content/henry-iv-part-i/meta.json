@@ -1,0 +1,52 @@
+{
+  "bookId": "henry-iv-part-i",
+  "title": "Henry IV, Part I",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 26230,
+  "totalMinutes": 106,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 428,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 117,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 5095,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 7503,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5392,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4568,
+      "estimatedMinutes": 18
+    }
+  ]
+}

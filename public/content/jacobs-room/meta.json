@@ -1,0 +1,94 @@
+{
+  "bookId": "jacobs-room",
+  "title": "Jacob’s Room",
+  "author": "Virginia Woolf",
+  "chapterCount": 14,
+  "totalWordCount": 55120,
+  "totalMinutes": 222,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2462,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 5137,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 5915,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5221,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3442,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 4815,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3397,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2937,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 9773,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 251,
+      "estimatedMinutes": 1
+    }
+  ]
+}

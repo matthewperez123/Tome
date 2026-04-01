@@ -1,0 +1,40 @@
+{
+  "bookId": "in-a-glass-darkly",
+  "title": "In a Glass Darkly",
+  "author": "J. Sheridan Le Fanu",
+  "chapterCount": 5,
+  "totalWordCount": 113541,
+  "totalMinutes": 454,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Green Tea",
+      "wordCount": 12963,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 1,
+      "title": "The Familiar",
+      "wordCount": 14823,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 2,
+      "title": "Mr. Justice Harbottle",
+      "wordCount": 12652,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 3,
+      "title": "The Room in the Dragon Volant",
+      "wordCount": 45055,
+      "estimatedMinutes": 180
+    },
+    {
+      "index": 4,
+      "title": "Carmilla",
+      "wordCount": 28048,
+      "estimatedMinutes": 112
+    }
+  ]
+}

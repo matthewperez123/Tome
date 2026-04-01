@@ -1,0 +1,70 @@
+{
+  "bookId": "the-secret-of-father-brown",
+  "title": "The Secret of Father Brown",
+  "author": "G. K. Chesterton",
+  "chapterCount": 10,
+  "totalWordCount": 63105,
+  "totalMinutes": 253,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Secret of Father Brown",
+      "wordCount": 3145,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "The Mirror of the Magistrate",
+      "wordCount": 7309,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 2,
+      "title": "The Man with Two Beards",
+      "wordCount": 7378,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 3,
+      "title": "The Song of the Flying Fish",
+      "wordCount": 7273,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "The Actor and the Alibi",
+      "wordCount": 7111,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 5,
+      "title": "The Vanishing of Vaudrey",
+      "wordCount": 7398,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 6,
+      "title": "The Worst Crime in the World",
+      "wordCount": 6336,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 7,
+      "title": "The Red Moon of Meru",
+      "wordCount": 6460,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "The Chief Mourner of Marne",
+      "wordCount": 8280,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "The Secret of Flambeau",
+      "wordCount": 2415,
+      "estimatedMinutes": 10
+    }
+  ]
+}

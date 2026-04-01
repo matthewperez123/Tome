@@ -1,0 +1,46 @@
+{
+  "bookId": "hamlet",
+  "title": "Hamlet",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 32127,
+  "totalMinutes": 130,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 93,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 7029,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5959,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 7626,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5482,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 5938,
+      "estimatedMinutes": 24
+    }
+  ]
+}

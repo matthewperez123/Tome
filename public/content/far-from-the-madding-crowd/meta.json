@@ -1,0 +1,358 @@
+{
+  "bookId": "far-from-the-madding-crowd",
+  "title": "Far from the Madding Crowd",
+  "author": "Thomas Hardy",
+  "chapterCount": 58,
+  "totalWordCount": 138133,
+  "totalMinutes": 551,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: Description of Farmer Oak; An Incident",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: Night; The Flock; An Interior; Another Interior",
+      "wordCount": 2833,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III: A Girl on Horseback; Conversation",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV: Gabriel’s Resolve; The Visit; The Mistake",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: Departure of Bathsheba; A Pastoral Tragedy",
+      "wordCount": 1811,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Fair; The Journey; The Fire",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Recognition; A Timid Girl",
+      "wordCount": 1165,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Malthouse; The Chat; News",
+      "wordCount": 6438,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 9,
+      "title": "IX: The Homestead; A Visitor; Half-Confidences",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "X: Mistress and Men",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: Outside the Barracks; Snow; A Meeting",
+      "wordCount": 1596,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XII: Farmers; A Rule; An Exception",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII: Sortes Sanctorum; The Valentine",
+      "wordCount": 1287,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XIV: Effect of the Letter; Sunrise",
+      "wordCount": 1368,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XV: A Morning Meeting; The Letter Again",
+      "wordCount": 3600,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: All Saints’ and All Souls’",
+      "wordCount": 928,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVII: In the Market-Place",
+      "wordCount": 837,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Boldwood in Meditation; Regret",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Sheep-Washing; The Offer",
+      "wordCount": 2062,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX: Perplexity; Grinding the Shears; A Quarrel",
+      "wordCount": 2040,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXI: Troubles in the Fold; A Message",
+      "wordCount": 2162,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Great Barn and the Sheep-Shearers",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Eventide; A Second Declaration",
+      "wordCount": 2192,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Same Night; The Fir Plantation",
+      "wordCount": 2206,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXV: The New Acquaintance Described",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Scene on the Verge of the Hay-Mead",
+      "wordCount": 3163,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Hiving the Bees",
+      "wordCount": 1068,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Hollow Amid the Ferns",
+      "wordCount": 1839,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Particulars of a Twilight Walk",
+      "wordCount": 2610,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: Hot Cheeks and Tearful Eyes",
+      "wordCount": 1701,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Blame; Fury",
+      "wordCount": 3227,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Night; Horses Tramping",
+      "wordCount": 2849,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: In the Sun; A Harbinger",
+      "wordCount": 2704,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Home Again; A Trickster",
+      "wordCount": 3317,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 35,
+      "title": "XXXV: At an Upper Window",
+      "wordCount": 1347,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Wealth in Jeopardy; The Revel",
+      "wordCount": 2952,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Storm; The Two Together",
+      "wordCount": 2445,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Rain; One Solitary Meets Another",
+      "wordCount": 1229,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Coming Home; A Cry",
+      "wordCount": 1403,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XL: On Casterbridge Highway",
+      "wordCount": 2349,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "XLI: Suspicion; Fanny Is Sent For",
+      "wordCount": 3662,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 42,
+      "title": "XLII: Joseph and His Burden; Buck’s Head",
+      "wordCount": 4065,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Fanny’s Revenge",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Under a Tree; Reaction",
+      "wordCount": 2466,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XLV: Troy’s Romanticism",
+      "wordCount": 1615,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Gurgoyle: Its Doings",
+      "wordCount": 2855,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Adventures by the Shore",
+      "wordCount": 1051,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Doubts Arise; Doubts Linger",
+      "wordCount": 1814,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Oak’s Advancement; A Great Hope",
+      "wordCount": 1898,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "L: The Sheep Fair; Troy Touches His Wife’s Hand",
+      "wordCount": 5309,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 51,
+      "title": "LI: Bathsheba Talks with Her Outrider",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 52,
+      "title": "LII: Converging Courses",
+      "wordCount": 3765,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 53,
+      "title": "LIII: Concurritur; Horae Momento",
+      "wordCount": 3908,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 54,
+      "title": "LIV: After the Shock",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 55,
+      "title": "LV: The March Following; “Bathsheba Boldwood”",
+      "wordCount": 1556,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "LVI: Beauty in Loneliness; After All",
+      "wordCount": 3144,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 57,
+      "title": "LVII: A Foggy Night and Morning; Conclusion",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    }
+  ]
+}

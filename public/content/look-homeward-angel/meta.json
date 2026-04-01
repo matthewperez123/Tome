@@ -1,0 +1,274 @@
+{
+  "bookId": "look-homeward-angel",
+  "title": "Look Homeward, Angel: A Story of the Buried Life",
+  "author": "Thomas Wolfe",
+  "chapterCount": 44,
+  "totalWordCount": 217972,
+  "totalMinutes": 875,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To the Reader",
+      "wordCount": 314,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 4885,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1289,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 4324,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 4087,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 5699,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 3325,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3897,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 5052,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 5993,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 5330,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 4891,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 4850,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 3302,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 8694,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 4995,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 4613,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XVII",
+      "wordCount": 6908,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 20,
+      "title": "XVIII",
+      "wordCount": 8722,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 21,
+      "title": "XIX",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XX",
+      "wordCount": 4357,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXI",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXII",
+      "wordCount": 4440,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "XXIII",
+      "wordCount": 3893,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXIV",
+      "wordCount": 10353,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 27,
+      "title": "XXV",
+      "wordCount": 2460,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVI",
+      "wordCount": 4724,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 29,
+      "title": "XXVII",
+      "wordCount": 5943,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 30,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "XXVIII",
+      "wordCount": 4282,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXIX",
+      "wordCount": 8234,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 33,
+      "title": "XXX",
+      "wordCount": 10962,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 34,
+      "title": "XXXI",
+      "wordCount": 8004,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 35,
+      "title": "XXXII",
+      "wordCount": 9625,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 36,
+      "title": "XXXIII",
+      "wordCount": 8395,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 37,
+      "title": "XXXIV",
+      "wordCount": 3031,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 38,
+      "title": "XXXV",
+      "wordCount": 7597,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 39,
+      "title": "XXXVI",
+      "wordCount": 4804,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 40,
+      "title": "XXXVII",
+      "wordCount": 3858,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "XXXVIII",
+      "wordCount": 5377,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 42,
+      "title": "XXXIX",
+      "wordCount": 6665,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 43,
+      "title": "XL",
+      "wordCount": 3254,
+      "estimatedMinutes": 13
+    }
+  ]
+}

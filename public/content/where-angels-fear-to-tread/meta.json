@@ -1,0 +1,70 @@
+{
+  "bookId": "where-angels-fear-to-tread",
+  "title": "Where Angels Fear to Tread",
+  "author": "E. M. Forster",
+  "chapterCount": 10,
+  "totalWordCount": 50059,
+  "totalMinutes": 200,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 4803,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 5289,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4262,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3711,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 6722,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 8839,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 4743,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 6338,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2436,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2916,
+      "estimatedMinutes": 12
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "bookId": "the-club-of-queer-trades",
+  "title": "The Club of Queer Trades",
+  "author": "G. K. Chesterton",
+  "chapterCount": 7,
+  "totalWordCount": 44804,
+  "totalMinutes": 180,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 478,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Tremendous Adventures of Major Brown",
+      "wordCount": 8423,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "II: The Painful Fall of a Great Reputation",
+      "wordCount": 5866,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "III: The Awful Reason of the Vicar’s Visit",
+      "wordCount": 6758,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "IV: The Singular Speculation of the House-Agent",
+      "wordCount": 7642,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "V: The Noticeable Conduct of Professor Chadd",
+      "wordCount": 6678,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 6,
+      "title": "VI: The Eccentric Seclusion of the Old Lady",
+      "wordCount": 8959,
+      "estimatedMinutes": 36
+    }
+  ]
+}

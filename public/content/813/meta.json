@@ -1,0 +1,118 @@
+{
+  "bookId": "813",
+  "title": "813",
+  "author": "Maurice Leblanc",
+  "chapterCount": 18,
+  "totalWordCount": 109955,
+  "totalMinutes": 441,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Translator’s Note",
+      "wordCount": 40,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Tragedy at the Palace Hotel",
+      "wordCount": 6873,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "II: The Blue-Edged Label",
+      "wordCount": 5932,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "III: M. Lenormand Opens His Campaign",
+      "wordCount": 4966,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "IV: Prince Sernine at Work",
+      "wordCount": 9998,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 5,
+      "title": "V: M. Lenormand at Work",
+      "wordCount": 5926,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "VI: M. Lenormand Succumbs",
+      "wordCount": 6307,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 7,
+      "title": "VII: Parbury-Ribeira-Altenheim",
+      "wordCount": 7431,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Olive-Green Frock-Coat",
+      "wordCount": 6732,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "IX: “Santé Palace”",
+      "wordCount": 8726,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 10,
+      "title": "X: Lupin’s Great Scheme",
+      "wordCount": 4085,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI: Charlemagne",
+      "wordCount": 4450,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: The Emperor’s Letters",
+      "wordCount": 8222,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Seven Scoundrels",
+      "wordCount": 6924,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Man in Black",
+      "wordCount": 6700,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 15,
+      "title": "XV: The Map of Europe",
+      "wordCount": 6849,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 16,
+      "title": "XVI: Arsène Lupin’s Three Murders",
+      "wordCount": 7462,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 17,
+      "title": "Epilogue",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    }
+  ]
+}

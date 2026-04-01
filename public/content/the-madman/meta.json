@@ -1,0 +1,220 @@
+{
+  "bookId": "the-madman",
+  "title": "The Madman: His Parables and Poems",
+  "author": "Khalil Gibran",
+  "chapterCount": 35,
+  "totalWordCount": 7072,
+  "totalMinutes": 41,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 201,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "God",
+      "wordCount": 261,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "My Friend",
+      "wordCount": 395,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "The Scarecrow",
+      "wordCount": 105,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "The Sleepwalkers",
+      "wordCount": 138,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "The Wise Dog",
+      "wordCount": 123,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "The Two Hermits",
+      "wordCount": 258,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "On Giving and Taking",
+      "wordCount": 82,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "The Seven Selves",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 9,
+      "title": "War",
+      "wordCount": 235,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "The Fox",
+      "wordCount": 44,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "The Wise King",
+      "wordCount": 229,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "Ambition",
+      "wordCount": 195,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "The New Pleasure",
+      "wordCount": 57,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "The Other Language",
+      "wordCount": 352,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "The Pomegranate",
+      "wordCount": 216,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "The Two Cages",
+      "wordCount": 49,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "The Three Ants",
+      "wordCount": 201,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "The Gravedigger",
+      "wordCount": 60,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "On the Steps of the Temple",
+      "wordCount": 33,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "The Blessed City",
+      "wordCount": 440,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "The Good God and the Evil God",
+      "wordCount": 104,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "“Defeat”",
+      "wordCount": 215,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "Night and the Madman",
+      "wordCount": 403,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "Faces",
+      "wordCount": 93,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "The Greater Sea",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "Crucified",
+      "wordCount": 246,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "The Astronomer",
+      "wordCount": 98,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "The Great Longing",
+      "wordCount": 228,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "Said a Blade of Grass",
+      "wordCount": 117,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "The Eye",
+      "wordCount": 106,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "The Two Learned Men",
+      "wordCount": 121,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "When My Sorrow Was Born",
+      "wordCount": 246,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "And When My Joy Was Born",
+      "wordCount": 156,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "“The Perfect World”",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    }
+  ]
+}

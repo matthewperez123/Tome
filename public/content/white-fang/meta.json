@@ -1,0 +1,190 @@
+{
+  "bookId": "white-fang",
+  "title": "White Fang",
+  "author": "Jack London",
+  "chapterCount": 30,
+  "totalWordCount": 72115,
+  "totalMinutes": 293,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Trail of the Meat",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: The She-Wolf",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: The Hunger Cry",
+      "wordCount": 3830,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: The Battle of the Fangs",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "II: The Lair",
+      "wordCount": 2969,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "III: The Grey Cub",
+      "wordCount": 1967,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IV: The Wall of the World",
+      "wordCount": 4025,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "V: The Law of Meat",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I: The Makers of Fire",
+      "wordCount": 3927,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "II: The Bondage",
+      "wordCount": 3037,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "III: The Outcast",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "IV: The Trail of the Gods",
+      "wordCount": 1824,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "V: The Covenant",
+      "wordCount": 3140,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "VI: The Famine",
+      "wordCount": 3099,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: The Enemy of His Kind",
+      "wordCount": 3485,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "II: The Mad God",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "III: The Reign of Hate",
+      "wordCount": 1869,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "IV: The Clinging Death",
+      "wordCount": 3821,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "V: The Indomitable",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "VI: The Love-Master",
+      "wordCount": 4777,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "Part V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "I: The Long Trail",
+      "wordCount": 1602,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "II: The Southland",
+      "wordCount": 2205,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "III: The God’s Domain",
+      "wordCount": 3716,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "IV: The Call of Kind",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "V: The Sleeping Wolf",
+      "wordCount": 2955,
+      "estimatedMinutes": 12
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "tao-te-ching",
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "chapterCount": 6,
+  "totalWordCount": 25576,
+  "totalMinutes": 103,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface by James Legge",
+      "wordCount": 2668,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "Was Taoism Older Than Laozi?",
+      "wordCount": 975,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "The Texts of the Tao Te Ching and Chuang-Tzŭ Shu, as Regards Their Authenticity and Genuineness, and the Arrangement of Them",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "What Is the Meaning of the Name Tao? And the Chief Points of the Belief in Taoism",
+      "wordCount": 7466,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "Accounts of Laozi and Chuang-Tzŭ Given by Ssŭ-Ma Chʽien",
+      "wordCount": 1929,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "Chapter 6",
+      "wordCount": 10566,
+      "estimatedMinutes": 42
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "bookId": "the-lost-girl",
+  "title": "The Lost Girl",
+  "author": "D. H. Lawrence",
+  "chapterCount": 16,
+  "totalWordCount": 137045,
+  "totalMinutes": 547,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Decline of Manchester House",
+      "wordCount": 7955,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 1,
+      "title": "II: The Rise of Alvina Houghton",
+      "wordCount": 3158,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III: The Maternity Nurse",
+      "wordCount": 5043,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "IV: Two Women Die",
+      "wordCount": 5544,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "V: The Beau",
+      "wordCount": 11300,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 5,
+      "title": "VI: Houghton’s Last Endeavour",
+      "wordCount": 12757,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 6,
+      "title": "VII: Natcha-Kee-Tawara",
+      "wordCount": 12798,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 7,
+      "title": "VIII: Ciccio",
+      "wordCount": 9409,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 8,
+      "title": "IX: Alvina Becomes Allaye",
+      "wordCount": 16354,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 9,
+      "title": "X: The Fall of Manchester House",
+      "wordCount": 13072,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 10,
+      "title": "XI: Honourable Engagement",
+      "wordCount": 11588,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 11,
+      "title": "XII: Allaye Also Is Engaged",
+      "wordCount": 4304,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Wedded Wife",
+      "wordCount": 3694,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Journey Across",
+      "wordCount": 8842,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 14,
+      "title": "XV: The Place Called Califano",
+      "wordCount": 3549,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI: Suspense",
+      "wordCount": 7678,
+      "estimatedMinutes": 31
+    }
+  ]
+}

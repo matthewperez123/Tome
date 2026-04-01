@@ -1,0 +1,46 @@
+{
+  "bookId": "the-case-of-charles-dexter-ward",
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "chapterCount": 6,
+  "totalWordCount": 44927,
+  "totalMinutes": 179,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 422,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: A Result and a Prologue",
+      "wordCount": 2060,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: An Antecedent and a Horror",
+      "wordCount": 9361,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 3,
+      "title": "III: A Search and an Evocation",
+      "wordCount": 9100,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 4,
+      "title": "IV: A Mutation and a Madness",
+      "wordCount": 9792,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 5,
+      "title": "V: A Nightmare and a Cataclysm",
+      "wordCount": 14192,
+      "estimatedMinutes": 57
+    }
+  ]
+}

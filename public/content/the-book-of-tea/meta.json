@@ -1,0 +1,58 @@
+{
+  "bookId": "the-book-of-tea",
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzō",
+  "chapterCount": 8,
+  "totalWordCount": 20219,
+  "totalMinutes": 81,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 2178,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "I: The Cup of Humanity",
+      "wordCount": 2371,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: The Schools of Tea",
+      "wordCount": 2551,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: Taoism and Zennism",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Tearoom",
+      "wordCount": 3435,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: Art Appreciation",
+      "wordCount": 2209,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VI: Flowers",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: Tea-Masters",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    }
+  ]
+}

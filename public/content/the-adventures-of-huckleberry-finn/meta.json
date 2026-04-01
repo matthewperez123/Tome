@@ -1,0 +1,280 @@
+{
+  "bookId": "the-adventures-of-huckleberry-finn",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "chapterCount": 45,
+  "totalWordCount": 111478,
+  "totalMinutes": 450,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Notice",
+      "wordCount": 35,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Explanatory",
+      "wordCount": 93,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1430,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 1383,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 1647,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 2706,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 4542,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 1443,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 2879,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2034,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 1539,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 2451,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 3345,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 4795,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 3356,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 3658,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 2057,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 2343,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 2929,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 2652,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 3641,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 3749,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 1225,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 3728,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 2300,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXXIII",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXIV",
+      "wordCount": 2185,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "XXXV",
+      "wordCount": 2686,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "XXXVI",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "XXXVII",
+      "wordCount": 2587,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XXXIX",
+      "wordCount": 2113,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 41,
+      "title": "XL",
+      "wordCount": 2318,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 42,
+      "title": "XLI",
+      "wordCount": 2698,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XLII",
+      "wordCount": 3171,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 44,
+      "title": "Chapter the Last",
+      "wordCount": 666,
+      "estimatedMinutes": 3
+    }
+  ]
+}

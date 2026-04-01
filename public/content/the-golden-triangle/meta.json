@@ -1,0 +1,124 @@
+{
+  "bookId": "the-golden-triangle",
+  "title": "The Golden Triangle",
+  "author": "Maurice Leblanc",
+  "chapterCount": 19,
+  "totalWordCount": 88617,
+  "totalMinutes": 354,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Coralie",
+      "wordCount": 4042,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "II: Right Hand and Left Leg",
+      "wordCount": 4119,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "III: The Rusty Key",
+      "wordCount": 4066,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV: Before the Flames",
+      "wordCount": 3711,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "V: Husband and Wife",
+      "wordCount": 4290,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: Nineteen Minutes Past Seven",
+      "wordCount": 4064,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII: Twenty-Three Minutes Past Twelve",
+      "wordCount": 4262,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VIII: Essarès Bey’s Work",
+      "wordCount": 4101,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "IX: Patrice and Coralie",
+      "wordCount": 4141,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "X: The Red Cord",
+      "wordCount": 4263,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "XI: On the Brink",
+      "wordCount": 3487,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: In the Abyss",
+      "wordCount": 4421,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Nails in the Coffin",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Strange Character",
+      "wordCount": 5054,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XV: The Belle Hélène",
+      "wordCount": 5491,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Fourth Act",
+      "wordCount": 5103,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "XVII: Siméon Gives Battle",
+      "wordCount": 4904,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Siméon’s Last Victim",
+      "wordCount": 7204,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 18,
+      "title": "XIX: Fiat Lux!",
+      "wordCount": 8269,
+      "estimatedMinutes": 33
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "arms-and-the-man",
+  "title": "Arms and the Man",
+  "author": "George Bernard Shaw",
+  "chapterCount": 6,
+  "totalWordCount": 26314,
+  "totalMinutes": 107,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1401,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1447,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "Dramatis Personae",
+      "wordCount": 20,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 6613,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 7427,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 9406,
+      "estimatedMinutes": 38
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "bookId": "the-castle-of-otranto",
+  "title": "The Castle of Otranto: A Story, Translated by William Marshal, Gentleman, from the Original Italian of Onuphrio Muralto, Canon of the Church of St. Nicholas at Otranto",
+  "author": "Horace Walpole",
+  "chapterCount": 7,
+  "totalWordCount": 36797,
+  "totalMinutes": 147,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 740,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Preface to the First Edition",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 7862,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 7543,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 7172,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 6488,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 5835,
+      "estimatedMinutes": 23
+    }
+  ]
+}

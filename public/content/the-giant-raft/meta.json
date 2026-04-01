@@ -1,0 +1,268 @@
+{
+  "bookId": "the-giant-raft",
+  "title": "The Giant Raft",
+  "author": "Jules Verne",
+  "chapterCount": 43,
+  "totalWordCount": 96174,
+  "totalMinutes": 388,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 375,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I: Eight Hundred Leagues on the Amazon",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: A Captain of the Woods",
+      "wordCount": 2680,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: Robber and Robbed",
+      "wordCount": 3355,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "III: The Garral Family",
+      "wordCount": 3192,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV: Hesitation",
+      "wordCount": 2381,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: The Amazon",
+      "wordCount": 2377,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: A Forest on the Ground",
+      "wordCount": 2234,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VII: Following a Liana",
+      "wordCount": 4209,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Jangada",
+      "wordCount": 2440,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "IX: The Evening of the Fifth of June",
+      "wordCount": 2651,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "X: From Iquitos to Pevas",
+      "wordCount": 2569,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XI: From Pevas to the Frontier",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XII: Fragoso at Work",
+      "wordCount": 3166,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIII: Torres",
+      "wordCount": 1602,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XIV: Still Descending",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XV: The Continued Descent",
+      "wordCount": 2693,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVI: Ega",
+      "wordCount": 2913,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVII: An Attack",
+      "wordCount": 2705,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Arrival Dinner",
+      "wordCount": 2199,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX: Ancient History",
+      "wordCount": 1545,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XX: Between the Two Men",
+      "wordCount": 2837,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "Part II: The Cryptogram",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: Manaus",
+      "wordCount": 1111,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "II: The First Moments",
+      "wordCount": 1925,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "III: Retrospective",
+      "wordCount": 2031,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "IV: Moral Proofs",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "V: Material Proofs",
+      "wordCount": 1462,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "VI: The Last Blow",
+      "wordCount": 2816,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "VII: Resolutions",
+      "wordCount": 1521,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "VIII: The First Search",
+      "wordCount": 2004,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "IX: The Second Attempt",
+      "wordCount": 1323,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "X: A Cannon Shot",
+      "wordCount": 2581,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 33,
+      "title": "XI: The Contents of the Case",
+      "wordCount": 1537,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XII: The Document",
+      "wordCount": 3029,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "XIII: Is It a Matter of Figures?",
+      "wordCount": 2678,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XIV: Chance!",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XV: The Last Efforts",
+      "wordCount": 1945,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "XVI: Preparations",
+      "wordCount": 2310,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 39,
+      "title": "XVII: The Last Night",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "XVIII: Fragoso",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "XIX: The Crime of Tijuco",
+      "wordCount": 2782,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 42,
+      "title": "XX: The Lower Amazon",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    }
+  ]
+}

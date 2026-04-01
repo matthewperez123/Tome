@@ -1,0 +1,52 @@
+{
+  "bookId": "alls-well-that-ends-well",
+  "title": "All’s Well That Ends Well",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 24450,
+  "totalMinutes": 100,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 87,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4641,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 6179,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4150,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5570,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 3768,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "Epilogue",
+      "wordCount": 55,
+      "estimatedMinutes": 1
+    }
+  ]
+}

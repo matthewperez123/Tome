@@ -1,0 +1,52 @@
+{
+  "bookId": "titus-andronicus",
+  "title": "Titus Andronicus",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 23347,
+  "totalMinutes": 94,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 143,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 4174,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4479,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4715,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4941,
+      "estimatedMinutes": 20
+    }
+  ]
+}

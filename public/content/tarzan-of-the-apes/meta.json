@@ -1,0 +1,178 @@
+{
+  "bookId": "tarzan-of-the-apes",
+  "title": "Tarzan of the Apes",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 28,
+  "totalWordCount": 86053,
+  "totalMinutes": 339,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Out to Sea",
+      "wordCount": 3562,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: The Savage Home",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III: Life and Death",
+      "wordCount": 2276,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV: The Apes",
+      "wordCount": 2507,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: The White Ape",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Jungle Battles",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: The Light of Knowledge",
+      "wordCount": 3964,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Treetop Hunter",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: Man and Man",
+      "wordCount": 3596,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X: The Fear-Phantom",
+      "wordCount": 1777,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: “King of the Apes”",
+      "wordCount": 3516,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: Man’s Reason",
+      "wordCount": 2760,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII: His Own Kind",
+      "wordCount": 4702,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "XIV: At the Mercy of the Jungle",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: The Forest God",
+      "wordCount": 1825,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: “Most Remarkable”",
+      "wordCount": 2994,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVII: Burials",
+      "wordCount": 3487,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Jungle Toll",
+      "wordCount": 3579,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Call of the Primitive",
+      "wordCount": 3592,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: Heredity",
+      "wordCount": 4117,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Village of Torture",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Search Party",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Brother Men",
+      "wordCount": 2821,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Lost Treasure",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Outpost of the World",
+      "wordCount": 3357,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Height of Civilization",
+      "wordCount": 3344,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Giant Again",
+      "wordCount": 4036,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Conclusion",
+      "wordCount": 2913,
+      "estimatedMinutes": 12
+    }
+  ]
+}

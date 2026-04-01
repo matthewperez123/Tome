@@ -1,0 +1,232 @@
+{
+  "bookId": "shirley",
+  "title": "Shirley",
+  "author": "Charlotte Brontë",
+  "chapterCount": 37,
+  "totalWordCount": 216737,
+  "totalMinutes": 863,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Levitical",
+      "wordCount": 4915,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 1,
+      "title": "II: The Wagons",
+      "wordCount": 5988,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "III: Mr. Yorke",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "IV: Mr. Yorke (Continued)",
+      "wordCount": 4283,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "V: Hollow’s Cottage",
+      "wordCount": 6005,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "VI: Coriolanus",
+      "wordCount": 7337,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "VII: The Curates at Tea",
+      "wordCount": 10081,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 7,
+      "title": "VIII: Noah and Moses",
+      "wordCount": 6060,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 8,
+      "title": "IX: Briarmains",
+      "wordCount": 8322,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "X: Old Maids",
+      "wordCount": 6935,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 10,
+      "title": "XI: Fieldhead",
+      "wordCount": 6369,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 11,
+      "title": "XII: Shirley and Caroline",
+      "wordCount": 7697,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 12,
+      "title": "XIII: Further Communications on Business",
+      "wordCount": 9810,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 13,
+      "title": "XIV: Shirley Seeks to Be Saved by Works",
+      "wordCount": 5334,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XV: Mr. Donne’s Exodus",
+      "wordCount": 5233,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI: Whitsuntide",
+      "wordCount": 4352,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII: The School Feast",
+      "wordCount": 5863,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Which the Genteel Reader Is Recommended to Skip, Low Persons Being Here Introduced",
+      "wordCount": 4346,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XIX: A Summer Night",
+      "wordCount": 5938,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "XX: Tomorrow",
+      "wordCount": 4776,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XXI: Mrs. Pryor",
+      "wordCount": 6606,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 21,
+      "title": "XXII: Two Lives",
+      "wordCount": 3967,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XXIII: An Evening Out",
+      "wordCount": 7482,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Valley of the Shadow of Death",
+      "wordCount": 7117,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 24,
+      "title": "XXV: The West Wind Blows",
+      "wordCount": 2860,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Old Copybooks",
+      "wordCount": 6469,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The First Bluestocking",
+      "wordCount": 8255,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Phoebe",
+      "wordCount": 7536,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Louis Moore",
+      "wordCount": 3261,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXX: Rushedge—A Confessional",
+      "wordCount": 5643,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Uncle and Niece",
+      "wordCount": 5550,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Schoolboy and the Wood-Nymph",
+      "wordCount": 4328,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Martin’s Tactics",
+      "wordCount": 3765,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Case of Domestic Persecution—Remarkable Instance of Pious Perseverance in the Discharge of Religious Duties",
+      "wordCount": 2764,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Wherein Matters Make Some Progress, but Not Much",
+      "wordCount": 4535,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Written in the Schoolroom",
+      "wordCount": 8431,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Winding-Up",
+      "wordCount": 5225,
+      "estimatedMinutes": 21
+    }
+  ]
+}

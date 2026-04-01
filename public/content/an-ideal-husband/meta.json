@@ -1,0 +1,46 @@
+{
+  "bookId": "an-ideal-husband",
+  "title": "An Ideal Husband",
+  "author": "Oscar Wilde",
+  "chapterCount": 6,
+  "totalWordCount": 32466,
+  "totalMinutes": 130,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1555,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 78,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 9045,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 8941,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6786,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 6061,
+      "estimatedMinutes": 24
+    }
+  ]
+}

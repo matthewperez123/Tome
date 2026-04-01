@@ -1,0 +1,100 @@
+{
+  "bookId": "kusamakura",
+  "title": "Kusamakura: Unhuman Tour",
+  "author": "Natsume Sōseki",
+  "chapterCount": 15,
+  "totalWordCount": 40964,
+  "totalMinutes": 162,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1873,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 890,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3832,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2802,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 4619,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 4009,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3343,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 3692,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 2099,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 2014,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 888,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3507,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2195,
+      "estimatedMinutes": 9
+    }
+  ]
+}

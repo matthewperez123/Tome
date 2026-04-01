@@ -1,0 +1,160 @@
+{
+  "bookId": "heidi",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "chapterCount": 25,
+  "totalWordCount": 50193,
+  "totalMinutes": 201,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Heidi’s Years of Learning and Travel",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Going Up to the Alm-Uncle",
+      "wordCount": 3677,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: With the Grandfather",
+      "wordCount": 2127,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: On the Pasture",
+      "wordCount": 2954,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: In the Grandmother’s Hut",
+      "wordCount": 2704,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Two Visitors",
+      "wordCount": 2007,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: A New Chapter with New Things",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VII: Miss Rottenmeier Has an Uncomfortable Day",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: Great Disturbances in the Sesemann House",
+      "wordCount": 1660,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX: The Master of the House Hears of Strange Doings",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "X: A Grandmama",
+      "wordCount": 1720,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XI: Heidi Gains in Some Respects and Loses in Others",
+      "wordCount": 1101,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XII: The Sesemann House Is Haunted",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII: Up the Alp on a Summer Evening",
+      "wordCount": 3055,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: On Sunday When the Church Bells Ring",
+      "wordCount": 2369,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "Part II: Heidi Makes Use of Her Experience",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "XV: Preparations for a Journey",
+      "wordCount": 1449,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVI: A Guest on the Alp",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVII: Retaliation",
+      "wordCount": 1604,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Winter in the Village",
+      "wordCount": 2352,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX: Winter Still Continues",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XX: News from Distant Friends",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXI: Of Further Events on the Alp",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXII: Something Unexpected Happens",
+      "wordCount": 2751,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Parting to Meet Again",
+      "wordCount": 4506,
+      "estimatedMinutes": 18
+    }
+  ]
+}

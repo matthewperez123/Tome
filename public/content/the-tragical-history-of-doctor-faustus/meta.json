@@ -1,0 +1,124 @@
+{
+  "bookId": "the-tragical-history-of-doctor-faustus",
+  "title": "The Tragical History of Doctor Faustus",
+  "author": "Christopher Marlowe",
+  "chapterCount": 19,
+  "totalWordCount": 12812,
+  "totalMinutes": 54,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Note",
+      "wordCount": 204,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 70,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Chorus",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Scene I",
+      "wordCount": 1247,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "Scene II",
+      "wordCount": 378,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 5,
+      "title": "Scene III",
+      "wordCount": 876,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "Scene IV",
+      "wordCount": 702,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "Scene V",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "Scene VI",
+      "wordCount": 1521,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "Scene VII",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "Scene VIII",
+      "wordCount": 496,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "Scene IX",
+      "wordCount": 464,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 12,
+      "title": "Scene X",
+      "wordCount": 879,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "Scene XI",
+      "wordCount": 842,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "Scene XII",
+      "wordCount": 357,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Scene XIII",
+      "wordCount": 74,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "Scene XIV",
+      "wordCount": 863,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "Scene XV",
+      "wordCount": 96,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "Scene XVI",
+      "wordCount": 1083,
+      "estimatedMinutes": 4
+    }
+  ]
+}

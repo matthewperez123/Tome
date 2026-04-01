@@ -1,0 +1,172 @@
+{
+  "bookId": "the-first-men-in-the-moon",
+  "title": "The First Men in the Moon",
+  "author": "H. G. Wells",
+  "chapterCount": 27,
+  "totalWordCount": 69142,
+  "totalMinutes": 277,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 349,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Mr. Bedford Meets Mr. Cavor at Lympne",
+      "wordCount": 5448,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "II: The First Making of Cavorite",
+      "wordCount": 2622,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: The Building of the Sphere",
+      "wordCount": 2519,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: Inside the Sphere",
+      "wordCount": 1238,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V: The Journey to the Moon",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Landing on the Moon",
+      "wordCount": 1328,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VII: Sunrise on the Moon",
+      "wordCount": 1579,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII: A Lunar Morning",
+      "wordCount": 1300,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "IX: Prospecting Begins",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X: Lost Men in the Moon",
+      "wordCount": 1549,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XI: The Mooncalf Pastures",
+      "wordCount": 3376,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: The Selenite’s Face",
+      "wordCount": 1434,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIII: Mr. Cavor Makes Some Suggestions",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV: Experiments in Intercourse",
+      "wordCount": 1773,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV: The Giddy Bridge",
+      "wordCount": 3434,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: Points of View",
+      "wordCount": 2457,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Fight in the Cave of the Moon Butchers",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: In the Sunlight",
+      "wordCount": 2896,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: Mr. Bedford Alone",
+      "wordCount": 3731,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XX: Mr. Bedford in Infinite Space",
+      "wordCount": 2505,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XXI: Mr. Bedford at Littlestone",
+      "wordCount": 4674,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Astonishing Communication of Mr. Julius Wendigee",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXIII: An Abstract of the Six Messages First Received from Mr. Cavor",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Natural History of the Selenites",
+      "wordCount": 5455,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Grand Lunar",
+      "wordCount": 4985,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Last Message Cavor Sent to the Earth",
+      "wordCount": 538,
+      "estimatedMinutes": 2
+    }
+  ]
+}

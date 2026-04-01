@@ -1,0 +1,88 @@
+{
+  "bookId": "at-the-mountains-of-madness",
+  "title": "At the Mountains of Madness",
+  "author": "H. P. Lovecraft",
+  "chapterCount": 13,
+  "totalWordCount": 40455,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 431,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5967,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3727,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2943,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 4386,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2514,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2912,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3638,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2482,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3189,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "bookId": "the-house-of-arden",
+  "title": "The House of Arden",
+  "author": "E. Nesbit",
+  "chapterCount": 14,
+  "totalWordCount": 72950,
+  "totalMinutes": 294,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Arden’s Lord",
+      "wordCount": 7023,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "II: The Mouldiwarp",
+      "wordCount": 6635,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "III: In Boney’s Times",
+      "wordCount": 4635,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV: The Landing of the French",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V: The Highwayman and the —﻿—﻿—",
+      "wordCount": 5086,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "VI: The Secret Panel",
+      "wordCount": 5033,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "VII: The Key of the Parlour",
+      "wordCount": 4636,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII: Guy Fawkes",
+      "wordCount": 6234,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "IX: The Prisoners in the Tower",
+      "wordCount": 5437,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "X: White Wings and a Brownie",
+      "wordCount": 5144,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "XI: Developments",
+      "wordCount": 6436,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 11,
+      "title": "XII: Films and Clouds",
+      "wordCount": 3980,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XIII: May-Blossom and Pearls",
+      "wordCount": 3843,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Finding of the Treasure",
+      "wordCount": 5409,
+      "estimatedMinutes": 22
+    }
+  ]
+}

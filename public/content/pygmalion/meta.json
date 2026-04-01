@@ -1,0 +1,58 @@
+{
+  "bookId": "pygmalion",
+  "title": "Pygmalion",
+  "author": "George Bernard Shaw",
+  "chapterCount": 8,
+  "totalWordCount": 34250,
+  "totalMinutes": 137,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 456,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 3583,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 8924,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4730,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 2703,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 7322,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "Sequel",
+      "wordCount": 5021,
+      "estimatedMinutes": 20
+    }
+  ]
+}

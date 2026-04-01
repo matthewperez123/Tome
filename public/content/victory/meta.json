@@ -1,0 +1,280 @@
+{
+  "bookId": "victory",
+  "title": "Victory: An Island Tale",
+  "author": "Joseph Conrad",
+  "chapterCount": 45,
+  "totalWordCount": 118477,
+  "totalMinutes": 476,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Note to the First Edition",
+      "wordCount": 402,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Author’s Note",
+      "wordCount": 2989,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 3319,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 2018,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 2041,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "V",
+      "wordCount": 4712,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 1563,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "II",
+      "wordCount": 4399,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "III",
+      "wordCount": 1952,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "IV",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "V",
+      "wordCount": 3746,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "VI",
+      "wordCount": 4964,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "VII",
+      "wordCount": 5526,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "VIII",
+      "wordCount": 4674,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "I",
+      "wordCount": 2766,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "II",
+      "wordCount": 804,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "III",
+      "wordCount": 4583,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "IV",
+      "wordCount": 4516,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "V",
+      "wordCount": 2425,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "VI",
+      "wordCount": 2421,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "VII",
+      "wordCount": 3345,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "VIII",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "IX",
+      "wordCount": 2823,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "X",
+      "wordCount": 5346,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 30,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I",
+      "wordCount": 2530,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "II",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 33,
+      "title": "III",
+      "wordCount": 1916,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "IV",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "V",
+      "wordCount": 5223,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 36,
+      "title": "VI",
+      "wordCount": 1591,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "VII",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "VIII",
+      "wordCount": 3877,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 39,
+      "title": "IX",
+      "wordCount": 3439,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 40,
+      "title": "X",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "XI",
+      "wordCount": 5121,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 42,
+      "title": "XII",
+      "wordCount": 2546,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XIII",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XIV",
+      "wordCount": 1245,
+      "estimatedMinutes": 5
+    }
+  ]
+}

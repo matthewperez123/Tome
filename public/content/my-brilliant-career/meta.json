@@ -1,0 +1,256 @@
+{
+  "bookId": "my-brilliant-career",
+  "title": "My Brilliant Career",
+  "author": "Miles Franklin",
+  "chapterCount": 41,
+  "totalWordCount": 88780,
+  "totalMinutes": 353,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 373,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 281,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Introduction",
+      "wordCount": 445,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "I: I Remember, I Remember",
+      "wordCount": 1290,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "II: An Introduction to Possum Gully",
+      "wordCount": 962,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "III: A Lifeless Life",
+      "wordCount": 1577,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "IV: A Career Which Soon Careered to an End",
+      "wordCount": 1507,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "V: Disjointed Sketches and Grumbles",
+      "wordCount": 2855,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VI: Revolt",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VII: Was E’er a Rose Without Its Thorn?",
+      "wordCount": 3540,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "VIII: Possum Gully Left Behind. Hurrah! Hurrah!",
+      "wordCount": 3558,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "IX: Aunt Helen’s Recipe",
+      "wordCount": 2601,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "X: Everard Grey",
+      "wordCount": 3112,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XI: Yah!",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XII: One Grand Passion",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XIII: He",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XIV: Principally Letters",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XV: When the Heart Is Young",
+      "wordCount": 1682,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVI: When Fortune Smiles",
+      "wordCount": 2655,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVII: Idylls of Youth",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XVIII: As Short as I Wish Had Been the Majority of Sermons to Which I Have Been Forced to Give Ear",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XIX: The 9th of November 1896",
+      "wordCount": 2823,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XX: Same Yarn (Continued)",
+      "wordCount": 3009,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXI: My Unladylike Behaviour Again",
+      "wordCount": 1719,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXII: Sweet Seventeen",
+      "wordCount": 3061,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXIII: “Ah, for One Hour of Burning Love, ’Tis Worth an Age of Cold Respect!”",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXIV: Thou Knowest Not What a Day May Bring Forth",
+      "wordCount": 1499,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXV: Because?",
+      "wordCount": 1730,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXVI: Boast Not Thyself of Tomorrow",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "XXVII: My Journey",
+      "wordCount": 1002,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: To Life",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXIX: To Life (Continued)",
+      "wordCount": 4382,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 32,
+      "title": "XXX: Where Ignorance Is Bliss, ’Tis Folly to Be Wise",
+      "wordCount": 1867,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXI: Mr. M’Swat and I Have a Bust-Up",
+      "wordCount": 2767,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXII: Ta-Ta to Barney’s Gap",
+      "wordCount": 1100,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: Back at Possum Gully",
+      "wordCount": 1587,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: But Absent Friends Are Soon Forgot",
+      "wordCount": 2284,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXV: The 3rd of December 1898",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XXXVI: Once Upon a Time, When the Days Were Long and Hot",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 39,
+      "title": "XXXVII: He That Despiseth Little Things, Shall Fall Little by Little",
+      "wordCount": 1380,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XXXVIII: A Tale That Is Told and a Day That Is Done",
+      "wordCount": 755,
+      "estimatedMinutes": 3
+    }
+  ]
+}

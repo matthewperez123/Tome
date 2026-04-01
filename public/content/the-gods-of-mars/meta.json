@@ -1,0 +1,148 @@
+{
+  "bookId": "the-gods-of-mars",
+  "title": "The Gods of Mars",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 23,
+  "totalWordCount": 82494,
+  "totalMinutes": 330,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "I: The Plant Men",
+      "wordCount": 4155,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "II: A Forest Battle",
+      "wordCount": 4334,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: The Chamber of Mystery",
+      "wordCount": 4622,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV: Thuvia",
+      "wordCount": 4006,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "V: Corridors of Peril",
+      "wordCount": 2976,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI: The Black Pirates of Barsoom",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII: A Fair Goddess",
+      "wordCount": 3676,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Depths of Omean",
+      "wordCount": 4386,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "IX: Issus, Goddess of Life Eternal",
+      "wordCount": 3140,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: The Prison Isle of Shador",
+      "wordCount": 3270,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: When Hell Broke Loose",
+      "wordCount": 4469,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: Doomed to Die",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Break for Liberty",
+      "wordCount": 4680,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Eyes in the Dark",
+      "wordCount": 5023,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XV: Flight and Pursuit",
+      "wordCount": 2973,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVI: Under Arrest",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Death Sentence",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Sola’s Story",
+      "wordCount": 2561,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XIX: Black Despair",
+      "wordCount": 4817,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XX: The Air Battle",
+      "wordCount": 4470,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXI: Through Flood and Flame",
+      "wordCount": 2793,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXII: Victory and Defeat",
+      "wordCount": 3802,
+      "estimatedMinutes": 15
+    }
+  ]
+}

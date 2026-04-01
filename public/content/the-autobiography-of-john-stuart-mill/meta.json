@@ -1,0 +1,52 @@
+{
+  "bookId": "the-autobiography-of-john-stuart-mill",
+  "title": "The Autobiography of John Stuart Mill",
+  "author": "John Stuart Mill",
+  "chapterCount": 7,
+  "totalWordCount": 74162,
+  "totalMinutes": 298,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 8468,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 5714,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 5894,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 10722,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 12629,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 8905,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 21830,
+      "estimatedMinutes": 87
+    }
+  ]
+}

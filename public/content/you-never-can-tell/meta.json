@@ -1,0 +1,46 @@
+{
+  "bookId": "you-never-can-tell",
+  "title": "You Never Can Tell: A Comedy in Four Acts",
+  "author": "George Bernard Shaw",
+  "chapterCount": 6,
+  "totalWordCount": 36314,
+  "totalMinutes": 146,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1152,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 24,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 8930,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 11855,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6591,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 7762,
+      "estimatedMinutes": 31
+    }
+  ]
+}

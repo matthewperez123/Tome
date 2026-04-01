@@ -1,0 +1,16 @@
+{
+  "bookId": "a-marriage-settlement",
+  "title": "A Marriage Settlement",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 50301,
+  "totalMinutes": 201,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Marriage Settlement",
+      "wordCount": 50301,
+      "estimatedMinutes": 201
+    }
+  ]
+}

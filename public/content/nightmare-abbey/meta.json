@@ -1,0 +1,100 @@
+{
+  "bookId": "nightmare-abbey",
+  "title": "Nightmare Abbey",
+  "author": "Thomas Love Peacock",
+  "chapterCount": 15,
+  "totalWordCount": 26294,
+  "totalMinutes": 105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2516,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1049,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1496,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1206,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 1247,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2363,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1639,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1418,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2074,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2553,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1733,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 924,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 974,
+      "estimatedMinutes": 4
+    }
+  ]
+}

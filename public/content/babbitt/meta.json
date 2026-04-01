@@ -1,0 +1,214 @@
+{
+  "bookId": "babbitt",
+  "title": "Babbitt",
+  "author": "Sinclair Lewis",
+  "chapterCount": 34,
+  "totalWordCount": 123693,
+  "totalMinutes": 497,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter I",
+      "wordCount": 3977,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "Chapter II",
+      "wordCount": 3199,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "Chapter III",
+      "wordCount": 4279,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "Chapter IV",
+      "wordCount": 3821,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "Chapter V",
+      "wordCount": 5827,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "Chapter VI",
+      "wordCount": 7538,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 6,
+      "title": "Chapter VII",
+      "wordCount": 3776,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "Chapter VIII",
+      "wordCount": 6211,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "Chapter IX",
+      "wordCount": 3050,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "Chapter X",
+      "wordCount": 4935,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "Chapter XI",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "Chapter XII",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "Chapter XIII",
+      "wordCount": 5491,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "Chapter XIV",
+      "wordCount": 4543,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "Chapter XV",
+      "wordCount": 3832,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "Chapter XVI",
+      "wordCount": 2973,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "Chapter XVII",
+      "wordCount": 3241,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "Chapter XVIII",
+      "wordCount": 3438,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "Chapter XIX",
+      "wordCount": 4829,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "Chapter XX",
+      "wordCount": 2135,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "Chapter XXI",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "Chapter XXII",
+      "wordCount": 1653,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "Chapter XXIII",
+      "wordCount": 2972,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "Chapter XXIV",
+      "wordCount": 4054,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "Chapter XXV",
+      "wordCount": 2584,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "Chapter XXVI",
+      "wordCount": 2606,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "Chapter XXVII",
+      "wordCount": 2540,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "Chapter XXVIII",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "Chapter XXIX",
+      "wordCount": 5707,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 29,
+      "title": "Chapter XXX",
+      "wordCount": 3655,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "Chapter XXXI",
+      "wordCount": 2406,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "Chapter XXXII",
+      "wordCount": 3485,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "Chapter XXXIII",
+      "wordCount": 3150,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "Chapter XXXIV",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    }
+  ]
+}

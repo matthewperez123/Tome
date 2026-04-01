@@ -1,0 +1,142 @@
+{
+  "bookId": "kipps",
+  "title": "Kipps: The Story of a Simple Soul",
+  "author": "H. G. Wells",
+  "chapterCount": 22,
+  "totalWordCount": 111159,
+  "totalMinutes": 449,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 424,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Making of Kipps",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Little Shop at New Romney",
+      "wordCount": 7954,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 3,
+      "title": "II: The Emporium",
+      "wordCount": 6973,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 4,
+      "title": "III: The Woodcarving Class",
+      "wordCount": 5673,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "IV: Chitterlow",
+      "wordCount": 7253,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "V: Swapped",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: The Unexpected",
+      "wordCount": 8744,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 8,
+      "title": "Book II: Mr. Coote, the Chaperon",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: The New Conditions",
+      "wordCount": 7664,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 10,
+      "title": "II: The Walshinghams",
+      "wordCount": 3776,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "III: Engaged",
+      "wordCount": 6086,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "IV: The Bicycle Manufacturer",
+      "wordCount": 3150,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "V: The Pupil Lover",
+      "wordCount": 5413,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "VI: Discords",
+      "wordCount": 6146,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 15,
+      "title": "VII: London",
+      "wordCount": 11077,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 16,
+      "title": "VIII: Kipps Enters Society",
+      "wordCount": 6033,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 17,
+      "title": "IX: The Labyrinthodon",
+      "wordCount": 2558,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "Book III: Kippses",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "I: The Housing Problem",
+      "wordCount": 6783,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "II: The Callers",
+      "wordCount": 4196,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "III: Terminations",
+      "wordCount": 8632,
+      "estimatedMinutes": 35
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "bookId": "the-island-of-doctor-moreau",
+  "title": "The Island of Doctor Moreau: A Possibility",
+  "author": "H. G. Wells",
+  "chapterCount": 23,
+  "totalWordCount": 43691,
+  "totalMinutes": 175,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 401,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: In the Dingey of the Lady Vain",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: The Man Who Was Going Nowhere",
+      "wordCount": 1031,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "III: The Strange Face",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: At the Schooner’s Rail",
+      "wordCount": 1131,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V: The Man Who Had Nowhere to Go",
+      "wordCount": 1293,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI: The Evil-Looking Boatmen",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: The Locked Door",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Crying of the Puma",
+      "wordCount": 980,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX: The Thing in the Forest",
+      "wordCount": 3358,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: The Crying of the Man",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "XI: The Hunting of the Man",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XII: The Sayers of the Law",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Parley",
+      "wordCount": 1451,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIV: Doctor Moreau Explains",
+      "wordCount": 3891,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XV: Concerning the Beast Folk",
+      "wordCount": 1792,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI: How the Beast Folk Taste Blood",
+      "wordCount": 4092,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Catastrophe",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Finding of Moreau",
+      "wordCount": 1235,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX: Montgomery’s Bank Holiday",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: Alone with the Beast Folk",
+      "wordCount": 1748,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Reversion of the Beast Folk",
+      "wordCount": 4171,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Man Alone",
+      "wordCount": 1106,
+      "estimatedMinutes": 4
+    }
+  ]
+}

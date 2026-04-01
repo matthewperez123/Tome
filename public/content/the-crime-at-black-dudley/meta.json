@@ -1,0 +1,184 @@
+{
+  "bookId": "the-crime-at-black-dudley",
+  "title": "The Crime at Black Dudley",
+  "author": "Margery Allingham",
+  "chapterCount": 29,
+  "totalWordCount": 68357,
+  "totalMinutes": 273,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Candlelight",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: The Ritual of the Dagger",
+      "wordCount": 2577,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: In the Garage",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: Murder",
+      "wordCount": 2841,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "V: The Mask",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "VI: Mr. Campion Brings the House Down",
+      "wordCount": 1319,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VII: Five O’Clock in the Morning",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Open Warfare",
+      "wordCount": 2062,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: Chris Kennedy Scores a Try Only",
+      "wordCount": 2331,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X: The Impetuous Mr. Abbershaw",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: One Explanation",
+      "wordCount": 2927,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII: “Furthermore …” Said Mr. Campion",
+      "wordCount": 1951,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII: Abbershaw Sees Red",
+      "wordCount": 1612,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: Abbershaw Gets His Interview",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: Doctor Abbershaw’s Deductions",
+      "wordCount": 3022,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Militant Mrs. Meade",
+      "wordCount": 3066,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVII: In the Evening",
+      "wordCount": 2912,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Mr. Kennedy’s Council",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XIX: Mr. Campion’s Conjuring Trick",
+      "wordCount": 2423,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX: The Roundup",
+      "wordCount": 3774,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Point of View of Benjamin Dawlish",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Darkest Hour",
+      "wordCount": 2267,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: An Error in Taste",
+      "wordCount": 2126,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Last of Black Dudley",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: Mr. Watt Explains",
+      "wordCount": 2327,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXVI: “Cherchez la Femme”",
+      "wordCount": 2520,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXVII: A Journey by Night",
+      "wordCount": 2130,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Should a Doctor Tell?",
+      "wordCount": 2670,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXIX: The Last Chapter",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    }
+  ]
+}

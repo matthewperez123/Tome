@@ -1,0 +1,172 @@
+{
+  "bookId": "an-antarctic-mystery",
+  "title": "An Antarctic Mystery",
+  "author": "Jules Verne",
+  "chapterCount": 27,
+  "totalWordCount": 80131,
+  "totalMinutes": 318,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Kerguelen Islands",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: The Schooner Halbrane",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: Captain Len Guy",
+      "wordCount": 2487,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: From the Kerguelen Isles to Prince Edward Island",
+      "wordCount": 3371,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: Edgar Poe’s Romance",
+      "wordCount": 5388,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VI: An Ocean Waif",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VII: Tristan d’Acunha",
+      "wordCount": 2413,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VIII: Bound for the Falklands",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX: Fitting Out the Halbrane",
+      "wordCount": 2599,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "X: The Outset of the Enterprise",
+      "wordCount": 1798,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XI: From the Sandwich Islands to the Polar Circle",
+      "wordCount": 2499,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII: Between the Polar Circle and the Ice Wall",
+      "wordCount": 2542,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII: Along the Front of the Icebergs",
+      "wordCount": 2127,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Voice in a Dream",
+      "wordCount": 1101,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XV: Bennet Islet",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVI: Tsalal Island",
+      "wordCount": 2561,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: And Pym?",
+      "wordCount": 5705,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVIII: A Revelation",
+      "wordCount": 4290,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: Land?",
+      "wordCount": 6292,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 20,
+      "title": "XX: “Unmerciful Disaster”",
+      "wordCount": 10119,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 21,
+      "title": "XXI: Amid the Mists",
+      "wordCount": 2040,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII: In Camp",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Found at Last",
+      "wordCount": 2175,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Eleven Years in a Few Pages",
+      "wordCount": 2603,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXV: “We Were the First”",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXVI: A Little Remnant",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    }
+  ]
+}

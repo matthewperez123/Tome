@@ -1,0 +1,160 @@
+{
+  "bookId": "the-unpleasantness-at-the-bellona-club",
+  "title": "The Unpleasantness at the Bellona Club",
+  "author": "Dorothy L. Sayers",
+  "chapterCount": 25,
+  "totalWordCount": 72919,
+  "totalMinutes": 290,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 383,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 112,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Old Mossy-Face",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "II: The Queen Is Out",
+      "wordCount": 1065,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "III: Hearts Count More Than Diamonds",
+      "wordCount": 4097,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "IV: Lord Peter Leads a Club",
+      "wordCount": 1990,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "V: —And Finds the Club Suit Blocked",
+      "wordCount": 3015,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VI: A Card of Reentry",
+      "wordCount": 4004,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "VII: The Curse of Scotland",
+      "wordCount": 4818,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "VIII: Lord Peter Leads Through Strength",
+      "wordCount": 4639,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX: Knave High",
+      "wordCount": 3055,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "X: Lord Peter Forces a Card",
+      "wordCount": 2641,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XI: Lord Peter Clears Trumps",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XII: Lord Peter Turns a Trick",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIII: Spades Are Trumps",
+      "wordCount": 3848,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XIV: Grand Slam in Spades",
+      "wordCount": 2586,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XV: Shuffle the Cards and Deal Again",
+      "wordCount": 3024,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVI: Quadrille",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVII: Parker Plays a Hand",
+      "wordCount": 4105,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Picture-Cards",
+      "wordCount": 6810,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "XIX: Lord Peter Plays Dummy",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XX: Ann Dorland Goes Misère",
+      "wordCount": 3609,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXI: Lord Peter Calls a Bluff",
+      "wordCount": 2864,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Cards on the Table",
+      "wordCount": 1627,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Postmortem",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    }
+  ]
+}

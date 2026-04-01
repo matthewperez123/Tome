@@ -1,0 +1,136 @@
+{
+  "bookId": "tarzan-and-the-golden-lion",
+  "title": "Tarzan and the Golden Lion",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 21,
+  "totalWordCount": 80475,
+  "totalMinutes": 323,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Golden Lion",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: The Training of Jad-Bal-Ja",
+      "wordCount": 2188,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "III: A Meeting of Mystery",
+      "wordCount": 3662,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "IV: What the Footprints Told",
+      "wordCount": 3459,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V: The Fatal Drops",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "VI: Death Steals Behind",
+      "wordCount": 4033,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII: “You Must Sacrifice Him”",
+      "wordCount": 3180,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII: Mystery of the Past",
+      "wordCount": 4679,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: The Shaft of Death",
+      "wordCount": 3108,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: Mad Treachery",
+      "wordCount": 4972,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI: Strange Incense Burns",
+      "wordCount": 4830,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XII: The Golden Ingots",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII: A Strange, Flat Tower",
+      "wordCount": 3922,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Chamber of Horrors",
+      "wordCount": 4314,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: The Map of Blood",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Diamond Hoard",
+      "wordCount": 4764,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Torture of Fire",
+      "wordCount": 3715,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Spoor of Revenge",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX: A Barbed Shaft Kills",
+      "wordCount": 4205,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XX: The Dead Return",
+      "wordCount": 4281,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI: An Escape and a Capture",
+      "wordCount": 2975,
+      "estimatedMinutes": 12
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "bookId": "the-ambassadors",
+  "title": "The Ambassadors",
+  "author": "Henry James",
+  "chapterCount": 49,
+  "totalWordCount": 164994,
+  "totalMinutes": 670,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 7328,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 5106,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 3339,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3043,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "I",
+      "wordCount": 6791,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 7,
+      "title": "II",
+      "wordCount": 6859,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I",
+      "wordCount": 4198,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "II",
+      "wordCount": 7072,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 11,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I",
+      "wordCount": 4265,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "II",
+      "wordCount": 7469,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 14,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "I",
+      "wordCount": 4142,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "II",
+      "wordCount": 4450,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "III",
+      "wordCount": 4112,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "I",
+      "wordCount": 3520,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "II",
+      "wordCount": 3850,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "III",
+      "wordCount": 4499,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I",
+      "wordCount": 5832,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 24,
+      "title": "II",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "III",
+      "wordCount": 4221,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "Book VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "I",
+      "wordCount": 4060,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "II",
+      "wordCount": 5003,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "III",
+      "wordCount": 5347,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 30,
+      "title": "Book IX",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I",
+      "wordCount": 5674,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 32,
+      "title": "II",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 33,
+      "title": "III",
+      "wordCount": 3928,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "Book X",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "I",
+      "wordCount": 6488,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 36,
+      "title": "II",
+      "wordCount": 3386,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "III",
+      "wordCount": 3357,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 38,
+      "title": "Book XI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "I",
+      "wordCount": 4657,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 40,
+      "title": "II",
+      "wordCount": 4707,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 41,
+      "title": "III",
+      "wordCount": 3329,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "IV",
+      "wordCount": 3235,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "Book XII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "I",
+      "wordCount": 3054,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 45,
+      "title": "II",
+      "wordCount": 2676,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 46,
+      "title": "III",
+      "wordCount": 3729,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "IV",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 48,
+      "title": "V",
+      "wordCount": 2221,
+      "estimatedMinutes": 9
+    }
+  ]
+}

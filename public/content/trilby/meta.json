@@ -1,0 +1,58 @@
+{
+  "bookId": "trilby",
+  "title": "Trilby",
+  "author": "George du Maurier",
+  "chapterCount": 8,
+  "totalWordCount": 100886,
+  "totalMinutes": 403,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 12458,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 1,
+      "title": "Part II",
+      "wordCount": 12576,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 2,
+      "title": "Part III",
+      "wordCount": 10911,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 3,
+      "title": "Part IV",
+      "wordCount": 11743,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 4,
+      "title": "Part V: Little Billee",
+      "wordCount": 15245,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 5,
+      "title": "Part VI",
+      "wordCount": 11273,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 6,
+      "title": "Part VII",
+      "wordCount": 13307,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 7,
+      "title": "Part VIII",
+      "wordCount": 13373,
+      "estimatedMinutes": 53
+    }
+  ]
+}

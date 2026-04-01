@@ -1,0 +1,94 @@
+{
+  "bookId": "whose-body",
+  "title": "Whose Body?: The Singular Adventure of the Man with the Golden Pince-Nez",
+  "author": "Dorothy L. Sayers",
+  "chapterCount": 14,
+  "totalWordCount": 59327,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 357,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3648,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 4852,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3803,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 6389,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 6789,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 7894,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4861,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2070,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3630,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4935,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2554,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1849,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 5696,
+      "estimatedMinutes": 23
+    }
+  ]
+}

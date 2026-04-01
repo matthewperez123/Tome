@@ -1,0 +1,46 @@
+{
+  "bookId": "macbeth",
+  "title": "Macbeth",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 18375,
+  "totalMinutes": 74,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 112,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4065,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 3998,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 4031,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 3244,
+      "estimatedMinutes": 13
+    }
+  ]
+}

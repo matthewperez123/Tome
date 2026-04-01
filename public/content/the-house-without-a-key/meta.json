@@ -1,0 +1,148 @@
+{
+  "bookId": "the-house-without-a-key",
+  "title": "The House Without a Key",
+  "author": "Earl Derr Biggers",
+  "chapterCount": 23,
+  "totalWordCount": 83517,
+  "totalMinutes": 336,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Kona Weather",
+      "wordCount": 4723,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II: The High Hat",
+      "wordCount": 1882,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: Midnight on Russian Hill",
+      "wordCount": 4280,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: A Friend of Tim’s",
+      "wordCount": 3124,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "V: The Blood of the Winterslips",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: Beyond the Bamboo Curtain",
+      "wordCount": 2150,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: Enter Charlie Chan",
+      "wordCount": 3825,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: Steamer Day",
+      "wordCount": 3335,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: At the Reef and Palm",
+      "wordCount": 3575,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X: A Newspaper Ripped in Anger",
+      "wordCount": 3524,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "XI: The Tree of Jewels",
+      "wordCount": 4902,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XII: Tom Brade the Blackbirder",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Luggage in Room Nineteen",
+      "wordCount": 3422,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV: What Kaohla Carried",
+      "wordCount": 3722,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XV: The Man from India",
+      "wordCount": 4951,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Return of Captain Cope",
+      "wordCount": 3858,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII: Night Life in Honolulu",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII: A Cable from the Mainland",
+      "wordCount": 3894,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "IX: “Goodbye, Pete!”",
+      "wordCount": 5268,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "XX: The Story of Lau Ho",
+      "wordCount": 3379,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Stone Walls Crumble",
+      "wordCount": 4198,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Light Streams Through",
+      "wordCount": 5005,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Moonlight at the Crossroads",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    }
+  ]
+}

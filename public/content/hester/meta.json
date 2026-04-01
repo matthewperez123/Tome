@@ -1,0 +1,286 @@
+{
+  "bookId": "hester",
+  "title": "Hester: A Story of Contemporary Life",
+  "author": "Margaret Oliphant",
+  "chapterCount": 46,
+  "totalWordCount": 203424,
+  "totalMinutes": 813,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 495,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Vernon’s",
+      "wordCount": 4401,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II: Miss Catherine",
+      "wordCount": 3999,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "III: The Vernonry",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "IV: A First Meeting",
+      "wordCount": 4166,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "V: Next Morning",
+      "wordCount": 4224,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: Neighbours and Relations",
+      "wordCount": 3386,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Settling Down",
+      "wordCount": 4824,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: Nineteen",
+      "wordCount": 4321,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX: Recollections",
+      "wordCount": 4112,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: A Lover",
+      "wordCount": 4347,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: Mother and Daughter",
+      "wordCount": 4461,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: An Indignant Spectator",
+      "wordCount": 5373,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XIII: Catherine’s Opinion",
+      "wordCount": 4720,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XIV: Harry’s View",
+      "wordCount": 4307,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XV: What Edward Thought",
+      "wordCount": 2989,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVI: Walks and Talks",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Young and the Old",
+      "wordCount": 4413,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "XVIII: A Family Party",
+      "wordCount": 5298,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "XIX: Confidences",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XX: Roland",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXI: Warning",
+      "wordCount": 5501,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 22,
+      "title": "XXII: Dancing Teas",
+      "wordCount": 5783,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The First of Them",
+      "wordCount": 5890,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 24,
+      "title": "XXIV: A New Competitor",
+      "wordCount": 5763,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 25,
+      "title": "XXV: A Double Mind",
+      "wordCount": 4764,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Straightforward",
+      "wordCount": 4282,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A Centre of Life",
+      "wordCount": 2931,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Was It Love?",
+      "wordCount": 3615,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Christmas",
+      "wordCount": 6575,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 30,
+      "title": "XXX: The Party at the Grange",
+      "wordCount": 5827,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Business and Love",
+      "wordCount": 5632,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 32,
+      "title": "XXXII: A Speculator",
+      "wordCount": 5744,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: A Late Visitor",
+      "wordCount": 5000,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Doubts and Fears",
+      "wordCount": 5482,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 35,
+      "title": "XXXV: A Discovery",
+      "wordCount": 6100,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: In the Labyrinth",
+      "wordCount": 6066,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Alarms",
+      "wordCount": 6383,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Crisis",
+      "wordCount": 3961,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Under the Holly",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 40,
+      "title": "XL: The Hour of Need",
+      "wordCount": 4485,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLI: A Night’s Vigil",
+      "wordCount": 3880,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XLII: Afterwards",
+      "wordCount": 4949,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 43,
+      "title": "XLIII: An Interruption",
+      "wordCount": 3957,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Settlement",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 45,
+      "title": "XLV: The End",
+      "wordCount": 1755,
+      "estimatedMinutes": 7
+    }
+  ]
+}

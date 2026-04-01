@@ -1,0 +1,82 @@
+{
+  "bookId": "memoirs-of-a-foxhunting-man",
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "chapterCount": 12,
+  "totalWordCount": 100792,
+  "totalMinutes": 403,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 604,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Prefatory Note",
+      "wordCount": 105,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Early Days",
+      "wordCount": 13660,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 3,
+      "title": "II: The Flower Show Match",
+      "wordCount": 7950,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 4,
+      "title": "III: A Fresh Start",
+      "wordCount": 12825,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 5,
+      "title": "IV: A Day with the Potford",
+      "wordCount": 5485,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "V: At the Rectory",
+      "wordCount": 9258,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 7,
+      "title": "VI: The Colonel’s Cup",
+      "wordCount": 11031,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 8,
+      "title": "VII: Denis Milden as Master",
+      "wordCount": 9579,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 9,
+      "title": "VIII: Migration to the Midlands",
+      "wordCount": 6434,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 10,
+      "title": "IX: In the Army",
+      "wordCount": 9564,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 11,
+      "title": "X: At the Front",
+      "wordCount": 14297,
+      "estimatedMinutes": 57
+    }
+  ]
+}

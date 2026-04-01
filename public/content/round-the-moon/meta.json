@@ -1,0 +1,160 @@
+{
+  "bookId": "round-the-moon",
+  "title": "Round the Moon",
+  "author": "Jules Verne",
+  "chapterCount": 25,
+  "totalWordCount": 55569,
+  "totalMinutes": 221,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 273,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preliminary Chapter",
+      "wordCount": 1593,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "I: From 10:20 P.M. to 10:47 P.M.",
+      "wordCount": 1603,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II: The First Half-Hour",
+      "wordCount": 3833,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "III: Taking Possession",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "IV: A Little Algebra",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: The Temperature of Space",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VI: Questions and Answers",
+      "wordCount": 2212,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VII: A Moment of Intoxication",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "VIII: At Seventy-Eight Thousand One Hundred and Fourteen Leagues",
+      "wordCount": 2740,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "IX: The Consequences of Deviation",
+      "wordCount": 1949,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: The Observers of the Moon",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XI: Imagination and Reality",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XII: Orographical Details",
+      "wordCount": 2690,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIII: Lunar Landscapes",
+      "wordCount": 2370,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XIV: A Night of Three Hundred and Fifty-Four Hours and a Half",
+      "wordCount": 2908,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XV: Hyperbola or Parabola",
+      "wordCount": 3181,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Southern Hemisphere",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XVII: Tycho",
+      "wordCount": 2425,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Grave Questions",
+      "wordCount": 2190,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX: A Struggle with the Impossible",
+      "wordCount": 2873,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XX: The Soundings of the Susquehanna",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXI: J. T. Maston Called In",
+      "wordCount": 2115,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXII: Picked Up",
+      "wordCount": 2257,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The End",
+      "wordCount": 1068,
+      "estimatedMinutes": 4
+    }
+  ]
+}

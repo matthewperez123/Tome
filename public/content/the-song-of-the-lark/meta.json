@@ -1,0 +1,418 @@
+{
+  "bookId": "the-song-of-the-lark",
+  "title": "The Song of the Lark",
+  "author": "Willa Cather",
+  "chapterCount": 68,
+  "totalWordCount": 151706,
+  "totalMinutes": 614,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Friends of Childhood",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2603,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2078,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1210,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3046,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3041,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 1562,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1242,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1982,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2126,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 5061,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 2045,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2846,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 2719,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "Part II: The Song of the Lark",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "I",
+      "wordCount": 2516,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "II",
+      "wordCount": 1627,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "III",
+      "wordCount": 5178,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 25,
+      "title": "IV",
+      "wordCount": 1230,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "V",
+      "wordCount": 3131,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "VI",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "VII",
+      "wordCount": 2032,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "VIII",
+      "wordCount": 2404,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "IX",
+      "wordCount": 1576,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "X",
+      "wordCount": 3200,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XI",
+      "wordCount": 3656,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "Part III: Stupid Faces",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "I",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "II",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "III",
+      "wordCount": 1821,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "IV",
+      "wordCount": 3708,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 38,
+      "title": "V",
+      "wordCount": 1134,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "VI",
+      "wordCount": 1093,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 40,
+      "title": "Part IV: The Ancient People",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "I",
+      "wordCount": 571,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 42,
+      "title": "II",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 43,
+      "title": "III",
+      "wordCount": 1304,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "IV",
+      "wordCount": 1083,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 45,
+      "title": "V",
+      "wordCount": 1233,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 46,
+      "title": "VI",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 47,
+      "title": "VII",
+      "wordCount": 2239,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 48,
+      "title": "VIII",
+      "wordCount": 4650,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 49,
+      "title": "Part V: Doctor Archie’s Venture",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "I",
+      "wordCount": 1945,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 51,
+      "title": "II",
+      "wordCount": 3263,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 52,
+      "title": "III",
+      "wordCount": 1354,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 53,
+      "title": "IV",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 54,
+      "title": "V",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 55,
+      "title": "Part VI: Kronborg",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 56,
+      "title": "I",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 57,
+      "title": "II",
+      "wordCount": 3544,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 58,
+      "title": "III",
+      "wordCount": 2152,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 59,
+      "title": "IV",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 60,
+      "title": "V",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 61,
+      "title": "VI",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 62,
+      "title": "VII",
+      "wordCount": 3258,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 63,
+      "title": "VIII",
+      "wordCount": 1865,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 64,
+      "title": "IX",
+      "wordCount": 3739,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "X",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 66,
+      "title": "XI",
+      "wordCount": 3394,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 67,
+      "title": "Epilogue",
+      "wordCount": 2604,
+      "estimatedMinutes": 10
+    }
+  ]
+}

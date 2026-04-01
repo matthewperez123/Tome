@@ -1,0 +1,40 @@
+{
+  "bookId": "a-portrait-of-the-artist-as-a-young-man",
+  "title": "A Portrait of the Artist as a Young Man",
+  "author": "James Joyce",
+  "chapterCount": 5,
+  "totalWordCount": 84946,
+  "totalMinutes": 340,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 17718,
+      "estimatedMinutes": 71
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 14668,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 16583,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 9569,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 26408,
+      "estimatedMinutes": 106
+    }
+  ]
+}

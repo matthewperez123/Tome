@@ -1,0 +1,112 @@
+{
+  "bookId": "a-confession",
+  "title": "A Confession",
+  "author": "Leo Tolstoy",
+  "chapterCount": 17,
+  "totalWordCount": 25972,
+  "totalMinutes": 103,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1340,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1425,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1695,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1915,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1013,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1873,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1393,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1099,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1023,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 585,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "Afterword",
+      "wordCount": 969,
+      "estimatedMinutes": 4
+    }
+  ]
+}

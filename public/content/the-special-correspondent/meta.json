@@ -1,0 +1,178 @@
+{
+  "bookId": "the-special-correspondent",
+  "title": "The Special Correspondent",
+  "author": "Jules Verne",
+  "chapterCount": 28,
+  "totalWordCount": 72594,
+  "totalMinutes": 289,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 345,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3098,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2620,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3665,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2999,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3494,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3310,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2780,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2448,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2756,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 2702,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3108,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2867,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 1902,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 3268,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 2267,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 2242,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 2748,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 2321,
+      "estimatedMinutes": 9
+    }
+  ]
+}

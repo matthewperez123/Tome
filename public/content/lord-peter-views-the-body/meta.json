@@ -1,0 +1,88 @@
+{
+  "bookId": "lord-peter-views-the-body",
+  "title": "Lord Peter Views the Body",
+  "author": "Dorothy L. Sayers",
+  "chapterCount": 13,
+  "totalWordCount": 83819,
+  "totalMinutes": 338,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 417,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Abominable History of the Man with Copper Fingers",
+      "wordCount": 7777,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 2,
+      "title": "The Entertaining Episode of the Article in Question",
+      "wordCount": 3923,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "The Fascinating Problem of Uncle Meleager’s Will",
+      "wordCount": 5924,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "The Fantastic Horror of the Cat in the Bag",
+      "wordCount": 4836,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "The Unprincipled Affair of the Practical Joker",
+      "wordCount": 4082,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "The Undignified Melodrama of the Bone of Contention",
+      "wordCount": 20762,
+      "estimatedMinutes": 83
+    },
+    {
+      "index": 7,
+      "title": "The Vindictive Story of the Footsteps That Ran",
+      "wordCount": 5647,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "The Bibulous Business of a Matter of Taste",
+      "wordCount": 4914,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "The Learned Adventure of the Dragon’s Head",
+      "wordCount": 7690,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 10,
+      "title": "The Piscatorial Farce of the Stolen Stomach",
+      "wordCount": 7393,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 11,
+      "title": "The Unsolved Puzzle of the Man with No Face",
+      "wordCount": 10446,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 12,
+      "title": "Solution to the Crossword in Uncle Mealager’s Will",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    }
+  ]
+}

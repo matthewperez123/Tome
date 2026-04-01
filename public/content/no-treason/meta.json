@@ -1,0 +1,46 @@
+{
+  "bookId": "no-treason",
+  "title": "No Treason",
+  "author": "Lysander Spooner",
+  "chapterCount": 6,
+  "totalWordCount": 27965,
+  "totalMinutes": 112,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 398,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introductory",
+      "wordCount": 341,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II: The Constitution",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "VI: The Constitution of No Authority",
+      "wordCount": 19174,
+      "estimatedMinutes": 77
+    },
+    {
+      "index": 5,
+      "title": "Appendix",
+      "wordCount": 189,
+      "estimatedMinutes": 1
+    }
+  ]
+}

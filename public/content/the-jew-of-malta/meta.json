@@ -1,0 +1,52 @@
+{
+  "bookId": "the-jew-of-malta",
+  "title": "The Jew of Malta",
+  "author": "Christopher Marlowe",
+  "chapterCount": 7,
+  "totalWordCount": 20124,
+  "totalMinutes": 81,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 76,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 287,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 4776,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4362,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4381,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 3367,
+      "estimatedMinutes": 13
+    }
+  ]
+}

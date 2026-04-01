@@ -1,0 +1,22 @@
+{
+  "bookId": "a-journal-of-the-plague-year",
+  "title": "A Journal of the Plague Year",
+  "author": "Daniel Defoe",
+  "chapterCount": 2,
+  "totalWordCount": 94628,
+  "totalMinutes": 379,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 40,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "A Journal of the Plague Year",
+      "wordCount": 94588,
+      "estimatedMinutes": 378
+    }
+  ]
+}

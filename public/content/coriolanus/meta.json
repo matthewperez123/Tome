@@ -1,0 +1,52 @@
+{
+  "bookId": "coriolanus",
+  "title": "Coriolanus",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 29815,
+  "totalMinutes": 119,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 361,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 102,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 6828,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 5987,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5468,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 5599,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 5470,
+      "estimatedMinutes": 22
+    }
+  ]
+}

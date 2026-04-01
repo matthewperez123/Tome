@@ -1,0 +1,70 @@
+{
+  "bookId": "the-school-for-scandal",
+  "title": "The School for Scandal",
+  "author": "Richard Brinsley Sheridan",
+  "chapterCount": 10,
+  "totalWordCount": 35034,
+  "totalMinutes": 141,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 846,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 5469,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "Dramatis Personae",
+      "wordCount": 91,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Prologue",
+      "wordCount": 356,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Act I",
+      "wordCount": 4669,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "Act II",
+      "wordCount": 4500,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "Act III",
+      "wordCount": 5737,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "Act IV",
+      "wordCount": 6644,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "Act V",
+      "wordCount": 6328,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "Epilogue",
+      "wordCount": 394,
+      "estimatedMinutes": 2
+    }
+  ]
+}

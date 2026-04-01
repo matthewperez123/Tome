@@ -1,0 +1,142 @@
+{
+  "bookId": "behind-that-curtain",
+  "title": "Behind That Curtain",
+  "author": "Earl Derr Biggers",
+  "chapterCount": 22,
+  "totalWordCount": 76507,
+  "totalMinutes": 306,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Man from Scotland",
+      "wordCount": 3499,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: What Happened to Eve Durand?",
+      "wordCount": 5018,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "III: The Bungalow in the Sky",
+      "wordCount": 4354,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: The Reckoning of Heaven",
+      "wordCount": 4144,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "V: The Voice in the Next Room",
+      "wordCount": 4130,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI: The Guest Detective",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII: Muddy Water",
+      "wordCount": 3611,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: Willie Li’s Good Turn",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: The Port of Missing Women",
+      "wordCount": 3186,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "X: The Letter from London",
+      "wordCount": 3707,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: The Muddy Water Clears",
+      "wordCount": 3471,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: A Misty Evening",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII: Old Friends Meet Again",
+      "wordCount": 3214,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIV: Dinner for Two",
+      "wordCount": 3264,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: The Discreet Mr. Cuttle",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI: Long Life and Happiness",
+      "wordCount": 3722,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Woman from Peshawar",
+      "wordCount": 3851,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Flannery’s Big Scene",
+      "wordCount": 2190,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XIX: A Vigil in the Dark",
+      "wordCount": 2871,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XX: The Truth Arrives",
+      "wordCount": 2761,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XXI: What Happened to Eve Durand",
+      "wordCount": 2043,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: Hawaii Bound",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    }
+  ]
+}

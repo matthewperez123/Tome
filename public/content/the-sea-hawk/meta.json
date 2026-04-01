@@ -1,0 +1,232 @@
+{
+  "bookId": "the-sea-hawk",
+  "title": "The Sea Hawk",
+  "author": "Rafael Sabatini",
+  "chapterCount": 37,
+  "totalWordCount": 120032,
+  "totalMinutes": 482,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Note",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Part I: Sir Oliver Tressilian",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Huckster",
+      "wordCount": 3308,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II: Rosamund",
+      "wordCount": 3763,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "III: The Forge",
+      "wordCount": 3623,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "IV: The Intervener",
+      "wordCount": 3747,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "V: The Buckler",
+      "wordCount": 3794,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VI: Jasper Leigh",
+      "wordCount": 4962,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VII: Trepanned",
+      "wordCount": 2378,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Spaniard",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "Part II: Sakr-El-Bahr",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I: The Captive",
+      "wordCount": 3142,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "II: The Renegade",
+      "wordCount": 6431,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 13,
+      "title": "III: Homeward Bound",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "IV: The Raid",
+      "wordCount": 5403,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "V: Lion of the Faith",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "VI: The Convert",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "VII: Marzak-Ben-Asad",
+      "wordCount": 2912,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "VIII: Mother and Son",
+      "wordCount": 3617,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "IX: Competitors",
+      "wordCount": 3755,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "X: The Slave Market",
+      "wordCount": 5412,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 21,
+      "title": "XI: The Truth",
+      "wordCount": 6291,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 22,
+      "title": "XII: The Subtlety of Fenzileh",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XIII: In the Sight of Allah",
+      "wordCount": 3282,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XIV: The Sign",
+      "wordCount": 3398,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XV: The Voyage",
+      "wordCount": 3195,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XVI: The Pannier",
+      "wordCount": 2628,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XVII: The Dupe",
+      "wordCount": 1556,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XVIII: Sheik Mat",
+      "wordCount": 4519,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 29,
+      "title": "XIX: The Mutineers",
+      "wordCount": 4139,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XX: The Messenger",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXI: Moriturus",
+      "wordCount": 2293,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXII: The Surrender",
+      "wordCount": 4004,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 33,
+      "title": "XXIII: The Heathen Creed",
+      "wordCount": 2239,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXIV: The Judges",
+      "wordCount": 3114,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "XXV: The Advocate",
+      "wordCount": 4809,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 36,
+      "title": "XXVI: The Judgement",
+      "wordCount": 1613,
+      "estimatedMinutes": 6
+    }
+  ]
+}

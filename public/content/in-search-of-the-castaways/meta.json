@@ -1,0 +1,382 @@
+{
+  "bookId": "in-search-of-the-castaways",
+  "title": "In Search of the Castaways",
+  "author": "Jules Verne",
+  "chapterCount": 62,
+  "totalWordCount": 135349,
+  "totalMinutes": 540,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 494,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Shark",
+      "wordCount": 1860,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "II: The Three Documents",
+      "wordCount": 2218,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: The Captain’s Children",
+      "wordCount": 2043,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "IV: Lady Glenarvan’s Proposal",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V: The Departure of the Duncan",
+      "wordCount": 1959,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: An Unexpected Passenger",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII: Jacques Paganel Is Undeceived",
+      "wordCount": 1711,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Geographer’s Resolution",
+      "wordCount": 1537,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "IX: Through the Strait of Magellan",
+      "wordCount": 1201,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "X: The Course Decided",
+      "wordCount": 2573,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XI: Traveling in Chile",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XII: Eleven Thousand Feet Aloft",
+      "wordCount": 1709,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Sudden Descent",
+      "wordCount": 2450,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: Providentially Rescued",
+      "wordCount": 2117,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: Thalcave",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVI: News of the Lost Captain",
+      "wordCount": 2379,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Serious Necessity",
+      "wordCount": 1284,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII: In Search of Water",
+      "wordCount": 2499,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Red Wolves",
+      "wordCount": 3094,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XX: Strange Signs",
+      "wordCount": 1646,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI: A False Trail",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Flood",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIII: A Singular Abode",
+      "wordCount": 2574,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Paganel’s Disclosure",
+      "wordCount": 2495,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXV: Between Fire and Water",
+      "wordCount": 2308,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Return on Board",
+      "wordCount": 2314,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A New Destination",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Tristan d’Acunha and the Isle of Amsterdam",
+      "wordCount": 1290,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Storm on the Indian Ocean",
+      "wordCount": 2604,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: A Hospitable Colonist",
+      "wordCount": 2285,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Quartermaster of the Britannia",
+      "wordCount": 2650,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Preparations for the Journey",
+      "wordCount": 2179,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: An Accident",
+      "wordCount": 1914,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Australian Explorers",
+      "wordCount": 1022,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Crime or Calamity?",
+      "wordCount": 2028,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Fresh Faces",
+      "wordCount": 1337,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: A Warning",
+      "wordCount": 3147,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Wealth in the Wilderness",
+      "wordCount": 3065,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Suspicious Occurrences",
+      "wordCount": 2425,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XL: A Startling Discovery",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Plot Unveiled",
+      "wordCount": 2999,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLII: Four Days of Anguish",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Helpless and Hopeless",
+      "wordCount": 2406,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XLIV: A Rough Captain",
+      "wordCount": 2028,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Wreck of the Macquarie",
+      "wordCount": 3218,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Vain Efforts",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "XLVII: A Dreaded Country",
+      "wordCount": 3605,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Introduction to the Cannibals",
+      "wordCount": 2326,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XLIX: A Momentous Interview",
+      "wordCount": 2116,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "L: The Chief’s Funeral",
+      "wordCount": 2095,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 51,
+      "title": "LI: Strangely Liberated",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 52,
+      "title": "LII: The Sacred Mountain",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 53,
+      "title": "LIII: A Bold Stratagem",
+      "wordCount": 2426,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 54,
+      "title": "LIV: From Peril to Safety",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 55,
+      "title": "LV: Why the Duncan Went to New Zealand",
+      "wordCount": 1658,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 56,
+      "title": "LVI: Ayrton’s Obstinacy",
+      "wordCount": 1770,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 57,
+      "title": "LVII: A Discouraging Confession",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 58,
+      "title": "LVIII: A Cry in the Night",
+      "wordCount": 2569,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "LIX: Captain Grant’s Story",
+      "wordCount": 2748,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 60,
+      "title": "LX: Paganel’s Last Entanglement",
+      "wordCount": 862,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 61,
+      "title": "LXI: The End",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bookId": "dubliners",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "chapterCount": 15,
+  "totalWordCount": 67854,
+  "totalMinutes": 271,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Sisters",
+      "wordCount": 3113,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "An Encounter",
+      "wordCount": 3269,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "Araby",
+      "wordCount": 2336,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Eveline",
+      "wordCount": 1828,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "After the Race",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "Two Gallants",
+      "wordCount": 3914,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "The Boarding House",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "A Little Cloud",
+      "wordCount": 4976,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "Counterparts",
+      "wordCount": 4135,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "Clay",
+      "wordCount": 2646,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "A Painful Case",
+      "wordCount": 3619,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "Ivy Day in the Committee Room",
+      "wordCount": 5242,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "A Mother",
+      "wordCount": 4520,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "Grace",
+      "wordCount": 7563,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 14,
+      "title": "The Dead",
+      "wordCount": 15646,
+      "estimatedMinutes": 63
+    }
+  ]
+}

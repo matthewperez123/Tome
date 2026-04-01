@@ -1,0 +1,136 @@
+{
+  "bookId": "tom-browns-school-days",
+  "title": "Tom Brown’s School Days",
+  "author": "Thomas Hughes",
+  "chapterCount": 21,
+  "totalWordCount": 105052,
+  "totalMinutes": 422,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Brown Family",
+      "wordCount": 5612,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "II: “The Veast”",
+      "wordCount": 6674,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "III: Sundry Wars and Alliances",
+      "wordCount": 7086,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 5,
+      "title": "IV: The Stage Coach",
+      "wordCount": 5349,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "V: Rugby and Football",
+      "wordCount": 7291,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "VI: After the Match",
+      "wordCount": 6125,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "VII: Settling to the Collar",
+      "wordCount": 6861,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "VIII: The War of Independence",
+      "wordCount": 7188,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 10,
+      "title": "IX: A Chapter of Accidents",
+      "wordCount": 7452,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 11,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I: How the Tide Turned",
+      "wordCount": 4247,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "II: The New Boy",
+      "wordCount": 4571,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "III: Arthur Makes a Friend",
+      "wordCount": 4864,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "IV: The Bird-Fanciers",
+      "wordCount": 4419,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "V: The Fight",
+      "wordCount": 5817,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "VI: Fever in the School",
+      "wordCount": 5998,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 18,
+      "title": "VII: Harry East’s Dilemmas and Deliverances",
+      "wordCount": 5529,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 19,
+      "title": "VIII: Tom Brown’s Last Match",
+      "wordCount": 7472,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 20,
+      "title": "IX: Finis",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    }
+  ]
+}

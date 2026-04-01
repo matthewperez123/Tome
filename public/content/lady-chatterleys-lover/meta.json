@@ -1,0 +1,124 @@
+{
+  "bookId": "lady-chatterleys-lover",
+  "title": "Lady Chatterley’s Lover",
+  "author": "D. H. Lawrence",
+  "chapterCount": 19,
+  "totalWordCount": 117925,
+  "totalMinutes": 472,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4170,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 4046,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 5928,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 5246,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 5953,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 4716,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 5565,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 15165,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 7330,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 5252,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 6391,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 7006,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 6299,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 8450,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 8054,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 6157,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 5981,
+      "estimatedMinutes": 24
+    }
+  ]
+}

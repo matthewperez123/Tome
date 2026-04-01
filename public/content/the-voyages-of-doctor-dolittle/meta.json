@@ -1,0 +1,412 @@
+{
+  "bookId": "the-voyages-of-doctor-dolittle",
+  "title": "The Voyages of Doctor Dolittle",
+  "author": "Hugh Lofting",
+  "chapterCount": 67,
+  "totalWordCount": 73306,
+  "totalMinutes": 301,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 268,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Cobbler’s Son",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "II: I Hear of the Great Naturalist",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "III: The Doctor’s Home",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: The Wiff-Waff",
+      "wordCount": 1812,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V: Polynesia",
+      "wordCount": 1908,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VI: The Wounded Squirrel",
+      "wordCount": 818,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VII: Shellfish Talk",
+      "wordCount": 1048,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VIII: Are You a Good Noticer?",
+      "wordCount": 854,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "IX: The Garden of Dreams",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "X: The Private Zoo",
+      "wordCount": 1005,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XI: My Schoolmaster, Polynesia",
+      "wordCount": 1041,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XII: My Great Idea",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XII: A Traveler Arrives",
+      "wordCount": 739,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "XIV: Chee-Chee’s Voyage",
+      "wordCount": 769,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV: I Become a Doctor’s Assistant",
+      "wordCount": 857,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: The Crew of The Curlew",
+      "wordCount": 636,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "II: Luke the Hermit",
+      "wordCount": 793,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "III: Jip and the Secret",
+      "wordCount": 818,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "IV: Bob",
+      "wordCount": 1094,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "V: Mendoza",
+      "wordCount": 1194,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "VI: The Judge’s Dog",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "VII: The End of the Mystery",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "VIII: Three Cheers",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "IX: The Purple Bird-of-Paradise",
+      "wordCount": 638,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "X: Long Arrow, the Son of Golden Arrow",
+      "wordCount": 900,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XI: Blind Travel",
+      "wordCount": 1151,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XII: Destiny and Destination",
+      "wordCount": 705,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I: The Third Man",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "II: Goodbye!",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 33,
+      "title": "III: Our Troubles Begin",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "IV: Our Troubles Continue",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "V: Polynesia Has a Plan",
+      "wordCount": 1010,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "VI: The Bed-Maker of Monteverde",
+      "wordCount": 745,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 37,
+      "title": "VII: The Doctor’s Wager",
+      "wordCount": 1432,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 38,
+      "title": "VIII: The Great Bullfight",
+      "wordCount": 1827,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 39,
+      "title": "IX: We Depart in a Hurry",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 40,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "I: Shellfish Languages Again",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "II: The Fidgit’s Story",
+      "wordCount": 3781,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "III: Bad Weather",
+      "wordCount": 923,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "IV: Wrecked!",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 45,
+      "title": "V: Land!",
+      "wordCount": 1214,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 46,
+      "title": "VI: The Jabizri",
+      "wordCount": 1403,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "VII: Hawk’s-Head Mountain",
+      "wordCount": 1837,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "Part V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 49,
+      "title": "I: A Great Moment",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 50,
+      "title": "II: “The Men of the Moving Land”",
+      "wordCount": 865,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "III: Fire",
+      "wordCount": 988,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "IV: What Makes an Island Float",
+      "wordCount": 908,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 53,
+      "title": "V: War!",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 54,
+      "title": "VI: General Polynesia",
+      "wordCount": 1010,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "VII: The Peace of the Parrots",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 56,
+      "title": "VIII: The Hanging Stone",
+      "wordCount": 1416,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "IX: The Election",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 58,
+      "title": "X: The Coronation of King Jong",
+      "wordCount": 1273,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 59,
+      "title": "Part VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "I: New Popsipetel",
+      "wordCount": 1378,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 61,
+      "title": "II: Thoughts of Home",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 62,
+      "title": "III: The Red Man’s Science",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 63,
+      "title": "IV: The Sea-Serpent",
+      "wordCount": 1810,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 64,
+      "title": "V: The Shellfish Riddle Solved at Last",
+      "wordCount": 1348,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 65,
+      "title": "VI: The Last Cabinet Meeting",
+      "wordCount": 722,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 66,
+      "title": "VII: The Doctor’s Decision",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    }
+  ]
+}

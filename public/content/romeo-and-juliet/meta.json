@@ -1,0 +1,52 @@
+{
+  "bookId": "romeo-and-juliet",
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 25958,
+  "totalMinutes": 105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 132,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 107,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 6025,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 5734,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6776,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 3688,
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "major-barbara",
+  "title": "Major Barbara",
+  "author": "George Bernard Shaw",
+  "chapterCount": 6,
+  "totalWordCount": 48405,
+  "totalMinutes": 194,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 842,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Author’s Note",
+      "wordCount": 64,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Preface",
+      "wordCount": 14609,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 7478,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 12694,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 12718,
+      "estimatedMinutes": 51
+    }
+  ]
+}

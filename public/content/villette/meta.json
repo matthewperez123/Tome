@@ -1,0 +1,262 @@
+{
+  "bookId": "villette",
+  "title": "Villette",
+  "author": "Charlotte Brontë",
+  "chapterCount": 42,
+  "totalWordCount": 196097,
+  "totalMinutes": 786,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Bretton",
+      "wordCount": 2542,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II: Paulina",
+      "wordCount": 2425,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: The Playmates",
+      "wordCount": 6013,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "IV: Miss Marchmont",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: Turning a New Leaf",
+      "wordCount": 1849,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: London",
+      "wordCount": 4413,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VII: Villette",
+      "wordCount": 3559,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: Madame Beck",
+      "wordCount": 5692,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "IX: Isidore",
+      "wordCount": 4399,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "X: Dr. John",
+      "wordCount": 2828,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI: The Potresse’s Cabinet",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: The Casket",
+      "wordCount": 4191,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XIII: A Sneeze Out of Season",
+      "wordCount": 4092,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Fête",
+      "wordCount": 11293,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 14,
+      "title": "XV: The Long Vacation",
+      "wordCount": 4895,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XVI: Auld Lang Syne",
+      "wordCount": 5740,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 16,
+      "title": "XVII: La Terrasse",
+      "wordCount": 3723,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: We Quarrel",
+      "wordCount": 2759,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Cleopatra",
+      "wordCount": 4647,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XX: The Concert",
+      "wordCount": 8296,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 20,
+      "title": "XXI: Reaction",
+      "wordCount": 6682,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Letter",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Vashti",
+      "wordCount": 5179,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 23,
+      "title": "XXIV: M. de Bassompierre",
+      "wordCount": 5297,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Little Countess",
+      "wordCount": 5252,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Burial",
+      "wordCount": 5848,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Hôtel Crécy",
+      "wordCount": 6305,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Watchguard",
+      "wordCount": 4752,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Monsieur’s Fête",
+      "wordCount": 5241,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 29,
+      "title": "XXX: M. Paul",
+      "wordCount": 4207,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Dryad",
+      "wordCount": 4035,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The First Letter",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: M. Paul Keeps His Promise",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Malevola",
+      "wordCount": 4478,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Fraternity",
+      "wordCount": 4694,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: The Apple of Discord",
+      "wordCount": 5693,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: Sunshine",
+      "wordCount": 5685,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Cloud",
+      "wordCount": 9627,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Old and New Acquaintance",
+      "wordCount": 4290,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 39,
+      "title": "XL: The Happy Pair",
+      "wordCount": 2512,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XLI: Faubourg Clotilde",
+      "wordCount": 5454,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 41,
+      "title": "XLII: Finis",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    }
+  ]
+}

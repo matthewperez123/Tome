@@ -1,0 +1,712 @@
+{
+  "bookId": "the-water-of-the-wondrous-isles",
+  "title": "The Water of the Wondrous Isles",
+  "author": "William Morris",
+  "chapterCount": 117,
+  "totalWordCount": 148972,
+  "totalMinutes": 602,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1506,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "The First Part: Of the House of Captivity",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Catch at Utterhay",
+      "wordCount": 1786,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "II: Now Shall Be Told of the House by the Waterside",
+      "wordCount": 596,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "III: Of Skin-Changing",
+      "wordCount": 369,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "IV: Of the Waxing of the Stolen Child",
+      "wordCount": 629,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "V: Of Birdalone, and How She Is Grown Into Maidenhood",
+      "wordCount": 840,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI: Herein Is Told of Birdalone’s Raiment",
+      "wordCount": 1110,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VII: Birdalone Hath an Adventure in the Wood",
+      "wordCount": 2320,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VIII: Of Birdalone and the Witch-Wife",
+      "wordCount": 804,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "IX: Of Birdalone’s Swimming",
+      "wordCount": 891,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "X: Birdalone Comes on New Tidings",
+      "wordCount": 838,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "XI: Of Birdalone’s Guilt and the Chastisement Thereof",
+      "wordCount": 1081,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XII: The Words of the Witch-Wife to Birdalone",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XIII: Birdalone Meeteth the Wood-Woman Again",
+      "wordCount": 1224,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIV: Of Birdalone’s Fishing",
+      "wordCount": 763,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV: Birdalone Weareth Her Serpent-Ring",
+      "wordCount": 1136,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVI: Birdalone Meeteth Habundia Again; and Learneth Her First Wisdom of Her",
+      "wordCount": 854,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Passing of the Year Into Winter",
+      "wordCount": 704,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Of Spring-Tide and the Mind of Birdalone",
+      "wordCount": 782,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XIX: They Bid Farewell, Birdalone and the Wood-Mother",
+      "wordCount": 393,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XX: Of Birdalone and the Sending Boat",
+      "wordCount": 1316,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "The Second Part: Of the Wondrous Isles",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: The First Isle",
+      "wordCount": 469,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "II: Birdalone Falleth in with New Friends",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "III: Birdalone Is Brought Before the Witch-Wife’s Sister",
+      "wordCount": 768,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "IV: Of the Witch’s Prison in the Wailing-Tower",
+      "wordCount": 1170,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "V: They Feast in the Witch’s Prison",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "VI: Atra Tells of How They Three Came Unto the Isle of Increase Unsought",
+      "wordCount": 3273,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "VII: The Three Damsels Take Birdalone Out of the Witch’s Prison",
+      "wordCount": 682,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "VIII: In What Wise Birdalone Was Clad, and How She Went Her Ways from the Isle of Increase Unsought",
+      "wordCount": 1172,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "IX: How Birdalone Came to the Isle of the Young and the Old",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "X: Birdalone Comes to the Isle of the Queens",
+      "wordCount": 1211,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 33,
+      "title": "XI: And Now She Comes to the Isle of the Kings",
+      "wordCount": 1300,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "XII: Of Birdalone, How She Came Unto the Isle of Nothing",
+      "wordCount": 1401,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "The Third Part: Of the Castle of the Quest",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "I: Birdalone Comes to the Castle of the Quest",
+      "wordCount": 1537,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "II: Of Birdalone, and How She Rested the Night Through in a Bower Without the Castle of the Quest",
+      "wordCount": 1321,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "III: How Birdalone Dight Her for Meeting the Champions of the Quest",
+      "wordCount": 767,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "IV: And Now She Meets the Champions",
+      "wordCount": 2011,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 40,
+      "title": "V: Birdalone Has True Tokens from the Champions of the Quest",
+      "wordCount": 2594,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 41,
+      "title": "VI: How the Champions Would Do Birdalone to Be Clad Anew in the Castle of the Quest",
+      "wordCount": 1037,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 42,
+      "title": "VII: Of Birdalone, How She Told the Champions All Her Tale",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 43,
+      "title": "VIII: In the Meanwhile of the Departing of the Champions, They Would Pleasure Birdalone with Feats of Arms and Games of Prowess",
+      "wordCount": 417,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 44,
+      "title": "IX: Birdalone Cometh Before the Champions in Her New Array",
+      "wordCount": 928,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 45,
+      "title": "X: The Champions Go Their Ways in the Sending Boat",
+      "wordCount": 944,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 46,
+      "title": "The Fourth Part: Of the Days of Abiding",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 47,
+      "title": "I: Of Birdalone’s Grief; and of Leonard the Chaplain",
+      "wordCount": 711,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 48,
+      "title": "II: Birdalone Learneth Lore of the Priest. Ten Days of Waiting Wear",
+      "wordCount": 868,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "III: Now Would Birdalone Ride Abroad",
+      "wordCount": 1137,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "IV: Of Birdalone’s Faring Abroad",
+      "wordCount": 752,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "V: Sir Aymeris Showeth Birdalone the Mountains Afar Off",
+      "wordCount": 1378,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 52,
+      "title": "VI: Birdalone Heareth Tell Tales of the Black Valley of the Greywethers",
+      "wordCount": 688,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 53,
+      "title": "VII: Birdalone Beguileth the Priest to Help Her to Outgoing",
+      "wordCount": 1027,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 54,
+      "title": "VIII: Birdalone Fares on Her Adventure",
+      "wordCount": 1013,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "IX: Birdalone Comes to the Black Valley",
+      "wordCount": 855,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 56,
+      "title": "X: How Birdalone Fell in with a Man in the Black Valley of the Greywethers",
+      "wordCount": 1151,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 57,
+      "title": "XI: Birdalone Is Led Up the Black Valley",
+      "wordCount": 990,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 58,
+      "title": "XII: How Those Twain Get Them from Out of the Black Valley of the Greywethers",
+      "wordCount": 2158,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 59,
+      "title": "XIII: Now They Rest for the Night in the Strait Pass",
+      "wordCount": 336,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "XIV: The Black Knight Tells the Truth of Himself",
+      "wordCount": 1397,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 61,
+      "title": "XV: The Black Knight Brings Birdalone to the Bower in the Dale",
+      "wordCount": 1380,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "XVI: Yet a Day and a Night They Tarry in the Dale",
+      "wordCount": 2353,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 63,
+      "title": "The Fifth Part: The Tale of the Quest’s Ending",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 64,
+      "title": "I: Of Sir Leonard’s Trouble and the Coming of the Quest",
+      "wordCount": 1098,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 65,
+      "title": "II: Now Ask They of Birdalone, and Sir Leonard Speaks",
+      "wordCount": 623,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 66,
+      "title": "III: How They Follow the Slot of Birdalone and the Black Knight",
+      "wordCount": 1376,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "IV: Of the Slaying of Friend and Foe",
+      "wordCount": 1924,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 68,
+      "title": "V: They Come Home to the Castle of the Quest",
+      "wordCount": 521,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 69,
+      "title": "VI: Of the Talk Betwixt Birdalone and Viridis",
+      "wordCount": 1039,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 70,
+      "title": "VII: Birdalone Telleth the Tale of Her Wandering Up the Valley of the Greywethers",
+      "wordCount": 4758,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 71,
+      "title": "VIII: Atra and Birdalone Talk Together While the Lords Sit at the Murder-Council",
+      "wordCount": 1018,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 72,
+      "title": "IX: Hugh Tells the Story of the Quest’s Ending",
+      "wordCount": 8988,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 73,
+      "title": "X: How It Fared with the Three Ladies After the Escape of Birdalone",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 74,
+      "title": "XI: Birdalone and the Black Squire Talk Together in the Hall of the Castle",
+      "wordCount": 1535,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 75,
+      "title": "XII: The Knights and Their Fellows Betake Them to the Assaulting of the Red Hold",
+      "wordCount": 630,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 76,
+      "title": "XIII: Birdalone Bethinks Her to Fulfil the Promise Made Unto Atra",
+      "wordCount": 1667,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 77,
+      "title": "XIV: Birdalone Leaves the Castle of the Quest",
+      "wordCount": 440,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 78,
+      "title": "The Sixth Part: The Days of Absence",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 79,
+      "title": "I: Birdalone Rides to Greenford and There Takes Leave of Arnold and His Men",
+      "wordCount": 1701,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 80,
+      "title": "II: Of Birdalone and Her Fellowship, Their Faring Over the Downland",
+      "wordCount": 582,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 81,
+      "title": "III: They Come to the City of the Five Crafts, and Birdalone Meets with the Poor-Wife",
+      "wordCount": 3187,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 82,
+      "title": "IV: Of the Love of Gerard’s Sons and of Jacobus for Birdalone",
+      "wordCount": 1228,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 83,
+      "title": "V: Of the Death of Audrey, Mother to Birdalone. She Is Warned in a Dream to Seek the Black Squire, and Is Minded to Depart the City of the Five Crafts, and Seek Again the Castle of the Quest",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 84,
+      "title": "VI: Of the Sundering of Birdalone from Gerard and His Sons",
+      "wordCount": 1272,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 85,
+      "title": "VII: Birdalone Cometh to Greenford, and Hears of the Wasting of the Castle of the Quest",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 86,
+      "title": "VIII: Birdalone Cometh to the Castle of the Quest, Heareth the Tale Thereof from Leonard, and Departeth Thence by the Sending Boat",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 87,
+      "title": "IX: Birdalone Findeth the Isle of Nothing Greatly Bettered, and Is Kindly Entreated There",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 88,
+      "title": "X: Of Birdalone’s Flitting from the Isle of Nothing",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 89,
+      "title": "XI: Coming to the Isle of Kings Birdalone Findeth There a Score and Two of Fair Damsels Who Would Fain Have Her Company",
+      "wordCount": 1275,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 90,
+      "title": "XII: Birdalone Cometh Again to the Isle of Queens, and Findeth a Perilous Adventure Therein",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 91,
+      "title": "XIII: Coming to the Isle of the Young and the Old, Birdalone Findeth It Peopled with Children",
+      "wordCount": 944,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 92,
+      "title": "XIV: The Sending Boat Disappeareth from the Isle of Increase Unsought, and Birdalone Seeketh to Escape Thence by Swimming",
+      "wordCount": 1111,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 93,
+      "title": "XV: Birdalone Lacketh Little of Drowning, but Cometh Latterly to the Green Eyot",
+      "wordCount": 873,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 94,
+      "title": "XVI: Birdalone Findeth Her Witch-Mistress Dead",
+      "wordCount": 1216,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 95,
+      "title": "XVII: Birdalone Layeth to Earth the Body of the Witch, and Findeth the Sending Boat Broken Up",
+      "wordCount": 994,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 96,
+      "title": "XVIII: The Wood-Mother Cometh to Birdalone and Heareth Her Story",
+      "wordCount": 1455,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 97,
+      "title": "XIX: Habundia Hideth Birdalone’s Nakedness with Faery Raiment",
+      "wordCount": 488,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 98,
+      "title": "XX: Birdalone Telleth Habundia of Her Love for Arthur, and Getteth from Her Promise of Help Therein",
+      "wordCount": 647,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 99,
+      "title": "XXI: How the Wood-Wife Entered the Cot, and a Wonder That Befell Thereon",
+      "wordCount": 1018,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "XXII: Birdalone Wendeth the Wildwood in Fellowship with Habundia",
+      "wordCount": 669,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 101,
+      "title": "XXIII: The Wood-Wife Bringeth Birdalone to the Sight of Arthur in the Wildwood",
+      "wordCount": 2705,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 102,
+      "title": "XXIV: The Wood-Mother Changeth Her Form to That of a Woman Stricken in Years",
+      "wordCount": 1062,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 103,
+      "title": "XXV: The Wood-Wife Healeth and Tendeth the Black Squire",
+      "wordCount": 1059,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 104,
+      "title": "XXVI: The Black Squire Telleth the Wood-Wife of His Doings Since Birdalone Went from the Castle of the Quest",
+      "wordCount": 2113,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 105,
+      "title": "XXVII: Sir Arthur Cometh to the House Under the Wood",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 106,
+      "title": "XXVIII: Fair Days in the House of Love",
+      "wordCount": 524,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 107,
+      "title": "XXIX: Those Twain Will Seek the Wisdom of the Wood-Wife",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 108,
+      "title": "XXX: They Have Speech with Habundia Concerning the Green Knight and His Fellows",
+      "wordCount": 761,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 109,
+      "title": "XXXI: Habundia Cometh with Tidings of Those Dear Friends",
+      "wordCount": 1715,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 110,
+      "title": "XXXII: Of the Fight in the Forest and the Rescue of Those Friends from the Men of the Red Company",
+      "wordCount": 1976,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 111,
+      "title": "XXXIII: Viridis Telleth the Tale of Their Seeking",
+      "wordCount": 2189,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 112,
+      "title": "The Seventh Part: The Days of Returning",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 113,
+      "title": "I: Sir Hugh Asketh Birdalone Where She Would Have the Abode of Their Fellowship to Be",
+      "wordCount": 1011,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 114,
+      "title": "II: Birdalone Taketh Counsel with Her Wood-Mother Concerning the Matter of Sir Hugh",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 115,
+      "title": "III: Of the Journeying Through the Forest of Evilshaw Unto the Town of Utterhay",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 116,
+      "title": "IV: Of the Abiding in Utterhay in Love and Contentment",
+      "wordCount": 900,
+      "estimatedMinutes": 4
+    }
+  ]
+}

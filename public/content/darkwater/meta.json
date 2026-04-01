@@ -1,0 +1,82 @@
+{
+  "bookId": "darkwater",
+  "title": "Darkwater: Voices from Within the Veil",
+  "author": "W. E. B. Du Bois",
+  "chapterCount": 12,
+  "totalWordCount": 67720,
+  "totalMinutes": 270,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Postscript",
+      "wordCount": 274,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Credo",
+      "wordCount": 502,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "I: The Shadow of Years",
+      "wordCount": 5987,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "II: The Souls of White Folk",
+      "wordCount": 6608,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "III: The Hands of Ethiopia",
+      "wordCount": 6396,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "IV: Of Work and Wealth",
+      "wordCount": 7331,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "V: “The Servant in the House”",
+      "wordCount": 6587,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 7,
+      "title": "VI: Of the Ruling of Men",
+      "wordCount": 7108,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 8,
+      "title": "VII: The Damnation of Women",
+      "wordCount": 7171,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Immortal Child",
+      "wordCount": 6633,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 10,
+      "title": "IX: Of Beauty and Death",
+      "wordCount": 7565,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 11,
+      "title": "X: The Comet",
+      "wordCount": 5558,
+      "estimatedMinutes": 22
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "bookId": "emily-of-new-moon",
+  "title": "Emily of New Moon",
+  "author": "L. M. Montgomery",
+  "chapterCount": 31,
+  "totalWordCount": 114652,
+  "totalMinutes": 458,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The House in the Hollow",
+      "wordCount": 2520,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II: A Watch in the Night",
+      "wordCount": 3793,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "III: A Hop Out of Kin",
+      "wordCount": 4341,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: A Family Conclave",
+      "wordCount": 3302,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: Diamond Cut Diamond",
+      "wordCount": 2531,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: New Moon",
+      "wordCount": 3434,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII: The Book of Yesterday",
+      "wordCount": 5135,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VIII: Trial by Fire",
+      "wordCount": 3782,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: A Special Providence",
+      "wordCount": 4817,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X: Growing Pains",
+      "wordCount": 2599,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: Ilse",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: The Tansy Patch",
+      "wordCount": 5185,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XIII: Daughter of Eve",
+      "wordCount": 3260,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIV: Fancy Fed",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: Various Tragedies",
+      "wordCount": 4357,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XVI: Check for Miss Brownell",
+      "wordCount": 4397,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII: Living Epistles",
+      "wordCount": 4898,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Father Cassidy",
+      "wordCount": 5850,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XIX: Friends Again",
+      "wordCount": 1325,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX: By Aerial Post",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XXI: Romantic but Not Comfortable",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXII: Wyther Grange",
+      "wordCount": 2633,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Deals with Ghosts",
+      "wordCount": 3296,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIV: A Different Kind of Happiness",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: “She Couldn’t Have Done It”",
+      "wordCount": 2008,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI: On the Bay Shore",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Vow of Emily",
+      "wordCount": 6403,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: A Weaver of Dreams",
+      "wordCount": 4314,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Sacrilege",
+      "wordCount": 3546,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXX: When the Curtain Lifted",
+      "wordCount": 4452,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Emily’s Great Moment",
+      "wordCount": 3409,
+      "estimatedMinutes": 14
+    }
+  ]
+}

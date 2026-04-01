@@ -1,0 +1,232 @@
+{
+  "bookId": "the-wood-beyond-the-world",
+  "title": "The Wood Beyond the World",
+  "author": "William Morris",
+  "chapterCount": 37,
+  "totalWordCount": 51331,
+  "totalMinutes": 206,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1450,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: Of Golden Walter and His Father",
+      "wordCount": 861,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "II: Golden Walter Takes Ship to Sail the Seas",
+      "wordCount": 1181,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "III: Walter Heareth Tidings of the Death of His Father",
+      "wordCount": 1692,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: Storm Befalls the Bartholomew, and She Is Driven Off Her Course",
+      "wordCount": 832,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "V: Now They Come to a New Land",
+      "wordCount": 1691,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Old Man Tells Walter of Himself. Walter Sees a Shard in the Cliff-Wall",
+      "wordCount": 1761,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: Walter Comes to the Shard in the Rock-Wall",
+      "wordCount": 793,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VIII: Walter Wends the Waste",
+      "wordCount": 984,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX: Walter Happeneth on the First of Those Three Creatures",
+      "wordCount": 1226,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "X: Walter Happeneth on Another Creature in the Strange Land",
+      "wordCount": 3375,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI: Walter Happeneth on the Mistress",
+      "wordCount": 1144,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XII: The Wearing of Four Days in the Wood Beyond the World",
+      "wordCount": 2226,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: Now Is the Hunt Up",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Hunting of the Hart",
+      "wordCount": 1531,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XV: The Slaying of the Quarry",
+      "wordCount": 1214,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI: Of the King’s Son and the Maid",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVII: Of the House and the Pleasance in the Wood",
+      "wordCount": 1430,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Maid Gives Walter Tryst",
+      "wordCount": 741,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "XIX: Walter Goes to Fetch Home the Lion’s Hide",
+      "wordCount": 1816,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XX: Walter Is Bidden to Another Tryst",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXI: Walter and the Maid Flee from the Golden House",
+      "wordCount": 820,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXII: Of the Dwarf and the Pardon",
+      "wordCount": 1355,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Of the Peaceful Ending of That Wild Day",
+      "wordCount": 876,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Maid Tells of What Had Befallen Her",
+      "wordCount": 3775,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXV: Of the Triumphant Summer Array of the Maid",
+      "wordCount": 1333,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXVI: They Come to the Folk of the Bears",
+      "wordCount": 1593,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Morning Amongst the Bears",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Of the New God of the Bears",
+      "wordCount": 1933,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Walter Strays in the Pass and Is Sundered from the Maid",
+      "wordCount": 909,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXX: Now They Meet Again",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXI: They Come Upon New Folk",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Of the New King of the City and Land of Stark-Wall",
+      "wordCount": 888,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Concerning the Fashion of King-Making in Stark-Wall",
+      "wordCount": 566,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Now Cometh the Maid to the King",
+      "wordCount": 487,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Of the King of Stark-Wall and His Queen",
+      "wordCount": 1264,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Of Walter and the Maid in the Days of the Kingship",
+      "wordCount": 1217,
+      "estimatedMinutes": 5
+    }
+  ]
+}

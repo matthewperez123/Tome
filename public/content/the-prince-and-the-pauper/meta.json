@@ -1,0 +1,232 @@
+{
+  "bookId": "the-prince-and-the-pauper",
+  "title": "The Prince and the Pauper: A Tale for Young People of All Ages",
+  "author": "Mark Twain",
+  "chapterCount": 37,
+  "totalWordCount": 69421,
+  "totalMinutes": 280,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 117,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Birth of the Prince and the Pauper",
+      "wordCount": 268,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "II: Tom’s Early Life",
+      "wordCount": 1630,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "III: Tom’s Meeting with the Prince",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "IV: The Prince’s Troubles Begin",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V: Tom as a Patrician",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: Tom Receives Instructions",
+      "wordCount": 2587,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VII: Tom’s First Royal Dinner",
+      "wordCount": 1221,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Question of the Seal",
+      "wordCount": 860,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "IX: The River Pageant",
+      "wordCount": 895,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "X: The Prince in the Toils",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XI: At Guildhall",
+      "wordCount": 1596,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XII: The Prince and His Deliverer",
+      "wordCount": 3957,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Disappearance of the Prince",
+      "wordCount": 1472,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XIV: “Le Roi Est Mort—Vive le Roi”",
+      "wordCount": 3873,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XV: Tom as King",
+      "wordCount": 3660,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVI: The State Dinner",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XVII: Foo-Foo the First",
+      "wordCount": 3536,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Prince with the Tramps",
+      "wordCount": 2845,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Prince with the Peasants",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XX: The Prince and the Hermit",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXI: Hendon to the Rescue",
+      "wordCount": 1483,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXII: A Victim of Treachery",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Prince a Prisoner",
+      "wordCount": 1141,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Escape",
+      "wordCount": 958,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXV: Hendon Hall",
+      "wordCount": 2394,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Disowned",
+      "wordCount": 1398,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXVII: In Prison",
+      "wordCount": 3403,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: The Sacrifice",
+      "wordCount": 1258,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXIX: To London",
+      "wordCount": 725,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XXX: Tom’s Progress",
+      "wordCount": 861,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Recognition Procession",
+      "wordCount": 2084,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Coronation Day",
+      "wordCount": 4097,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Edward as King",
+      "wordCount": 2593,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "Conclusion",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "General Note",
+      "wordCount": 165,
+      "estimatedMinutes": 1
+    }
+  ]
+}

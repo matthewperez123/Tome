@@ -1,0 +1,496 @@
+{
+  "bookId": "personal-recollections-of-joan-of-arc",
+  "title": "Personal Recollections of Joan of Arc",
+  "author": "Mark Twain",
+  "chapterCount": 81,
+  "totalWordCount": 151508,
+  "totalMinutes": 612,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Translator’s Preface",
+      "wordCount": 853,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "A Peculiarity of Joan of Arc’s History",
+      "wordCount": 155,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "The Sieur Louis de Conte to His Great-Great-Grand Nephews and Nieces",
+      "wordCount": 413,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "Book I: In Domremy",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: When Wolves Ran Free in Paris",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "II: The Fairy Tree of Domremy",
+      "wordCount": 4852,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "III: All Aflame with Love of France",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IV: Joan Tames the Mad Man",
+      "wordCount": 3306,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "V: Domremy Pillaged and Burned",
+      "wordCount": 3191,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "VI: Joan and Archangel Michael",
+      "wordCount": 2476,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "VII: She Delivers the Divine Command",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "VIII: Why the Scorners Relented",
+      "wordCount": 741,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "Book II: In Court and Camp",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "I: Joan Says Goodbye",
+      "wordCount": 733,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "II: The Governor Speeds Joan",
+      "wordCount": 2377,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "III: The Paladin Groans and Boasts",
+      "wordCount": 2391,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "IV: Joan Leads Us Through the Enemy",
+      "wordCount": 2973,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "V: We Pierce the Last Ambuscades",
+      "wordCount": 4361,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "VI: Joan Convinces the King",
+      "wordCount": 2776,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "VII: Our Paladin in His Glory",
+      "wordCount": 2596,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "VIII: Joan Persuades Her Inquisitors",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "IX: She Is Made General-in-Chief",
+      "wordCount": 1056,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "X: The Maid’s Sword and Banner",
+      "wordCount": 1752,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XI: The War March Is Begun",
+      "wordCount": 1322,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XII: Joan Puts Heart in Her Army",
+      "wordCount": 2286,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XIII: Checked by the Folly of the Wise",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XIV: What the English Answered",
+      "wordCount": 913,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XV: My Exquisite Poem Goes to Smash",
+      "wordCount": 3302,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XVI: The Finding of the Dwarf",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XVII: Sweet Fruit of Bitter Truth",
+      "wordCount": 814,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XVIII: Joan’s First Battlefield",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XIX: We Burst in Upon Ghosts",
+      "wordCount": 927,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XX: Joan Makes Cowards Brave Victors",
+      "wordCount": 1906,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXI: She Gently Reproves Her Dear Friend",
+      "wordCount": 1862,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XXII: The Fate of France Decided",
+      "wordCount": 2634,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XXIII: Joan Inspires the Tawdry King",
+      "wordCount": 2825,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "XXIV: Tinsel Trappings of Nobility",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "XXV: At Last—Forward!",
+      "wordCount": 1838,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 39,
+      "title": "XXVI: The Last Doubts Scattered",
+      "wordCount": 1408,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XXVII: How Joan Took Jargeau",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 41,
+      "title": "XXVIII: Joan Foretells Her Doom",
+      "wordCount": 980,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 42,
+      "title": "XXIX: Fierce Talbot Reconsiders",
+      "wordCount": 2246,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 43,
+      "title": "XXX: The Red Field of Patay",
+      "wordCount": 1168,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XXXI: France Begins to Live Again",
+      "wordCount": 884,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 45,
+      "title": "XXXII: The Joyous News Flies Fast",
+      "wordCount": 451,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XXXIII: Joan’s Five Great Deeds",
+      "wordCount": 1470,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XXXIV: The Jests of the Burgundians",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "XXXV: The Heir of France Is Crowned",
+      "wordCount": 3408,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 49,
+      "title": "XXXVI: Joan Hears News from Home",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 50,
+      "title": "XXXVII: Again to Arms",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 51,
+      "title": "XXXVIII: The King Cries “Forward!”",
+      "wordCount": 1758,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 52,
+      "title": "XXXIX: We Win, but the King Balks",
+      "wordCount": 2373,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 53,
+      "title": "XL: Treachery Conquers Joan",
+      "wordCount": 1047,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 54,
+      "title": "XLI: The Maid Will March No More",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "Book III: Trial and Martyrdom",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 56,
+      "title": "I: The Maid in Chains",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "II: Joan Sold to the English",
+      "wordCount": 1382,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 58,
+      "title": "III: Weaving the Net About Her",
+      "wordCount": 1885,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 59,
+      "title": "IV: All Ready to Condemn",
+      "wordCount": 1014,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "V: Fifty Experts Against a Novice",
+      "wordCount": 1613,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 61,
+      "title": "VI: The Maid Baffles Her Persecutors",
+      "wordCount": 2681,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 62,
+      "title": "VII: Craft That Was in Vain",
+      "wordCount": 1611,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "VIII: Joan Tells of Her Visions",
+      "wordCount": 1918,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 64,
+      "title": "IX: Her Sure Deliverance Foretold",
+      "wordCount": 3802,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "X: The Inquisitors at Their Wits’ End",
+      "wordCount": 1531,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 66,
+      "title": "XI: The Court Reorganized for Assassination",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "XII: Joan’s Masterstroke Diverted",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 68,
+      "title": "XIII: The Third Trial Fails",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 69,
+      "title": "XIV: Joan Struggles with Her Twelve Lies",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 70,
+      "title": "XV: Undaunted by Threat of Burning",
+      "wordCount": 1242,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 71,
+      "title": "XVI: Joan Stands Defiant Before the Rack",
+      "wordCount": 1821,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 72,
+      "title": "XVII: Supreme in Direst Peril",
+      "wordCount": 796,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 73,
+      "title": "XVIII: Condemned Yet Unafraid",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 74,
+      "title": "XIX: Our Last Hopes of Rescue Fail",
+      "wordCount": 1449,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 75,
+      "title": "XX: The Betrayal",
+      "wordCount": 3104,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 76,
+      "title": "XXI: Respited Only for Torture",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 77,
+      "title": "XXII: Joan Gives the Fatal Answer",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 78,
+      "title": "XXIII: The Time Is at Hand",
+      "wordCount": 2305,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 79,
+      "title": "XXIV: Joan the Martyr",
+      "wordCount": 1955,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 80,
+      "title": "Conclusion",
+      "wordCount": 1392,
+      "estimatedMinutes": 6
+    }
+  ]
+}

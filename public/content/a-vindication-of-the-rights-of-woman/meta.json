@@ -1,0 +1,94 @@
+{
+  "bookId": "a-vindication-of-the-rights-of-woman",
+  "title": "A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects",
+  "author": "Mary Wollstonecraft",
+  "chapterCount": 14,
+  "totalWordCount": 81448,
+  "totalMinutes": 325,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2816,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 8346,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5501,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 11303,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 16135,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2537,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4203,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4509,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1027,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2120,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 9773,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 7119,
+      "estimatedMinutes": 28
+    }
+  ]
+}

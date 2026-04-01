@@ -1,0 +1,70 @@
+{
+  "bookId": "the-hollow-needle",
+  "title": "The Hollow Needle",
+  "author": "Maurice Leblanc",
+  "chapterCount": 10,
+  "totalWordCount": 65893,
+  "totalMinutes": 264,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Shot",
+      "wordCount": 7018,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "II: Isidore Beautrelet, Sixth-Form Schoolboy",
+      "wordCount": 7725,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 2,
+      "title": "III: The Corpse",
+      "wordCount": 6851,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "IV: Face to Face",
+      "wordCount": 7925,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 4,
+      "title": "V: On the Track",
+      "wordCount": 5476,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "VI: An Historic Secret",
+      "wordCount": 6135,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "VII: The Treatise of the Needle",
+      "wordCount": 6677,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 7,
+      "title": "VIII: From Caesar to Lupin",
+      "wordCount": 4535,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "IX: Open, Sesame!",
+      "wordCount": 5341,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "X: The Treasures of the Kings of France",
+      "wordCount": 8210,
+      "estimatedMinutes": 33
+    }
+  ]
+}

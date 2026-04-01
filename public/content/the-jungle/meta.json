@@ -1,0 +1,196 @@
+{
+  "bookId": "the-jungle",
+  "title": "The Jungle",
+  "author": "Upton Sinclair",
+  "chapterCount": 31,
+  "totalWordCount": 149995,
+  "totalMinutes": 601,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 8487,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 4319,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4912,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5357,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 4690,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 4179,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 4747,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3713,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 4301,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 4216,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3270,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 3560,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 5257,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3714,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3953,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 4271,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 3885,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 4277,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 4181,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 4742,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 4284,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 4898,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 8412,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 7067,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 5845,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 6480,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 5476,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 7210,
+      "estimatedMinutes": 29
+    }
+  ]
+}

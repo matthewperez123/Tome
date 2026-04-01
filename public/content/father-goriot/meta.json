@@ -1,0 +1,16 @@
+{
+  "bookId": "father-goriot",
+  "title": "Father Goriot",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 103453,
+  "totalMinutes": 414,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Father Goriot",
+      "wordCount": 103453,
+      "estimatedMinutes": 414
+    }
+  ]
+}

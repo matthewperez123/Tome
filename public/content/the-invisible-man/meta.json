@@ -1,0 +1,184 @@
+{
+  "bookId": "the-invisible-man",
+  "title": "The Invisible Man: A Grotesque Romance",
+  "author": "H. G. Wells",
+  "chapterCount": 29,
+  "totalWordCount": 49013,
+  "totalMinutes": 196,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Strange Man’s Arrival",
+      "wordCount": 2039,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II: Mr. Teddy Henfrey’s First Impressions",
+      "wordCount": 1746,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: The Thousand and One Bottles",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: Mr. Cuss Interviews the Stranger",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: The Burglary at the Vicarage",
+      "wordCount": 763,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "VI: The Furniture That Went Mad",
+      "wordCount": 1373,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VII: The Unveiling of the Stranger",
+      "wordCount": 2861,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII: In Transit",
+      "wordCount": 162,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "IX: Mr. Thomas Marvel",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X: Mr. Marvel’s Visit to Iping",
+      "wordCount": 1000,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "XI: In the Coach and Horses",
+      "wordCount": 1075,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XII: The Invisible Man Loses His Temper",
+      "wordCount": 1664,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Mr. Marvel Discusses His Resignation",
+      "wordCount": 734,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XIV: At Port Stowe",
+      "wordCount": 1802,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: The Man Who Was Running",
+      "wordCount": 634,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "XVI: In the Jolly Cricketers",
+      "wordCount": 1281,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVII: Dr. Kemp’s Visitor",
+      "wordCount": 2519,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Invisible Man Sleeps",
+      "wordCount": 1285,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX: Certain First Principles",
+      "wordCount": 1831,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XX: At the House in Great Portland Street",
+      "wordCount": 3511,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI: In Oxford Street",
+      "wordCount": 1766,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: In the Emporium",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: In Drury Lane",
+      "wordCount": 3392,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Plan That Failed",
+      "wordCount": 1391,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Hunting of the Invisible Man",
+      "wordCount": 709,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Wicksteed Murder",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Siege of Kemp’s House",
+      "wordCount": 2954,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Hunter Hunted",
+      "wordCount": 2171,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "Epilogue",
+      "wordCount": 681,
+      "estimatedMinutes": 3
+    }
+  ]
+}

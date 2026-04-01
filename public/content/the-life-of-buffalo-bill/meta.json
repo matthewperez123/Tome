@@ -1,0 +1,208 @@
+{
+  "bookId": "the-life-of-buffalo-bill",
+  "title": "The Life of Buffalo Bill",
+  "author": "William F. Cody",
+  "chapterCount": 33,
+  "totalWordCount": 98765,
+  "totalMinutes": 399,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introductory",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: Childhood",
+      "wordCount": 2690,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II: Early Influences",
+      "wordCount": 2943,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III: Boy Days in Kansas",
+      "wordCount": 4312,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "IV: Youthful Experiences",
+      "wordCount": 2876,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V: In Business",
+      "wordCount": 3935,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: Hard Times",
+      "wordCount": 3418,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Accidents and Escapes",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII: Adventures on the Overland Road",
+      "wordCount": 4182,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX: Fast Driving",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "X: Questionable Proceedings",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: A Soldier",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: A Wedding",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Millionaire",
+      "wordCount": 3402,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Earning a Title",
+      "wordCount": 2226,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV: Champion Buffalo Killer",
+      "wordCount": 2126,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Courier",
+      "wordCount": 6335,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 17,
+      "title": "XVII: An Appointment",
+      "wordCount": 1638,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Scouting",
+      "wordCount": 3309,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XIX: A Tough Time",
+      "wordCount": 2591,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: An Exciting Chase",
+      "wordCount": 4126,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXI: A Military Expedition",
+      "wordCount": 3633,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXII: A Desperate Fight",
+      "wordCount": 3767,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Administering Justice",
+      "wordCount": 3990,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Hunting Expedition",
+      "wordCount": 3696,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXV: Hunting with a Grand Duke",
+      "wordCount": 3048,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Sightseeing",
+      "wordCount": 2187,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Honors",
+      "wordCount": 2013,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: An Actor",
+      "wordCount": 2795,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Starring",
+      "wordCount": 3491,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXX: I Return to the Plains",
+      "wordCount": 3880,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Dangerous Work",
+      "wordCount": 2670,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Conclusion",
+      "wordCount": 1126,
+      "estimatedMinutes": 5
+    }
+  ]
+}

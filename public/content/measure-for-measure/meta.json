@@ -1,0 +1,46 @@
+{
+  "bookId": "measure-for-measure",
+  "title": "Measure for Measure",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 23058,
+  "totalMinutes": 93,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 78,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5922,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4593,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 4503,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 4551,
+      "estimatedMinutes": 18
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "bookId": "hudson-river-bracketed",
+  "title": "Hudson River Bracketed",
+  "author": "Edith Wharton",
+  "chapterCount": 54,
+  "totalWordCount": 170264,
+  "totalMinutes": 688,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 373,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2799,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2722,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3682,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3158,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 4501,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 3565,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 4730,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 3364,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 5266,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XII",
+      "wordCount": 4734,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XIII",
+      "wordCount": 2214,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XIV",
+      "wordCount": 3391,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XV",
+      "wordCount": 2730,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XVI",
+      "wordCount": 4069,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XVII",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XVIII",
+      "wordCount": 2546,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XIX",
+      "wordCount": 4507,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "XX",
+      "wordCount": 2444,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXI",
+      "wordCount": 3953,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXII",
+      "wordCount": 3611,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 27,
+      "title": "XXIII",
+      "wordCount": 4945,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 28,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "XXIV",
+      "wordCount": 4427,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "XXV",
+      "wordCount": 3771,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 31,
+      "title": "XXVI",
+      "wordCount": 4364,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXVII",
+      "wordCount": 3261,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXVIII",
+      "wordCount": 4209,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 34,
+      "title": "XXIX",
+      "wordCount": 3650,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "XXX",
+      "wordCount": 3231,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXI",
+      "wordCount": 5007,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 37,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XXXII",
+      "wordCount": 4638,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 39,
+      "title": "XXXIII",
+      "wordCount": 3857,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "XXXIV",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XXXV",
+      "wordCount": 3991,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XXXVI",
+      "wordCount": 2859,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XXXVII",
+      "wordCount": 4388,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 44,
+      "title": "XXXVIII",
+      "wordCount": 3959,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "XXXIX",
+      "wordCount": 3486,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "XL",
+      "wordCount": 3703,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "XLI",
+      "wordCount": 2779,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 49,
+      "title": "XLII",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 50,
+      "title": "XLIII",
+      "wordCount": 2452,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "XLIV",
+      "wordCount": 3716,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 52,
+      "title": "XLV",
+      "wordCount": 4335,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "XLVI",
+      "wordCount": 3106,
+      "estimatedMinutes": 12
+    }
+  ]
+}

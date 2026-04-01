@@ -1,0 +1,70 @@
+{
+  "bookId": "pierre-and-jean",
+  "title": "Pierre and Jean",
+  "author": "Guy de Maupassant",
+  "chapterCount": 10,
+  "totalWordCount": 50834,
+  "totalMinutes": 203,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Of “The Novel”",
+      "wordCount": 4871,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 6814,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5785,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5509,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 5543,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 5170,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 5267,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 4459,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4646,
+      "estimatedMinutes": 19
+    }
+  ]
+}

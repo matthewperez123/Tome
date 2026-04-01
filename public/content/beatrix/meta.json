@@ -1,0 +1,28 @@
+{
+  "bookId": "beatrix",
+  "title": "Béatrix",
+  "author": "Honoré de Balzac",
+  "chapterCount": 3,
+  "totalWordCount": 119594,
+  "totalMinutes": 478,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Dramatis Personae",
+      "wordCount": 44187,
+      "estimatedMinutes": 177
+    },
+    {
+      "index": 1,
+      "title": "Part II: The Drama",
+      "wordCount": 36586,
+      "estimatedMinutes": 146
+    },
+    {
+      "index": 2,
+      "title": "Part III: Retrospective Adultery",
+      "wordCount": 38821,
+      "estimatedMinutes": 155
+    }
+  ]
+}

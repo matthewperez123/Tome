@@ -1,0 +1,46 @@
+{
+  "bookId": "lord-arthur-saviles-crime-and-other-stories",
+  "title": "Lord Arthur Savile’s Crime and Other Stories",
+  "author": "Oscar Wilde",
+  "chapterCount": 6,
+  "totalWordCount": 41106,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Lord Arthur Savile’s Crime",
+      "wordCount": 12508,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 2,
+      "title": "The Canterville Ghost",
+      "wordCount": 11308,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 3,
+      "title": "The Sphinx Without a Secret",
+      "wordCount": 2106,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "The Model Millionaire",
+      "wordCount": 2007,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "The Portrait of Mr. W. H.",
+      "wordCount": 11490,
+      "estimatedMinutes": 46
+    }
+  ]
+}

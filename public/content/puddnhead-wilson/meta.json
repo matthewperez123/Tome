@@ -1,0 +1,154 @@
+{
+  "bookId": "puddnhead-wilson",
+  "title": "Pudd’nhead Wilson",
+  "author": "Mark Twain",
+  "chapterCount": 24,
+  "totalWordCount": 51330,
+  "totalMinutes": 207,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 587,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "A Whisper to the Reader",
+      "wordCount": 416,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "I: Pudd’nhead Wins His Name",
+      "wordCount": 1737,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "II: Driscoll Spares His Slaves",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III: Roxy Plays a Shrewd Trick",
+      "wordCount": 2014,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV: The Ways of the Changelings",
+      "wordCount": 2675,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "V: The Twins Thrill Dawson’s Landing",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VI: Swimming in Glory",
+      "wordCount": 1529,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VII: The Unknown Nymph",
+      "wordCount": 1104,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VIII: Marse Tom Tramples His Chance",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX: Tom Practises Sycophancy",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "X: The Nymph Revealed",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XI: Pudd’nhead’s Startling Discovery",
+      "wordCount": 4544,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XII: The Shame of Judge Driscoll",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIII: Tom Stares at Ruin",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV: Roxana Insists Upon Reform",
+      "wordCount": 3295,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XV: The Robber Robbed",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVI: Sold Down the River",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Judge Utters Dire Prophecy",
+      "wordCount": 570,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Roxana Commands",
+      "wordCount": 3934,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Prophecy Realized",
+      "wordCount": 3065,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XX: The Murderer Chuckles",
+      "wordCount": 2668,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXI: Doom",
+      "wordCount": 3888,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "Conclusion",
+      "wordCount": 631,
+      "estimatedMinutes": 3
+    }
+  ]
+}

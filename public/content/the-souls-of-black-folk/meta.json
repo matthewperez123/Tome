@@ -1,0 +1,106 @@
+{
+  "bookId": "the-souls-of-black-folk",
+  "title": "The Souls of Black Folk: Essays and Sketches",
+  "author": "W. E. B. Du Bois",
+  "chapterCount": 16,
+  "totalWordCount": 68247,
+  "totalMinutes": 273,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Forethought",
+      "wordCount": 408,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Of Our Spiritual Strivings",
+      "wordCount": 2999,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II: Of the Dawn of Freedom",
+      "wordCount": 7223,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "III: Of Mr. Booker T. Washington and Others",
+      "wordCount": 4686,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "IV: Of the Meaning of Progress",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V: Of the Wings of Atalanta",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI: Of the Training of Black Men",
+      "wordCount": 5552,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "VII: Of the Black Belt",
+      "wordCount": 6659,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "VIII: Of the Quest of the Golden Fleece",
+      "wordCount": 7477,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "IX: Of the Sons of Master and Man",
+      "wordCount": 6943,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 10,
+      "title": "X: Of the Faith of the Fathers",
+      "wordCount": 4582,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: Of the Passing of the Firstborn",
+      "wordCount": 2030,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII: Of Alexander Crummell",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: Of the Coming of John",
+      "wordCount": 5835,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Sorrow Songs",
+      "wordCount": 3294,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "The Afterthought",
+      "wordCount": 98,
+      "estimatedMinutes": 1
+    }
+  ]
+}

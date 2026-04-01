@@ -1,0 +1,418 @@
+{
+  "bookId": "the-maid-of-sker",
+  "title": "The Maid of Sker",
+  "author": "R. D. Blackmore",
+  "chapterCount": 68,
+  "totalWordCount": 212724,
+  "totalMinutes": 849,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Fisherman Davy a Fish Out of Water",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "II: Hunger Drives Him A-Fishing",
+      "wordCount": 1956,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: The Fish Are as Hungry as He Is",
+      "wordCount": 2253,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV: He Lands an Unexpected Fish",
+      "wordCount": 1427,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V: A Little Orphan Mermaid",
+      "wordCount": 2732,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: Finds a Home of Some Sort",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: Boat Versus Bardie",
+      "wordCount": 2495,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII: Children Will Be Children",
+      "wordCount": 2418,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "IX: Sandhills Turned to Sand-Holes",
+      "wordCount": 3120,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: Under the Rock",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "XI: A Wrecker Wrecked",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XII: How to Sell Fish",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Coroner and the Coronet",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: In Accordance with the Evidence",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV: A Verdict on the Jury",
+      "wordCount": 2237,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI: Truth Lies Sometimes in a Well",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII: For a Little Change of Air",
+      "wordCount": 3781,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Public Approbation",
+      "wordCount": 3692,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XIX: A Craft Beyond the Law",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX: Confidential Intercourse",
+      "wordCount": 3073,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI: Cross-Examination",
+      "wordCount": 2518,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XXII: Another Disappointment",
+      "wordCount": 2622,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Into Good Society",
+      "wordCount": 2857,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Sound Investments",
+      "wordCount": 3382,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXV: A Long Goodbye",
+      "wordCount": 3117,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Braunton Burrows",
+      "wordCount": 3056,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVII: A Fine Spectacle",
+      "wordCount": 2896,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Something About Him",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXIX: A Visit to a Parson",
+      "wordCount": 5053,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "XXX: On Duty",
+      "wordCount": 3185,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Two Lovers",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Among the Savages",
+      "wordCount": 3902,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: In a State of Nature",
+      "wordCount": 4327,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Waiting and Learning",
+      "wordCount": 3673,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Polite Ferryman",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Under Fairer Auspices",
+      "wordCount": 3153,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: Two Poor Children",
+      "wordCount": 3209,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: A Fine Old Gentleman",
+      "wordCount": 3981,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Notice to Quit",
+      "wordCount": 3343,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XL: Forcible Ejectment",
+      "wordCount": 4249,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 40,
+      "title": "XLI: The Right Man in the Right Place",
+      "wordCount": 4476,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLII: The Little Maid, and the Midshipman",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "XLIII: A Fine Price for Bardie",
+      "wordCount": 3752,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "XLIV: Provides for Education",
+      "wordCount": 3007,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "XLV: Introduces a Real Hero",
+      "wordCount": 3174,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 45,
+      "title": "XLVI: After Seven Years",
+      "wordCount": 2963,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 46,
+      "title": "XLVII: Mischief in a Household",
+      "wordCount": 3563,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: A Breathless Disinterment",
+      "wordCount": 3259,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLIX: One Who Has Interred Himself",
+      "wordCount": 3223,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "L: A Brave Man Runs Away",
+      "wordCount": 2841,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "LI: Triple Education",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "LII: Great March of Intellect",
+      "wordCount": 4242,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 52,
+      "title": "LIII: Beating Up for the Navy",
+      "wordCount": 5286,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 53,
+      "title": "LIV: Taming of the Savages",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 54,
+      "title": "LV: Upon Foreign Service",
+      "wordCount": 2550,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 55,
+      "title": "LVI: Exiles of Society",
+      "wordCount": 3363,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 56,
+      "title": "LVII: Many Weak Moments",
+      "wordCount": 4574,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 57,
+      "title": "LVIII: More Haste, Less Speed",
+      "wordCount": 2523,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 58,
+      "title": "LIX: In a Rocky Bower",
+      "wordCount": 3145,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 59,
+      "title": "LX: Nelson and the Nile",
+      "wordCount": 2177,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 60,
+      "title": "LXI: A Savage Deed",
+      "wordCount": 2737,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 61,
+      "title": "LXII: A Rash Young Captain",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "LXIII: Polly at Home",
+      "wordCount": 3838,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 63,
+      "title": "LXIV: Susan Quite Acquits Herself",
+      "wordCount": 4048,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 64,
+      "title": "LXV: So Does Poor Old Davy",
+      "wordCount": 2992,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 65,
+      "title": "LXVI: The Maid at Last Is “Dentified”",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 66,
+      "title": "LXVII: Dog Eats Dog",
+      "wordCount": 3093,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 67,
+      "title": "LXVIII: The Old Pitcher at the Well Again",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    }
+  ]
+}

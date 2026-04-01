@@ -1,0 +1,52 @@
+{
+  "bookId": "commentaries-on-the-gallic-war",
+  "title": "Commentaries on the Gallic War",
+  "author": "Julius Caesar",
+  "chapterCount": 7,
+  "totalWordCount": 75010,
+  "totalMinutes": 300,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 13478,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 6921,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 6025,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 7586,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "Book V",
+      "wordCount": 12218,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 5,
+      "title": "Book VI",
+      "wordCount": 9172,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 6,
+      "title": "Book VII",
+      "wordCount": 19610,
+      "estimatedMinutes": 78
+    }
+  ]
+}

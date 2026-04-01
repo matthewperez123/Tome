@@ -1,0 +1,46 @@
+{
+  "bookId": "antony-and-cleopatra",
+  "title": "Antony and Cleopatra",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 26771,
+  "totalMinutes": 108,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 156,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4406,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 6456,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 6541,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5269,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 3943,
+      "estimatedMinutes": 16
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "bookId": "the-courts-of-the-morning",
+  "title": "The Courts of the Morning",
+  "author": "John Buchan",
+  "chapterCount": 41,
+  "totalWordCount": 140843,
+  "totalMinutes": 566,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue by Sir Richard Hannay",
+      "wordCount": 5944,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Gran Seco",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3098,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3830,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2160,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 5685,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3401,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 2451,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 6261,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 2809,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 3577,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3965,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2060,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "Book II: The Courts of the Morning",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I",
+      "wordCount": 4870,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "II",
+      "wordCount": 4502,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "III",
+      "wordCount": 5146,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "IV",
+      "wordCount": 5626,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 20,
+      "title": "V",
+      "wordCount": 851,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "VI",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "VII",
+      "wordCount": 3789,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "VIII",
+      "wordCount": 3055,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "IX",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "X",
+      "wordCount": 4283,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XI",
+      "wordCount": 5011,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 27,
+      "title": "XII",
+      "wordCount": 4766,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "XIII",
+      "wordCount": 4963,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "XIV",
+      "wordCount": 4995,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 30,
+      "title": "Book III: Olifa",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I",
+      "wordCount": 5010,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 32,
+      "title": "II",
+      "wordCount": 3913,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 33,
+      "title": "III",
+      "wordCount": 1146,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "IV",
+      "wordCount": 5226,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 35,
+      "title": "V",
+      "wordCount": 2918,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "VI",
+      "wordCount": 4329,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "VII",
+      "wordCount": 2074,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "VIII",
+      "wordCount": 2544,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "IX",
+      "wordCount": 4648,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 40,
+      "title": "Epilogue",
+      "wordCount": 2374,
+      "estimatedMinutes": 9
+    }
+  ]
+}

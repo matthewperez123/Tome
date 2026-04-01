@@ -1,0 +1,124 @@
+{
+  "bookId": "the-rights-of-man",
+  "title": "The Rights of Man",
+  "author": "Thomas Paine",
+  "chapterCount": 19,
+  "totalWordCount": 85861,
+  "totalMinutes": 345,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Introduction",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "Part First: Being an Answer to Mr. Burke’s Attack on the French Revolution",
+      "wordCount": 13,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Paine’s Preface to the English Edition",
+      "wordCount": 827,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "Paine’s Preface to the French Edition",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "Rights of Man",
+      "wordCount": 27561,
+      "estimatedMinutes": 110
+    },
+    {
+      "index": 5,
+      "title": "Declaration of the Rights of Man and of Citizens by the National Assembly of France",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "Observations on the Declaration of Rights",
+      "wordCount": 703,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "Miscellaneous Chapter",
+      "wordCount": 8797,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 8,
+      "title": "Conclusion",
+      "wordCount": 2535,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "Part Second: Combining Principle and Practice",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "French Translator’s Preface (1792)",
+      "wordCount": 234,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "Preface",
+      "wordCount": 2294,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "Introduction",
+      "wordCount": 1338,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "I: Of Society and Civilisation",
+      "wordCount": 1732,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "II: Of the Origin of the Present Old Governments",
+      "wordCount": 767,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "III: Of the Old and New Systems of Government",
+      "wordCount": 5258,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "IV: Of Constitutions",
+      "wordCount": 8441,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 17,
+      "title": "V: Ways and Means of Improving the Condition of Europe: Interspersed with Miscellaneous Observations",
+      "wordCount": 20411,
+      "estimatedMinutes": 82
+    },
+    {
+      "index": 18,
+      "title": "Appendix",
+      "wordCount": 1533,
+      "estimatedMinutes": 6
+    }
+  ]
+}

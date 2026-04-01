@@ -1,0 +1,16 @@
+{
+  "bookId": "north-of-boston",
+  "title": "North of Boston",
+  "author": "Robert Frost",
+  "chapterCount": 1,
+  "totalWordCount": 17101,
+  "totalMinutes": 68,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 17101,
+      "estimatedMinutes": 68
+    }
+  ]
+}

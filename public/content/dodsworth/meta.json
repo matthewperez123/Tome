@@ -1,0 +1,226 @@
+{
+  "bookId": "dodsworth",
+  "title": "Dodsworth",
+  "author": "Sinclair Lewis",
+  "chapterCount": 36,
+  "totalWordCount": 137826,
+  "totalMinutes": 549,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2284,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3629,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3208,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2061,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3874,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 1895,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2683,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3124,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2352,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3261,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 11054,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 4443,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1983,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2741,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 5585,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 6028,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3485,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 4295,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 6374,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 3797,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 5866,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 6949,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 3868,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 3986,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 4901,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 3144,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 3119,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 4291,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 3879,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 2079,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXXVI",
+      "wordCount": 2425,
+      "estimatedMinutes": 10
+    }
+  ]
+}

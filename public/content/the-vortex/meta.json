@@ -1,0 +1,34 @@
+{
+  "bookId": "the-vortex",
+  "title": "The Vortex",
+  "author": "Noël Coward",
+  "chapterCount": 4,
+  "totalWordCount": 16346,
+  "totalMinutes": 66,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 21,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 6588,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5908,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 3829,
+      "estimatedMinutes": 15
+    }
+  ]
+}

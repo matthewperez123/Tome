@@ -1,0 +1,754 @@
+{
+  "bookId": "the-well-at-the-worlds-end",
+  "title": "The Well at the World’s End",
+  "author": "William Morris",
+  "chapterCount": 124,
+  "totalWordCount": 225931,
+  "totalMinutes": 905,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1572,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Road Unto Love",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Sundering of the Ways",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II: Ralph Goeth Back Home to the High House",
+      "wordCount": 439,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "III: Ralph Cometh to the Cheaping-Town",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV: Ralph Rideth the Downs",
+      "wordCount": 2218,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "V: Ralph Cometh to Higham-on-the-Way",
+      "wordCount": 3598,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI: Ralph Goeth His Ways from the Abbey of St. Mary at Higham",
+      "wordCount": 1605,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VII: The Maiden of Bourton Abbas",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "VIII: Ralph Cometh to the Wood Perilous. An Adventure Therein",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "IX: Another Adventure in the Wood Perilous",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "X: A Meeting and a Parting in the Wood Perilous",
+      "wordCount": 1242,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XI: Now Must Ralph Ride for It",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: Ralph Entereth Into the Burg of the Four Friths",
+      "wordCount": 3035,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Streets of the Burg of the Four Friths",
+      "wordCount": 2054,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV: What Ralph Heard of the Matters of the Burg of the Four Friths",
+      "wordCount": 2696,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XV: How Ralph Departed from the Burg of the Four Friths",
+      "wordCount": 2314,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI: Ralph Rideth the Wood Perilous Again",
+      "wordCount": 1307,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVII: Ralph Cometh to the House of Abundance",
+      "wordCount": 1547,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Of Ralph in the Castle of Abundance",
+      "wordCount": 4535,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XIX: Ralph Readeth in a Book Concerning the Well at the World’s End",
+      "wordCount": 541,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XX: Ralph Meeteth a Man in the Wood",
+      "wordCount": 2430,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXI: Ralph Weareth Away Three Days Uneasily",
+      "wordCount": 1580,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXII: An Adventure in the Wood",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Leechcraft of the Lady",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Supper and Slumber in the Woodland Hall",
+      "wordCount": 2368,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "Book II: The Road Unto Trouble",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "I: Ralph Meets with Love in the Wilderness",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "II: They Break Their Fast in the Wildwood",
+      "wordCount": 1367,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "III: The Lady Telleth Ralph of the Past Days of Her Life",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "IV: The Lady Tells of Her Deliverance",
+      "wordCount": 3918,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "V: Yet More of the Lady’s Story",
+      "wordCount": 924,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "VI: The Lady Tells Somewhat of Her Doings After She Left the Wilderness",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "VII: The Lady Tells of the Strife and Trouble That Befell After Her Coming to the Country of the King’s Son",
+      "wordCount": 4898,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 34,
+      "title": "VIII: The Lady Maketh an End of Her Tale",
+      "wordCount": 2446,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "IX: They Go on Their Way Once More",
+      "wordCount": 1636,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "X: Of the Desert-House and the Chamber of Love in the Wilderness",
+      "wordCount": 3415,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XI: Ralph Cometh Out of the Wilderness",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "XII: Ralph Falleth in with Friends and Rideth to Whitwall",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 39,
+      "title": "XIII: Richard Talketh with Ralph Concerning the Well at the World’s End. Concerning Swevenham",
+      "wordCount": 2306,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "XIV: Ralph Falleth in with Another Old Friend",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 41,
+      "title": "XV: Ralph Dreams a Dream or Sees a Vision",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 42,
+      "title": "XVI: Of the Tales of Swevenham",
+      "wordCount": 2031,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 43,
+      "title": "XVII: Richard Bringeth Tidings of Departing",
+      "wordCount": 1336,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XVIII: Ralph Departeth from Whitwall with the Fellowship of Clement Chapman",
+      "wordCount": 749,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XIX: Master Clement Tells Ralph Concerning the Lands Whereunto They Were Riding",
+      "wordCount": 1154,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 46,
+      "title": "XX: They Come to the Mid-Mountain Guesthouse",
+      "wordCount": 1892,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 47,
+      "title": "XXI: A Battle in the Mountains",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 48,
+      "title": "XXII: Ralph Talks with Bull Shockhead",
+      "wordCount": 929,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 49,
+      "title": "XXIII: Of the Town of Cheaping Knowe",
+      "wordCount": 1043,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 50,
+      "title": "XXIV: Ralph Heareth More Tidings of the Damsel",
+      "wordCount": 1134,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 51,
+      "title": "XXV: The Fellowship Comes to Whiteness",
+      "wordCount": 909,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "XXVI: They Ride the Mountains Toward Goldburg",
+      "wordCount": 1700,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 53,
+      "title": "XXVII: Clement Tells of Goldburg",
+      "wordCount": 701,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 54,
+      "title": "XXVIII: Now They Come to Goldburg",
+      "wordCount": 972,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "XXIX: Of Goldburg and the Queen Thereof",
+      "wordCount": 2602,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 56,
+      "title": "XXX: Ralph Hath Hope of Tidings Concerning the Well at the World’s End",
+      "wordCount": 1420,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "XXXI: The Beginning of the Road to Utterbol",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 58,
+      "title": "XXXII: Ralph Happens on Evil Days",
+      "wordCount": 3230,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 59,
+      "title": "XXXIII: Ralph Is Brought on the Road Towards Utterbol",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 60,
+      "title": "XXXIV: The Lord of Utterbol Will Wot of Ralph’s Might and Minstrelsy",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 61,
+      "title": "XXXV: Ralph Cometh to the Vale of the Tower",
+      "wordCount": 2198,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 62,
+      "title": "XXXVI: The Talk of Two Women Concerning Ralph",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 63,
+      "title": "XXXVII: How Ralph Justed with the Aliens",
+      "wordCount": 2307,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 64,
+      "title": "XXXVIII: A Friend Gives Ralph Warning",
+      "wordCount": 2054,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 65,
+      "title": "XXXIX: The Lord of Utterbol Makes Ralph a Free Man",
+      "wordCount": 1917,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 66,
+      "title": "XL: They Ride Toward Utterness from Out of Vale Turris",
+      "wordCount": 488,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 67,
+      "title": "XLI: Redhead Keeps Tryst",
+      "wordCount": 1336,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 68,
+      "title": "Book III: The Road to the Well at the World’s End",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 69,
+      "title": "I: An Adventure in the Wood Under the Mountains",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 70,
+      "title": "II: Ralph Rides the Wood Under the Mountains",
+      "wordCount": 660,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 71,
+      "title": "III: Ralph Meeteth with Another Adventure in the Wood Under the Mountain",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 72,
+      "title": "IV: They Ride the Wood Under the Mountains",
+      "wordCount": 2410,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 73,
+      "title": "V: They Come on the Sage of Swevenham",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 74,
+      "title": "VI: Those Two Are Learned Lore by the Sage of Swevenham",
+      "wordCount": 547,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 75,
+      "title": "VII: An Adventure by the Way",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 76,
+      "title": "VIII: They Come to the Sea of Molten Rocks",
+      "wordCount": 1365,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 77,
+      "title": "IX: They Come Forth from the Rock-Sea",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 78,
+      "title": "X: They Come to the Gate of the Mountains",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 79,
+      "title": "XI: They Come to the Vale of Sweet Chestnuts",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 80,
+      "title": "XII: Winter Amidst of the Mountains",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "XIII: Of Ursula and the Bear",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 82,
+      "title": "XIV: Now Come the Messengers of the Innocent Folk",
+      "wordCount": 1170,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 83,
+      "title": "XV: They Come to the Land of the Innocent Folk",
+      "wordCount": 765,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 84,
+      "title": "XVI: They Come to the House of the Sorceress",
+      "wordCount": 2302,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 85,
+      "title": "XVII: They Come Through the Woodland to the Thirsty Desert",
+      "wordCount": 1902,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 86,
+      "title": "XVIII: They Come to the Dry Tree",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 87,
+      "title": "XIX: They Come Out of the Thirsty Desert",
+      "wordCount": 664,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 88,
+      "title": "XX: They Come to the Ocean Sea",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 89,
+      "title": "XXI: Now They Drink of the Well at the World’s End",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 90,
+      "title": "XXII: Now They Have Drunk and Are Glad",
+      "wordCount": 1329,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 91,
+      "title": "Book IV: The Road Home",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 92,
+      "title": "I: Ralph and Ursula Come Back Again Through the Great Mountains",
+      "wordCount": 556,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 93,
+      "title": "II: They Hear New Tidings of Utterbol",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 94,
+      "title": "III: They Winter with the Sage; and Thereafter Come Again to Vale Turris",
+      "wordCount": 1871,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 95,
+      "title": "IV: A Feast in the Red Pavilion",
+      "wordCount": 1024,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 96,
+      "title": "V: Bull Telleth of His Winning of the Lordship of Utterbol",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 97,
+      "title": "VI: They Ride from Vale Turris. Redhead Tells of Agatha",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 98,
+      "title": "VII: Of Their Riding the Waste, and of a Battle Thereon",
+      "wordCount": 1386,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 99,
+      "title": "VIII: Of Goldburg Again, and the Queen Thereof",
+      "wordCount": 1184,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 100,
+      "title": "IX: They Come to Cheaping Knowe Once More. Of the King Thereof",
+      "wordCount": 2046,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 101,
+      "title": "X: An Adventure on the Way to the Mountains",
+      "wordCount": 1992,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 102,
+      "title": "XI: They Come Through the Mountains Into the Plain",
+      "wordCount": 670,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 103,
+      "title": "XII: The Roads Sunder Again",
+      "wordCount": 908,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 104,
+      "title": "XIII: They Come to Whitwall Again",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 105,
+      "title": "XIV: They Ride Away from Whitwall",
+      "wordCount": 541,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 106,
+      "title": "XV: A Strange Meeting in the Wilderness",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 107,
+      "title": "XVI: They Come to the Castle of Abundance Once More",
+      "wordCount": 2832,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 108,
+      "title": "XVII: They Fall in with That Hermit",
+      "wordCount": 4352,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 109,
+      "title": "XVIII: A Change of Days in the Burg of the Four Friths",
+      "wordCount": 1558,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 110,
+      "title": "XIX: Ralph Sees Hampton and the Scaur",
+      "wordCount": 5733,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 111,
+      "title": "XX: They Come to the Gate of Higham by the Way",
+      "wordCount": 980,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 112,
+      "title": "XXI: Talk Between Those Two Brethren",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 113,
+      "title": "XXII: An Old Acquaintance Comes from the Down Country to See Ralph",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 114,
+      "title": "XXIII: They Ride to Bear Castle",
+      "wordCount": 1596,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 115,
+      "title": "XXIV: The Folkmote of the Shepherds",
+      "wordCount": 1109,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 116,
+      "title": "XXV: They Come to Wulstead",
+      "wordCount": 1280,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 117,
+      "title": "XXVI: Ralph Sees His Father and Mother Again",
+      "wordCount": 2531,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 118,
+      "title": "XXVII: Ralph Holds Converse with Katherine His Gossip",
+      "wordCount": 1444,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 119,
+      "title": "XXVIII: Dame Katherine Tells of the Pair of Beads, and Whence She Had Them",
+      "wordCount": 1970,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 120,
+      "title": "XXIX: They Go Down to Battle in Upmeads",
+      "wordCount": 3751,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 121,
+      "title": "XXX: Ralph Brings His Father and Mother to Upmeads",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 122,
+      "title": "XXXI: Ralph Brings Ursula Home to the High House",
+      "wordCount": 1513,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 123,
+      "title": "XXXII: Yet a Few Words Concerning Ralph of Upmeads",
+      "wordCount": 821,
+      "estimatedMinutes": 3
+    }
+  ]
+}

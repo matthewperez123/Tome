@@ -1,0 +1,40 @@
+{
+  "bookId": "the-napoleon-of-notting-hill",
+  "title": "The Napoleon of Notting Hill",
+  "author": "G. K. Chesterton",
+  "chapterCount": 5,
+  "totalWordCount": 54844,
+  "totalMinutes": 219,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 9694,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 10933,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 12103,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 13342,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 4,
+      "title": "Book V",
+      "wordCount": 8772,
+      "estimatedMinutes": 35
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "bookId": "north-and-south",
+  "title": "North and South",
+  "author": "Elizabeth Gaskell",
+  "chapterCount": 53,
+  "totalWordCount": 182113,
+  "totalMinutes": 730,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1566,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: “Haste to the Wedding”",
+      "wordCount": 4172,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "II: Roses and Thorns",
+      "wordCount": 3167,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: “The More Haste the Worse Speed”",
+      "wordCount": 3840,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: Doubts and Difficulties",
+      "wordCount": 3947,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "V: Decision",
+      "wordCount": 4769,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VI: Farewell",
+      "wordCount": 2339,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII: New Scenes and Faces",
+      "wordCount": 3130,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Home Sickness",
+      "wordCount": 3851,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: Dressing for Tea",
+      "wordCount": 1526,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "X: Wrought Iron and Gold",
+      "wordCount": 3399,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI: First Impressions",
+      "wordCount": 2992,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: Morning Calls",
+      "wordCount": 2241,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: Soft Breeze in a Sultry Place",
+      "wordCount": 2532,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Meeting",
+      "wordCount": 2096,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: Masters and Men",
+      "wordCount": 6233,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Shadow of Death",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: What Is a Strike?",
+      "wordCount": 3150,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Likes and Dislikes",
+      "wordCount": 3102,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: Angel Visits",
+      "wordCount": 4467,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XX: Men and Gentlemen",
+      "wordCount": 3708,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Dark Night",
+      "wordCount": 2955,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXII: A Blow and Its Consequences",
+      "wordCount": 5069,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Mistakes",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Mistakes Cleared Up",
+      "wordCount": 2063,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXV: Frederick",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Mother and Son",
+      "wordCount": 2096,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Fruit-Piece",
+      "wordCount": 2432,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Comfort in Sorrow",
+      "wordCount": 6886,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 29,
+      "title": "XXIX: A Ray of Sunshine",
+      "wordCount": 2377,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: Home at Last",
+      "wordCount": 4888,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 31,
+      "title": "XXXI: “Should Auld Acquaintance Be Forgot”",
+      "wordCount": 4084,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Mischances",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Peace",
+      "wordCount": 2069,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: False and True",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Expiation",
+      "wordCount": 6015,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Union Not Always Strength",
+      "wordCount": 4289,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Looking South",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Promises Fulfilled",
+      "wordCount": 5181,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Making Friends",
+      "wordCount": 3562,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 40,
+      "title": "XL: Out of Tune",
+      "wordCount": 5233,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Journey’s End",
+      "wordCount": 4638,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 42,
+      "title": "XLII: Alone! Alone!",
+      "wordCount": 4323,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Margaret’s Flittin’",
+      "wordCount": 3640,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Ease Not Peace",
+      "wordCount": 4044,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "XLV: Not All a Dream",
+      "wordCount": 1045,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Once and Now",
+      "wordCount": 7444,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Something Wanting",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: “Ne’er to Be Found Again”",
+      "wordCount": 1934,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Breathing Tranquillity",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 50,
+      "title": "L: Changes at Milton",
+      "wordCount": 3718,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 51,
+      "title": "LI: Meeting Again",
+      "wordCount": 2635,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 52,
+      "title": "LII: “Pack Clouds Away”",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    }
+  ]
+}

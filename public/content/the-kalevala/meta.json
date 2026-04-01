@@ -1,0 +1,334 @@
+{
+  "bookId": "the-kalevala",
+  "title": "The Kalevala",
+  "author": "Elias Lönnrot",
+  "chapterCount": 54,
+  "totalWordCount": 137765,
+  "totalMinutes": 551,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1755,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 9904,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 2,
+      "title": "Proem",
+      "wordCount": 686,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "Rune I: Birth of Wainamoinen",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "Rune II: Wainamoinen’s Sowing",
+      "wordCount": 2331,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "Rune III: Wainamoinen and Youkahainen",
+      "wordCount": 3635,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "Rune IV: The Fate of Aino",
+      "wordCount": 3409,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "Rune V: Wainamoinen’s Lamentation",
+      "wordCount": 1469,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "Rune VI: Wainamoinen’s Hapless Journey",
+      "wordCount": 1371,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "Rune VII: Wainamoinen’s Rescue",
+      "wordCount": 2232,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "Rune VIII: Maiden of the Rainbow",
+      "wordCount": 1600,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "Rune IX: Origin of Iron",
+      "wordCount": 3356,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "Rune X: Ilmarinen Forges the Sampo",
+      "wordCount": 3002,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "Rune XI: Lemminkainen’s Lament",
+      "wordCount": 2502,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "Rune XII: Kyllikki’s Broken Vow",
+      "wordCount": 2953,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "Rune XIII: Lemminkainen’s Second Wooing",
+      "wordCount": 1606,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "Rune XIV: Death of Lemminkainen",
+      "wordCount": 2674,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "Rune XV: Lemminkainen’s Restoration",
+      "wordCount": 3956,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "Rune XVI: Wainamoinen’s Boat-Building",
+      "wordCount": 2535,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "Rune XVII: Wainamoinen Finds the Lost-Word",
+      "wordCount": 3227,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "Rune XVIII: The Rival Suitors",
+      "wordCount": 4003,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "Rune XIX: Ilmarinen’s Wooing",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "Rune XX: The Brewing of Beer",
+      "wordCount": 3558,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "Rune XXI: Ilmarinen’s Wedding-Feast",
+      "wordCount": 2398,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "Rune XXII: The Bride’s Farewell",
+      "wordCount": 2835,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "Rune XXIII: Osmotar the Bride-Adviser",
+      "wordCount": 4903,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "Rune XXIV: The Bride’s Farewell",
+      "wordCount": 2926,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "Rune XXV: Wainamoinen’s Wedding-Songs",
+      "wordCount": 3692,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "Rune XXVI: Origin of the Serpent",
+      "wordCount": 4160,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "Rune XXVII: The Unwelcome Guest",
+      "wordCount": 2264,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "Rune XXVIII: The Mother’s Counsel",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "Rune XXIX: The Isle of Refuge",
+      "wordCount": 3365,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "Rune XXX: The Frost-Fiend",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "Rune XXXI: Kullerwoinen Son of Evil",
+      "wordCount": 2099,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "Rune XXXII: Kullervo as a Shepherd",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "Rune XXXIII: Kullervo and the Cheat-Cake",
+      "wordCount": 1548,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "Rune XXXIV: Kullervo Finds His Tribe-Folk",
+      "wordCount": 1355,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "Rune XXXV: Kullervo’s Evil Deeds",
+      "wordCount": 1987,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "Rune XXXVI: Kullerwoinen’s Victory and Death",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "Rune XXXVII: Ilmarinen’s Bride of Gold",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 40,
+      "title": "Rune XXXVIII: Ilmarinen’s Fruitless Wooing",
+      "wordCount": 1569,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "Rune XXXIX: Wainamoinen’s Sailing",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 42,
+      "title": "Rune XL: Birth of the Harp",
+      "wordCount": 1823,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 43,
+      "title": "Rune XLI: Wainamoinen’s Harp-Songs",
+      "wordCount": 1329,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "Rune XLII: Capture of the Sampo",
+      "wordCount": 2723,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "Rune XLIII: The Sampo Lost in the Sea",
+      "wordCount": 2063,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "Rune XLIV: Birth of the Second Harp",
+      "wordCount": 1650,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "Rune XLV: Birth of the Nine Diseases",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 48,
+      "title": "Rune XLVI: Otso the Honey-Eater",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "Rune XLVII: Louhi Steals Sun, Moon, and Fire",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "Rune XLVIII: Capture of the Fire-Fish",
+      "wordCount": 1815,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 51,
+      "title": "Rune XLIX: Restoration of the Sun and Moon",
+      "wordCount": 2444,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "Rune L: Mariatta—Wainamoinen’s Departure",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 53,
+      "title": "Epilogue",
+      "wordCount": 554,
+      "estimatedMinutes": 2
+    }
+  ]
+}

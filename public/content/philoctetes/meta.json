@@ -1,0 +1,28 @@
+{
+  "bookId": "philoctetes",
+  "title": "Philoctetes",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 12424,
+  "totalMinutes": 51,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 509,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 25,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Philoctetes",
+      "wordCount": 11890,
+      "estimatedMinutes": 48
+    }
+  ]
+}

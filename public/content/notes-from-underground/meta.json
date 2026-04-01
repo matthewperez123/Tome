@@ -1,0 +1,148 @@
+{
+  "bookId": "notes-from-underground",
+  "title": "Notes from Underground",
+  "author": "Fyodor Dostoevsky",
+  "chapterCount": 23,
+  "totalWordCount": 44113,
+  "totalMinutes": 179,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Underground",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1159,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1255,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1610,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 635,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 498,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2092,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 1185,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 668,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1338,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "Part II: À Propos of the Wet Snow",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "I",
+      "wordCount": 4779,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "II",
+      "wordCount": 1722,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "III",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "IV",
+      "wordCount": 3501,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "V",
+      "wordCount": 1783,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "VI",
+      "wordCount": 3753,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "VII",
+      "wordCount": 3024,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "VIII",
+      "wordCount": 3902,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "IX",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "X",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    }
+  ]
+}

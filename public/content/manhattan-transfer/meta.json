@@ -1,0 +1,136 @@
+{
+  "bookId": "manhattan-transfer",
+  "title": "Manhattan Transfer",
+  "author": "John Dos Passos",
+  "chapterCount": 21,
+  "totalWordCount": 127575,
+  "totalMinutes": 516,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Section I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Ferryslip",
+      "wordCount": 2653,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II: Metropolis",
+      "wordCount": 11772,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 3,
+      "title": "III: Dollars",
+      "wordCount": 9233,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 4,
+      "title": "IV: Tracks",
+      "wordCount": 10758,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 5,
+      "title": "V: Steamroller",
+      "wordCount": 4991,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "Section II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "I: Great Lady on a White Horse",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "II: Longlegged Jack of the Isthmus",
+      "wordCount": 8404,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 9,
+      "title": "III: Nine Days’ Wonder",
+      "wordCount": 10660,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 10,
+      "title": "IV: Fire Engine",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "V: Went to the Animals’ Fair",
+      "wordCount": 6295,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 12,
+      "title": "VI: Five Statutory Questions",
+      "wordCount": 3915,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "VII: Rollercoaster",
+      "wordCount": 1759,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "VIII: One More River to Jordan",
+      "wordCount": 4385,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "Section III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: Rejoicing City That Dwelt Carelessly",
+      "wordCount": 5801,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "II: Nickelodeon",
+      "wordCount": 4169,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "III: Revolving Doors",
+      "wordCount": 14962,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 19,
+      "title": "IV: Skyscraper",
+      "wordCount": 6642,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "V: The Burden of Nineveh",
+      "wordCount": 11695,
+      "estimatedMinutes": 47
+    }
+  ]
+}

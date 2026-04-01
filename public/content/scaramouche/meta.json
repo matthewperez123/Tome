@@ -1,0 +1,256 @@
+{
+  "bookId": "scaramouche",
+  "title": "Scaramouche: A Romance of the French Revolution",
+  "author": "Rafael Sabatini",
+  "chapterCount": 41,
+  "totalWordCount": 130346,
+  "totalMinutes": 522,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: The Robe",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Republican",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: The Aristocrat",
+      "wordCount": 3476,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: The Eloquence of M. de Vilmorin",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Heritage",
+      "wordCount": 1770,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V: The Lord of Gavrillac",
+      "wordCount": 1480,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI: The Windmill",
+      "wordCount": 2743,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII: The Wind",
+      "wordCount": 4652,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: Omnes Omnibus",
+      "wordCount": 2822,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: The Aftermath",
+      "wordCount": 3334,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "Book II: The Buskin",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I: The Trespassers",
+      "wordCount": 5363,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "II: The Service of Thespis",
+      "wordCount": 2708,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "III: The Comic Muse",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "IV: Exit Monsieur Parvissimus",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "V: Enter Scaramouche",
+      "wordCount": 2961,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "VI: Climène",
+      "wordCount": 4841,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "VII: The Conquest of Nantes",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "VIII: The Dream",
+      "wordCount": 2275,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "IX: The Awakening",
+      "wordCount": 6345,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 20,
+      "title": "X: Contrition",
+      "wordCount": 3068,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XI: The Fracas at the Théâtre Feydau",
+      "wordCount": 5541,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 22,
+      "title": "Book III: The Sword",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: Transition",
+      "wordCount": 5546,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 24,
+      "title": "II: Quos Deus Vult Perdere",
+      "wordCount": 4541,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "III: President Le Chapelier",
+      "wordCount": 3293,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "IV: Interlude",
+      "wordCount": 1938,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "V: At Meudon",
+      "wordCount": 4056,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "VI: Madame de Plougastel",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "VII: Politicians",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "VIII: The Spadassinicides",
+      "wordCount": 3599,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "IX: The Paladin of the Third",
+      "wordCount": 2716,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "X: Torn Pride",
+      "wordCount": 4228,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 33,
+      "title": "XI: The Returning Carriage",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XII: Inferences",
+      "wordCount": 2434,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XIII: Towards the Climax",
+      "wordCount": 2496,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XIV: The Overwhelming Reason",
+      "wordCount": 5699,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 37,
+      "title": "XV: Sanctuary",
+      "wordCount": 2840,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XVI: The Barrier",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XVII: Safe-Conduct",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XVIII: Sunrise",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    }
+  ]
+}

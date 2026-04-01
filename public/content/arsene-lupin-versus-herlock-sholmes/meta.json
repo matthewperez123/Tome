@@ -1,0 +1,58 @@
+{
+  "bookId": "arsene-lupin-versus-herlock-sholmes",
+  "title": "Arsène Lupin Versus Herlock Sholmes",
+  "author": "Maurice Leblanc",
+  "chapterCount": 8,
+  "totalWordCount": 61664,
+  "totalMinutes": 247,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Lottery Ticket No. 514",
+      "wordCount": 7784,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 1,
+      "title": "II: The Blue Diamonds",
+      "wordCount": 7467,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 2,
+      "title": "III: Herlock Sholmes Opens Hostilities",
+      "wordCount": 7363,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "IV: Light in the Darkness",
+      "wordCount": 6610,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "V: An Abduction",
+      "wordCount": 7689,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "VI: Second Arrest of Arsène Lupin",
+      "wordCount": 6896,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "VII: The Jewish Lamp",
+      "wordCount": 8430,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Shipwreck",
+      "wordCount": 9425,
+      "estimatedMinutes": 38
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "bookId": "twelve-years-a-slave",
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "chapterCount": 24,
+  "totalWordCount": 78860,
+  "totalMinutes": 315,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Preface",
+      "wordCount": 271,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2866,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3559,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3283,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3890,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3068,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3196,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3746,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3957,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3445,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3707,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 4201,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3581,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3340,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3448,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2999,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 3948,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 2465,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 5031,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 3010,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "Appendix",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    }
+  ]
+}

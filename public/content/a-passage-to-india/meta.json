@@ -1,0 +1,250 @@
+{
+  "bookId": "a-passage-to-india",
+  "title": "A Passage to India",
+  "author": "E. M. Forster",
+  "chapterCount": 40,
+  "totalWordCount": 101217,
+  "totalMinutes": 407,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Mosque",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 782,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 4553,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3638,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 975,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 4691,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 6079,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 6391,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4119,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 424,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "Part II: Caves",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 987,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 6056,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 982,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 2840,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 1183,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 3802,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 358,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 4630,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 6551,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 2169,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 3671,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 836,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 2705,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 3191,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 374,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "Part III: Temple",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "XXXIII",
+      "wordCount": 2689,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XXXIV",
+      "wordCount": 1538,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "XXXV",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XXXVI",
+      "wordCount": 4317,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 39,
+      "title": "XXXVII",
+      "wordCount": 2198,
+      "estimatedMinutes": 9
+    }
+  ]
+}

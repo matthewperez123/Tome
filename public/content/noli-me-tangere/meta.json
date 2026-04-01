@@ -1,0 +1,412 @@
+{
+  "bookId": "noli-me-tangere",
+  "title": "Noli Me Tangere",
+  "author": "José Rizal",
+  "chapterCount": 67,
+  "totalWordCount": 169090,
+  "totalMinutes": 676,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 298,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Translator’s Introduction",
+      "wordCount": 16899,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 2,
+      "title": "I: A Social Gathering",
+      "wordCount": 4324,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "II: Crisóstomo Ibarra",
+      "wordCount": 1038,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "III: The Dinner",
+      "wordCount": 1639,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: Heretic and Filibuster",
+      "wordCount": 2565,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: A Star in a Dark Night",
+      "wordCount": 811,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI: Capitan Tiago",
+      "wordCount": 4346,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VII: An Idyl on an Azotea",
+      "wordCount": 3305,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "VIII: Recollections",
+      "wordCount": 1821,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "IX: Local Affairs",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "X: The Town",
+      "wordCount": 1146,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XI: The Rulers",
+      "wordCount": 1856,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XII: All Saints",
+      "wordCount": 1526,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIII: Signs of Storm",
+      "wordCount": 1212,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIV: Tasio: Lunatic or Sage",
+      "wordCount": 3082,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XV: The Sacristans",
+      "wordCount": 1482,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVI: Sisa",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVII: Basilio",
+      "wordCount": 1787,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Souls in Torment",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XIX: A Schoolmaster’s Difficulties",
+      "wordCount": 3596,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XX: The Meeting in the Town Hall",
+      "wordCount": 3782,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXI: The Story of a Mother",
+      "wordCount": 2634,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXII: Lights and Shadows",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Fishing",
+      "wordCount": 4299,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 25,
+      "title": "XXIV: In the Wood",
+      "wordCount": 4142,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXV: In the House of the Sage",
+      "wordCount": 4229,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "XXVI: The Eve of the Fiesta",
+      "wordCount": 2655,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVII: In the Twilight",
+      "wordCount": 2513,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Correspondence",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXIX: The Morning",
+      "wordCount": 1875,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXX: In the Church",
+      "wordCount": 1366,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Sermon",
+      "wordCount": 3453,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Derrick",
+      "wordCount": 3464,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Free Thought",
+      "wordCount": 1225,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: The Dinner",
+      "wordCount": 3389,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXV: Comments",
+      "wordCount": 2099,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: The First Cloud",
+      "wordCount": 1232,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: His Excellency",
+      "wordCount": 2852,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: The Procession",
+      "wordCount": 1683,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: Doña Consolacion",
+      "wordCount": 3566,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XL: Right and Might",
+      "wordCount": 2781,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 42,
+      "title": "XLI: Two Visits",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "XLII: The Espadañas",
+      "wordCount": 4226,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 44,
+      "title": "XLIII: Plans",
+      "wordCount": 935,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 45,
+      "title": "XLIV: An Examination of Conscience",
+      "wordCount": 1989,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLV: The Hunted",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "XLVI: The Cockpit",
+      "wordCount": 3351,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLVII: The Two Señoras",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: The Enigma",
+      "wordCount": 842,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 50,
+      "title": "XLIX: The Voice of the Hunted",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 51,
+      "title": "L: Elías’s Story",
+      "wordCount": 2636,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 52,
+      "title": "LI: Exchanges",
+      "wordCount": 1173,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 53,
+      "title": "LII: The Cards of the Dead and the Shadows",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 54,
+      "title": "LIII: Il Buon Dí Si Conosce Da Mattina",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "LIV: Revelations",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 56,
+      "title": "LV: The Catastrophe",
+      "wordCount": 2002,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 57,
+      "title": "LVI: Rumors and Beliefs",
+      "wordCount": 2316,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 58,
+      "title": "LVII: Vae Victis!",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "LVIII: The Accursed",
+      "wordCount": 1268,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 60,
+      "title": "LIX: Patriotism and Private Interests",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 61,
+      "title": "LX: María Clara Weds",
+      "wordCount": 3854,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "LXI: The Chase on the Lake",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 63,
+      "title": "LXII: Padre Dámaso Explains",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 64,
+      "title": "LXIII: Christmas Eve",
+      "wordCount": 2719,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 65,
+      "title": "Epilogue",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 66,
+      "title": "Glossary",
+      "wordCount": 1594,
+      "estimatedMinutes": 6
+    }
+  ]
+}

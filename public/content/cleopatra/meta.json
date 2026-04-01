@@ -1,0 +1,244 @@
+{
+  "bookId": "cleopatra",
+  "title": "Cleopatra: Being an Account of the Fall and Vengeance of Harmachis, the Royal Egyptian, as Set Forth by His Own Hand",
+  "author": "H. Rider Haggard",
+  "chapterCount": 39,
+  "totalWordCount": 103090,
+  "totalMinutes": 413,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 556,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Author’s Note",
+      "wordCount": 614,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Introduction",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "Book I: The Preparation of Harmachis",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "I: Of the Birth of Harmachis; The Prophecy of the Hathors; and the Slaying of the Innocent Child",
+      "wordCount": 2383,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "II: Of the Disobedience of Harmachis; Of the Slaying of the Lion; and of the Speech of the Old Wife, Atoua",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "III: Of the Rebuke of Amenemhat; Of the Prayer of Harmachis; and of the Sign Given by the Holy Gods",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "IV: Of the Departure of Harmachis and of His Meeting with His Uncle Sepa, the High Priest of Annu El Ra; Of His Life at Annu, and of the Words of Sepa",
+      "wordCount": 3174,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "V: Of the Return of Harmachis to Abouthis; Of the Celebration of the Mysteries; Of the Chant of Isis; and of the Warning of Amenemhat",
+      "wordCount": 2488,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VI: Of the Initiation of Harmachis; Of His Visions; Of His Passing to the City That Is in the Place of Death; and of the Declarations of Isis, the Messenger",
+      "wordCount": 4197,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "VII: Of the Awaking of Harmachis; Of the Ceremony of His Crowning as Pharaoh of the Upper and the Lower Land; and of the Offerings Made to Pharaoh",
+      "wordCount": 2781,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "Book II: The Fall of Harmachis",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I: Of the Farewell of Amenemhat to Harmachis; Of the Coming of Harmachis to Alexandria; Of the Exhortation of Sepa; Of the Passing of Cleopatra Robed as Isis; and of the Overthrow of the Gladiator by Harmachis",
+      "wordCount": 4320,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "II: Of the Coming of Charmion; and of the Wrath of Sepa",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "III: Of the Coming of Harmachis to the Palace; Of How He Drew Paulus Through the Gates; Of Cleopatra Sleeping; and of the Magic of Harmachis Which He Showed Her",
+      "wordCount": 3838,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "IV: Of the Ways of Charmion; and of the Crowning of Harmachis as the King of Love",
+      "wordCount": 2524,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "V: Of the Coming of Cleopatra to the Chamber of Harmachis; Of the Throwing Forth of the Kerchief of Charmion; Of the Stars; and of the Gift by Cleopatra of Her Friendship to Her Servant Harmachis",
+      "wordCount": 3170,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "VI: Of the Words and Jealousy of Charmion; Of the Laughter of Harmachis; Of the Making Ready for the Deed of Blood; and of the Message of the Old Wife, Atoua",
+      "wordCount": 3609,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "VII: Of the Veiled Words of Charmion; Of the Passing of Harmachis Into the Presence of Cleopatra; and of the Overthrow of Harmachis",
+      "wordCount": 3248,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "VIII: Of the Awaking of Harmachis; Of the Sight of Death; Of the Coming of Cleopatra; and of Her Comfortable Words",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "IX: Of the Imprisonment of Harmachis; Of the Scorn of Charmion; Of the Setting Free of Harmachis; and of the Coming of Quintus Dellius",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "X: Of the Trouble of Cleopatra; Of Her Oath to Harmachis; and of the Telling by Harmachis to Cleopatra of the Secret of the Treasure That Lay Beneath the Mass of “Her”",
+      "wordCount": 3104,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XI: Of the Tomb of the Divine Menkau-Ra; Of the Writing on the Breast of Menkau-Ra; Of the Drawing Forth of the Treasure; Of the Dweller in the Tomb; and of the Flight of Cleopatra and Harmachis from the Holy Place",
+      "wordCount": 3785,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XII: Of the Coming Back of Harmachis; Of the Greeting of Charmion; and of the Answer of Cleopatra to Quintus Dellius, the Ambassador of Antony the Triumvir",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XIII: Of the Reproach of Harmachis; Of the Struggle of Harmachis with the Guards; Of the Blow of Brennus; and of the Secret Speech of Cleopatra",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XIV: Of the Tender Care of Charmion; Of the Healing of Harmachis; Of the Sailing of the Fleet of Cleopatra for Cilicia; and of the Speech of Brennus to Harmachis",
+      "wordCount": 2703,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XV: Of the Feast of Cleopatra; Of the Melting of the Pearl; Of the Saying of Harmachis; and of Cleopatra’s Vow of Love",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 27,
+      "title": "XVI: Of the Plan of Charmion; Of the Confession of Charmion; and of the Answer of Harmachis",
+      "wordCount": 3265,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "Book III: The Vengeance of Harmachis",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "I: Of the Escape of Harmachis from Tarsus; Of His Being Cast Forth as an Offering to the Gods of the Sea; Of His Sojourn in the Isle of Cyprus; Of His Return to Abouthis; and of the Death of Amenemhat",
+      "wordCount": 3272,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "II: Of the Last Misery of Harmachis; Of the Calling Down of the Holy Isis by the Word of Fear; Of the Promise of Isis; Of the Coming of Atoua, and of the Words of Atoua",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "III: Of the Life of Him Who Was Named the Learned Olympus, in the Tomb of the Harpers That Is by Tápé; Of His Counsel to Cleopatra; Of the Message of Charmion; and of the Passing of Olympus Down to Alexandria",
+      "wordCount": 2661,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "IV: Of the Meeting of Charmion with the Learned Olympus; Of Her Speech with Him; Of the Coming of Olympus Into the Presence of Cleopatra; and of the Commands of Cleopatra",
+      "wordCount": 2814,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "V: Of the Drawing Forth of Antony from the Timonium Back to Cleopatra; Of the Feast Made by Cleopatra; and of the Manner of the Death of Eudosius the Steward",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "VI: Of the Workings of the Learned Olympus at Memphis; Of the Poisonings of Cleopatra; Of the Speech of Antony to His Captains; and of the Passing of Isis from the Land of Khem",
+      "wordCount": 3362,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 35,
+      "title": "VII: Of the Surrender of the Troops and Fleet of Antony Before the Canopic Gate; Of the End of Antony, and of the Brewing of the Draught of Death",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "VIII: Of the Last Supper of Cleopatra; Of the Song of Charmion; Of the Drinking of the Draught of Death; Of the Revealing of Harmachis; Of the Summoning of the Spirits by Harmachis; and of the Death of Cleopatra",
+      "wordCount": 3804,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 37,
+      "title": "IX: Of the Farewell of Charmion; Of the Death of Charmion; Of the Death of the Old Wife, Atoua; Of the Coming of Harmachis to Abouthis; Of His Confession in the Hall of Six-and-Thirty Pillars; and of the Declaring of the Doom of Harmachis",
+      "wordCount": 2598,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "X: Of the Last Writing of Harmachis, the Royal Egyptian",
+      "wordCount": 581,
+      "estimatedMinutes": 2
+    }
+  ]
+}

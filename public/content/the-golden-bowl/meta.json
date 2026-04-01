@@ -1,0 +1,310 @@
+{
+  "bookId": "the-golden-bowl",
+  "title": "The Golden Bowl",
+  "author": "Henry James",
+  "chapterCount": 50,
+  "totalWordCount": 208156,
+  "totalMinutes": 841,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book First: The Prince",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part First",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 6269,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 5163,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 5165,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 7037,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 4257,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 4508,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "Part Second",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 5443,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 3925,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 5698,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 5290,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XII",
+      "wordCount": 4747,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "Part Third",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "XIV",
+      "wordCount": 5733,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XV",
+      "wordCount": 2805,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVI",
+      "wordCount": 3262,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XVII",
+      "wordCount": 3381,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XVIII",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XIX",
+      "wordCount": 3720,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XX",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXI",
+      "wordCount": 3920,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXII",
+      "wordCount": 3781,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXIII",
+      "wordCount": 4076,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXIV",
+      "wordCount": 6097,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 28,
+      "title": "Book Second: The Princess",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "Part Fourth",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "XXV",
+      "wordCount": 5346,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 31,
+      "title": "XXVI",
+      "wordCount": 7207,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 32,
+      "title": "XXVII",
+      "wordCount": 6137,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 33,
+      "title": "XXVIII",
+      "wordCount": 4684,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 34,
+      "title": "XXIX",
+      "wordCount": 4539,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 35,
+      "title": "XXX",
+      "wordCount": 5707,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 36,
+      "title": "XXXI",
+      "wordCount": 4299,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "XXXII",
+      "wordCount": 4649,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "XXXIII",
+      "wordCount": 7243,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 39,
+      "title": "XXXIV",
+      "wordCount": 6607,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 40,
+      "title": "Part Fifth",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "XXXV",
+      "wordCount": 6488,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 42,
+      "title": "XXXVI",
+      "wordCount": 6213,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 43,
+      "title": "XXXVII",
+      "wordCount": 6306,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 44,
+      "title": "XXXVIII",
+      "wordCount": 5723,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 45,
+      "title": "XXXIX",
+      "wordCount": 6186,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 46,
+      "title": "Part Sixth",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 47,
+      "title": "XL",
+      "wordCount": 4080,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 48,
+      "title": "XLI",
+      "wordCount": 4631,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 49,
+      "title": "XLII",
+      "wordCount": 4322,
+      "estimatedMinutes": 17
+    }
+  ]
+}

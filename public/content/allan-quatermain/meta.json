@@ -1,0 +1,172 @@
+{
+  "bookId": "allan-quatermain",
+  "title": "Allan Quatermain",
+  "author": "H. Rider Haggard",
+  "chapterCount": 27,
+  "totalWordCount": 106057,
+  "totalMinutes": 424,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 540,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "I: The Consul’s Yarn",
+      "wordCount": 4637,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "II: The Black Hand",
+      "wordCount": 3656,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "III: The Mission Station",
+      "wordCount": 4045,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "IV: Alphonse and His Annette",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "V: Umslopogaas Makes a Promise",
+      "wordCount": 5096,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VI: The Night Wears On",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VII: A Slaughter Grim and Great",
+      "wordCount": 4335,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "VIII: Alphonse Explains",
+      "wordCount": 3895,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "IX: Into the Unknown",
+      "wordCount": 4580,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "X: The Rose of Fire",
+      "wordCount": 4981,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "XI: The Frowning City",
+      "wordCount": 5319,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XII: The Sister Queens",
+      "wordCount": 5466,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "XIII: About the Zu-Vendi People",
+      "wordCount": 3980,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Flower Temple",
+      "wordCount": 5597,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XV: Sorais’s Song",
+      "wordCount": 4661,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVI: Before the Statue",
+      "wordCount": 3642,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Storm Breaks",
+      "wordCount": 4426,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XVIII: War! Red War",
+      "wordCount": 5474,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XIX: A Strange Wedding",
+      "wordCount": 3512,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XX: The Battle of the Pass",
+      "wordCount": 4957,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 22,
+      "title": "XXI: Away! Away!",
+      "wordCount": 3294,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXII: How Umslopogaas Held the Stair",
+      "wordCount": 4765,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXIII: I Have Spoken",
+      "wordCount": 3096,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXIV: By Another Hand",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "Note by George Curtis Esq.",
+      "wordCount": 348,
+      "estimatedMinutes": 1
+    }
+  ]
+}

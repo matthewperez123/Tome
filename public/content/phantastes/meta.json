@@ -1,0 +1,166 @@
+{
+  "bookId": "phantastes",
+  "title": "Phantastes: A Faerie Romance for Men and Women",
+  "author": "George MacDonald",
+  "chapterCount": 26,
+  "totalWordCount": 68144,
+  "totalMinutes": 275,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 499,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1442,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 555,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4457,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3882,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2831,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2632,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2266,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2897,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2249,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2529,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 8323,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1220,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 548,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1776,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1634,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 6155,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 3133,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 1988,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 3054,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 4904,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 1166,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 1164,
+      "estimatedMinutes": 5
+    }
+  ]
+}

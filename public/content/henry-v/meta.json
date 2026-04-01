@@ -1,0 +1,58 @@
+{
+  "bookId": "henry-v",
+  "title": "Henry V",
+  "author": "William Shakespeare",
+  "chapterCount": 8,
+  "totalWordCount": 27525,
+  "totalMinutes": 111,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 161,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 250,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4676,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6074,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 8549,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4420,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "Epilogue",
+      "wordCount": 118,
+      "estimatedMinutes": 1
+    }
+  ]
+}

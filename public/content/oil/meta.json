@@ -1,0 +1,142 @@
+{
+  "bookId": "oil",
+  "title": "Oil!",
+  "author": "Upton Sinclair",
+  "chapterCount": 22,
+  "totalWordCount": 219838,
+  "totalMinutes": 881,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 194,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Ride",
+      "wordCount": 9366,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 2,
+      "title": "II: The Lease",
+      "wordCount": 11036,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 3,
+      "title": "III: The Drilling",
+      "wordCount": 12219,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 4,
+      "title": "IV: The Ranch",
+      "wordCount": 11548,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 5,
+      "title": "V: The Revelation",
+      "wordCount": 11591,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 6,
+      "title": "VI: The Wildcat",
+      "wordCount": 12521,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 7,
+      "title": "VII: The Strike",
+      "wordCount": 13759,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 8,
+      "title": "VIII: The War",
+      "wordCount": 8184,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "IX: The Victory",
+      "wordCount": 8425,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 10,
+      "title": "X: The University",
+      "wordCount": 10127,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 11,
+      "title": "XI: The Rebel",
+      "wordCount": 9812,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 12,
+      "title": "XII: The Siren",
+      "wordCount": 9854,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Monastery",
+      "wordCount": 10677,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Star",
+      "wordCount": 12637,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 15,
+      "title": "XV: The Vacation",
+      "wordCount": 10904,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Killing",
+      "wordCount": 9376,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Exposure",
+      "wordCount": 10449,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Flight",
+      "wordCount": 9886,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Penalty",
+      "wordCount": 8032,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 20,
+      "title": "XX: The Dedication",
+      "wordCount": 7306,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Honeymoon",
+      "wordCount": 11935,
+      "estimatedMinutes": 48
+    }
+  ]
+}

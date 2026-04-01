@@ -1,0 +1,118 @@
+{
+  "bookId": "walden",
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "chapterCount": 18,
+  "totalWordCount": 106867,
+  "totalMinutes": 429,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Economy",
+      "wordCount": 25628,
+      "estimatedMinutes": 103
+    },
+    {
+      "index": 1,
+      "title": "Where I Lived, and What I Lived For",
+      "wordCount": 6119,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "Reading",
+      "wordCount": 3783,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "Sounds",
+      "wordCount": 5735,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "Solitude",
+      "wordCount": 3445,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "Visitors",
+      "wordCount": 4771,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "The Bean-Field",
+      "wordCount": 3910,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "The Village",
+      "wordCount": 2023,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "The Ponds",
+      "wordCount": 9188,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 9,
+      "title": "Baker Farm",
+      "wordCount": 2567,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "Higher Laws",
+      "wordCount": 4213,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "Brute Neighbors",
+      "wordCount": 4814,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "House-Warming",
+      "wordCount": 5736,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "Former Inhabitants and Winter Visitors",
+      "wordCount": 4719,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "Winter Animals",
+      "wordCount": 3667,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "The Pond in Winter",
+      "wordCount": 5212,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "Spring",
+      "wordCount": 6692,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 17,
+      "title": "Conclusion",
+      "wordCount": 4645,
+      "estimatedMinutes": 19
+    }
+  ]
+}

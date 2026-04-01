@@ -1,0 +1,130 @@
+{
+  "bookId": "the-autobiography-of-mark-twain",
+  "title": "The Autobiography of Mark Twain",
+  "author": "Mark Twain",
+  "chapterCount": 20,
+  "totalWordCount": 193129,
+  "totalMinutes": 774,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 297,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1764,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "Preface",
+      "wordCount": 285,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Early Fragments",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Volume I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "The Tennessee Land",
+      "wordCount": 1105,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "Early Years in Florida, Missouri",
+      "wordCount": 903,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "The Grant Dictations",
+      "wordCount": 15500,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 8,
+      "title": "The Machine Episode",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "Chapters Begun in Vienna",
+      "wordCount": 26008,
+      "estimatedMinutes": 104
+    },
+    {
+      "index": 10,
+      "title": "Private History of a Ms. That Came to Grief",
+      "wordCount": 4226,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "Chapters Added in Florence",
+      "wordCount": 15434,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 12,
+      "title": "Henry H. Rogers",
+      "wordCount": 4035,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "Interval of Two Years",
+      "wordCount": 13929,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 14,
+      "title": "Mrs. Morris’s Illness Takes a Serious Turn",
+      "wordCount": 4728,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "About General Sickles",
+      "wordCount": 4028,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "About Dueling",
+      "wordCount": 3055,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "Volume II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "Mark Twain",
+      "wordCount": 1548,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "The Character of Man",
+      "wordCount": 93870,
+      "estimatedMinutes": 375
+    }
+  ]
+}

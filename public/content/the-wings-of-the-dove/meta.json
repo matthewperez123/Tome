@@ -1,0 +1,298 @@
+{
+  "bookId": "the-wings-of-the-dove",
+  "title": "The Wings of the Dove",
+  "author": "Henry James",
+  "chapterCount": 48,
+  "totalWordCount": 195031,
+  "totalMinutes": 793,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 6963,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 6371,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 5752,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I",
+      "wordCount": 7953,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 6,
+      "title": "II",
+      "wordCount": 7339,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "I",
+      "wordCount": 6786,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "II",
+      "wordCount": 4170,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I",
+      "wordCount": 6281,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 12,
+      "title": "II",
+      "wordCount": 4475,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "III",
+      "wordCount": 5535,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "I",
+      "wordCount": 2870,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "II",
+      "wordCount": 3537,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "III",
+      "wordCount": 4703,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "IV",
+      "wordCount": 3869,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "V",
+      "wordCount": 3385,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "VI",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "VII",
+      "wordCount": 4508,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I",
+      "wordCount": 3707,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "II",
+      "wordCount": 4136,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 25,
+      "title": "III",
+      "wordCount": 4537,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "IV",
+      "wordCount": 5875,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 27,
+      "title": "V",
+      "wordCount": 7612,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 28,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "I",
+      "wordCount": 5851,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 30,
+      "title": "II",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "III",
+      "wordCount": 4292,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "IV",
+      "wordCount": 5921,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 33,
+      "title": "Book VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "I",
+      "wordCount": 4648,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 35,
+      "title": "II",
+      "wordCount": 4181,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 36,
+      "title": "III",
+      "wordCount": 7882,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 37,
+      "title": "Book IX",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I",
+      "wordCount": 4475,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 39,
+      "title": "II",
+      "wordCount": 5502,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 40,
+      "title": "III",
+      "wordCount": 6131,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 41,
+      "title": "IV",
+      "wordCount": 4471,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 42,
+      "title": "Book X",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "I",
+      "wordCount": 5382,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 44,
+      "title": "II",
+      "wordCount": 4912,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 45,
+      "title": "III",
+      "wordCount": 3148,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "IV",
+      "wordCount": 3512,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 47,
+      "title": "V",
+      "wordCount": 7712,
+      "estimatedMinutes": 31
+    }
+  ]
+}

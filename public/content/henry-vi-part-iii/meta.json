@@ -1,0 +1,52 @@
+{
+  "bookId": "henry-vi-part-iii",
+  "title": "Henry VI, Part III",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 26326,
+  "totalMinutes": 105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 337,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 179,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 5125,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 6034,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5093,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 5015,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4543,
+      "estimatedMinutes": 18
+    }
+  ]
+}

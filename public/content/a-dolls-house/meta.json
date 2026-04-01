@@ -1,0 +1,34 @@
+{
+  "bookId": "a-dolls-house",
+  "title": "A Doll’s House",
+  "author": "Henrik Ibsen",
+  "chapterCount": 4,
+  "totalWordCount": 26974,
+  "totalMinutes": 109,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 31,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 10638,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 8059,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 8246,
+      "estimatedMinutes": 33
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "bookId": "the-adventures-of-tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "chapterCount": 37,
+  "totalWordCount": 71011,
+  "totalMinutes": 286,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 163,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Tom Plays, Fights, and Hides",
+      "wordCount": 2431,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: The Glorious Whitewasher",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: Busy at War and Love",
+      "wordCount": 2263,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV: Showing Off in Sunday School",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: The Pinch-Bug and His Prey",
+      "wordCount": 1930,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: Tom Meets Becky",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Tick-Running and a Heartbreak",
+      "wordCount": 1942,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: A Pirate Bold to Be",
+      "wordCount": 1759,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX: Tragedy in the Graveyard",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X: Dire Prophecy of the Howling Dog",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: Conscience Racks Tom",
+      "wordCount": 1484,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XII: The Cat and the Painkiller",
+      "wordCount": 1695,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Pirate Crew Set Sail",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: Happy Camp of the Freebooters",
+      "wordCount": 2086,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: Tom’s Stealthy Visit Home",
+      "wordCount": 1700,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI: First Pipes—“I’ve Lost My Knife”",
+      "wordCount": 3200,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII: Pirates at Their Own Funeral",
+      "wordCount": 1140,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Tom Reveals His Dream Secret",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Cruelty of “I Didn’t Think”",
+      "wordCount": 798,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XX: Tom Takes Becky’s Punishment",
+      "wordCount": 1702,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI: Eloquence—and the Master’s Guilded Dome",
+      "wordCount": 2121,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII: Huck Finn Quotes Scriptures",
+      "wordCount": 1027,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The Salvation of Muff Potter",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Splendid Days and Fearsome Nights",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 25,
+      "title": "XXV: Seeking the Buried Treasure",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Real Robbers Seize the Box of Gold",
+      "wordCount": 2649,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Trembling on the Trail",
+      "wordCount": 974,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: In the Lair of Injun Joe",
+      "wordCount": 1095,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Huck Saves the Widow",
+      "wordCount": 2596,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: Tom and Becky in the Cave",
+      "wordCount": 3071,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Found and Lost Again",
+      "wordCount": 3020,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "XXXII: “Turn Out! They’re Found!”",
+      "wordCount": 1026,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Fate of Injun Joe",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Floods of Gold",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Respectable Huck Joins the Gang",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "Conclusion",
+      "wordCount": 128,
+      "estimatedMinutes": 1
+    }
+  ]
+}

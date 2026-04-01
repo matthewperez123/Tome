@@ -1,0 +1,46 @@
+{
+  "bookId": "the-celibates",
+  "title": "The Celibates",
+  "author": "Honoré de Balzac",
+  "chapterCount": 6,
+  "totalWordCount": 182578,
+  "totalMinutes": 733,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Story I: Pierrette",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Pierrette",
+      "wordCount": 51891,
+      "estimatedMinutes": 208
+    },
+    {
+      "index": 2,
+      "title": "Story II: The Vicar of Tours",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "The Vicar of Tours",
+      "wordCount": 24859,
+      "estimatedMinutes": 99
+    },
+    {
+      "index": 4,
+      "title": "Story III: A Bachelor’s Establishment",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "A Bachelor’s Establishment",
+      "wordCount": 105814,
+      "estimatedMinutes": 423
+    }
+  ]
+}

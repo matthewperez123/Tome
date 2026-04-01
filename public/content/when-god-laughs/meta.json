@@ -1,0 +1,82 @@
+{
+  "bookId": "when-god-laughs",
+  "title": "When God Laughs: And Other Stories",
+  "author": "Jack London",
+  "chapterCount": 12,
+  "totalWordCount": 51072,
+  "totalMinutes": 206,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "When God Laughs",
+      "wordCount": 3905,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "The Apostate",
+      "wordCount": 7468,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 2,
+      "title": "A Wicked Woman",
+      "wordCount": 3073,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "“Just Meat”",
+      "wordCount": 6224,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "Created He Them",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "The Chinago",
+      "wordCount": 5715,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "Make Westing",
+      "wordCount": 3011,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "Semper Idem",
+      "wordCount": 1650,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "A Nose for the King",
+      "wordCount": 1904,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "The Francis Spaight",
+      "wordCount": 3433,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "A Curious Fragment",
+      "wordCount": 3311,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "A Piece of Steak",
+      "wordCount": 7693,
+      "estimatedMinutes": 31
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "bookId": "the-return-of-tarzan",
+  "title": "The Return of Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 26,
+  "totalWordCount": 89557,
+  "totalMinutes": 358,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Affair on the Liner",
+      "wordCount": 3047,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: Forging Bonds of Hate and —﻿—﻿—?",
+      "wordCount": 3543,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "III: What Happened in the Rue Maule",
+      "wordCount": 3509,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "IV: The Countess Explains",
+      "wordCount": 3919,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "V: The Plot That Failed",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI: A Duel",
+      "wordCount": 3179,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII: The Dancing Girl of Sidi Aissa",
+      "wordCount": 3491,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Fight in the Desert",
+      "wordCount": 3304,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: Numa El Adrea",
+      "wordCount": 3813,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X: Through the Valley of the Shadow",
+      "wordCount": 3266,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: John Caldwell, London",
+      "wordCount": 3407,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: Ships That Pass",
+      "wordCount": 3394,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Wreck of the Lady Alice",
+      "wordCount": 4581,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIV: Back to the Primitive",
+      "wordCount": 3636,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XV: From Ape to Savage",
+      "wordCount": 3634,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Ivory Raiders",
+      "wordCount": 3303,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII: The White Chief of the Waziri",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Lottery of Death",
+      "wordCount": 3840,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XIX: The City of Gold",
+      "wordCount": 3124,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX: La",
+      "wordCount": 3433,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Castaways",
+      "wordCount": 3510,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Treasure Vaults of Opar",
+      "wordCount": 3492,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Fifty Frightful Men",
+      "wordCount": 3191,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIV: How Tarzan Came Again to Opar",
+      "wordCount": 3379,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXV: Through the Forest Primeval",
+      "wordCount": 3743,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Passing of the Ape-Man",
+      "wordCount": 1867,
+      "estimatedMinutes": 7
+    }
+  ]
+}

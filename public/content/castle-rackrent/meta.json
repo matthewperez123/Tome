@@ -1,0 +1,28 @@
+{
+  "bookId": "castle-rackrent",
+  "title": "Castle Rackrent: An Hibernian Tale. Taken from Facts, and from the Manners of the Irish Squires Before the Year 1782",
+  "author": "Maria Edgeworth",
+  "chapterCount": 3,
+  "totalWordCount": 27185,
+  "totalMinutes": 109,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1164,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Castle Rackrent",
+      "wordCount": 8327,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 2,
+      "title": "Continuation of the Memoirs of the Rackrent Family: History of Sir Conolly Rackrent",
+      "wordCount": 17694,
+      "estimatedMinutes": 71
+    }
+  ]
+}

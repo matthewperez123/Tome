@@ -1,0 +1,46 @@
+{
+  "bookId": "othello",
+  "title": "Othello",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 27982,
+  "totalMinutes": 113,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 81,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 5830,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5938,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 6335,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5411,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 4387,
+      "estimatedMinutes": 18
+    }
+  ]
+}

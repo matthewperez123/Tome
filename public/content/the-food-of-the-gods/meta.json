@@ -1,0 +1,106 @@
+{
+  "bookId": "the-food-of-the-gods",
+  "title": "The Food of the Gods: And How It Came to Earth",
+  "author": "H. G. Wells",
+  "chapterCount": 16,
+  "totalWordCount": 75645,
+  "totalMinutes": 305,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 353,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Dawn of the Food",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Discovery of the Food",
+      "wordCount": 2958,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II: The Experimental Farm",
+      "wordCount": 9860,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 4,
+      "title": "III: The Giant Rats",
+      "wordCount": 10469,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 5,
+      "title": "IV: The Giant Children",
+      "wordCount": 8526,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 6,
+      "title": "V: The Minimificence of Mr. Bensington",
+      "wordCount": 3730,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "Book II: The Food in the Village",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "I: The Coming of the Food",
+      "wordCount": 6009,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 9,
+      "title": "II: The Brat Gigantic",
+      "wordCount": 5327,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "Book III: The Harvest of the Food",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I: The Altered World",
+      "wordCount": 7697,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 12,
+      "title": "II: The Giant Lovers",
+      "wordCount": 5665,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "III: Young Caddles in London",
+      "wordCount": 4095,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "IV: Redwood’s Two Days",
+      "wordCount": 5919,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "V: The Giant Leaguer",
+      "wordCount": 5016,
+      "estimatedMinutes": 20
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "bookId": "demons",
+  "title": "Demons",
+  "author": "Fyodor Dostoevsky",
+  "chapterCount": 26,
+  "totalWordCount": 255775,
+  "totalMinutes": 1027,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Introductory",
+      "wordCount": 13444,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 2,
+      "title": "II: Prince Harry. Matchmaking",
+      "wordCount": 16024,
+      "estimatedMinutes": 64
+    },
+    {
+      "index": 3,
+      "title": "III: The Sins of Others",
+      "wordCount": 17288,
+      "estimatedMinutes": 69
+    },
+    {
+      "index": 4,
+      "title": "IV: The Cripple",
+      "wordCount": 12632,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 5,
+      "title": "V: The Subtle Serpent",
+      "wordCount": 18022,
+      "estimatedMinutes": 72
+    },
+    {
+      "index": 6,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "I: Night",
+      "wordCount": 18581,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 8,
+      "title": "II: Night (Continued)",
+      "wordCount": 9303,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 9,
+      "title": "III: The Duel",
+      "wordCount": 4445,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "IV: All in Expectation",
+      "wordCount": 8964,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 11,
+      "title": "V: On the Eve of the Fête",
+      "wordCount": 9889,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 12,
+      "title": "VI: Pyotr Stepanovitch Is Busy",
+      "wordCount": 16490,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 13,
+      "title": "VII: A Meeting",
+      "wordCount": 9126,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 14,
+      "title": "VIII: Ivan the Tsarevitch",
+      "wordCount": 4073,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "IX: A Raid at Stepan Trofimovitch’s",
+      "wordCount": 3756,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "X: Filibusters. A Fatal Morning",
+      "wordCount": 9498,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 17,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: The Fête—First Part",
+      "wordCount": 11742,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 19,
+      "title": "II: The End of the Fête",
+      "wordCount": 11795,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 20,
+      "title": "III: A Romance Ended",
+      "wordCount": 8544,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 21,
+      "title": "IV: The Last Resolution",
+      "wordCount": 9021,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 22,
+      "title": "V: A Wanderer",
+      "wordCount": 12148,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 23,
+      "title": "VI: A Busy Night",
+      "wordCount": 12447,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 24,
+      "title": "VII: Stepan Trofimovitch’s Last Wandering",
+      "wordCount": 13483,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 25,
+      "title": "VIII: Conclusion",
+      "wordCount": 5054,
+      "estimatedMinutes": 20
+    }
+  ]
+}

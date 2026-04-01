@@ -1,0 +1,22 @@
+{
+  "bookId": "vathek",
+  "title": "Vathek: An Arabian Tale",
+  "author": "William Beckford",
+  "chapterCount": 2,
+  "totalWordCount": 36076,
+  "totalMinutes": 145,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 153,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Vathek",
+      "wordCount": 35923,
+      "estimatedMinutes": 144
+    }
+  ]
+}

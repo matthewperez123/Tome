@@ -1,0 +1,52 @@
+{
+  "bookId": "cymbeline",
+  "title": "Cymbeline",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 29404,
+  "totalMinutes": 117,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 358,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 148,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 6307,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4017,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6488,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4749,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 7337,
+      "estimatedMinutes": 29
+    }
+  ]
+}

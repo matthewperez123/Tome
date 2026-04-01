@@ -1,0 +1,190 @@
+{
+  "bookId": "she",
+  "title": "She: A History of Adventure",
+  "author": "H. Rider Haggard",
+  "chapterCount": 30,
+  "totalWordCount": 110761,
+  "totalMinutes": 443,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 598,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "I: My Visitor",
+      "wordCount": 3172,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II: The Years Roll By",
+      "wordCount": 2388,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III: The Sherd of Amenartas",
+      "wordCount": 7340,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "IV: The Squall",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "V: The Head of the Ethiopian",
+      "wordCount": 4148,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VI: An Early Christian Ceremony",
+      "wordCount": 4468,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VII: Ustane Sings",
+      "wordCount": 4110,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Feast, and After!",
+      "wordCount": 3763,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "IX: A Little Foot",
+      "wordCount": 2992,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "X: Speculations",
+      "wordCount": 3733,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XI: The Plain of Kôr",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XII: “She”",
+      "wordCount": 4197,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIII: Ayesha Unveils",
+      "wordCount": 4739,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XIV: A Soul in Hell",
+      "wordCount": 3332,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XV: Ayesha Gives Judgment",
+      "wordCount": 3394,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Tombs of Kôr",
+      "wordCount": 3829,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Balance Turns",
+      "wordCount": 4763,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XVIII: “Go, Woman!”",
+      "wordCount": 4438,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XIX: “Give Me a Black Goat!”",
+      "wordCount": 3311,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XX: Triumph",
+      "wordCount": 4072,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XXI: The Dead and Living Meet",
+      "wordCount": 2973,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXII: Job Has a Presentiment",
+      "wordCount": 4522,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Temple of Truth",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Walking the Plank",
+      "wordCount": 3883,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXV: The Spirit of Life",
+      "wordCount": 4790,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 27,
+      "title": "XXVI: What We Saw",
+      "wordCount": 3565,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXVII: We Leap",
+      "wordCount": 3181,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Over the Mountain",
+      "wordCount": 2578,
+      "estimatedMinutes": 10
+    }
+  ]
+}

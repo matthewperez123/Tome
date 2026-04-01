@@ -1,0 +1,172 @@
+{
+  "bookId": "letters-written-during-a-short-residence-in-sweden-norway-and-denmark",
+  "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+  "author": "Mary Wollstonecraft",
+  "chapterCount": 27,
+  "totalWordCount": 50525,
+  "totalMinutes": 202,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2352,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "Letter I",
+      "wordCount": 3374,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "Letter II",
+      "wordCount": 1366,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "Letter III",
+      "wordCount": 1820,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "Letter IV",
+      "wordCount": 962,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "Letter V",
+      "wordCount": 4095,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "Letter VI",
+      "wordCount": 1814,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "Letter VII",
+      "wordCount": 3418,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "Letter VIII",
+      "wordCount": 2864,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "Letter IX",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "Letter X",
+      "wordCount": 2407,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "Letter XI",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "Letter XII",
+      "wordCount": 848,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "Letter XIII",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "Letter XIV",
+      "wordCount": 1207,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "Letter XV",
+      "wordCount": 1155,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "Letter XVI",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "Letter XVII",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "Letter XVIII: Copenhagen",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "Letter XIX",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "Letter XX",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "Letter XXI",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "Letter XXII",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "Letter XXIII",
+      "wordCount": 1375,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "Letter XXIV",
+      "wordCount": 751,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "Letter XXV",
+      "wordCount": 271,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "Appendix",
+      "wordCount": 301,
+      "estimatedMinutes": 1
+    }
+  ]
+}

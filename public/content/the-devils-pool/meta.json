@@ -1,0 +1,124 @@
+{
+  "bookId": "the-devils-pool",
+  "title": "The Devil’s Pool",
+  "author": "George Sand",
+  "chapterCount": 19,
+  "totalWordCount": 38051,
+  "totalMinutes": 153,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Notice",
+      "wordCount": 385,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Author to the Reader",
+      "wordCount": 1321,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: The Tillage of the Soil",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: Father Maurice",
+      "wordCount": 1152,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III: Germain, the Skilled Husbandman",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: Mother Guillette",
+      "wordCount": 1373,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V: Petit-Pierre",
+      "wordCount": 2157,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VI: On the Heath",
+      "wordCount": 1702,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VII: Underneath the Big Oaks",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Evening Prayer",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "IX: Despite the Cold",
+      "wordCount": 2102,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: Beneath the Stars",
+      "wordCount": 2191,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XI: The Belle of the Village",
+      "wordCount": 1190,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XII: The Master",
+      "wordCount": 1864,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Old Woman",
+      "wordCount": 1750,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Return to the Farm",
+      "wordCount": 1350,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XV: Mother Maurice",
+      "wordCount": 1070,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVI: Little Marie",
+      "wordCount": 878,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "Appendix",
+      "wordCount": 10151,
+      "estimatedMinutes": 41
+    }
+  ]
+}

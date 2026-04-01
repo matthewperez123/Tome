@@ -1,0 +1,316 @@
+{
+  "bookId": "struggles-and-triumphs",
+  "title": "Struggles and Triumphs: Or, Forty Years’ Recollections",
+  "author": "P. T. Barnum",
+  "chapterCount": 51,
+  "totalWordCount": 239872,
+  "totalMinutes": 958,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: Early Life",
+      "wordCount": 3870,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: Incidents and Anecdotes",
+      "wordCount": 2594,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: In Business for Myself",
+      "wordCount": 3707,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: Struggles for a Livelihood",
+      "wordCount": 3384,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: My Start as a Showman",
+      "wordCount": 4224,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: My First Travelling Company",
+      "wordCount": 5241,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII: At the Foot of the Ladder",
+      "wordCount": 3368,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: The American Museum",
+      "wordCount": 4730,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "IX: The Road to Riches",
+      "wordCount": 6511,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 10,
+      "title": "X: Another Successful Speculation",
+      "wordCount": 4615,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: General Tom Thumb in England",
+      "wordCount": 3403,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: In France",
+      "wordCount": 6287,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 13,
+      "title": "XIII: In Belgium",
+      "wordCount": 4276,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV: In England Again",
+      "wordCount": 4494,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "XV: Return to America",
+      "wordCount": 4305,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVI: At Home",
+      "wordCount": 4045,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Jenny Lind Enterprise",
+      "wordCount": 4190,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Nightingale in New York",
+      "wordCount": 4208,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: Successful Management",
+      "wordCount": 5514,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XX: Incidents of the Tour",
+      "wordCount": 4426,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXI: Jenny Lind",
+      "wordCount": 2551,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXII: Close of the Campaign",
+      "wordCount": 3453,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Other Enterprises",
+      "wordCount": 4438,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Work and Play",
+      "wordCount": 3959,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Jerome Clock Company Entanglement",
+      "wordCount": 3046,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Clouds and Sunshine",
+      "wordCount": 3815,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Rest, but Not Rust",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Abroad Again",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "XXIX: In Germany",
+      "wordCount": 3102,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXX: In Holland",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Art of Money Getting",
+      "wordCount": 15405,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 32,
+      "title": "XXXII: An Enterprising Englishman",
+      "wordCount": 3000,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Richard’s Himself Again",
+      "wordCount": 3588,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Menagerie and Museum Memoranda",
+      "wordCount": 5625,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 35,
+      "title": "XXXV: East Bridgeport",
+      "wordCount": 3199,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: More About the Museum",
+      "wordCount": 6423,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Mr. and Mrs. General Tom Thumb",
+      "wordCount": 8112,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Political and Personal",
+      "wordCount": 8252,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: The American Museum in Ruins",
+      "wordCount": 5002,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 40,
+      "title": "XL: My War on the Railroads",
+      "wordCount": 4568,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLI: Bennett and the Herald",
+      "wordCount": 3110,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLII: Public Lecturing",
+      "wordCount": 4867,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The New Museum",
+      "wordCount": 4656,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Curious Coincidences.—Number Thirteen",
+      "wordCount": 2702,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "XLV: A Story-Chapter",
+      "wordCount": 11316,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Seaside Park",
+      "wordCount": 3492,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Waldemere",
+      "wordCount": 3845,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 48,
+      "title": "Appendix I: Rest Only Found in Action",
+      "wordCount": 12741,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 49,
+      "title": "Appendix II: A Remarkable Campaign",
+      "wordCount": 5373,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 50,
+      "title": "Conclusion",
+      "wordCount": 2415,
+      "estimatedMinutes": 10
+    }
+  ]
+}

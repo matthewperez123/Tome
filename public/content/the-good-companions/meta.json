@@ -1,0 +1,154 @@
+{
+  "bookId": "the-good-companions",
+  "title": "The Good Companions",
+  "author": "J. B. Priestley",
+  "chapterCount": 24,
+  "totalWordCount": 253675,
+  "totalMinutes": 1019,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 245,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Mr. Oakroyd Leaves Home",
+      "wordCount": 15507,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 3,
+      "title": "II: Miss Trant Takes a Holiday",
+      "wordCount": 12362,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 4,
+      "title": "III: Inigo Jollifant Quotes Shakespeare and Departs in the Night",
+      "wordCount": 13348,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 5,
+      "title": "IV: Mr. Oakroyd on t’Road",
+      "wordCount": 19955,
+      "estimatedMinutes": 80
+    },
+    {
+      "index": 6,
+      "title": "V: Miss Trant Is Almost a Second Columbus",
+      "wordCount": 17743,
+      "estimatedMinutes": 71
+    },
+    {
+      "index": 7,
+      "title": "VI: Inigo Meets a Member of the Profession and Turns Pianist",
+      "wordCount": 18325,
+      "estimatedMinutes": 73
+    },
+    {
+      "index": 8,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: In Which They All Become “Good Companions”",
+      "wordCount": 14385,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 10,
+      "title": "II: Very Short, and Devoted to Rehearsals",
+      "wordCount": 5635,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "III: In Which Colonel Trant’s Daughter Goes Into Action, Sticks to Her Guns, and May Be Considered Victorious",
+      "wordCount": 14873,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 12,
+      "title": "IV: Mr. Oakroyd Plays “The Hunted Man” for a Short Season",
+      "wordCount": 14047,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 13,
+      "title": "V: Inigo Jumps Out of a Train and Finds Himself in Love",
+      "wordCount": 10914,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 14,
+      "title": "VI: The Black Week",
+      "wordCount": 16974,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 15,
+      "title": "VII: All Stolen from the Mail Bag",
+      "wordCount": 6744,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 16,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I: A Wind in the Triangle",
+      "wordCount": 11559,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 18,
+      "title": "II: A Chapter of Encounters",
+      "wordCount": 14482,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 19,
+      "title": "III: Inigo in Wonderland",
+      "wordCount": 10141,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 20,
+      "title": "IV: A Benefit Performance",
+      "wordCount": 9157,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 21,
+      "title": "V: Long, and Full of Salvage Work",
+      "wordCount": 16377,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 22,
+      "title": "VI: Mr. Oakroyd Goes Home",
+      "wordCount": 9217,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 23,
+      "title": "Epilogue",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    }
+  ]
+}

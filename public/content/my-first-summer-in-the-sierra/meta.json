@@ -1,0 +1,82 @@
+{
+  "bookId": "my-first-summer-in-the-sierra",
+  "title": "My First Summer in the Sierra",
+  "author": "John Muir",
+  "chapterCount": 12,
+  "totalWordCount": 57482,
+  "totalMinutes": 231,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Through the Foothills with a Flock of Sheep",
+      "wordCount": 6329,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 2,
+      "title": "II: In Camp on the North Fork of the Merced",
+      "wordCount": 9576,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 3,
+      "title": "III: A Bread Famine",
+      "wordCount": 2317,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV: To the High Mountains",
+      "wordCount": 6520,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "V: The Yosemite",
+      "wordCount": 7638,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "VI: Mount Hoffman and Lake Tenaya",
+      "wordCount": 6282,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 7,
+      "title": "VII: A Strange Experience",
+      "wordCount": 3802,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Mono Trail",
+      "wordCount": 4183,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX: Bloody Canyon and Mono Lake",
+      "wordCount": 3887,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: The Tuolumne Camp",
+      "wordCount": 4692,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XI: Back to the Lowlands",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    }
+  ]
+}

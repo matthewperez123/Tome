@@ -1,0 +1,82 @@
+{
+  "bookId": "meditations",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "chapterCount": 12,
+  "totalWordCount": 45637,
+  "totalMinutes": 181,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2839,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 2344,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 2816,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 4260,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "Book V",
+      "wordCount": 4457,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "Book VI",
+      "wordCount": 4496,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "Book VII",
+      "wordCount": 4297,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "Book VIII",
+      "wordCount": 4496,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "Book IX",
+      "wordCount": 4208,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "Book X",
+      "wordCount": 4497,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "Book XI",
+      "wordCount": 3828,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "Book XII",
+      "wordCount": 3099,
+      "estimatedMinutes": 12
+    }
+  ]
+}

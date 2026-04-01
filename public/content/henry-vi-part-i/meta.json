@@ -1,0 +1,52 @@
+{
+  "bookId": "henry-vi-part-i",
+  "title": "Henry VI, Part I",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 23197,
+  "totalMinutes": 92,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 367,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 230,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 5168,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4077,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4110,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4684,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    }
+  ]
+}

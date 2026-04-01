@@ -1,0 +1,64 @@
+{
+  "bookId": "the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar",
+  "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+  "author": "Maurice Leblanc",
+  "chapterCount": 9,
+  "totalWordCount": 54205,
+  "totalMinutes": 217,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Arrest of Arsène Lupin",
+      "wordCount": 4263,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 1,
+      "title": "II: Arsène Lupin in Prison",
+      "wordCount": 6021,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "III: The Escape of Arsène Lupin",
+      "wordCount": 6824,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "IV: The Mysterious Traveller",
+      "wordCount": 5219,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V: The Queen’s Necklace",
+      "wordCount": 5335,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: The Seven of Hearts",
+      "wordCount": 10413,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 6,
+      "title": "VII: Madame Imbert’s Safe",
+      "wordCount": 3708,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Black Pearl",
+      "wordCount": 4655,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: Herlock Sholmes Arrives Too Late",
+      "wordCount": 7767,
+      "estimatedMinutes": 31
+    }
+  ]
+}

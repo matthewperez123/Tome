@@ -1,0 +1,70 @@
+{
+  "bookId": "the-way-of-the-world",
+  "title": "The Way of the World",
+  "author": "William Congreve",
+  "chapterCount": 10,
+  "totalWordCount": 29833,
+  "totalMinutes": 120,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Commendatory Verses",
+      "wordCount": 399,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 336,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Dramatis Personae",
+      "wordCount": 122,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Act I",
+      "wordCount": 4534,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "Act II",
+      "wordCount": 4862,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act III",
+      "wordCount": 6417,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 7,
+      "title": "Act IV",
+      "wordCount": 5650,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "Act V",
+      "wordCount": 5709,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "Epilogue",
+      "wordCount": 284,
+      "estimatedMinutes": 1
+    }
+  ]
+}

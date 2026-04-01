@@ -1,0 +1,46 @@
+{
+  "bookId": "spoon-river-anthology",
+  "title": "Spoon River Anthology",
+  "author": "Edgar Lee Masters",
+  "chapterCount": 6,
+  "totalWordCount": 38977,
+  "totalMinutes": 156,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 508,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Acknowledgments",
+      "wordCount": 56,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Hill",
+      "wordCount": 286,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Hod Putt",
+      "wordCount": 33013,
+      "estimatedMinutes": 132
+    },
+    {
+      "index": 4,
+      "title": "The Spooniad",
+      "wordCount": 2124,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "Epilogue",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    }
+  ]
+}

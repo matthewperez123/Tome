@@ -1,0 +1,160 @@
+{
+  "bookId": "the-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "chapterCount": 25,
+  "totalWordCount": 39466,
+  "totalMinutes": 162,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 178,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Cyclone",
+      "wordCount": 1145,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "II: The Council with the Munchkins",
+      "wordCount": 2007,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: How Dorothy Saved the Scarecrow",
+      "wordCount": 1961,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "IV: The Road Through the Forest",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "V: The Rescue of the Tin Woodman",
+      "wordCount": 2061,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: The Cowardly Lion",
+      "wordCount": 1502,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VII: The Journey to the Great Oz",
+      "wordCount": 1805,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Deadly Poppy Field",
+      "wordCount": 1931,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX: The Queen of the Field Mice",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "X: The Guardian of the Gate",
+      "wordCount": 1956,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: The Wonderful City of Oz",
+      "wordCount": 3613,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: The Search for the Wicked Witch",
+      "wordCount": 3674,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Rescue",
+      "wordCount": 1191,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Winged Monkeys",
+      "wordCount": 1890,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: The Discovery of Oz, the Terrible",
+      "wordCount": 2768,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Magic Art of the Great Humbug",
+      "wordCount": 929,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVII: How the Balloon Was Launched",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Away to the South",
+      "wordCount": 1167,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX: Attacked by the Fighting Trees",
+      "wordCount": 1017,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XX: The Dainty China Country",
+      "wordCount": 1505,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Lion Becomes the King of Beasts",
+      "wordCount": 899,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Country of the Quadlings",
+      "wordCount": 937,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Glinda the Good Witch Grants Dorothy’s Wish",
+      "wordCount": 1258,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Home Again",
+      "wordCount": 77,
+      "estimatedMinutes": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bookId": "the-land-of-little-rain",
+  "title": "The Land of Little Rain",
+  "author": "Mary Austin",
+  "chapterCount": 15,
+  "totalWordCount": 35469,
+  "totalMinutes": 142,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 598,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Land of Little Rain",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "Water Trails of the Carrizo",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "The Scavengers",
+      "wordCount": 1975,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "The Pocket Hunter",
+      "wordCount": 2696,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "Shoshone Land",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "Jimville",
+      "wordCount": 2401,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "My Neighbor’s Field",
+      "wordCount": 2132,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "The Mesa Trail",
+      "wordCount": 2520,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "The Basket Maker",
+      "wordCount": 2388,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "The Streets of the Mountains",
+      "wordCount": 2606,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "Water Borders",
+      "wordCount": 2422,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "Other Water Borders",
+      "wordCount": 2557,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "Nurslings of the Sky",
+      "wordCount": 2610,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "The Little Town of the Grape Vines",
+      "wordCount": 2496,
+      "estimatedMinutes": 10
+    }
+  ]
+}

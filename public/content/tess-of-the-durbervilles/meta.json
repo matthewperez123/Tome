@@ -1,0 +1,412 @@
+{
+  "bookId": "tess-of-the-durbervilles",
+  "title": "Tess of the d’Urbervilles: A Pure Woman Faithfully Presented",
+  "author": "Thomas Hardy",
+  "chapterCount": 67,
+  "totalWordCount": 150051,
+  "totalMinutes": 610,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Explanatory Note to the First Edition",
+      "wordCount": 162,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Phase the First: The Maiden",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2666,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2426,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3916,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 1665,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2078,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 3247,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2082,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "Phase the Second: Maiden No More",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XII",
+      "wordCount": 3125,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 1282,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 4675,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 1048,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "Phase the Third: The Rally",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "XVI",
+      "wordCount": 2064,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XVII",
+      "wordCount": 2895,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XVIII",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XIX",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XX",
+      "wordCount": 1451,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXI",
+      "wordCount": 2163,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXII",
+      "wordCount": 1028,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXIII",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXIV",
+      "wordCount": 1476,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "Phase the Fourth: The Consequence",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "XXV",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXVI",
+      "wordCount": 2388,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXVII",
+      "wordCount": 2265,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXVIII",
+      "wordCount": 1831,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXIX",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXX",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXI",
+      "wordCount": 3468,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXII",
+      "wordCount": 2500,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXIII",
+      "wordCount": 3782,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 38,
+      "title": "XXXIV",
+      "wordCount": 3771,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 39,
+      "title": "Phase the Fifth: The Woman Pays",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "XXXV",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "XXXVI",
+      "wordCount": 3973,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XXXVII",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "XXXVIII",
+      "wordCount": 1857,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 44,
+      "title": "XXXIX",
+      "wordCount": 2409,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XL",
+      "wordCount": 2382,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 46,
+      "title": "XLI",
+      "wordCount": 2823,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "XLII",
+      "wordCount": 1921,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "XLIII",
+      "wordCount": 4071,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 49,
+      "title": "XLIV",
+      "wordCount": 3669,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 50,
+      "title": "Phase the Sixth: The Convert",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 51,
+      "title": "XLV",
+      "wordCount": 3376,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 52,
+      "title": "XLVI",
+      "wordCount": 4152,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "XLVII",
+      "wordCount": 3312,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 54,
+      "title": "XLVIII",
+      "wordCount": 2340,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 55,
+      "title": "XLIX",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 56,
+      "title": "L",
+      "wordCount": 2637,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "LI",
+      "wordCount": 2689,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 58,
+      "title": "LII",
+      "wordCount": 2715,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 59,
+      "title": "Phase the Seventh: Fulfilment",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "LIII",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 61,
+      "title": "LIV",
+      "wordCount": 1587,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "LV",
+      "wordCount": 1548,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "LVI",
+      "wordCount": 1528,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 64,
+      "title": "LVII",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "LVIII",
+      "wordCount": 2779,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 66,
+      "title": "LIX",
+      "wordCount": 738,
+      "estimatedMinutes": 3
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "bookId": "two-treatises-of-government",
+  "title": "Two Treatises of Government: In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.",
+  "author": "John Locke",
+  "chapterCount": 33,
+  "totalWordCount": 101864,
+  "totalMinutes": 409,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 785,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Book I: Of Government",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 948,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "II: Of Paternal and Regal Power",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III: Of Adam’s Title to Sovereignty by Creation",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV: Of Adam’s Title to Sovereignty, by Donation, Gen. 1:28",
+      "wordCount": 6349,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "V: Of Adam’s Title to Sovereignty, by the Subjection of Eve",
+      "wordCount": 1966,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VI: Of Adam’s Title to Sovereignty by Fatherhood",
+      "wordCount": 6906,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 8,
+      "title": "VII: Of Fatherhood and Property Considered Together as Fountains of Sovereignty",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "VIII: Of the Conveyance of Adam’s Sovereign Monarchical Power",
+      "wordCount": 893,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX: Of Monarchy, by Inheritance from Adam",
+      "wordCount": 5612,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "X: Of the Heir to Adam’s Monarchical Power",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "XI: Who Heir?",
+      "wordCount": 17366,
+      "estimatedMinutes": 69
+    },
+    {
+      "index": 13,
+      "title": "Book II: Of Civil Government",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "I",
+      "wordCount": 473,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 15,
+      "title": "II: Of the State of Nature",
+      "wordCount": 2793,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "III: Of the State of War",
+      "wordCount": 1446,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "IV: Of Slavery",
+      "wordCount": 585,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "V: Of Property",
+      "wordCount": 5811,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 19,
+      "title": "VI: Of Paternal Power",
+      "wordCount": 5661,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 20,
+      "title": "VII: Of Political or Civil Society",
+      "wordCount": 3950,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "VIII: Of the Beginning of Political Societies",
+      "wordCount": 6312,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 22,
+      "title": "IX: Of the Ends of Political Society and Government",
+      "wordCount": 1208,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "X: Of the Forms of a Commonwealth",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "XI: Of the Extent of the Legislative Power",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XII: Of the Legislative, Executive, and Federative Power of the Commonwealth",
+      "wordCount": 834,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XIII: Of the Subordination of the Powers of the Commonwealth",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XIV: Of Prerogative",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XV: Of Paternal, Political, and Despotical Power, Considered Together",
+      "wordCount": 1169,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XVI: Of Conquest",
+      "wordCount": 4714,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 30,
+      "title": "XVII: Of Usurpation",
+      "wordCount": 352,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "XVIII: Of Tyranny",
+      "wordCount": 2578,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XIX: Of the Dissolution of Government",
+      "wordCount": 7824,
+      "estimatedMinutes": 31
+    }
+  ]
+}

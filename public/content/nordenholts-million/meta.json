@@ -1,0 +1,130 @@
+{
+  "bookId": "nordenholts-million",
+  "title": "Nordenholt’s Million",
+  "author": "J. J. Connington",
+  "chapterCount": 20,
+  "totalWordCount": 96617,
+  "totalMinutes": 385,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Genesis",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 1,
+      "title": "II: The Coming of “The Blight”",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: B. Diazotans",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV: Panic",
+      "wordCount": 1831,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V: Nordenholt",
+      "wordCount": 7321,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "VI: The Psychology of the Breaking-Strain",
+      "wordCount": 8231,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 6,
+      "title": "VII: Nordenholt’s Million",
+      "wordCount": 4795,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Clyde Valley",
+      "wordCount": 6990,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 8,
+      "title": "IX: Intermezzo",
+      "wordCount": 4832,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X: The Death of the Leviathan",
+      "wordCount": 2389,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: Fata Morgana",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII: Nuit Blanche",
+      "wordCount": 10610,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 12,
+      "title": "XIII: Reconstruction",
+      "wordCount": 6250,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 13,
+      "title": "XIV: Winter in the Outer World",
+      "wordCount": 5042,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XV: Document B. 53. X. 15",
+      "wordCount": 5207,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI: In the Nitrogen Area",
+      "wordCount": 5221,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XVII: Per Iter Tenebricosum",
+      "wordCount": 4787,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Eleventh Hour",
+      "wordCount": 5531,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Breaking-Strain",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XX: Asgard",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    }
+  ]
+}

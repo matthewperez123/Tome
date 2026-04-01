@@ -1,0 +1,40 @@
+{
+  "bookId": "ghosts",
+  "title": "Ghosts: A Family-Drama in Three Acts",
+  "author": "Henrik Ibsen",
+  "chapterCount": 5,
+  "totalWordCount": 25154,
+  "totalMinutes": 101,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 3279,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 50,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 9221,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 7874,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4730,
+      "estimatedMinutes": 19
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "bookId": "facing-the-flag",
+  "title": "Facing the Flag",
+  "author": "Jules Verne",
+  "chapterCount": 19,
+  "totalWordCount": 57153,
+  "totalMinutes": 230,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 457,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Healthful House",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: Count d’Artigas",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III: Kidnapped",
+      "wordCount": 3203,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV: The Schooner Ebba",
+      "wordCount": 3649,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V: Where Am I?",
+      "wordCount": 3923,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: On Deck",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: Two Days at Sea",
+      "wordCount": 3626,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII: Back Cup",
+      "wordCount": 3216,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: Inside Back Cup",
+      "wordCount": 3402,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X: Ker Karraje",
+      "wordCount": 3825,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI: Five Weeks in Back Cup",
+      "wordCount": 3083,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: Engineer Serko’s Advice",
+      "wordCount": 3702,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: God Be with It",
+      "wordCount": 2110,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV: Battle Between the Sword and the Tug",
+      "wordCount": 3976,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XV: Expectation",
+      "wordCount": 3386,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: Only a Few More Hours",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII: One Against Five",
+      "wordCount": 2505,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVIII: On Board the Tonnant",
+      "wordCount": 851,
+      "estimatedMinutes": 3
+    }
+  ]
+}

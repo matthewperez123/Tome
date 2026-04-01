@@ -1,0 +1,88 @@
+{
+  "bookId": "the-time-machine",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "chapterCount": 13,
+  "totalWordCount": 32456,
+  "totalMinutes": 130,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3031,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2005,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3861,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 6514,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2164,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2533,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2452,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1072,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1911,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1883,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "Epilogue",
+      "wordCount": 285,
+      "estimatedMinutes": 1
+    }
+  ]
+}

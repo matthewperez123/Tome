@@ -1,0 +1,70 @@
+{
+  "bookId": "beyond-thirty",
+  "title": "Beyond Thirty",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 10,
+  "totalWordCount": 38416,
+  "totalMinutes": 153,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 441,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 6062,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2122,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 8764,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3931,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3965,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1691,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 4363,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3759,
+      "estimatedMinutes": 15
+    }
+  ]
+}

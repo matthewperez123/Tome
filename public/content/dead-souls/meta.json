@@ -1,0 +1,124 @@
+{
+  "bookId": "dead-souls",
+  "title": "Dead Souls",
+  "author": "Nikolai Gogol",
+  "chapterCount": 19,
+  "totalWordCount": 141930,
+  "totalMinutes": 571,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2247,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "Author’s Preface to the First Portion of This Work",
+      "wordCount": 1515,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 5514,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 8846,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 9146,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 11646,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 7,
+      "title": "V",
+      "wordCount": 8108,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 5633,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 7657,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 7267,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 3890,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 5146,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 14557,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 14,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "I",
+      "wordCount": 12382,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 16,
+      "title": "II",
+      "wordCount": 2051,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "III",
+      "wordCount": 14821,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 18,
+      "title": "IV",
+      "wordCount": 21500,
+      "estimatedMinutes": 86
+    }
+  ]
+}

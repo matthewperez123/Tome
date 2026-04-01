@@ -1,0 +1,52 @@
+{
+  "bookId": "loves-labours-lost",
+  "title": "Love’s Labour’s Lost",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 24268,
+  "totalMinutes": 97,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1423,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 97,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 3834,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 2122,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 1606,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 6176,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 9010,
+      "estimatedMinutes": 36
+    }
+  ]
+}

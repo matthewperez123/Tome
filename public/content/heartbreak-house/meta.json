@@ -1,0 +1,46 @@
+{
+  "bookId": "heartbreak-house",
+  "title": "Heartbreak House: A Fantasia in the Russian Manner on English Themes",
+  "author": "George Bernard Shaw",
+  "chapterCount": 6,
+  "totalWordCount": 48757,
+  "totalMinutes": 195,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 825,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Heartbreak House and Horseback Hall",
+      "wordCount": 13789,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 2,
+      "title": "Dramatis Personae",
+      "wordCount": 23,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 13052,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 14763,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 6305,
+      "estimatedMinutes": 25
+    }
+  ]
+}

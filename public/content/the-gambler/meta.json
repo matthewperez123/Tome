@@ -1,0 +1,112 @@
+{
+  "bookId": "the-gambler",
+  "title": "The Gambler",
+  "author": "Fyodor Dostoevsky",
+  "chapterCount": 17,
+  "totalWordCount": 61104,
+  "totalMinutes": 244,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3836,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2514,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2009,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2315,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3224,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3305,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2834,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3462,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 5039,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3448,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 4733,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 4941,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3643,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 4037,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 4331,
+      "estimatedMinutes": 17
+    }
+  ]
+}

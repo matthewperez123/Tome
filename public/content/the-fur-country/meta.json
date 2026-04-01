@@ -1,0 +1,310 @@
+{
+  "bookId": "the-fur-country",
+  "title": "The Fur Country: Seventy Degrees North Latitude",
+  "author": "Jules Verne",
+  "chapterCount": 50,
+  "totalWordCount": 125018,
+  "totalMinutes": 498,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: A Soiree at Fort Reliance",
+      "wordCount": 2737,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: The Hudson’s Bay Fur Company",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: A Savant Thawed",
+      "wordCount": 2101,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV: A Factory",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "V: From Fort Reliance to Fort Enterprise",
+      "wordCount": 2581,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: A Wapiti Duel",
+      "wordCount": 2808,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VII: The Arctic Circle",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Great Bear Lake",
+      "wordCount": 2800,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "IX: A Storm on the Lake",
+      "wordCount": 3033,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "X: A Retrospect",
+      "wordCount": 2278,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XI: Along the Coast",
+      "wordCount": 2482,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: The Midnight Sun",
+      "wordCount": 2474,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIII: Fort Hope",
+      "wordCount": 2774,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XIV: Some Excursions",
+      "wordCount": 2536,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XV: Fifteen Miles from Cape Bathurst",
+      "wordCount": 2365,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI: Two Shots",
+      "wordCount": 2780,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Approach of Winter",
+      "wordCount": 2860,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Polar Night",
+      "wordCount": 3293,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XIX: A Neighbourly Visit",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XX: Mercury Freezes",
+      "wordCount": 2232,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXI: The Large Polar Bears",
+      "wordCount": 3601,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXII: Five Months More",
+      "wordCount": 2984,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Eclipse of the 18th July 1860",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "I: A Floating Fort",
+      "wordCount": 1862,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "II: Where Are We?",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "III: A Tour of the Island",
+      "wordCount": 2958,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "IV: A Night Encampment",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "V: From July 25th to August 20th",
+      "wordCount": 3006,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "VI: Ten Days of Tempest",
+      "wordCount": 2548,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "VII: A Fire and a Cry",
+      "wordCount": 3212,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "VIII: Mrs. Paulina Barnett’s Excursion",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "IX: Kalumah’s Adventures",
+      "wordCount": 2867,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "X: The Kamchatka Current",
+      "wordCount": 2764,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XI: A Communication from Lieutenant Hobson",
+      "wordCount": 2755,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "XII: A Chance to Be Tried",
+      "wordCount": 2818,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XIII: Across the Ice Field",
+      "wordCount": 2413,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XIV: The Winter Months",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XV: The Last Exploring Expedition",
+      "wordCount": 3643,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "XVI: The Breakup of the Ice",
+      "wordCount": 2719,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 42,
+      "title": "XVII: The Avalanche",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 43,
+      "title": "XVIII: All at Work",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 44,
+      "title": "XIX: Bering Sea",
+      "wordCount": 2549,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XX: In the Offing",
+      "wordCount": 1941,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XXI: The Island Becomes and Islet",
+      "wordCount": 1682,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "XXII: The Four Following Days",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "XXIII: On a Piece of Ice",
+      "wordCount": 3005,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "XXIV: Conclusion",
+      "wordCount": 580,
+      "estimatedMinutes": 2
+    }
+  ]
+}

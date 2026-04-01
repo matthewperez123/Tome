@@ -1,0 +1,334 @@
+{
+  "bookId": "sylvie-and-bruno",
+  "title": "Sylvie and Bruno",
+  "author": "Lewis Carroll",
+  "chapterCount": 54,
+  "totalWordCount": 136362,
+  "totalMinutes": 546,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Volume I",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 3239,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "I: Less Bread! More Taxes!",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II: L’Amie Inconnue",
+      "wordCount": 2058,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: Birthday-Presents",
+      "wordCount": 2240,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "IV: A Cunning Conspiracy",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "V: A Beggar’s Palace",
+      "wordCount": 2722,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VI: The Magic Locket",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VII: The Baron’s Embassy",
+      "wordCount": 1827,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII: A Ride on a Lion",
+      "wordCount": 1886,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX: A Jester and a Bear",
+      "wordCount": 2378,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "X: The Other Professor",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XI: Peter and Paul",
+      "wordCount": 1424,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XII: A Musical Gardener",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIII: A Visit to Dogland",
+      "wordCount": 2540,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XIV: Fairy-Sylvie",
+      "wordCount": 3664,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XV: Bruno’s Revenge",
+      "wordCount": 2472,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVI: A Changed Crocodile",
+      "wordCount": 2008,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Three Badgers",
+      "wordCount": 3020,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Queer Street, Number Forty",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XIX: How to Make a Phlizz",
+      "wordCount": 2733,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XX: Light Come, Light Go",
+      "wordCount": 2739,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXI: Through the Ivory Door",
+      "wordCount": 3374,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXII: Crossing the Line",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXIII: An Outlandish Watch",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Frogs’ Birthday-Treat",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXV: Looking Eastward",
+      "wordCount": 2214,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "Volume II",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "Preface",
+      "wordCount": 3997,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "I: Bruno’s Lessons",
+      "wordCount": 3025,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "II: Love’s Curfew",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "III: Streaks of Dawn",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "IV: The Dog-King",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "V: Matilda Jane",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 34,
+      "title": "VI: Willie’s Wife",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "VII: Mein Herr",
+      "wordCount": 2879,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "VIII: In a Shady Place",
+      "wordCount": 2590,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "IX: The Farewell-Party",
+      "wordCount": 3364,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 38,
+      "title": "X: Jabbering and Jam",
+      "wordCount": 2567,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XI: The Man in the Moon",
+      "wordCount": 2191,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "XII: Fairy-Music",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "XIII: What Tottles Meant",
+      "wordCount": 3017,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XIV: Bruno’s Picnic",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 43,
+      "title": "XV: The Little Foxes",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 44,
+      "title": "XVI: Beyond These Voices",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XVII: To the Rescue!",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 46,
+      "title": "XVIII: A Newspaper-Cutting",
+      "wordCount": 799,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 47,
+      "title": "XIX: A Fairy-Duet",
+      "wordCount": 4150,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 48,
+      "title": "XX: Gammon and Spinach",
+      "wordCount": 2951,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "XXI: The Professor’s Lecture",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "XXII: The Banquet",
+      "wordCount": 2595,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "XXIII: The Pig-Tale",
+      "wordCount": 2110,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 52,
+      "title": "XXIV: The Beggar’s Return",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 53,
+      "title": "XXV: Life Out of Death",
+      "wordCount": 1795,
+      "estimatedMinutes": 7
+    }
+  ]
+}

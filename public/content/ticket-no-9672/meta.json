@@ -1,0 +1,136 @@
+{
+  "bookId": "ticket-no-9672",
+  "title": "Ticket No. 9672",
+  "author": "Jules Verne",
+  "chapterCount": 21,
+  "totalWordCount": 49479,
+  "totalMinutes": 197,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 319,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2360,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1673,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2496,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1502,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3577,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 1194,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3489,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3971,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3095,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3309,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 2497,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 2697,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2250,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2569,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    }
+  ]
+}

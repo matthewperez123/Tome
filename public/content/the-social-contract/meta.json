@@ -1,0 +1,334 @@
+{
+  "bookId": "the-social-contract",
+  "title": "The Social Contract: Or, Principles of Political Right",
+  "author": "Jean-Jacques Rousseau",
+  "chapterCount": 54,
+  "totalWordCount": 56586,
+  "totalMinutes": 233,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 15163,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 1,
+      "title": "Foreword",
+      "wordCount": 58,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Book I",
+      "wordCount": 199,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Subject of the First Book",
+      "wordCount": 174,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "II: The First Societies",
+      "wordCount": 664,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "III: The Right of the Strongest",
+      "wordCount": 360,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "IV: Slavery",
+      "wordCount": 1505,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "V: That We Must Always Go Back to a First Convention",
+      "wordCount": 308,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "VI: The Social Compact",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "VII: The Sovereign",
+      "wordCount": 765,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "VIII: The Civil State",
+      "wordCount": 362,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "IX: Real Property",
+      "wordCount": 990,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "I: That Sovereignty Is Inalienable",
+      "wordCount": 397,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 14,
+      "title": "II: That Sovereignty Is Indivisible",
+      "wordCount": 640,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "III: Whether the General Will Is Fallible",
+      "wordCount": 420,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "IV: The Limits of the Sovereign Power",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "V: The Right of Life and Death",
+      "wordCount": 768,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "VI: Law",
+      "wordCount": 1109,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "VII: The Legislator",
+      "wordCount": 1308,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "VIII: The People",
+      "wordCount": 650,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "IX: The People (Continued)",
+      "wordCount": 821,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "X: The People (Continued)",
+      "wordCount": 952,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XI: The Various Systems of Legislation",
+      "wordCount": 655,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XII: The Division of the Laws",
+      "wordCount": 482,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 25,
+      "title": "Book III",
+      "wordCount": 29,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "I: Government in General",
+      "wordCount": 1894,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "II: The Constituent Principle in the Various Forms of Government",
+      "wordCount": 946,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "III: The Division of Governments",
+      "wordCount": 424,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 29,
+      "title": "IV: Democracy",
+      "wordCount": 643,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 30,
+      "title": "V: Aristocracy",
+      "wordCount": 653,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "VI: Monarchy",
+      "wordCount": 1970,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "VII: Mixed Governments",
+      "wordCount": 342,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "VIII: That All Forms of Government Do Not Suit All Countries",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 34,
+      "title": "IX: The Marks of a Good Government",
+      "wordCount": 334,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "X: The Abuse of Government and Its Tendency to Degenerate",
+      "wordCount": 624,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 36,
+      "title": "XI: The Death of the Body Politic",
+      "wordCount": 441,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 37,
+      "title": "XII: How the Sovereign Authority Maintains Itself",
+      "wordCount": 344,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XIII: The Same (Continued)",
+      "wordCount": 520,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 39,
+      "title": "XIV: The Same (Continued)",
+      "wordCount": 239,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "XV: Deputies or Representatives",
+      "wordCount": 1240,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 41,
+      "title": "XVI: That the Institution of Government Is Not a Contract",
+      "wordCount": 464,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 42,
+      "title": "XVII: The Institution of Government",
+      "wordCount": 392,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 43,
+      "title": "XVIII: How to Check the Usurpations of Government",
+      "wordCount": 677,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "I: That the General Will Is Indestructible",
+      "wordCount": 758,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 46,
+      "title": "II: Voting",
+      "wordCount": 972,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 47,
+      "title": "III: Elections",
+      "wordCount": 680,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 48,
+      "title": "IV: The Roman Comitia",
+      "wordCount": 3545,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 49,
+      "title": "V: The Tribunate",
+      "wordCount": 677,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 50,
+      "title": "VI: The Dictatorship",
+      "wordCount": 1064,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "VII: The Censorship",
+      "wordCount": 576,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 52,
+      "title": "VIII: Civil Religion",
+      "wordCount": 3452,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 53,
+      "title": "IX: Conclusion",
+      "wordCount": 85,
+      "estimatedMinutes": 1
+    }
+  ]
+}

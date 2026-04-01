@@ -1,0 +1,46 @@
+{
+  "bookId": "the-communist-manifesto",
+  "title": "The Communist Manifesto",
+  "author": "Karl Marx & Friedrich Engels",
+  "chapterCount": 6,
+  "totalWordCount": 13200,
+  "totalMinutes": 54,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 171,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Bourgeois and Proletarians",
+      "wordCount": 4381,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "II: Proletarians and Communists",
+      "wordCount": 3185,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "III: Socialist and Communist Literature",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV: Position of the Communists in Relation to the Various Existing Opposition Parties",
+      "wordCount": 476,
+      "estimatedMinutes": 2
+    }
+  ]
+}

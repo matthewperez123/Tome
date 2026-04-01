@@ -1,0 +1,88 @@
+{
+  "bookId": "alices-adventures-in-wonderland",
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "chapterCount": 13,
+  "totalWordCount": 26716,
+  "totalMinutes": 108,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Down the Rabbit-Hole",
+      "wordCount": 2156,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: The Pool of Tears",
+      "wordCount": 2120,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: A Caucus-Race and a Long Tale",
+      "wordCount": 1721,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: The Rabbit Sends in a Little Bill",
+      "wordCount": 2664,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Advice from a Caterpillar",
+      "wordCount": 2192,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VI: Pig and Pepper",
+      "wordCount": 2617,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII: A Mad Tea-Party",
+      "wordCount": 2317,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Queen’s Croquet-Ground",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX: The Mock Turtle’s Story",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X: The Lobster Quadrille",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: Who Stole the Tarts?",
+      "wordCount": 1897,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII: Alice’s Evidence",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "bookId": "the-trachiniae",
+  "title": "The Trachiniae",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 10422,
+  "totalMinutes": 42,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 279,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 52,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Trachiniae",
+      "wordCount": 10091,
+      "estimatedMinutes": 40
+    }
+  ]
+}

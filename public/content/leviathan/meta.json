@@ -1,0 +1,328 @@
+{
+  "bookId": "leviathan",
+  "title": "Leviathan: Or, The Matter, Form and Power of a Commonwealth, Ecclesiastical and Civil",
+  "author": "Thomas Hobbes",
+  "chapterCount": 53,
+  "totalWordCount": 207387,
+  "totalMinutes": 832,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Part I: Of Man",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Of Sense",
+      "wordCount": 690,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "II: Of Imagination",
+      "wordCount": 2210,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "III: Of the Consequence or Train of Imaginations",
+      "wordCount": 1876,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV: Of Speech",
+      "wordCount": 3230,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V: Of Reason and Science",
+      "wordCount": 2562,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: Of the Interior Beginnings of Voluntary Motions; Commonly Called the Passions; and the Speeches by Which They Are Expressed",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VII: Of the Ends, or Resolutions of Discourse",
+      "wordCount": 1236,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "VIII: Of the Virtues Commonly Called Intellectual, and Their Contrary Defects",
+      "wordCount": 4212,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "IX: Of the Several Subjects of Knowledge",
+      "wordCount": 235,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "X: Of Power, Worth, Dignity, Honour, and Worthiness",
+      "wordCount": 3114,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XI: Of the Difference of Manners",
+      "wordCount": 2566,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: Of Religion",
+      "wordCount": 4516,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "XIII: Of the Natural Condition of Mankind as Concerning Their Felicity and Misery",
+      "wordCount": 1791,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XIV: Of the First and Second Natural Laws, and of Contracts",
+      "wordCount": 4174,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XV: Of Other Laws of Nature",
+      "wordCount": 4988,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVI: Of Persons, Authors, and Things Personated",
+      "wordCount": 1578,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "Part II: Of Commonwealth",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "XVII: Of the Causes, Generation, and Definition of a Commonwealth",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XVIII: Of the Rights of Sovereigns by Institution",
+      "wordCount": 3335,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XIX: Of the Several Kinds of Commonwealth by Institution, and of Succession to the Sovereign Power",
+      "wordCount": 3919,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XX: Of Dominion Paternal, and Despotical",
+      "wordCount": 3241,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXI: Of the Liberty of Subjects",
+      "wordCount": 4083,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XXII: Of Systems Subject, Political, and Private",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "XXIII: Of the Public Ministers of Sovereign Power",
+      "wordCount": 1710,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXIV: Of the Nutrition and Procreation of a Commonwealth",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXV: Of Counsel",
+      "wordCount": 2892,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXVI: Of Civil Laws",
+      "wordCount": 7855,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 29,
+      "title": "XXVII: Of Crimes, Excuses, and Extenuations",
+      "wordCount": 5604,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: Of Punishments and Rewards",
+      "wordCount": 3054,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXIX: Of Those Things That Weaken, or Tend to the Dissolution of a Commonwealth",
+      "wordCount": 4038,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXX: Of the Office of the Sovereign Representative",
+      "wordCount": 6067,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 33,
+      "title": "XXXI: Of the Kingdom of God by Nature",
+      "wordCount": 4204,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 34,
+      "title": "Part III: Of a Christian Commonwealth",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "XXXII: Of the Principles of Christian Politics",
+      "wordCount": 1954,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "XXXIII: Of the Number, Antiquity, Scope, Authority, and Interpreters of the Books of Holy Scripture",
+      "wordCount": 4216,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "XXXIV: Of the Signification of Spirit, Angel, and Inspiration in the Books of Holy Scripture",
+      "wordCount": 4774,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "XXXV: Of the Signification in Scripture of Kingdom of God, of Holy, Sacred, and Sacrament",
+      "wordCount": 3056,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXVI: Of the Word of God, and of Prophets",
+      "wordCount": 6174,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 40,
+      "title": "XXXVII: Of Miracles, and Their Use",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "XXXVIII: Of the Signification in Scripture of Eternal Life, Hell, Salvation, the World to Come, and Redemption",
+      "wordCount": 6197,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 42,
+      "title": "XXXIX: Of the Signification in Scripture of the Word Church",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 43,
+      "title": "XL: Of the Rights of the Kingdom of God, in Abraham, Moses, the High Priests, and the Kings of Judah",
+      "wordCount": 4215,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 44,
+      "title": "XLI: Of the Office of Our Blessed Saviour",
+      "wordCount": 3017,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 45,
+      "title": "XLII: Of Power Ecclesiastical",
+      "wordCount": 29338,
+      "estimatedMinutes": 117
+    },
+    {
+      "index": 46,
+      "title": "XLIII: Of What Is Necessary for a Man’s Reception Into the Kingdom of Heaven",
+      "wordCount": 5845,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 47,
+      "title": "Part IV: Of the Kingdom of Darkness",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "XLIV: Of Spiritual Darkness, from Misinterpretation of Scripture",
+      "wordCount": 10194,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 49,
+      "title": "XLV: Of Demonology, and Other Relics of the Religion of the Gentiles",
+      "wordCount": 8044,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 50,
+      "title": "XLVI: Of Darkness from Vain Philosophy and Fabulous Traditions",
+      "wordCount": 7074,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 51,
+      "title": "XLVII: Of the Benefit That Proceedeth from Such Darkness, and to Whom It Accrueth",
+      "wordCount": 3453,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 52,
+      "title": "A Review, and Conclusion",
+      "wordCount": 3942,
+      "estimatedMinutes": 16
+    }
+  ]
+}

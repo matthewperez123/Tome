@@ -1,0 +1,340 @@
+{
+  "bookId": "whats-wrong-with-the-world",
+  "title": "What’s Wrong with the World",
+  "author": "G. K. Chesterton",
+  "chapterCount": 55,
+  "totalWordCount": 59537,
+  "totalMinutes": 241,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: The Homelessness of Man",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Medical Mistake",
+      "wordCount": 1102,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: Wanted, an Unpractical Man",
+      "wordCount": 1668,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III: The New Hypocrite",
+      "wordCount": 1845,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: The Fear of the Past",
+      "wordCount": 2571,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: The Unfinished Temple",
+      "wordCount": 1722,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: The Enemies of Property",
+      "wordCount": 1132,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VII: The Free Family",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Wildness of Domesticity",
+      "wordCount": 1351,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "IX: History of Hudge and Gudge",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "X: Oppression by Optimism",
+      "wordCount": 869,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XI: The Homelessness of Jones",
+      "wordCount": 1216,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "Part II: Imperialism: Or the Mistake About Man",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "I: The Charm of Jingoism",
+      "wordCount": 1112,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "II: Wisdom and the Weather",
+      "wordCount": 2009,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "III: The Common Vision",
+      "wordCount": 1181,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "IV: The Insane Necessity",
+      "wordCount": 1985,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "Part III: Feminism: Or the Mistake About Woman",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: The Unmilitary Suffragette",
+      "wordCount": 869,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "II: The Universal Stick",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "III: The Emancipation of Domesticity",
+      "wordCount": 1875,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "IV: The Romance of Thrift",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "V: The Coldness of Chloe",
+      "wordCount": 1435,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "VI: The Pedant and the Savage",
+      "wordCount": 1038,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "VII: The Modern Surrender of Woman",
+      "wordCount": 910,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "VIII: The Brand of the Fleur-de-Lis",
+      "wordCount": 1013,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "IX: Sincerity and the Gallows",
+      "wordCount": 878,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "X: The Higher Anarchy",
+      "wordCount": 1278,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XI: The Queen and the Suffragettes",
+      "wordCount": 491,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 29,
+      "title": "XII: The Modern Slave",
+      "wordCount": 1037,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "Part IV: Education: Or the Mistake About the Child",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I: The Calvinism of Today",
+      "wordCount": 709,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "II: The Tribal Terror",
+      "wordCount": 824,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 33,
+      "title": "III: The Tricks of Environment",
+      "wordCount": 516,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 34,
+      "title": "IV: The Truth About Education",
+      "wordCount": 764,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "V: An Evil Cry",
+      "wordCount": 851,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 36,
+      "title": "VI: Authority the Unavoidable",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "VII: The Humility of Mrs. Grundy",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "VIII: The Broken Rainbow",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 39,
+      "title": "IX: The Need for Narrowness",
+      "wordCount": 814,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "X: The Case for the Public Schools",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "XI: The School for Hypocrites",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 42,
+      "title": "XII: The Staleness of the New Schools",
+      "wordCount": 1088,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 43,
+      "title": "XIII: The Outlawed Parent",
+      "wordCount": 981,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "XIV: Folly and Female Education",
+      "wordCount": 1154,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 45,
+      "title": "Part V: The Home of Man",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 46,
+      "title": "I: The Empire of the Insect",
+      "wordCount": 2018,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 47,
+      "title": "II: The Fallacy of the Umbrella Stand",
+      "wordCount": 1386,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 48,
+      "title": "III: The Dreadful Duty of Gudge",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "IV: A Doubt",
+      "wordCount": 297,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "V: Conclusion",
+      "wordCount": 1536,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 51,
+      "title": "Three Notes",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 52,
+      "title": "I: On Female Suffrage",
+      "wordCount": 467,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 53,
+      "title": "II: On Cleanliness in Education",
+      "wordCount": 268,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "III: On Peasant Proprietorship",
+      "wordCount": 338,
+      "estimatedMinutes": 1
+    }
+  ]
+}

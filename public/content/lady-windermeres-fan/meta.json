@@ -1,0 +1,52 @@
+{
+  "bookId": "lady-windermeres-fan",
+  "title": "Lady Windermere’s Fan: A Play About a Good Woman",
+  "author": "Oscar Wilde",
+  "chapterCount": 7,
+  "totalWordCount": 21653,
+  "totalMinutes": 88,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 39,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Scenes of the Play",
+      "wordCount": 66,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 5260,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 5498,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 4508,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "Act IV",
+      "wordCount": 4538,
+      "estimatedMinutes": 18
+    }
+  ]
+}

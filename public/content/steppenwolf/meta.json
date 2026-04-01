@@ -1,0 +1,22 @@
+{
+  "bookId": "steppenwolf",
+  "title": "Steppenwolf",
+  "author": "Hermann Hesse",
+  "chapterCount": 2,
+  "totalWordCount": 74750,
+  "totalMinutes": 299,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 6968,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "Harry Haller’s Records",
+      "wordCount": 67782,
+      "estimatedMinutes": 271
+    }
+  ]
+}

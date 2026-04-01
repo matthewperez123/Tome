@@ -1,0 +1,328 @@
+{
+  "bookId": "the-beetle",
+  "title": "The Beetle",
+  "author": "Richard Marsh",
+  "chapterCount": 53,
+  "totalWordCount": 114225,
+  "totalMinutes": 462,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1596,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Book I: The House with the Open Window",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Outside",
+      "wordCount": 2152,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II: Inside",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III: The Man in the Bed",
+      "wordCount": 1754,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: A Lonely Vigil",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "V: An Instruction to Commit Burglary",
+      "wordCount": 3453,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI: A Singular Felony",
+      "wordCount": 2915,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII: The Great Paul Lessingham",
+      "wordCount": 2981,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Man in the Street",
+      "wordCount": 714,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "IX: The Contents of the Packet",
+      "wordCount": 1759,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "Book II: The Haunted Man",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "X: Rejected",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XI: A Midnight Episode",
+      "wordCount": 2284,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XII: A Morning Visitor",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Picture",
+      "wordCount": 4033,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Duchess’ Ball",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XV: Mr. Lessingham Speaks",
+      "wordCount": 2372,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVI: Atherton’s Magic Vapour",
+      "wordCount": 2927,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XVII: Magic?—Or Miracle?",
+      "wordCount": 729,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Apotheosis of the Beetle",
+      "wordCount": 5674,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 21,
+      "title": "XIX: The Lady Rages",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XX: A Heavy Father",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXI: The Terror in the Night",
+      "wordCount": 4516,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "XXII: The Haunted Man",
+      "wordCount": 4427,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "Book III: The Terror by Night and the Terror by Day",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XXIII: The Way He Told Her",
+      "wordCount": 1912,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXIV: A Woman’s View",
+      "wordCount": 1218,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXV: The Man in the Street",
+      "wordCount": 1478,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXVI: A Father’s No",
+      "wordCount": 1268,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXVII: The Terror by Night",
+      "wordCount": 2386,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXVIII: The Strange Story of the Man in the Street",
+      "wordCount": 3761,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "XXIX: The House on the Road from the Workhouse",
+      "wordCount": 4238,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 33,
+      "title": "XXX: The Singular Behaviour of Mr. Holt",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 34,
+      "title": "XXXI: The Terror by Day",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "Book IV: In Pursuit",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "XXXII: A New Client",
+      "wordCount": 912,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "XXXIII: What Came of Looking Through a Lattice",
+      "wordCount": 3745,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 38,
+      "title": "XXXIV: After Twenty Years",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXV: A Bringer of Tidings",
+      "wordCount": 840,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "XXXVI: What the Tidings Were",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "XXXVII: What Was Hidden Under the Floor",
+      "wordCount": 2309,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 42,
+      "title": "XXXVIII: The Rest of the Find",
+      "wordCount": 1589,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 43,
+      "title": "XXXIX: Miss Louisa Coleman",
+      "wordCount": 3666,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 44,
+      "title": "XL: What Miss Coleman Saw Through the Window",
+      "wordCount": 2098,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XLI: The Constable—His Clue—and the Cab",
+      "wordCount": 2647,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 46,
+      "title": "XLII: The Quarry Doubles",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "XLIII: The Murder at Mrs. ’Enderson’s",
+      "wordCount": 3934,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 48,
+      "title": "XLIV: The Man Who Was Murdered",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XLV: All That Mrs. ’Enderson Knew",
+      "wordCount": 1260,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "XLVI: The Sudden Stopping",
+      "wordCount": 2686,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "XLVII: The Contents of the Third-Class Carriage",
+      "wordCount": 913,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "XLVIII: The Conclusion of the Matter",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    }
+  ]
+}

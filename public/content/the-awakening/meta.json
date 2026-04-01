@@ -1,0 +1,244 @@
+{
+  "bookId": "the-awakening",
+  "title": "The Awakening",
+  "author": "Kate Chopin",
+  "chapterCount": 39,
+  "totalWordCount": 49958,
+  "totalMinutes": 201,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 630,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1162,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1079,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 251,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2587,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1728,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1723,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 686,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1738,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 642,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2136,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1748,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1563,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 733,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1481,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1233,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 998,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 552,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 170,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 841,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 738,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 2289,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 1086,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 758,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "XXXVI",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXVII",
+      "wordCount": 728,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "XXXIX",
+      "wordCount": 1480,
+      "estimatedMinutes": 6
+    }
+  ]
+}

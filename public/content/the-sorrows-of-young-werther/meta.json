@@ -1,0 +1,34 @@
+{
+  "bookId": "the-sorrows-of-young-werther",
+  "title": "The Sorrows of Young Werther",
+  "author": "J. W. von Goethe",
+  "chapterCount": 4,
+  "totalWordCount": 42611,
+  "totalMinutes": 172,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 95,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 19138,
+      "estimatedMinutes": 77
+    },
+    {
+      "index": 2,
+      "title": "Book II",
+      "wordCount": 11743,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 3,
+      "title": "The Editor to the Reader",
+      "wordCount": 11635,
+      "estimatedMinutes": 47
+    }
+  ]
+}

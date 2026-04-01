@@ -1,0 +1,712 @@
+{
+  "bookId": "toilers-of-the-sea",
+  "title": "Toilers of the Sea",
+  "author": "Victor Hugo",
+  "chapterCount": 117,
+  "totalWordCount": 144998,
+  "totalMinutes": 599,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 374,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 846,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Preface",
+      "wordCount": 143,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Part I: Sieur Clubin",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Book I: The History of a Bad Reputation",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: A Word Written on a White Page",
+      "wordCount": 684,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "II: The Bû de la Rue",
+      "wordCount": 1678,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "III: For Your Wife: When You Marry",
+      "wordCount": 1176,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "IV: An Unpopular Man",
+      "wordCount": 3341,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "V: More Suspicious Facts About Gilliatt",
+      "wordCount": 1130,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "VI: The Dutch Sloop",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "VII: A Fit Tenant for a Haunted House",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "VIII: The Gild-Holm-’Ur Seat",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "Book II: Mess Lethierry",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "I: A Troubled Life, but a Quiet Conscience",
+      "wordCount": 780,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "II: A Certain Predilection",
+      "wordCount": 651,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "III: The Old Sea Language",
+      "wordCount": 699,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "IV: One Is Vulnerable Where One Loves",
+      "wordCount": 544,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "Book III: Durande and Déruchette",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "I: Prattle and Smoke",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "II: The Old Story of Utopia",
+      "wordCount": 687,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "III: Rantaine",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "IV: Continuation of the Story of Utopia",
+      "wordCount": 716,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "V: The Devil Boat",
+      "wordCount": 1603,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "VI: Lethierry’s Exaltation",
+      "wordCount": 699,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "VII: The Same Godfather and the Same Patron Saint",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "VIII: “Bonnie Dundee”",
+      "wordCount": 1227,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "IX: The Man Who Discovered Rantaine’s Character",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 28,
+      "title": "X: Long Yarns",
+      "wordCount": 995,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XI: Matrimonial Prospects",
+      "wordCount": 439,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "XII: An Anomaly in the Character of Lethierry",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XIII: Thoughtlessness Adds a Grace to Beauty",
+      "wordCount": 480,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 32,
+      "title": "Book IV: The Bagpipe",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "I: Streaks of Fire on the Horizon",
+      "wordCount": 785,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 34,
+      "title": "II: The Unknown Unfolds Itself by Degrees",
+      "wordCount": 786,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "III: The Air “Bonnie Dundee” Finds an Echo on the Hill",
+      "wordCount": 427,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 36,
+      "title": "IV",
+      "wordCount": 686,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 37,
+      "title": "V: A Deserved Success Has Always Its Detractors",
+      "wordCount": 417,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 38,
+      "title": "VI: The Sloop Cashmere Saves a Shipwrecked Crew",
+      "wordCount": 743,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "VII: How an Idler Had the Good Fortune to Be Seen by a Fisherman",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "Book V: The Revolver",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "I: Conversations at the Jean Auberge",
+      "wordCount": 2616,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 42,
+      "title": "II: Clubin Observes Someone",
+      "wordCount": 810,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "III: Clubin Carries Away Something and Brings Back Nothing",
+      "wordCount": 939,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "IV: Pleinmont",
+      "wordCount": 2490,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "V: The Birds’-Nesters",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "VI: The Jacressade",
+      "wordCount": 2487,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 47,
+      "title": "VII: Nocturnal Buyers and Mysterious Sellers",
+      "wordCount": 1007,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "VIII: A “Cannon” Off the Red Ball and the Black",
+      "wordCount": 3266,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "IX: Useful Information for Persons Who Expect or Fear the Arrival of Letters from Beyond Sea",
+      "wordCount": 1377,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 50,
+      "title": "Book VI: The Drunken Steersman and the Sober Captain",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 51,
+      "title": "I: The Douvres",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "II: An Unexpected Flask of Brandy",
+      "wordCount": 1153,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 53,
+      "title": "III: Conversations Interrupted",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 54,
+      "title": "IV: Captain Clubin Displays All His Great Qualities",
+      "wordCount": 1779,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 55,
+      "title": "V: Clubin Reaches the Crowning-Point of Glory",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "VI: The Interior of an Abyss Suddenly Revealed",
+      "wordCount": 2958,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 57,
+      "title": "VII: An Unexpected Denouement",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 58,
+      "title": "Book VII: The Danger of Opening a Book at Random",
+      "wordCount": 10,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 59,
+      "title": "I: The Pearl at the Foot of the Precipice",
+      "wordCount": 2898,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 60,
+      "title": "II: Much Astonishment on the Western Coast",
+      "wordCount": 1669,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 61,
+      "title": "III: A Quotation from the Bible",
+      "wordCount": 2781,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 62,
+      "title": "Part II: Malicious Gilliatt",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 63,
+      "title": "Book I: The Rock",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 64,
+      "title": "I: The Place Which Is Difficult to Reach, and Difficult to Leave",
+      "wordCount": 1973,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 65,
+      "title": "II: A Catalogue of Disasters",
+      "wordCount": 1078,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 66,
+      "title": "III: Sound; But Not Safe",
+      "wordCount": 563,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 67,
+      "title": "IV: A Preliminary Survey",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 68,
+      "title": "V: A Word Upon the Secret Co-Operations of the Elements",
+      "wordCount": 1432,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 69,
+      "title": "VI: A Stable for the Horse",
+      "wordCount": 852,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 70,
+      "title": "VII: A Chamber for the Voyager",
+      "wordCount": 2768,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 71,
+      "title": "VIII: Importunæque Volucres",
+      "wordCount": 820,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 72,
+      "title": "IX: The Rock, and How Gilliatt Used It",
+      "wordCount": 1212,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 73,
+      "title": "X: The Forge",
+      "wordCount": 1623,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 74,
+      "title": "XI: Discovery",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 75,
+      "title": "XII: The Interior of an Edifice Under the Sea",
+      "wordCount": 738,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 76,
+      "title": "XIII: What Was Seen There; and What Perceived Dimly",
+      "wordCount": 1863,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 77,
+      "title": "Book II: The Labour",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 78,
+      "title": "I: The Resources of One Who Has Nothing",
+      "wordCount": 998,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 79,
+      "title": "II: Wherein Shakespeare and Aeschylus Meet",
+      "wordCount": 595,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 80,
+      "title": "III: Gilliatt’s Masterpiece Comes to the Rescue of That of Lethierry",
+      "wordCount": 1275,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 81,
+      "title": "IV: Sub Re",
+      "wordCount": 2177,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 82,
+      "title": "V: Sub Umbra",
+      "wordCount": 1885,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "VI: Gilliatt Places the Sloop in Readiness",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 84,
+      "title": "VII: Sudden Danger",
+      "wordCount": 1234,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 85,
+      "title": "VIII: Movement Rather Than Progress",
+      "wordCount": 1262,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 86,
+      "title": "IX: A Slip Between Cup and Lip",
+      "wordCount": 579,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 87,
+      "title": "X: Sea-Warnings",
+      "wordCount": 1156,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 88,
+      "title": "XI: A Word to the Wise Is Enough",
+      "wordCount": 986,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 89,
+      "title": "Book III: The Struggle",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 90,
+      "title": "I: Extremes Meet",
+      "wordCount": 484,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 91,
+      "title": "II: The Ocean Winds",
+      "wordCount": 1081,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 92,
+      "title": "III: The Noises Explained",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 93,
+      "title": "IV: Turba Turma",
+      "wordCount": 757,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 94,
+      "title": "V: Gilliatt’s Alternatives",
+      "wordCount": 313,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 95,
+      "title": "VI: The Combat",
+      "wordCount": 7200,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 96,
+      "title": "Book IV: Pitfalls in the Way",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 97,
+      "title": "I: He Who Is Hungry Is Not Alone",
+      "wordCount": 1717,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 98,
+      "title": "II: The Monster",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 99,
+      "title": "III: Another Kind of Sea-Combat",
+      "wordCount": 950,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "IV: Nothing Is Hidden, Nothing Lost",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 101,
+      "title": "V: The Fatal Difference Between Six Inches and Two Feet",
+      "wordCount": 1323,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 102,
+      "title": "VI: De Profundis Ad Altum",
+      "wordCount": 2430,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 103,
+      "title": "VII: The Appeal Is Heard",
+      "wordCount": 619,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 104,
+      "title": "Part III: Déruchette",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 105,
+      "title": "Book I: Night and the Moon",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 106,
+      "title": "I: The Harbour Bell",
+      "wordCount": 5419,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 107,
+      "title": "II: The Harbour Bell Again",
+      "wordCount": 2997,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 108,
+      "title": "Book II: Gratitude and Despotism",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 109,
+      "title": "I: Joy Surrounded by Tortures",
+      "wordCount": 3506,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 110,
+      "title": "II: The Leathern Trunk",
+      "wordCount": 752,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 111,
+      "title": "Book III: The Departure of the Cashmere",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 112,
+      "title": "I: The Havelet Near the Church",
+      "wordCount": 1053,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 113,
+      "title": "II: Despair Confronts Despair",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 114,
+      "title": "III: The Forethought of Self-Sacrifice",
+      "wordCount": 1575,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 115,
+      "title": "IV: For Your Wife: When You Marry",
+      "wordCount": 1148,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 116,
+      "title": "V: The Great Tomb",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    }
+  ]
+}

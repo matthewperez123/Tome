@@ -1,0 +1,46 @@
+{
+  "bookId": "a-woman-of-thirty",
+  "title": "A Woman of Thirty",
+  "author": "Honoré de Balzac",
+  "chapterCount": 6,
+  "totalWordCount": 70626,
+  "totalMinutes": 283,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Early Mistakes",
+      "wordCount": 25713,
+      "estimatedMinutes": 103
+    },
+    {
+      "index": 1,
+      "title": "II: A Hidden Grief",
+      "wordCount": 7941,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 2,
+      "title": "III: At Thirty Years",
+      "wordCount": 8493,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 3,
+      "title": "IV: The Finger of God",
+      "wordCount": 5104,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "V: Two Meetings",
+      "wordCount": 17974,
+      "estimatedMinutes": 72
+    },
+    {
+      "index": 5,
+      "title": "VI: The Old Age of a Guilty Mother",
+      "wordCount": 5401,
+      "estimatedMinutes": 22
+    }
+  ]
+}

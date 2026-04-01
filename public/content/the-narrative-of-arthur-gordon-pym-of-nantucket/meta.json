@@ -1,0 +1,178 @@
+{
+  "bookId": "the-narrative-of-arthur-gordon-pym-of-nantucket",
+  "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+  "author": "Edgar Allan Poe",
+  "chapterCount": 28,
+  "totalWordCount": 71453,
+  "totalMinutes": 288,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 620,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 755,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3798,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 5781,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 2836,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2958,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 3442,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3275,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 3142,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 1858,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2639,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3323,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 3651,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 3205,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 1934,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 2525,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 2511,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 2629,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 1950,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "Note",
+      "wordCount": 927,
+      "estimatedMinutes": 4
+    }
+  ]
+}

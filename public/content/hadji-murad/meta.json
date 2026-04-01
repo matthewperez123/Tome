@@ -1,0 +1,166 @@
+{
+  "bookId": "hadji-murad",
+  "title": "Hadji Murád",
+  "author": "Leo Tolstoy",
+  "chapterCount": 26,
+  "totalWordCount": 48621,
+  "totalMinutes": 194,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1707,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1435,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1907,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2001,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1807,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 782,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 1839,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1973,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1562,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 4596,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 1727,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 477,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1502,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2407,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1936,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 1584,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 1466,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 3252,
+      "estimatedMinutes": 13
+    }
+  ]
+}

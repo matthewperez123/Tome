@@ -1,0 +1,238 @@
+{
+  "bookId": "the-mucker",
+  "title": "The Mucker",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 38,
+  "totalWordCount": 123867,
+  "totalMinutes": 500,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 441,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Billy Byrne",
+      "wordCount": 2903,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II: Shanghaied",
+      "wordCount": 2835,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III: The Conspiracy",
+      "wordCount": 2737,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "IV: Piracy",
+      "wordCount": 4173,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "V: Larry Divine Unmasked",
+      "wordCount": 3004,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VI: The Mucker at Bay",
+      "wordCount": 3109,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII: The Typhoon",
+      "wordCount": 3424,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Wreck of the Halfmoon",
+      "wordCount": 3296,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IX: Oda Yorimoto",
+      "wordCount": 3516,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "X: Barbara Captured by Headhunters",
+      "wordCount": 5401,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 12,
+      "title": "XI: The Village of Yoka",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XII: The Fight in the Palace",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIII: A Gentleman of France",
+      "wordCount": 3582,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Mucker Sees a New Light",
+      "wordCount": 3228,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XV: The Rescue",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Supreme Sacrifice",
+      "wordCount": 2487,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVII: Home Again",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Gulf Between",
+      "wordCount": 4129,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I: The Murder Trial",
+      "wordCount": 3144,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "II: The Escape",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "III: “Five Hundred Dollars Reward”",
+      "wordCount": 3091,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "IV: On the Trail",
+      "wordCount": 2898,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "V: One Turn Deserves Another",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "VI: “Baby Bandits”",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "VII: In Pesita’s Camp",
+      "wordCount": 3233,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "VIII: Billy’s First Command",
+      "wordCount": 2988,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "IX: Barbara in Mexico",
+      "wordCount": 3189,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "X: Billy Cracks a Safe",
+      "wordCount": 4885,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 31,
+      "title": "XI: Barbara Releases a Conspirator",
+      "wordCount": 3504,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "XII: Billy to the Rescue",
+      "wordCount": 3741,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XIII: Barbara Again",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XIV: ’Twixt Love and Duty",
+      "wordCount": 3720,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "XV: An Indian’s Treachery",
+      "wordCount": 3705,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 36,
+      "title": "XVI: Eddie Makes Good",
+      "wordCount": 3895,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 37,
+      "title": "XVII: “You Are My Girl!”",
+      "wordCount": 6434,
+      "estimatedMinutes": 26
+    }
+  ]
+}

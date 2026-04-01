@@ -1,0 +1,292 @@
+{
+  "bookId": "uncle-toms-cabin",
+  "title": "Uncle Tom’s Cabin: Or, Life Among the Lowly",
+  "author": "Harriet Beecher Stowe",
+  "chapterCount": 47,
+  "totalWordCount": 181430,
+  "totalMinutes": 726,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Volume I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: In Which the Reader Is Introduced to a Man of Humanity",
+      "wordCount": 4129,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "II: The Mother",
+      "wordCount": 1229,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "III: The Husband and Father",
+      "wordCount": 2138,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV: An Evening in Uncle Tom’s Cabin",
+      "wordCount": 4711,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "V: Showing the Feelings of Living Property on Changing Owners",
+      "wordCount": 3606,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: Discovery",
+      "wordCount": 3643,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VII: The Mother’s Struggle",
+      "wordCount": 5325,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "VIII: Eliza’s Escape",
+      "wordCount": 6487,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 9,
+      "title": "IX: In Which It Appears That a Senator Is but a Man",
+      "wordCount": 6774,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 10,
+      "title": "X: The Property Is Carried Off",
+      "wordCount": 4054,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI: In Which Property Gets Into an Improper State of Mind",
+      "wordCount": 5663,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: Select Incident of Lawful Trade",
+      "wordCount": 6723,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Quaker Settlement",
+      "wordCount": 3554,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Evangeline",
+      "wordCount": 4087,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XV: Of Tom’s New Master, and Various Other Matters",
+      "wordCount": 6449,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "XVI: Tom’s Mistress and Her Opinions",
+      "wordCount": 7545,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Freeman’s Defense",
+      "wordCount": 6984,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Miss Ophelia’s Experiences and Opinions",
+      "wordCount": 6375,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 19,
+      "title": "Volume II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XIX: Miss Ophelia’s Experiences and Opinions Continued",
+      "wordCount": 8311,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 21,
+      "title": "XX: Topsy",
+      "wordCount": 5874,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "XXI: Kentuck",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXII: “The Grass Withereth—The Flower Fadeth”",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Henrique",
+      "wordCount": 2868,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Foreshadowings",
+      "wordCount": 2597,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXV: The Little Evangelist",
+      "wordCount": 1921,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Death",
+      "wordCount": 5169,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 28,
+      "title": "XXVII: “This Is the Last of Earth”",
+      "wordCount": 2972,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Reunion",
+      "wordCount": 5750,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 30,
+      "title": "XXIX: The Unprotected",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXX: The Slave Warehouse",
+      "wordCount": 4034,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Middle Passage",
+      "wordCount": 2387,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Dark Places",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Cassy",
+      "wordCount": 2868,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: The Quadroon’s Story",
+      "wordCount": 4726,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 36,
+      "title": "XXXV: The Tokens",
+      "wordCount": 2444,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: Emmeline and Cassy",
+      "wordCount": 2598,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: Liberty",
+      "wordCount": 2455,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: The Victory",
+      "wordCount": 4031,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: The Stratagem",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "XL: The Martyr",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 42,
+      "title": "XLI: The Young Master",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XLII: An Authentic Ghost Story",
+      "wordCount": 2512,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XLIII: Results",
+      "wordCount": 3278,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 45,
+      "title": "XLIV: The Liberator",
+      "wordCount": 1438,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "XLV: Concluding Remarks",
+      "wordCount": 3835,
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "bookId": "the-forsyte-saga",
+  "title": "The Forsyte Saga",
+  "author": "John Galsworthy",
+  "chapterCount": 129,
+  "totalWordCount": 320542,
+  "totalMinutes": 1290,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1173,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Man of Property",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: “At Home” at Old Jolyon’s",
+      "wordCount": 6395,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "II: Old Jolyon Goes to the Opera",
+      "wordCount": 5705,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "III: Dinner at Swithin’s",
+      "wordCount": 5152,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "IV: Projection of the House",
+      "wordCount": 3545,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "V: A Forsyte Ménage",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VI: James at Large",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VII: Old Jolyon’s Peccadillo",
+      "wordCount": 2871,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "VIII: Plans of the House",
+      "wordCount": 2972,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "IX: Death of Aunt Ann",
+      "wordCount": 3292,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "I: Progress of the House",
+      "wordCount": 2813,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "II: June’s Treat",
+      "wordCount": 2319,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "III: Drive with Swithin",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "IV: James Goes to See for Himself",
+      "wordCount": 3788,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "V: Soames and Bosinney Correspond",
+      "wordCount": 5059,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 18,
+      "title": "VI: Old Jolyon at the Zoo",
+      "wordCount": 2123,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "VII: Afternoon at Timothy’s",
+      "wordCount": 4588,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "VIII: Dance at Roger’s",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "IX: Evening at Richmond",
+      "wordCount": 3854,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "X: Diagnosis of a Forsyte",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XI: Bosinney on Parole",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XII: June Pays Some Calls",
+      "wordCount": 3250,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XIII: Perfection of the House",
+      "wordCount": 2795,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XIV: Soames Sits on the Stairs",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "I: Mrs. Macander’s Evidence",
+      "wordCount": 4033,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "II: Night in the Park",
+      "wordCount": 1591,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "III: Meeting at the Botanical",
+      "wordCount": 5127,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 31,
+      "title": "IV: Voyage Into the Inferno",
+      "wordCount": 3796,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "V: The Trial",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 33,
+      "title": "VI: Soames Breaks the News",
+      "wordCount": 3914,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 34,
+      "title": "VII: June’s Victory",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "VIII: Bosinney’s Departure",
+      "wordCount": 3329,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "IX: Irene’s Return",
+      "wordCount": 1727,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "Interlude: Indian Summer of a Forsyte",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I",
+      "wordCount": 6269,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 39,
+      "title": "II",
+      "wordCount": 2363,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "III",
+      "wordCount": 3114,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "IV",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 42,
+      "title": "V",
+      "wordCount": 4940,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 43,
+      "title": "Book II: In Chancery",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "I: At Timothy’s",
+      "wordCount": 3433,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "II: Exit a Man of the World",
+      "wordCount": 4414,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "III: Soames Prepares to Take Steps",
+      "wordCount": 1877,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "IV: Soho",
+      "wordCount": 2370,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "V: James Sees Visions",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "VI: No-Longer-Young Jolyon at Home",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 51,
+      "title": "VII: The Colt and the Filly",
+      "wordCount": 1716,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 52,
+      "title": "VIII: Jolyon Prosecutes Trusteeship",
+      "wordCount": 2512,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 53,
+      "title": "IX: Val Hears the News",
+      "wordCount": 2972,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 54,
+      "title": "X: Soames Entertains the Future",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 55,
+      "title": "XI: And Visits the Past",
+      "wordCount": 1931,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 56,
+      "title": "XII: On Forsyte ’Change",
+      "wordCount": 3953,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 57,
+      "title": "XIII: Jolyon Finds Out Where He Is",
+      "wordCount": 1993,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 58,
+      "title": "XIV: Soames Discovers What He Wants",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 59,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "I: The Third Generation",
+      "wordCount": 3023,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 61,
+      "title": "II: Soames Puts It to the Touch",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 62,
+      "title": "III: Visit to Irene",
+      "wordCount": 2000,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 63,
+      "title": "IV: Where Forsytes Fear to Tread",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "V: Jolly Sits in Judgment",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 65,
+      "title": "VI: Jolyon in Two Minds",
+      "wordCount": 1534,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 66,
+      "title": "VII: Dartie Versus Dartie",
+      "wordCount": 3849,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 67,
+      "title": "VIII: The Challenge",
+      "wordCount": 1761,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 68,
+      "title": "IX: Dinner at James’",
+      "wordCount": 2154,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 69,
+      "title": "X: Death of the Dog Balthasar",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 70,
+      "title": "XI: Timothy Stays the Rot",
+      "wordCount": 2187,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "XII: Progress of the Chase",
+      "wordCount": 1828,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 72,
+      "title": "XIII: “Here We Are Again!”",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 73,
+      "title": "XIV: Outlandish Night",
+      "wordCount": 879,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 74,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 75,
+      "title": "I: Soames in Paris",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 76,
+      "title": "II: In the Web",
+      "wordCount": 1102,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 77,
+      "title": "III: Richmond Park",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 78,
+      "title": "IV: Over the River",
+      "wordCount": 448,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 79,
+      "title": "V: Soames Acts",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 80,
+      "title": "VI: A Summer Day",
+      "wordCount": 2378,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 81,
+      "title": "VII: A Summer Night",
+      "wordCount": 1200,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 82,
+      "title": "VIII: James in Waiting",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 83,
+      "title": "IX: Out of the Web",
+      "wordCount": 3073,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 84,
+      "title": "X: Passing of an Age",
+      "wordCount": 3736,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 85,
+      "title": "XI: Suspended Animation",
+      "wordCount": 2433,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 86,
+      "title": "XII: Birth of a Forsyte",
+      "wordCount": 2219,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 87,
+      "title": "XIII: James Is Told",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 88,
+      "title": "XIV: His",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 89,
+      "title": "Awakening",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 90,
+      "title": "Awakening",
+      "wordCount": 7257,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 91,
+      "title": "Book III: To Let",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 92,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 93,
+      "title": "I: Encounter",
+      "wordCount": 6023,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 94,
+      "title": "II: Fine Fleur Forsyte",
+      "wordCount": 2265,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 95,
+      "title": "III: At Robin Hill",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 96,
+      "title": "IV: The Mausoleum",
+      "wordCount": 3428,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 97,
+      "title": "V: The Native Heath",
+      "wordCount": 3033,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 98,
+      "title": "VI: Jon",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 99,
+      "title": "VII: Fleur",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 100,
+      "title": "VIII: Idyll on Grass",
+      "wordCount": 1160,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 101,
+      "title": "IX: Goya",
+      "wordCount": 3789,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 102,
+      "title": "X: Trio",
+      "wordCount": 2033,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 103,
+      "title": "XI: Duet",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 104,
+      "title": "XII: Caprice",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 105,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 106,
+      "title": "I: Mother and Son",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 107,
+      "title": "II: Fathers and Daughters",
+      "wordCount": 5122,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 108,
+      "title": "III: Meetings",
+      "wordCount": 3316,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 109,
+      "title": "IV: In Green Street",
+      "wordCount": 1954,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 110,
+      "title": "V: Purely Forsyte Affairs",
+      "wordCount": 2398,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 111,
+      "title": "VI: Soames’ Private Life",
+      "wordCount": 3315,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 112,
+      "title": "VII: June Takes a Hand",
+      "wordCount": 1719,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 113,
+      "title": "VIII: The Bit Between the Teeth",
+      "wordCount": 2032,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 114,
+      "title": "IX: The Fat in the Fire",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 115,
+      "title": "X: Decision",
+      "wordCount": 1291,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 116,
+      "title": "XI: Timothy Prophesies",
+      "wordCount": 3839,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 117,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 118,
+      "title": "I: Old Jolyon Walks",
+      "wordCount": 3260,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 119,
+      "title": "II: Confession",
+      "wordCount": 2334,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 120,
+      "title": "III: Irene",
+      "wordCount": 1604,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 121,
+      "title": "IV: Soames Cogitates",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 122,
+      "title": "V: The Fixed Idea",
+      "wordCount": 1421,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 123,
+      "title": "VI: Desperate",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 124,
+      "title": "VII: Embassy",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 125,
+      "title": "VIII: The Dark Tune",
+      "wordCount": 1823,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 126,
+      "title": "IX: Under the Oak-Tree",
+      "wordCount": 874,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 127,
+      "title": "X: Fleur’s Wedding",
+      "wordCount": 3443,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 128,
+      "title": "XI: The Last of the Old Forsytes",
+      "wordCount": 4024,
+      "estimatedMinutes": 16
+    }
+  ]
+}

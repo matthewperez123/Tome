@@ -1,0 +1,256 @@
+{
+  "bookId": "anne-of-the-island",
+  "title": "Anne of the Island",
+  "author": "L. M. Montgomery",
+  "chapterCount": 41,
+  "totalWordCount": 77057,
+  "totalMinutes": 310,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Shadow of Change",
+      "wordCount": 2675,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II: Garlands of Autumn",
+      "wordCount": 2417,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: Greeting and Farewell",
+      "wordCount": 2055,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: April’s Lady",
+      "wordCount": 4260,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "V: Letters from Home",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: In the Park",
+      "wordCount": 2082,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Home Again",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII: Anne’s First Proposal",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "IX: An Unwelcome Lover and a Welcome Friend",
+      "wordCount": 2521,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X: Patty’s Place",
+      "wordCount": 2557,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: The Round of Life",
+      "wordCount": 2815,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: “Averil’s Atonement”",
+      "wordCount": 2196,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Way of Transgressors",
+      "wordCount": 2915,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Summons",
+      "wordCount": 2524,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XV: A Dream Turned Upside Down",
+      "wordCount": 1384,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XVI: Adjusted Relationships",
+      "wordCount": 3402,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVII: A Letter from Davy",
+      "wordCount": 998,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Miss Josephine Remembers the Anne-Girl",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: An Interlude",
+      "wordCount": 1052,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XX: Gilbert Speaks",
+      "wordCount": 1537,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI: Roses of Yesterday",
+      "wordCount": 1232,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXII: Spring and Anne Return to Green Gables",
+      "wordCount": 1295,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Paul Cannot Find the Rock People",
+      "wordCount": 1126,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Enter Jonas",
+      "wordCount": 1619,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXV: Enter Prince Charming",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Enter Christine",
+      "wordCount": 1042,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Mutual Confidences",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: A June Evening",
+      "wordCount": 1388,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Diana’s Wedding",
+      "wordCount": 1116,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXX: Mrs. Skinner’s Romance",
+      "wordCount": 1206,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Anne to Philippa",
+      "wordCount": 862,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Tea with Mrs. Douglas",
+      "wordCount": 1445,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: “He Just Kept Coming and Coming”",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: John Douglas Speaks at Last",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Last Redmond Year Opens",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: The Gardners’ Call",
+      "wordCount": 1672,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: Full-Fledged B.A.’s",
+      "wordCount": 1692,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: False Dawn",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Deals with Weddings",
+      "wordCount": 2375,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XL: A Book of Revelation",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XLI: Love Takes Up the Glass of Time",
+      "wordCount": 1747,
+      "estimatedMinutes": 7
+    }
+  ]
+}

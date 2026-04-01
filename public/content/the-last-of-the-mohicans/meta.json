@@ -1,0 +1,214 @@
+{
+  "bookId": "the-last-of-the-mohicans",
+  "title": "The Last of the Mohicans: A Narrative of 1757",
+  "author": "James Fenimore Cooper",
+  "chapterCount": 34,
+  "totalWordCount": 146232,
+  "totalMinutes": 581,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3828,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3204,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3347,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3357,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 4223,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4502,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3915,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3353,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4466,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 4807,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 5613,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 4226,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 5352,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 4371,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 4354,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 5543,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 4522,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 4866,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 4556,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 4165,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 4403,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 5129,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 4735,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 5052,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 4104,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 3845,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 3822,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 29,
+      "title": "XXIX",
+      "wordCount": 5014,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 30,
+      "title": "XXX",
+      "wordCount": 4451,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXXI",
+      "wordCount": 3217,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXII",
+      "wordCount": 5855,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 33,
+      "title": "XXXIII",
+      "wordCount": 5161,
+      "estimatedMinutes": 21
+    }
+  ]
+}

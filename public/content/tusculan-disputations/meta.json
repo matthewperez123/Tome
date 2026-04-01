@@ -1,0 +1,46 @@
+{
+  "bookId": "tusculan-disputations",
+  "title": "Tusculan Disputations",
+  "author": "Cicero",
+  "chapterCount": 6,
+  "totalWordCount": 77065,
+  "totalMinutes": 309,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 345,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I: On the Contempt of Death",
+      "wordCount": 21058,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 2,
+      "title": "Book II: On Bearing Pain",
+      "wordCount": 10702,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 3,
+      "title": "Book III: On Grief of Mind",
+      "wordCount": 14189,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 4,
+      "title": "Book IV: On Other Perturbations of the Mind",
+      "wordCount": 13378,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 5,
+      "title": "Book V: Whether Virtue Alone Be Sufficient for a Happy Life",
+      "wordCount": 17393,
+      "estimatedMinutes": 70
+    }
+  ]
+}

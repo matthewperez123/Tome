@@ -1,0 +1,106 @@
+{
+  "bookId": "parnassus-on-wheels",
+  "title": "Parnassus on Wheels",
+  "author": "Christopher Morley",
+  "chapterCount": 16,
+  "totalWordCount": 35944,
+  "totalMinutes": 143,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Letter to David Grayson, Esq., of Hempfield, U.S.A.",
+      "wordCount": 328,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1952,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1795,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3762,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2603,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3700,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 1751,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3341,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2488,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2034,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2039,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 879,
+      "estimatedMinutes": 4
+    }
+  ]
+}

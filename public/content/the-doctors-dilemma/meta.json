@@ -1,0 +1,64 @@
+{
+  "bookId": "the-doctors-dilemma",
+  "title": "The Doctor’s Dilemma",
+  "author": "George Bernard Shaw",
+  "chapterCount": 9,
+  "totalWordCount": 61732,
+  "totalMinutes": 248,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 995,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Acknowledgments",
+      "wordCount": 27,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Preface on Doctors",
+      "wordCount": 28074,
+      "estimatedMinutes": 112
+    },
+    {
+      "index": 3,
+      "title": "Dramatis Personae",
+      "wordCount": 34,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Act I",
+      "wordCount": 11309,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 5,
+      "title": "Act II",
+      "wordCount": 4789,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act III",
+      "wordCount": 8676,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 7,
+      "title": "Act IV",
+      "wordCount": 4862,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "Act V",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    }
+  ]
+}

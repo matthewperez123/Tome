@@ -1,0 +1,106 @@
+{
+  "bookId": "wired-love",
+  "title": "Wired Love: A Romance of Dots and Dashes",
+  "author": "Ella Cheever Thayer",
+  "chapterCount": 16,
+  "totalWordCount": 51027,
+  "totalMinutes": 203,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Sounds from a Distant “C”",
+      "wordCount": 3107,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: At the Hotel Norman",
+      "wordCount": 3119,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: Visible and Invisible Friends",
+      "wordCount": 4747,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV: Neighborly Calls",
+      "wordCount": 2679,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "V: Quimby Bursts Forth in Eloquence",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: Collapse of the Romance",
+      "wordCount": 2753,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VII: “Goodbye”",
+      "wordCount": 2782,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Feast",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "IX: Unexpected Visitors",
+      "wordCount": 3668,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X: The Broken Circuit Reunited",
+      "wordCount": 3824,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: Miss Kling Telegraphically Baffled",
+      "wordCount": 4061,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XII: Crosses on the Line",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Wrong Woman",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV: Quimby Accepts the Situation",
+      "wordCount": 1531,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XV: One Summer Day",
+      "wordCount": 4848,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XVI: O. K.",
+      "wordCount": 3741,
+      "estimatedMinutes": 15
+    }
+  ]
+}

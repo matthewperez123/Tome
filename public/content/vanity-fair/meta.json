@@ -1,0 +1,418 @@
+{
+  "bookId": "vanity-fair",
+  "title": "Vanity Fair: A Novel Without a Hero",
+  "author": "William Makepeace Thackeray",
+  "chapterCount": 68,
+  "totalWordCount": 304162,
+  "totalMinutes": 1217,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Before the Curtain",
+      "wordCount": 619,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Chiswick Mall",
+      "wordCount": 2651,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II: In Which Miss Sharp and Miss Sedley Prepare to Open the Campaign",
+      "wordCount": 3891,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "III: Rebecca Is in Presence of the Enemy",
+      "wordCount": 2949,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Green Silk Purse",
+      "wordCount": 5221,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "V: Dobbin of Ours",
+      "wordCount": 4353,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: Vauxhall",
+      "wordCount": 5113,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: Crawley of Queen’s Crawley",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Private and Confidential",
+      "wordCount": 3857,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: Family Portraits",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X: Miss Sharp Begins to Make Friends",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XI: Arcadian Simplicity",
+      "wordCount": 5841,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: Quite a Sentimental Chapter",
+      "wordCount": 3508,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII: Sentimental and Otherwise",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XIV: Miss Crawley at Home",
+      "wordCount": 7495,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 15,
+      "title": "XV: In Which Rebecca’s Husband Appears for a Short Time",
+      "wordCount": 3514,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Letter on the Pincushion",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: How Captain Dobbin Bought a Piano",
+      "wordCount": 3439,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Who Played on the Piano Captain Dobbin Bought",
+      "wordCount": 5106,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 19,
+      "title": "XIX: Miss Crawley at Nurse",
+      "wordCount": 4367,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XX: In Which Captain Dobbin Acts as the Messenger of Hymen",
+      "wordCount": 4202,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXI: A Quarrel About an Heiress",
+      "wordCount": 3860,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXII: A Marriage and Part of a Honeymoon",
+      "wordCount": 3654,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Captain Dobbin Proceeds on His Canvass",
+      "wordCount": 2635,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIV: In Which Mr. Osborne Takes Down the Family Bible",
+      "wordCount": 5722,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 25,
+      "title": "XXV: In Which All the Principal Personages Think Fit to Leave Brighton",
+      "wordCount": 8114,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Between London and Chatham",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVII: In Which Amelia Joins Her Regiment",
+      "wordCount": 2684,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: In Which Amelia Invades the Low Countries",
+      "wordCount": 3918,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Brussels",
+      "wordCount": 5548,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "XXX: “The Girl I Left Behind Me”",
+      "wordCount": 4139,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 31,
+      "title": "XXXI: In Which Jos Sedley Takes Care of His Sister",
+      "wordCount": 4897,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 32,
+      "title": "XXXII: In Which Jos Takes Flight, and the War Is Brought to a Close",
+      "wordCount": 6959,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: In Which Miss Crawley’s Relations Are Very Anxious About Her",
+      "wordCount": 4374,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: James Crawley’s Pipe Is Put Out",
+      "wordCount": 7130,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Widow and Mother",
+      "wordCount": 4665,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: How to Live Well on Nothing a Year",
+      "wordCount": 3616,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Subject Continued",
+      "wordCount": 6324,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: A Family in a Very Small Way",
+      "wordCount": 6225,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: A Cynical Chapter",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "XL: In Which Becky Is Recognized by the Family",
+      "wordCount": 3609,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XLI: In Which Becky Revisits the Halls of Her Ancestors",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 42,
+      "title": "XLII: Which Treats of the Osborne Family",
+      "wordCount": 3161,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "XLIII: In Which the Reader Has to Double the Cape",
+      "wordCount": 4049,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 44,
+      "title": "XLIV: A Roundabout Chapter Between London and Hampshire",
+      "wordCount": 4400,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 45,
+      "title": "XLV: Between Hampshire and London",
+      "wordCount": 3825,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Struggles and Trials",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Gaunt House",
+      "wordCount": 3675,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: In Which the Reader Is Introduced to the Very Best of Company",
+      "wordCount": 4821,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 49,
+      "title": "XLIX: In Which We Enjoy Three Courses and a Dessert",
+      "wordCount": 3166,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 50,
+      "title": "L: Contains a Vulgar Incident",
+      "wordCount": 3873,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 51,
+      "title": "LI: In Which a Charade Is Acted Which May or May Not Puzzle the Reader",
+      "wordCount": 7689,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 52,
+      "title": "LII: In Which Lord Steyne Shows Himself in a Most Amiable Light",
+      "wordCount": 4342,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "LIII: A Rescue and a Catastrophe",
+      "wordCount": 3772,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 54,
+      "title": "LIV: Sunday After the Battle",
+      "wordCount": 3773,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 55,
+      "title": "LV: In Which the Same Subject Is Pursued",
+      "wordCount": 6416,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 56,
+      "title": "LVI: Georgy Is Made a Gentleman",
+      "wordCount": 5070,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 57,
+      "title": "LVII: Eothen",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Our Friend the Major",
+      "wordCount": 4904,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 59,
+      "title": "LIX: The Old Piano",
+      "wordCount": 4636,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 60,
+      "title": "LX: Returns to the Genteel World",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 61,
+      "title": "LXI: In Which Two Lights Are Put Out",
+      "wordCount": 5951,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 62,
+      "title": "LXII: Am Rhein",
+      "wordCount": 4441,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 63,
+      "title": "LXIII: In Which We Meet an Old Acquaintance",
+      "wordCount": 4966,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 64,
+      "title": "LXIV: A Vagabond Chapter",
+      "wordCount": 6872,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 65,
+      "title": "LXV: Full of Business and Pleasure",
+      "wordCount": 3391,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Amantium Irae",
+      "wordCount": 6452,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 67,
+      "title": "LXVII: Which Contains Births, Marriages, and Deaths",
+      "wordCount": 7376,
+      "estimatedMinutes": 30
+    }
+  ]
+}

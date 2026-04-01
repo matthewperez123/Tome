@@ -1,0 +1,136 @@
+{
+  "bookId": "midwinter",
+  "title": "Midwinter: Certain Travellers in Old England",
+  "author": "John Buchan",
+  "chapterCount": 21,
+  "totalWordCount": 88867,
+  "totalMinutes": 356,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "I: In Which a Highland Gentleman Misses His Way",
+      "wordCount": 5600,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "II: In Which a Nobleman Is Perplexed",
+      "wordCount": 7138,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "III: In Which Private Matters Cut Across Affairs of State",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV: Mr. Kyd of Greyhouses",
+      "wordCount": 3681,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V: Chance-Medley",
+      "wordCount": 5100,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "VI: Introduces the Runaway Lady",
+      "wordCount": 3684,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VII: How a Man May Hunt with the Hounds and Yet Run with the Hare",
+      "wordCount": 4557,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII: Broom at the Crossroads",
+      "wordCount": 3787,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: Old England",
+      "wordCount": 4556,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X: Snowbound at the Sleeping Deer",
+      "wordCount": 5999,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "XI: Night at the Same: Two Visitors",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: The Hut in the Oak Shaw",
+      "wordCount": 4217,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XIII: Journeyman John",
+      "wordCount": 4026,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIV: Duchess Kitty on the Road",
+      "wordCount": 3853,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XV: Bids Farewell to a Scots Laird",
+      "wordCount": 6011,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 16,
+      "title": "XVI: Bids Farewell to an English Lady",
+      "wordCount": 3128,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII: Ordeal of Honour",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVIII: In Which Three Gentlemen Confess Their Nakedness",
+      "wordCount": 4253,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: Ramoth-Gilead",
+      "wordCount": 4477,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "Postscript",
+      "wordCount": 667,
+      "estimatedMinutes": 3
+    }
+  ]
+}

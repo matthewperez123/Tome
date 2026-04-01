@@ -1,0 +1,190 @@
+{
+  "bookId": "geronimos-story-of-his-life",
+  "title": "Geronimo’s Story of His Life",
+  "author": "Geronimo",
+  "chapterCount": 30,
+  "totalWordCount": 32796,
+  "totalMinutes": 136,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 144,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Introductory",
+      "wordCount": 2261,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Part I: The Apaches",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "I: Origin of the Apache Indians",
+      "wordCount": 1363,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "II: Subdivisions of the Apache Tribe",
+      "wordCount": 586,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "III: Early Life",
+      "wordCount": 1234,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "IV: Tribal Amusements, Manners, and Customs",
+      "wordCount": 1350,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "V: The Family",
+      "wordCount": 656,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "Part II: The Mexicans",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "VI: Kas-Ki-Yeh",
+      "wordCount": 1828,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "VII: Fighting Under Difficulties",
+      "wordCount": 2174,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "VIII: Raids That Were Successful",
+      "wordCount": 1512,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "IX: Varying Fortunes",
+      "wordCount": 1052,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "X: Other Raids",
+      "wordCount": 1880,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XI: Heavy Fighting",
+      "wordCount": 975,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XII: Geronimo’s Mightiest Battle",
+      "wordCount": 915,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "Part III: The White Men",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "XIII: Coming of the White Men",
+      "wordCount": 870,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "XIV: Greatest of Wrongs",
+      "wordCount": 969,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XV: Removals",
+      "wordCount": 646,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "XVI: In Prison and on the Warpath",
+      "wordCount": 1305,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XVII: The Final Struggle",
+      "wordCount": 1424,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XVIII: Surrender of Geronimo",
+      "wordCount": 3967,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XIX: A Prisoner of War",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "Part IV: The Old and the New",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XX: Unwritten Laws of the Apaches",
+      "wordCount": 1784,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXI: At the World’s Fair",
+      "wordCount": 1580,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXII: Religion",
+      "wordCount": 903,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXIII: Hopes for the Future",
+      "wordCount": 565,
+      "estimatedMinutes": 2
+    }
+  ]
+}

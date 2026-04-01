@@ -1,0 +1,82 @@
+{
+  "bookId": "the-wisdom-of-father-brown",
+  "title": "The Wisdom of Father Brown",
+  "author": "G. K. Chesterton",
+  "chapterCount": 12,
+  "totalWordCount": 71989,
+  "totalMinutes": 287,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Absence of Mr. Glass",
+      "wordCount": 5726,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 1,
+      "title": "The Paradise of Thieves",
+      "wordCount": 6592,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "The Duel of Dr. Hirsch",
+      "wordCount": 5848,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "The Man in the Passage",
+      "wordCount": 6453,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "The Mistake of the Machine",
+      "wordCount": 5971,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "The Head of Caesar",
+      "wordCount": 6248,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "The Purple Wig",
+      "wordCount": 5464,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "The Perishing of the Pendragons",
+      "wordCount": 7428,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "The God of the Gongs",
+      "wordCount": 5848,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "The Salad of Colonel Cray",
+      "wordCount": 5297,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "The Strange Crime of John Boulnois",
+      "wordCount": 5861,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "The Fairy Tale of Father Brown",
+      "wordCount": 5253,
+      "estimatedMinutes": 21
+    }
+  ]
+}

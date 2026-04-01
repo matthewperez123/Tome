@@ -1,0 +1,148 @@
+{
+  "bookId": "what-is-art",
+  "title": "What Is Art?",
+  "author": "Leo Tolstoy",
+  "chapterCount": 23,
+  "totalWordCount": 77364,
+  "totalMinutes": 309,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 8756,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 1,
+      "title": "The Author’s Preface",
+      "wordCount": 1088,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2379,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2973,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 5181,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 2412,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2124,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2409,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 1817,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 6848,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 3756,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 4798,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 2980,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 6109,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 1339,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 2461,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XX: The Conclusion",
+      "wordCount": 4055,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "Appendices",
+      "wordCount": 4959,
+      "estimatedMinutes": 20
+    }
+  ]
+}

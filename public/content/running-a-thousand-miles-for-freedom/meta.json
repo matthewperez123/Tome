@@ -1,0 +1,28 @@
+{
+  "bookId": "running-a-thousand-miles-for-freedom",
+  "title": "Running a Thousand Miles for Freedom: The Escape of William and Ellen Craft from Slavery",
+  "author": "William Craft & Ellen Craft",
+  "chapterCount": 3,
+  "totalWordCount": 25026,
+  "totalMinutes": 100,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 202,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 17976,
+      "estimatedMinutes": 72
+    },
+    {
+      "index": 2,
+      "title": "Part II",
+      "wordCount": 6848,
+      "estimatedMinutes": 27
+    }
+  ]
+}

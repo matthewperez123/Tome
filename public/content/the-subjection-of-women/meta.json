@@ -1,0 +1,34 @@
+{
+  "bookId": "the-subjection-of-women",
+  "title": "The Subjection of Women",
+  "author": "John Stuart Mill",
+  "chapterCount": 4,
+  "totalWordCount": 43707,
+  "totalMinutes": 175,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 12164,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 8861,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 12718,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 9964,
+      "estimatedMinutes": 40
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "the-incredulity-of-father-brown",
+  "title": "The Incredulity of Father Brown",
+  "author": "G. K. Chesterton",
+  "chapterCount": 9,
+  "totalWordCount": 71342,
+  "totalMinutes": 287,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 46,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Resurrection of Father Brown",
+      "wordCount": 6958,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "The Arrow of Heaven",
+      "wordCount": 9669,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 3,
+      "title": "The Oracle of the Dog",
+      "wordCount": 8766,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 4,
+      "title": "The Miracle of Moon Crescent",
+      "wordCount": 9450,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 5,
+      "title": "The Curse of the Golden Cross",
+      "wordCount": 10277,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 6,
+      "title": "The Dagger with Wings",
+      "wordCount": 9005,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 7,
+      "title": "The Doom of the Darnaways",
+      "wordCount": 9769,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 8,
+      "title": "The Ghost of Gideon Wise",
+      "wordCount": 7402,
+      "estimatedMinutes": 30
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bookId": "a-week-on-the-concord-and-merrimack-rivers",
+  "title": "A Week on the Concord and Merrimack Rivers",
+  "author": "Henry David Thoreau",
+  "chapterCount": 8,
+  "totalWordCount": 115107,
+  "totalMinutes": 460,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Concord River",
+      "wordCount": 2396,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "Saturday",
+      "wordCount": 8302,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 2,
+      "title": "Sunday",
+      "wordCount": 21997,
+      "estimatedMinutes": 88
+    },
+    {
+      "index": 3,
+      "title": "Monday",
+      "wordCount": 18433,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 4,
+      "title": "Tuesday",
+      "wordCount": 16765,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 5,
+      "title": "Wednesday",
+      "wordCount": 18870,
+      "estimatedMinutes": 75
+    },
+    {
+      "index": 6,
+      "title": "Thursday",
+      "wordCount": 10731,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 7,
+      "title": "Friday",
+      "wordCount": 17613,
+      "estimatedMinutes": 70
+    }
+  ]
+}

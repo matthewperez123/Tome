@@ -1,0 +1,40 @@
+{
+  "bookId": "a-woman-of-no-importance",
+  "title": "A Woman of No Importance",
+  "author": "Oscar Wilde",
+  "chapterCount": 5,
+  "totalWordCount": 22392,
+  "totalMinutes": 90,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 95,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4987,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 6841,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 5057,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5412,
+      "estimatedMinutes": 22
+    }
+  ]
+}

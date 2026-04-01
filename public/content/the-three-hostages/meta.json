@@ -1,0 +1,136 @@
+{
+  "bookId": "the-three-hostages",
+  "title": "The Three Hostages",
+  "author": "John Buchan",
+  "chapterCount": 21,
+  "totalWordCount": 113855,
+  "totalMinutes": 455,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Doctor Greenslade Theorises",
+      "wordCount": 3859,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "II: I Hear of the Three Hostages",
+      "wordCount": 6491,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "III: Researches in the Subconscious",
+      "wordCount": 4912,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "IV: I Make the Acquaintance of a Popular Man",
+      "wordCount": 5626,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "V: The Thursday Club",
+      "wordCount": 5798,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "VI: The House in Gospel Oak",
+      "wordCount": 6023,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "VII: Some Experiences of a Disciple",
+      "wordCount": 4767,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Blind Spinner",
+      "wordCount": 4618,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "IX: I Am Introduced to Strong Magic",
+      "wordCount": 4759,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X: Confidences at a Wayside Inn",
+      "wordCount": 6142,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "XI: How a German Engineer Found Strange Fishing",
+      "wordCount": 6155,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 11,
+      "title": "XII: I Return to Servitude",
+      "wordCount": 4191,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XIII: I Visit the Fields of Eden",
+      "wordCount": 6978,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 13,
+      "title": "XIV: Sir Archibald Roylance Puts His Foot in It",
+      "wordCount": 4878,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XV: How a French Nobleman Discovered Fear",
+      "wordCount": 4110,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI: Our Time Is Narrowed",
+      "wordCount": 5313,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XVII: The District-Visitor in Palmyra Square",
+      "wordCount": 3107,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Night of the First of June",
+      "wordCount": 6249,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Night of the First of June—Later",
+      "wordCount": 6280,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 19,
+      "title": "XX: Machray",
+      "wordCount": 5234,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 20,
+      "title": "XXI: How I Stalked Wilder Game Than Deer",
+      "wordCount": 8365,
+      "estimatedMinutes": 33
+    }
+  ]
+}

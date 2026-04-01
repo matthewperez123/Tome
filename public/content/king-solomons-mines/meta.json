@@ -1,0 +1,148 @@
+{
+  "bookId": "king-solomons-mines",
+  "title": "King Solomon’s Mines",
+  "author": "H. Rider Haggard",
+  "chapterCount": 23,
+  "totalWordCount": 82292,
+  "totalMinutes": 326,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 570,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Author’s Note",
+      "wordCount": 205,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Introduction",
+      "wordCount": 558,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "I: I Meet Sir Henry Curtis",
+      "wordCount": 3544,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "II: The Legend of Solomon’s Mines",
+      "wordCount": 3367,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "III: Umbopa Enters Our Service",
+      "wordCount": 4307,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "IV: An Elephant Hunt",
+      "wordCount": 3524,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "V: Our March Into the Desert",
+      "wordCount": 4954,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VI: Water! Water!",
+      "wordCount": 4093,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VII: Solomon’s Road",
+      "wordCount": 5784,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 10,
+      "title": "VIII: We Enter Kukuanaland",
+      "wordCount": 3089,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "IX: Twala the King",
+      "wordCount": 4567,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "X: The Witch-Hunt",
+      "wordCount": 4582,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XI: We Give a Sign",
+      "wordCount": 5027,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XII: Before the Battle",
+      "wordCount": 3785,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Attack",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Last Stand of the Greys",
+      "wordCount": 6187,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 17,
+      "title": "XV: Good Falls Sick",
+      "wordCount": 3789,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVI: The Place of Death",
+      "wordCount": 3933,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XVII: Solomon’s Treasure Chamber",
+      "wordCount": 4095,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XVIII: We Abandon Hope",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XIX: Ignosi’s Farewell",
+      "wordCount": 3215,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XX: Found",
+      "wordCount": 2013,
+      "estimatedMinutes": 8
+    }
+  ]
+}

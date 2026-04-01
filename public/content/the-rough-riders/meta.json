@@ -1,0 +1,88 @@
+{
+  "bookId": "the-rough-riders",
+  "title": "The Rough Riders",
+  "author": "Theodore Roosevelt",
+  "chapterCount": 13,
+  "totalWordCount": 67254,
+  "totalMinutes": 269,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 361,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Raising the Regiment",
+      "wordCount": 8386,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "II: To Cuba",
+      "wordCount": 7600,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 3,
+      "title": "III: General Young’s Fight at Las Guasimas",
+      "wordCount": 9129,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 4,
+      "title": "IV: The Cavalry at Santiago",
+      "wordCount": 10179,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 5,
+      "title": "V: In the Trenches",
+      "wordCount": 8871,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 6,
+      "title": "VI: The Return Home",
+      "wordCount": 8692,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 7,
+      "title": "Appendix A: Colonel Roosevelt’s Report to the Secretary of War of September 10th",
+      "wordCount": 3064,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "Appendix B: The “Round Robin” Letter",
+      "wordCount": 1125,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "Appendix C: Corrections",
+      "wordCount": 4763,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "Appendix D",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "Appendix E",
+      "wordCount": 946,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "Appendix F",
+      "wordCount": 1353,
+      "estimatedMinutes": 5
+    }
+  ]
+}

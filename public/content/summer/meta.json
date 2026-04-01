@@ -1,0 +1,118 @@
+{
+  "bookId": "summer",
+  "title": "Summer",
+  "author": "Edith Wharton",
+  "chapterCount": 18,
+  "totalWordCount": 57733,
+  "totalMinutes": 232,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2677,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1962,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1388,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2841,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 4382,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3973,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3192,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3467,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2423,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3140,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 4070,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2350,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 5300,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 4389,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3043,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 3874,
+      "estimatedMinutes": 15
+    }
+  ]
+}

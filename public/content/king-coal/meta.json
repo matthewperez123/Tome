@@ -1,0 +1,760 @@
+{
+  "bookId": "king-coal",
+  "title": "King Coal: A Novel of the Colorado Coal Country",
+  "author": "Upton Sinclair",
+  "chapterCount": 125,
+  "totalWordCount": 123472,
+  "totalMinutes": 495,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 893,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Domain of King Coal",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1202,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 606,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 1354,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 837,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 986,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1291,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 463,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 1083,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 1012,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 671,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 1030,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 743,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 873,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 616,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 1103,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 1208,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 994,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 757,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 1135,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 689,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 938,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "Book II: The Serfs of King Coal",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "I",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "II",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "III",
+      "wordCount": 967,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "IV",
+      "wordCount": 1088,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "V",
+      "wordCount": 1430,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "VI",
+      "wordCount": 764,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "VII",
+      "wordCount": 1108,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 39,
+      "title": "VIII",
+      "wordCount": 1502,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "IX",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 41,
+      "title": "X",
+      "wordCount": 1213,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "XI",
+      "wordCount": 858,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "XII",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "XIII",
+      "wordCount": 687,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XIV",
+      "wordCount": 461,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XV",
+      "wordCount": 1123,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 47,
+      "title": "XVI",
+      "wordCount": 1006,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "XVII",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "XVIII",
+      "wordCount": 1109,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 50,
+      "title": "XIX",
+      "wordCount": 667,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "XX",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "XXI",
+      "wordCount": 721,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 53,
+      "title": "XXII",
+      "wordCount": 727,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 54,
+      "title": "XXIII",
+      "wordCount": 1261,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 55,
+      "title": "XXIV",
+      "wordCount": 1138,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 56,
+      "title": "XXV",
+      "wordCount": 1317,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 57,
+      "title": "XXVI",
+      "wordCount": 816,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 58,
+      "title": "XXVII",
+      "wordCount": 818,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 59,
+      "title": "XXVIII",
+      "wordCount": 1093,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "XXIX",
+      "wordCount": 743,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 61,
+      "title": "XXX",
+      "wordCount": 1596,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "XXXI",
+      "wordCount": 728,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 63,
+      "title": "XXXII",
+      "wordCount": 960,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 64,
+      "title": "XXXIII",
+      "wordCount": 1051,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 65,
+      "title": "XXXIV",
+      "wordCount": 1298,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 66,
+      "title": "Book III: The Henchmen of King Coal",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 67,
+      "title": "I",
+      "wordCount": 1158,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 68,
+      "title": "II",
+      "wordCount": 821,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 69,
+      "title": "III",
+      "wordCount": 1392,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 70,
+      "title": "IV",
+      "wordCount": 1088,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 71,
+      "title": "V",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 72,
+      "title": "VI",
+      "wordCount": 1281,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 73,
+      "title": "VII",
+      "wordCount": 972,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 74,
+      "title": "VIII",
+      "wordCount": 676,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 75,
+      "title": "IX",
+      "wordCount": 993,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 76,
+      "title": "X",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 77,
+      "title": "XI",
+      "wordCount": 694,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 78,
+      "title": "XII",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 79,
+      "title": "XIII",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 80,
+      "title": "XIV",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "XV",
+      "wordCount": 1097,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 82,
+      "title": "XVI",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 83,
+      "title": "XVII",
+      "wordCount": 807,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 84,
+      "title": "XVIII",
+      "wordCount": 662,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 85,
+      "title": "XIX",
+      "wordCount": 675,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 86,
+      "title": "XX",
+      "wordCount": 670,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 87,
+      "title": "XXI",
+      "wordCount": 1189,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 88,
+      "title": "XXII",
+      "wordCount": 1047,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 89,
+      "title": "XXIII",
+      "wordCount": 854,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 90,
+      "title": "XXIV",
+      "wordCount": 945,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 91,
+      "title": "XXV",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 92,
+      "title": "Book IV: The Will of King Coal",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 93,
+      "title": "I",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 94,
+      "title": "II",
+      "wordCount": 859,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 95,
+      "title": "III",
+      "wordCount": 1003,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 96,
+      "title": "IV",
+      "wordCount": 1376,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 97,
+      "title": "V",
+      "wordCount": 919,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 98,
+      "title": "VI",
+      "wordCount": 663,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 99,
+      "title": "VII",
+      "wordCount": 1076,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "VIII",
+      "wordCount": 616,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 101,
+      "title": "IX",
+      "wordCount": 737,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 102,
+      "title": "X",
+      "wordCount": 1697,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 103,
+      "title": "XI",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 104,
+      "title": "XII",
+      "wordCount": 679,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 105,
+      "title": "XIII",
+      "wordCount": 720,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 106,
+      "title": "XIV",
+      "wordCount": 1238,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 107,
+      "title": "XV",
+      "wordCount": 1905,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 108,
+      "title": "XVI",
+      "wordCount": 576,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 109,
+      "title": "XVII",
+      "wordCount": 822,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 110,
+      "title": "XVIII",
+      "wordCount": 749,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 111,
+      "title": "XIX",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 112,
+      "title": "XX",
+      "wordCount": 1087,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 113,
+      "title": "XXI",
+      "wordCount": 848,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 114,
+      "title": "XXII",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 115,
+      "title": "XXIII",
+      "wordCount": 777,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 116,
+      "title": "XXIV",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 117,
+      "title": "XXV",
+      "wordCount": 816,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 118,
+      "title": "XXVI",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 119,
+      "title": "XXVII",
+      "wordCount": 1039,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 120,
+      "title": "XXVIII",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 121,
+      "title": "XXIX",
+      "wordCount": 831,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 122,
+      "title": "XXX",
+      "wordCount": 941,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 123,
+      "title": "XXXI",
+      "wordCount": 1435,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 124,
+      "title": "Postscript",
+      "wordCount": 3996,
+      "estimatedMinutes": 16
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "the-eight-strokes-of-the-clock",
+  "title": "The Eight Strokes of the Clock",
+  "author": "Maurice Leblanc",
+  "chapterCount": 9,
+  "totalWordCount": 63458,
+  "totalMinutes": 254,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 104,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: On the Top of the Tower",
+      "wordCount": 8157,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 2,
+      "title": "II: The Water-Bottle",
+      "wordCount": 7733,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 3,
+      "title": "III: The Case of Jean Louis",
+      "wordCount": 7247,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "IV: The Telltale Film",
+      "wordCount": 7689,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "V: Thérèse and Germaine",
+      "wordCount": 8043,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 6,
+      "title": "VI: The Lady with the Hatchet",
+      "wordCount": 7328,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "VII: Footprints in the Snow",
+      "wordCount": 8869,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 8,
+      "title": "VIII: At the Sign of Mercury",
+      "wordCount": 8288,
+      "estimatedMinutes": 33
+    }
+  ]
+}

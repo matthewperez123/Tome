@@ -1,0 +1,100 @@
+{
+  "bookId": "salammbo",
+  "title": "Salammbô",
+  "author": "Gustave Flaubert",
+  "chapterCount": 15,
+  "totalWordCount": 105778,
+  "totalMinutes": 424,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Feast",
+      "wordCount": 6140,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 1,
+      "title": "II: At Sicca",
+      "wordCount": 7429,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 2,
+      "title": "III: Salammbô",
+      "wordCount": 2663,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV: Beneath the Walls of Carthage",
+      "wordCount": 6056,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "V: Tanith",
+      "wordCount": 5234,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: Hanno",
+      "wordCount": 6961,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "VII: Hamilcar Barca",
+      "wordCount": 13028,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Battle of the Macaras",
+      "wordCount": 6476,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "IX: In the Field",
+      "wordCount": 5305,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "X: The Serpent",
+      "wordCount": 4398,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "XI: In the Tent",
+      "wordCount": 6508,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 11,
+      "title": "XII: The Aqueduct",
+      "wordCount": 6797,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 12,
+      "title": "XIII: Moloch",
+      "wordCount": 12556,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Pass of the Hatchet",
+      "wordCount": 13049,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 14,
+      "title": "XV: Matho",
+      "wordCount": 3178,
+      "estimatedMinutes": 13
+    }
+  ]
+}

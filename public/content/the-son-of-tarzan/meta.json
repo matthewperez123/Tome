@@ -1,0 +1,172 @@
+{
+  "bookId": "the-son-of-tarzan",
+  "title": "The Son of Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 27,
+  "totalWordCount": 95023,
+  "totalMinutes": 383,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2964,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3802,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3814,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3627,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3962,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3689,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3713,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3500,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3700,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3083,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 4464,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 3633,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 3847,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 4139,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2977,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 3914,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 3572,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 2759,
+      "estimatedMinutes": 11
+    }
+  ]
+}

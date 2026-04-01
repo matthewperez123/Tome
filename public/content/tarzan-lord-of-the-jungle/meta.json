@@ -1,0 +1,154 @@
+{
+  "bookId": "tarzan-lord-of-the-jungle",
+  "title": "Tarzan, Lord of the Jungle",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 24,
+  "totalWordCount": 69976,
+  "totalMinutes": 278,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Tantor the Elephant",
+      "wordCount": 3267,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II: Comrades of the Wild",
+      "wordCount": 2967,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: The Apes of Toyat",
+      "wordCount": 2106,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: Bolgani the Gorilla",
+      "wordCount": 3142,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Tarmangani",
+      "wordCount": 2623,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Ara the Lightning",
+      "wordCount": 3414,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII: The Cross",
+      "wordCount": 2599,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Snake Strikes",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: Sir Richard",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X: The Return of Ulala",
+      "wordCount": 3347,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: Sir James",
+      "wordCount": 3837,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XII: “Tomorrow Thou Diest!”",
+      "wordCount": 2957,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII: In the Beyt of Zeyd",
+      "wordCount": 2695,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: Sword and Buckler",
+      "wordCount": 4346,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: The Lonely Grave",
+      "wordCount": 1845,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Great Tourney",
+      "wordCount": 3507,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVII: “The Saracens!”",
+      "wordCount": 2194,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Black Knight",
+      "wordCount": 3136,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIX: Lord Tarzan",
+      "wordCount": 4021,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX: “I Love You!”",
+      "wordCount": 3452,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI: “For Every Jewel a Drop of Blood!”",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: Bride of the Ape",
+      "wordCount": 2084,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Jad-Bal-Ja",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Where Trails Met",
+      "wordCount": 2048,
+      "estimatedMinutes": 8
+    }
+  ]
+}

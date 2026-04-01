@@ -1,0 +1,238 @@
+{
+  "bookId": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "chapterCount": 38,
+  "totalWordCount": 102954,
+  "totalMinutes": 411,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Mrs. Rachel Lynde Is Surprised",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II: Matthew Cuthbert Is Surprised",
+      "wordCount": 4958,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "III: Marilla Cuthbert Is Surprised",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV: Morning at Green Gables",
+      "wordCount": 2299,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: Anne’s History",
+      "wordCount": 2122,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "VI: Marilla Makes Up Her Mind",
+      "wordCount": 1939,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Anne Says Her Prayers",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII: Anne’s Bringing-Up Is Begun",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX: Mrs. Rachel Lynde Is Properly Horrified",
+      "wordCount": 2400,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X: Anne’s Apology",
+      "wordCount": 2492,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: Anne’s Impressions of Sunday-School",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: A Solemn Vow and Promise",
+      "wordCount": 2016,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Delights of Anticipation",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: Anne’s Confession",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV: A Tempest in the School Teapot",
+      "wordCount": 5284,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI: Diana Is Invited to Tea with Tragic Results",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XVII: A New Interest in Life",
+      "wordCount": 1998,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Anne to the Rescue",
+      "wordCount": 3445,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX: A Concert, a Catastrophe, and a Confession",
+      "wordCount": 4034,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX: A Good Imagination Gone Wrong",
+      "wordCount": 2246,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XXI: A New Departure in Flavourings",
+      "wordCount": 3665,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXII: Anne Is Invited Out to Tea",
+      "wordCount": 1497,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Anne Comes to Grief in an Affair of Honour",
+      "wordCount": 2341,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Miss Stacy and Her Pupils Get Up a Concert",
+      "wordCount": 1547,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXV: Matthew Insists on Puffed Sleeves",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Story Club Is Formed",
+      "wordCount": 2665,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Vanity and Vexation of Spirit",
+      "wordCount": 2534,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: An Unfortunate Lily Maid",
+      "wordCount": 2851,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXIX: An Epoch in Anne’s Life",
+      "wordCount": 3214,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Queen’s Class Is Organized",
+      "wordCount": 4303,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Where the Brook and River Meet",
+      "wordCount": 2281,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Pass List Is Out",
+      "wordCount": 2704,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: The Hotel Concert",
+      "wordCount": 3342,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: A Queen’s Girl",
+      "wordCount": 2522,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Winter at Queen’s",
+      "wordCount": 1631,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: The Glory and the Dream",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Reaper Whose Name Is Death",
+      "wordCount": 2362,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: The Bend in the Road",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    }
+  ]
+}

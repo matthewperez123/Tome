@@ -1,0 +1,100 @@
+{
+  "bookId": "the-man-who-was-thursday",
+  "title": "The Man Who Was Thursday: A Nightmare",
+  "author": "G. K. Chesterton",
+  "chapterCount": 15,
+  "totalWordCount": 57624,
+  "totalMinutes": 232,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Two Poets of Saffron Park",
+      "wordCount": 3562,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: The Secret of Gabriel Syme",
+      "wordCount": 2883,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: The Man Who Was Thursday",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "IV: The Tale of a Detective",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V: The Feast of Fear",
+      "wordCount": 3176,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI: The Exposure",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VII: The Unaccountable Conduct of Professor de Worms",
+      "wordCount": 3206,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Professor Explains",
+      "wordCount": 4235,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: The Man in Spectacles",
+      "wordCount": 5328,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "X: The Duel",
+      "wordCount": 5452,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "XI: The Criminals Chase the Police",
+      "wordCount": 2996,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII: The Earth in Anarchy",
+      "wordCount": 5446,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Pursuit of the President",
+      "wordCount": 3922,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Six Philosophers",
+      "wordCount": 4155,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: The Accuser",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    }
+  ]
+}

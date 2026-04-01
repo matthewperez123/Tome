@@ -1,0 +1,154 @@
+{
+  "bookId": "tarzan-and-the-jewels-of-opar",
+  "title": "Tarzan and the Jewels of Opar",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 24,
+  "totalWordCount": 66033,
+  "totalMinutes": 264,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Belgian and Arab",
+      "wordCount": 2089,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II: On the Road to Opar",
+      "wordCount": 1608,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "III: The Call of the Jungle",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV: Prophecy and Fulfillment",
+      "wordCount": 2172,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: The Altar of the Flaming God",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: The Arab Raid",
+      "wordCount": 2199,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: The Jewel-Room of Opar",
+      "wordCount": 1606,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Escape from Opar",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: The Theft of the Jewels",
+      "wordCount": 3038,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: Achmet Zek Sees the Jewels",
+      "wordCount": 2664,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI: Tarzan Becomes a Beast Again",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: La Seeks Vengeance",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Condemned to Torture and Death",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Priestess but Yet a Woman",
+      "wordCount": 2825,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV: The Flight of Werper",
+      "wordCount": 3646,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: Tarzan Again Leads the Mangani",
+      "wordCount": 3764,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Deadly Peril of Jane Clayton",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Fight for the Treasure",
+      "wordCount": 4091,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIX: Jane Clayton and the Beasts of the Jungle",
+      "wordCount": 3722,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XX: Jane Clayton Again a Prisoner",
+      "wordCount": 3456,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Flight to the Jungle",
+      "wordCount": 3515,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XXII: Tarzan Recovers His Reason",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXIII: A Night of Terror",
+      "wordCount": 3113,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Home",
+      "wordCount": 2052,
+      "estimatedMinutes": 8
+    }
+  ]
+}

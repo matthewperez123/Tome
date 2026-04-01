@@ -1,0 +1,16 @@
+{
+  "bookId": "some-thoughts-concerning-education",
+  "title": "Some Thoughts Concerning Education",
+  "author": "John Locke",
+  "chapterCount": 1,
+  "totalWordCount": 76997,
+  "totalMinutes": 308,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Some Thoughts Concerning Education",
+      "wordCount": 76997,
+      "estimatedMinutes": 308
+    }
+  ]
+}

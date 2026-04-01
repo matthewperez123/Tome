@@ -1,0 +1,196 @@
+{
+  "bookId": "captain-blood",
+  "title": "Captain Blood",
+  "author": "Rafael Sabatini",
+  "chapterCount": 31,
+  "totalWordCount": 113829,
+  "totalMinutes": 456,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Messenger",
+      "wordCount": 3060,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: Kirke’s Dragoons",
+      "wordCount": 2926,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: The Lord Chief Justice",
+      "wordCount": 4767,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV: Human Merchandise",
+      "wordCount": 2512,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: Arabella Bishop",
+      "wordCount": 4781,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "VI: Plans of Escape",
+      "wordCount": 5746,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "VII: Pirates",
+      "wordCount": 3728,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: Spaniards",
+      "wordCount": 2341,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX: The Rebels-Convict",
+      "wordCount": 4152,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "X: Don Diego",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "XI: Filial Piety",
+      "wordCount": 4274,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XII: Don Pedro Sangre",
+      "wordCount": 2405,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: Tortuga",
+      "wordCount": 3165,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIV: Levasseur’s Heroics",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: The Ransom",
+      "wordCount": 4148,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Trap",
+      "wordCount": 4574,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Dupes",
+      "wordCount": 5156,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Milagrosa",
+      "wordCount": 4691,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Meeting",
+      "wordCount": 3988,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX: Thief and Pirate",
+      "wordCount": 4202,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Service of King James",
+      "wordCount": 4815,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 21,
+      "title": "XXII: Hostilities",
+      "wordCount": 2858,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Hostages",
+      "wordCount": 4386,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XXIV: War",
+      "wordCount": 4709,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Service of King Louis",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XXVI: M. de Rivarol",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Cartagena",
+      "wordCount": 3358,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Honour of M. de Rivarol",
+      "wordCount": 2706,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXIX: The Service of King William",
+      "wordCount": 1842,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Last Fight of the Arabella",
+      "wordCount": 2205,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI: His Excellency the Governor",
+      "wordCount": 2776,
+      "estimatedMinutes": 11
+    }
+  ]
+}

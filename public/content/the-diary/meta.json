@@ -1,0 +1,712 @@
+{
+  "bookId": "the-diary",
+  "title": "The Diary",
+  "author": "Samuel Pepys",
+  "chapterCount": 117,
+  "totalWordCount": 1203938,
+  "totalMinutes": 4814,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Particulars of the Life of Samuel Pepys",
+      "wordCount": 13440,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 3,
+      "title": "January 1659–60",
+      "wordCount": 10035,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 4,
+      "title": "February 1659–60",
+      "wordCount": 11275,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 5,
+      "title": "March 1659–60",
+      "wordCount": 9381,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 6,
+      "title": "April 1660",
+      "wordCount": 6195,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 7,
+      "title": "May 1660",
+      "wordCount": 13687,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 8,
+      "title": "June 1660",
+      "wordCount": 6349,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "July 1660",
+      "wordCount": 6821,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 10,
+      "title": "August 1660",
+      "wordCount": 7434,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 11,
+      "title": "September 1660",
+      "wordCount": 5980,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "October 1660",
+      "wordCount": 7241,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 13,
+      "title": "November 1660",
+      "wordCount": 8408,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 14,
+      "title": "December 1660",
+      "wordCount": 6124,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "January 1660–61",
+      "wordCount": 8093,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 16,
+      "title": "February 1660–61",
+      "wordCount": 5662,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "March 1660–61",
+      "wordCount": 4878,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 18,
+      "title": "April 1661",
+      "wordCount": 8587,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 19,
+      "title": "May 1661",
+      "wordCount": 6420,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 20,
+      "title": "June 1661",
+      "wordCount": 5578,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 21,
+      "title": "July 1661",
+      "wordCount": 4488,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "August 1661",
+      "wordCount": 7159,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 23,
+      "title": "September 1661",
+      "wordCount": 7426,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 24,
+      "title": "October 1661",
+      "wordCount": 5202,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 25,
+      "title": "November 1661",
+      "wordCount": 6202,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 26,
+      "title": "December 1661",
+      "wordCount": 6329,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 27,
+      "title": "January 1661–62",
+      "wordCount": 6518,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 28,
+      "title": "February 1661–62",
+      "wordCount": 5004,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "March 1661–62",
+      "wordCount": 5405,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "April 1662",
+      "wordCount": 5481,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 31,
+      "title": "May 1662",
+      "wordCount": 6854,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 32,
+      "title": "June 1662",
+      "wordCount": 9190,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 33,
+      "title": "July 1662",
+      "wordCount": 8073,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 34,
+      "title": "August 1662",
+      "wordCount": 10607,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 35,
+      "title": "September 1662",
+      "wordCount": 9731,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 36,
+      "title": "October 1662",
+      "wordCount": 12273,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 37,
+      "title": "November 1662",
+      "wordCount": 8841,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 38,
+      "title": "December 1662",
+      "wordCount": 10740,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 39,
+      "title": "January 1662–63",
+      "wordCount": 10284,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 40,
+      "title": "February 1662–63",
+      "wordCount": 10812,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 41,
+      "title": "March 1662–63",
+      "wordCount": 8834,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 42,
+      "title": "April 1663",
+      "wordCount": 10151,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 43,
+      "title": "May 1663",
+      "wordCount": 16698,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 44,
+      "title": "June 1663",
+      "wordCount": 13978,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 45,
+      "title": "July 1663",
+      "wordCount": 16990,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 46,
+      "title": "August 1663",
+      "wordCount": 12317,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 47,
+      "title": "September 1663",
+      "wordCount": 10012,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 48,
+      "title": "October 1663",
+      "wordCount": 12460,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 49,
+      "title": "November 1663",
+      "wordCount": 15190,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 50,
+      "title": "December 1663",
+      "wordCount": 13223,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 51,
+      "title": "January 1663–64",
+      "wordCount": 10548,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 52,
+      "title": "February 1663–64",
+      "wordCount": 13298,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 53,
+      "title": "March 1663–64",
+      "wordCount": 12039,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 54,
+      "title": "April 1664",
+      "wordCount": 10438,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 55,
+      "title": "May 1664",
+      "wordCount": 8804,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 56,
+      "title": "June 1664",
+      "wordCount": 9344,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 57,
+      "title": "July 1664",
+      "wordCount": 12229,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 58,
+      "title": "August 1664",
+      "wordCount": 10377,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 59,
+      "title": "September 1664",
+      "wordCount": 8594,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 60,
+      "title": "October 1664",
+      "wordCount": 8274,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 61,
+      "title": "November 1664",
+      "wordCount": 6580,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 62,
+      "title": "December 1664",
+      "wordCount": 8586,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 63,
+      "title": "January 1664–65",
+      "wordCount": 8792,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 64,
+      "title": "February 1664–65",
+      "wordCount": 6683,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 65,
+      "title": "March 1664–65",
+      "wordCount": 8110,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 66,
+      "title": "April 1665",
+      "wordCount": 7067,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 67,
+      "title": "May 1665",
+      "wordCount": 6277,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 68,
+      "title": "June 1665",
+      "wordCount": 9959,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 69,
+      "title": "July 1665",
+      "wordCount": 12528,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 70,
+      "title": "August 1665",
+      "wordCount": 10244,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 71,
+      "title": "September 1665",
+      "wordCount": 14219,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 72,
+      "title": "October 1665",
+      "wordCount": 13230,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 73,
+      "title": "November 1665",
+      "wordCount": 10017,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 74,
+      "title": "December 1665",
+      "wordCount": 9903,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 75,
+      "title": "January 1665–66",
+      "wordCount": 10897,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 76,
+      "title": "February 1665–66",
+      "wordCount": 9092,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 77,
+      "title": "March 1665–66",
+      "wordCount": 8349,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 78,
+      "title": "April 1666",
+      "wordCount": 9294,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 79,
+      "title": "May 1666",
+      "wordCount": 8940,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 80,
+      "title": "June 1666",
+      "wordCount": 16976,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 81,
+      "title": "July 1666",
+      "wordCount": 13984,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 82,
+      "title": "August 1666",
+      "wordCount": 12212,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 83,
+      "title": "September 1666",
+      "wordCount": 12726,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 84,
+      "title": "October 1666",
+      "wordCount": 16561,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 85,
+      "title": "November 1666",
+      "wordCount": 13744,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 86,
+      "title": "December 1666",
+      "wordCount": 11183,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 87,
+      "title": "January 1666–67",
+      "wordCount": 12671,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 88,
+      "title": "February 1666–67",
+      "wordCount": 16895,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 89,
+      "title": "March 1666–67",
+      "wordCount": 17614,
+      "estimatedMinutes": 70
+    },
+    {
+      "index": 90,
+      "title": "April 1667",
+      "wordCount": 17581,
+      "estimatedMinutes": 70
+    },
+    {
+      "index": 91,
+      "title": "May 1667",
+      "wordCount": 18881,
+      "estimatedMinutes": 76
+    },
+    {
+      "index": 92,
+      "title": "June 1667",
+      "wordCount": 23346,
+      "estimatedMinutes": 93
+    },
+    {
+      "index": 93,
+      "title": "July 1667",
+      "wordCount": 20439,
+      "estimatedMinutes": 82
+    },
+    {
+      "index": 94,
+      "title": "August 1667",
+      "wordCount": 13419,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 95,
+      "title": "September 1667",
+      "wordCount": 15214,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 96,
+      "title": "October 1667",
+      "wordCount": 18869,
+      "estimatedMinutes": 75
+    },
+    {
+      "index": 97,
+      "title": "November 1667",
+      "wordCount": 13815,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 98,
+      "title": "December 1667",
+      "wordCount": 14735,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 99,
+      "title": "January 1667–68",
+      "wordCount": 14996,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 100,
+      "title": "February 1667–68",
+      "wordCount": 16413,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 101,
+      "title": "March 1667–68",
+      "wordCount": 15357,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 102,
+      "title": "April 1668",
+      "wordCount": 10363,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 103,
+      "title": "May 1668",
+      "wordCount": 12743,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 104,
+      "title": "June 1668",
+      "wordCount": 7686,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 105,
+      "title": "July 1668",
+      "wordCount": 4978,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 106,
+      "title": "August 1668",
+      "wordCount": 7997,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 107,
+      "title": "September 1668",
+      "wordCount": 8492,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 108,
+      "title": "October 1668",
+      "wordCount": 6417,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 109,
+      "title": "November 1668",
+      "wordCount": 13147,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 110,
+      "title": "December 1668",
+      "wordCount": 8237,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 111,
+      "title": "January 1668–69",
+      "wordCount": 9084,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 112,
+      "title": "February 1668–69",
+      "wordCount": 8840,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 113,
+      "title": "March 1668–69",
+      "wordCount": 14345,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 114,
+      "title": "April 1669",
+      "wordCount": 11313,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 115,
+      "title": "May 1669",
+      "wordCount": 8012,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 116,
+      "title": "Afterword",
+      "wordCount": 596,
+      "estimatedMinutes": 2
+    }
+  ]
+}

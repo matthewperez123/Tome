@@ -1,0 +1,184 @@
+{
+  "bookId": "from-the-earth-to-the-moon",
+  "title": "From the Earth to the Moon",
+  "author": "Jules Verne",
+  "chapterCount": 29,
+  "totalWordCount": 51273,
+  "totalMinutes": 206,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 477,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Gun Club",
+      "wordCount": 2349,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "President Barbicane’s Communication",
+      "wordCount": 2233,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Effect of President Barbicane’s Communication",
+      "wordCount": 1186,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "Answer from the Cambridge Observatory",
+      "wordCount": 1474,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "The Romance of the Moon",
+      "wordCount": 1930,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "What It Is Impossible to Ignore and What Is No Longer Allowed to Be Believed in the United States",
+      "wordCount": 1689,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "The Hymn of the Cannonball",
+      "wordCount": 2484,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "History of the Cannon",
+      "wordCount": 1634,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "The Question of Powders",
+      "wordCount": 1822,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "One Enemy Against Twenty-Five Millions of Friends",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "Florida and Texas",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "“Urbi et Orbi”",
+      "wordCount": 1599,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "Stony Hill",
+      "wordCount": 1905,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "Pickaxe and Trowel",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "The Ceremony of the Casting",
+      "wordCount": 1422,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "The Columbiad",
+      "wordCount": 2052,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "A Telegram",
+      "wordCount": 208,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "The Passenger of the Atlanta",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "A Meeting",
+      "wordCount": 2740,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "Thrust and Parry",
+      "wordCount": 2516,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "How a Frenchman Settles an Affair",
+      "wordCount": 2319,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "The New Citizen of the United States",
+      "wordCount": 1780,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "The Projectile Compartment",
+      "wordCount": 2231,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "The Telescope of the Rocky Mountains",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "Final Details",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "Fire!",
+      "wordCount": 1409,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "Cloudy Weather",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "A New Star",
+      "wordCount": 730,
+      "estimatedMinutes": 3
+    }
+  ]
+}

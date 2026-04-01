@@ -1,0 +1,250 @@
+{
+  "bookId": "jane-eyre",
+  "title": "Jane Eyre: An Autobiography",
+  "author": "Charlotte Brontë",
+  "chapterCount": 40,
+  "totalWordCount": 187521,
+  "totalMinutes": 750,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 804,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Note to the Third Edition",
+      "wordCount": 93,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1945,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2753,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3200,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 5817,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 5028,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2919,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3594,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3007,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 3259,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 4401,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 6512,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 4189,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 4062,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 5057,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 3772,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 8158,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 5899,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 3787,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 5847,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 8847,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 2924,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 7213,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 5037,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 4316,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 11255,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 6924,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 4572,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 3756,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 4614,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 34,
+      "title": "XXXIII",
+      "wordCount": 4843,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 35,
+      "title": "XXXIV",
+      "wordCount": 9344,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 36,
+      "title": "XXXV",
+      "wordCount": 4380,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 37,
+      "title": "XXXVI",
+      "wordCount": 3940,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "XXXVII",
+      "wordCount": 7516,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: Conclusion",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    }
+  ]
+}

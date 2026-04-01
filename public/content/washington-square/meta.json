@@ -1,0 +1,220 @@
+{
+  "bookId": "washington-square",
+  "title": "Washington Square",
+  "author": "Henry James",
+  "chapterCount": 35,
+  "totalWordCount": 64239,
+  "totalMinutes": 260,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1386,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2168,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1774,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2374,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2453,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1501,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1758,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1904,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1533,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1649,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 629,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3135,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1983,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2073,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1287,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1299,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1736,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 1964,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 2060,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 1325,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 1935,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 3477,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 2226,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 1167,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 1698,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 2191,
+      "estimatedMinutes": 9
+    }
+  ]
+}

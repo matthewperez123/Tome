@@ -1,0 +1,34 @@
+{
+  "bookId": "green-meadow-stories",
+  "title": "Green Meadow Stories",
+  "author": "Thornton W. Burgess",
+  "chapterCount": 4,
+  "totalWordCount": 84647,
+  "totalMinutes": 338,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Happy Jack",
+      "wordCount": 21286,
+      "estimatedMinutes": 85
+    },
+    {
+      "index": 1,
+      "title": "Mrs. Peter Rabbit",
+      "wordCount": 21033,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 2,
+      "title": "Bowser the Hound",
+      "wordCount": 20332,
+      "estimatedMinutes": 81
+    },
+    {
+      "index": 3,
+      "title": "Old Granny Fox",
+      "wordCount": 21996,
+      "estimatedMinutes": 88
+    }
+  ]
+}

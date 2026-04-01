@@ -1,0 +1,52 @@
+{
+  "bookId": "the-jungle-book",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "chapterCount": 7,
+  "totalWordCount": 50437,
+  "totalMinutes": 202,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Mowgli’s Brothers",
+      "wordCount": 7553,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 1,
+      "title": "Kaa’s Hunting",
+      "wordCount": 9165,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 2,
+      "title": "“Tiger! Tiger!”",
+      "wordCount": 6919,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 3,
+      "title": "The White Seal",
+      "wordCount": 7273,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "“Rikki-Tikki-Tavi”",
+      "wordCount": 5868,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "Toomai of the Elephants",
+      "wordCount": 7461,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 6,
+      "title": "Her Majesty’s Servants",
+      "wordCount": 6198,
+      "estimatedMinutes": 25
+    }
+  ]
+}

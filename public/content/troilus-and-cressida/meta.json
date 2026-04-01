@@ -1,0 +1,58 @@
+{
+  "bookId": "troilus-and-cressida",
+  "title": "Troilus and Cressida",
+  "author": "William Shakespeare",
+  "chapterCount": 8,
+  "totalWordCount": 29618,
+  "totalMinutes": 118,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1856,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 122,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 225,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 6333,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 4773,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 5350,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "Act IV",
+      "wordCount": 5480,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "Act V",
+      "wordCount": 5479,
+      "estimatedMinutes": 22
+    }
+  ]
+}

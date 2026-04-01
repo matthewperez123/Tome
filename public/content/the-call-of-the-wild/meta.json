@@ -1,0 +1,52 @@
+{
+  "bookId": "the-call-of-the-wild",
+  "title": "The Call of the Wild",
+  "author": "Jack London",
+  "chapterCount": 7,
+  "totalWordCount": 31785,
+  "totalMinutes": 127,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Into the Primitive",
+      "wordCount": 3728,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "II: The Law of Club and Fang",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III: The Dominant Primordial Beast",
+      "wordCount": 5161,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "IV: Who Has Won to Mastership",
+      "wordCount": 3223,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Toil of Trace and Trail",
+      "wordCount": 5349,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: For the Love of a Man",
+      "wordCount": 4754,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: The Sounding of the Call",
+      "wordCount": 6248,
+      "estimatedMinutes": 25
+    }
+  ]
+}

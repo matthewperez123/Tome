@@ -1,0 +1,46 @@
+{
+  "bookId": "timon-of-athens",
+  "title": "Timon of Athens",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 19807,
+  "totalMinutes": 80,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 114,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4567,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 2274,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4647,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5220,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 2985,
+      "estimatedMinutes": 12
+    }
+  ]
+}

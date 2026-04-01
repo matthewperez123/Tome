@@ -1,0 +1,424 @@
+{
+  "bookId": "uncle-silas",
+  "title": "Uncle Silas: A Tale of Bartram-Haugh",
+  "author": "J. Sheridan Le Fanu",
+  "chapterCount": 69,
+  "totalWordCount": 165433,
+  "totalMinutes": 666,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Preliminary Word",
+      "wordCount": 462,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Volume I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Austin Ruthyn, of Knowl, and His Daughter",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "II: Uncle Silas",
+      "wordCount": 1677,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "III: A New Face",
+      "wordCount": 1856,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: Madame de la Rougierre",
+      "wordCount": 1322,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V: Sights and Noises",
+      "wordCount": 1655,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VI: A Walk in the Wood",
+      "wordCount": 1890,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VII: Church Scarsdale",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Smoker",
+      "wordCount": 1728,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "IX: Monica Knollys",
+      "wordCount": 1939,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: Lady Knollys Removes a Coverlet",
+      "wordCount": 1889,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XI: Lady Knollys Sees the Features",
+      "wordCount": 1793,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XII: A Curious Conversation",
+      "wordCount": 1754,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIII: Before and After Breakfast",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV: Angry Words",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XV: A Warning",
+      "wordCount": 2341,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI: Doctor Bryerly Looks In",
+      "wordCount": 2350,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVII: An Adventure",
+      "wordCount": 2669,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVIII: A Midnight Visitor",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XIX: Au Revoir",
+      "wordCount": 2466,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XX: Austin Ruthyn Sets Out on His Journey",
+      "wordCount": 2411,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXI: Arrivals",
+      "wordCount": 2820,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXII: Somebody in the Room with the Coffin",
+      "wordCount": 2171,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIII: I Talk with Doctor Bryerly",
+      "wordCount": 2381,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Opening of the Will",
+      "wordCount": 3160,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXV: I Hear from Uncle Silas",
+      "wordCount": 3074,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVI: The Story of Uncle Silas",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVII: More About Tom Charke’s Suicide",
+      "wordCount": 2355,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: I Am Persuaded",
+      "wordCount": 3176,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXIX: How the Ambassador Fared",
+      "wordCount": 3071,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXX: On the Road",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XXXI: Bartram-Haugh",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Uncle Silas",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: The Windmill Wood",
+      "wordCount": 2161,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: Zamiel",
+      "wordCount": 3028,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "XXXV: We Visit a Room in the Second Storey",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "Volume II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I: An Arrival at Dead of Night",
+      "wordCount": 2648,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "II: Doctor Bryerly Emerges",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 40,
+      "title": "III: A Midnight Departure",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "IV: Cousin Monica and Uncle Silas Meet",
+      "wordCount": 3185,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "V: In Which I Make Another Cousin’s Acquaintance",
+      "wordCount": 2529,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "VI: My Cousin Dudley",
+      "wordCount": 2414,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "VII: Elverston and Its People",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "VIII: News at Bartram Gate",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "IX: A Friend Arises",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "X: A Chapter-Full of Lovers",
+      "wordCount": 2824,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 48,
+      "title": "XI: The Rivals",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 49,
+      "title": "XII: Doctor Bryerly Reappears",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 50,
+      "title": "XIII: Question and Answer",
+      "wordCount": 2491,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "XIV: An Apparition",
+      "wordCount": 3072,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 52,
+      "title": "XV: Milly’s Farewell",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 53,
+      "title": "XVI: Sarah Matilda Comes to Light",
+      "wordCount": 2947,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 54,
+      "title": "XVII: The Picture of a Wolf",
+      "wordCount": 2883,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 55,
+      "title": "XVIII: An Odd Proposal",
+      "wordCount": 3198,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 56,
+      "title": "XIX: In Search of Mr. Charke’s Skeleton",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 57,
+      "title": "XX: The Foot of Hercules",
+      "wordCount": 2304,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 58,
+      "title": "XXI: I Conspire",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 59,
+      "title": "XXII: The Letter",
+      "wordCount": 2511,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 60,
+      "title": "XXIII: Lady Knollys’ Carriage",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 61,
+      "title": "XXIV: A Sudden Departure",
+      "wordCount": 2943,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 62,
+      "title": "XXV: The Journey",
+      "wordCount": 2205,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 63,
+      "title": "XXVI: Our Bedchamber",
+      "wordCount": 2434,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "XXVII: A Well-Known Face Looks In",
+      "wordCount": 2476,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 65,
+      "title": "XXVIII: Spiced Claret",
+      "wordCount": 2485,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 66,
+      "title": "XXIX: The Hour of Death",
+      "wordCount": 1985,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 67,
+      "title": "XXX: In the Oak Parlour",
+      "wordCount": 728,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 68,
+      "title": "Conclusion",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    }
+  ]
+}

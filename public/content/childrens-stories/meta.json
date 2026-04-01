@@ -1,0 +1,70 @@
+{
+  "bookId": "childrens-stories",
+  "title": "Children’s Stories",
+  "author": "Oscar Wilde",
+  "chapterCount": 10,
+  "totalWordCount": 50897,
+  "totalMinutes": 203,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1590,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "The Happy Prince",
+      "wordCount": 3473,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "The Nightingale and the Rose",
+      "wordCount": 2331,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "The Selfish Giant",
+      "wordCount": 1653,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "The Devoted Friend",
+      "wordCount": 4398,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "The Remarkable Rocket",
+      "wordCount": 4369,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "The Young King",
+      "wordCount": 5350,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "The Birthday of the Infanta",
+      "wordCount": 7381,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "The Fisherman and His Soul",
+      "wordCount": 13979,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 9,
+      "title": "The Star-Child",
+      "wordCount": 6373,
+      "estimatedMinutes": 25
+    }
+  ]
+}

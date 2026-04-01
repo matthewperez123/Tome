@@ -1,0 +1,856 @@
+{
+  "bookId": "seven-pillars-of-wisdom",
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "chapterCount": 141,
+  "totalWordCount": 251614,
+  "totalMinutes": 1015,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 256,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction: Foundations of Revolt",
+      "wordCount": 127,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1917,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2298,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2276,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2547,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "Book I: The Discovery of Feisal",
+      "wordCount": 139,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 2807,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 1568,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 3081,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 2457,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XII",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 2682,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 1976,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "Book II: Opening the Arab Offensive",
+      "wordCount": 163,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XVII",
+      "wordCount": 1081,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XVIII",
+      "wordCount": 1990,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XIX",
+      "wordCount": 1568,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XX",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXI",
+      "wordCount": 1830,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXII",
+      "wordCount": 1407,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "XXIII",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXIV",
+      "wordCount": 2855,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXV",
+      "wordCount": 2495,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXVI",
+      "wordCount": 1649,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXVII",
+      "wordCount": 773,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "Book III: A Railway Diversion",
+      "wordCount": 188,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "XXVIII",
+      "wordCount": 1595,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 33,
+      "title": "XXIX",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "XXX",
+      "wordCount": 1569,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "XXXI",
+      "wordCount": 2432,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXII",
+      "wordCount": 2056,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XXXIII",
+      "wordCount": 4013,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "XXXIV",
+      "wordCount": 2853,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXV",
+      "wordCount": 3567,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 40,
+      "title": "XXXVI",
+      "wordCount": 1519,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "XXXVII",
+      "wordCount": 1968,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 42,
+      "title": "XXXVIII",
+      "wordCount": 2379,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "Book IV: Extending to Akaba",
+      "wordCount": 111,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "XXXIX",
+      "wordCount": 1998,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XL",
+      "wordCount": 2080,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLI",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 47,
+      "title": "XLII",
+      "wordCount": 1978,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "XLIII",
+      "wordCount": 1612,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 49,
+      "title": "XLIV",
+      "wordCount": 2101,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "XLV",
+      "wordCount": 2383,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "XLVI",
+      "wordCount": 1995,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 52,
+      "title": "XLVII",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 53,
+      "title": "XLVIII",
+      "wordCount": 3215,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 54,
+      "title": "XLIX",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "L",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 56,
+      "title": "LI",
+      "wordCount": 1203,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 57,
+      "title": "LII",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 58,
+      "title": "LIII",
+      "wordCount": 2451,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "LIV",
+      "wordCount": 2481,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 60,
+      "title": "Book V: Marking Time",
+      "wordCount": 81,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 61,
+      "title": "LV",
+      "wordCount": 1590,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "LVI",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 63,
+      "title": "LVII",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 64,
+      "title": "LVIII",
+      "wordCount": 1863,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 65,
+      "title": "LIX",
+      "wordCount": 2912,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 66,
+      "title": "LX",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "LXI",
+      "wordCount": 1986,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 68,
+      "title": "LXII",
+      "wordCount": 1657,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 69,
+      "title": "LXIII",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 70,
+      "title": "LXIV",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 71,
+      "title": "LXV",
+      "wordCount": 1506,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 72,
+      "title": "LXVI",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 73,
+      "title": "LXVII",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 74,
+      "title": "LXVIII",
+      "wordCount": 2026,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 75,
+      "title": "Book VI: The Raid Upon the Bridges",
+      "wordCount": 77,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 76,
+      "title": "LXIX",
+      "wordCount": 1555,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 77,
+      "title": "LXX",
+      "wordCount": 1537,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 78,
+      "title": "LXXI",
+      "wordCount": 1620,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 79,
+      "title": "LXXII",
+      "wordCount": 2503,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 80,
+      "title": "LXXIII",
+      "wordCount": 2460,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 81,
+      "title": "LXXIV",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 82,
+      "title": "LXXV",
+      "wordCount": 1982,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "LXXVI",
+      "wordCount": 2540,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 84,
+      "title": "LXXVII",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 85,
+      "title": "LXXVIII",
+      "wordCount": 1865,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 86,
+      "title": "LXXIX",
+      "wordCount": 2459,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 87,
+      "title": "LXXX",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 88,
+      "title": "LXXXI",
+      "wordCount": 2441,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 89,
+      "title": "Book VII: The Dead Sea Campaign",
+      "wordCount": 105,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 90,
+      "title": "LXXXII",
+      "wordCount": 2370,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 91,
+      "title": "LXXXIII",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 92,
+      "title": "LXXXIV",
+      "wordCount": 2016,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 93,
+      "title": "LXXXV",
+      "wordCount": 1881,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 94,
+      "title": "LXXXVI",
+      "wordCount": 1904,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 95,
+      "title": "LXXXVII",
+      "wordCount": 2570,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 96,
+      "title": "LXXXVIII",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 97,
+      "title": "LXXXIX",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 98,
+      "title": "XC",
+      "wordCount": 1649,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 99,
+      "title": "XCI",
+      "wordCount": 1034,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "Book VIII: The Ruin of High Hope",
+      "wordCount": 238,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 101,
+      "title": "XCII",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 102,
+      "title": "XCIII",
+      "wordCount": 2526,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 103,
+      "title": "XCIV",
+      "wordCount": 2963,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 104,
+      "title": "XCV",
+      "wordCount": 2131,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 105,
+      "title": "XCVI",
+      "wordCount": 1141,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 106,
+      "title": "XCVII",
+      "wordCount": 844,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 107,
+      "title": "Book IX: Balancing for a Last Effort",
+      "wordCount": 169,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 108,
+      "title": "XCVIII",
+      "wordCount": 2314,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 109,
+      "title": "XCIX",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 110,
+      "title": "C",
+      "wordCount": 1007,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 111,
+      "title": "CI",
+      "wordCount": 1593,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 112,
+      "title": "CII",
+      "wordCount": 2041,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 113,
+      "title": "CIII",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 114,
+      "title": "CIV",
+      "wordCount": 1412,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 115,
+      "title": "CV",
+      "wordCount": 2138,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 116,
+      "title": "CVI",
+      "wordCount": 1673,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 117,
+      "title": "Book X: The House Is Perfected",
+      "wordCount": 148,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 118,
+      "title": "CVII",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 119,
+      "title": "CVIII",
+      "wordCount": 2002,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 120,
+      "title": "CIX",
+      "wordCount": 1941,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 121,
+      "title": "CX",
+      "wordCount": 1409,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 122,
+      "title": "CXI",
+      "wordCount": 1458,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 123,
+      "title": "CXII",
+      "wordCount": 1324,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 124,
+      "title": "CXIII",
+      "wordCount": 3004,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 125,
+      "title": "CXIV",
+      "wordCount": 1610,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 126,
+      "title": "CXV",
+      "wordCount": 1834,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 127,
+      "title": "CXVI",
+      "wordCount": 1566,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 128,
+      "title": "CXVII",
+      "wordCount": 3237,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 129,
+      "title": "CXVIII",
+      "wordCount": 1935,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 130,
+      "title": "CXIX",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 131,
+      "title": "CXX",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 132,
+      "title": "CXXI",
+      "wordCount": 1686,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 133,
+      "title": "CXXII",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 134,
+      "title": "Epilogue",
+      "wordCount": 252,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 135,
+      "title": "Appendix 1",
+      "wordCount": 284,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 136,
+      "title": "Appendix 2",
+      "wordCount": 1311,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 137,
+      "title": "Endpapers",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 138,
+      "title": "Maps",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 139,
+      "title": "Photographs",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 140,
+      "title": "Portraits",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    }
+  ]
+}

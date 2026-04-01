@@ -1,0 +1,160 @@
+{
+  "bookId": "mr-standfast",
+  "title": "Mr. Standfast",
+  "author": "John Buchan",
+  "chapterCount": 25,
+  "totalWordCount": 128741,
+  "totalMinutes": 519,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 24,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Wicket-Gate",
+      "wordCount": 6790,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "II: “The Village Named Morality”",
+      "wordCount": 6653,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "III: The Reflections of a Cured Dyspeptic",
+      "wordCount": 4661,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "IV: Andrew Amos",
+      "wordCount": 6464,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "V: Various Doings in the West",
+      "wordCount": 7547,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 7,
+      "title": "VI: The Skirts of the Coolin",
+      "wordCount": 6965,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 8,
+      "title": "VII: I Hear of the Wild Birds",
+      "wordCount": 4834,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Adventures of a Bagman",
+      "wordCount": 5973,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "IX: I Take the Wings of a Dove",
+      "wordCount": 5089,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "X: The Advantages of an Air Raid",
+      "wordCount": 3901,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XI: The Valley of Humiliation",
+      "wordCount": 4703,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "XII: I Become a Combatant Once More",
+      "wordCount": 6055,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Adventure of the Picardy Château",
+      "wordCount": 5216,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XIV: Mr. Blenkiron Discourses on Love and War",
+      "wordCount": 8697,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 17,
+      "title": "XV: St. Anton",
+      "wordCount": 7045,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 18,
+      "title": "XVI: I Lie on a Hard Bed",
+      "wordCount": 5014,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 19,
+      "title": "XVII: The Col of the Swallows",
+      "wordCount": 6286,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Underground Railway",
+      "wordCount": 4179,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XIX: The Cage of the Wild Birds",
+      "wordCount": 3389,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XX: The Storm Breaks in the West",
+      "wordCount": 6020,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 23,
+      "title": "XXI: How an Exile Returned to His Own People",
+      "wordCount": 8583,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 24,
+      "title": "XXII: The Summons Comes for Mr. Standfast",
+      "wordCount": 4649,
+      "estimatedMinutes": 19
+    }
+  ]
+}

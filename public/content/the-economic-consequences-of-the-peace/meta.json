@@ -1,0 +1,58 @@
+{
+  "bookId": "the-economic-consequences-of-the-peace",
+  "title": "The Economic Consequences of the Peace",
+  "author": "John Maynard Keynes",
+  "chapterCount": 8,
+  "totalWordCount": 59704,
+  "totalMinutes": 240,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 118,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Introductory",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: Europe Before the War",
+      "wordCount": 3680,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: The Conference",
+      "wordCount": 6458,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "IV: The Treaty",
+      "wordCount": 10688,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 5,
+      "title": "V: Reparation",
+      "wordCount": 22488,
+      "estimatedMinutes": 90
+    },
+    {
+      "index": 6,
+      "title": "VI: Europe After the Treaty",
+      "wordCount": 5270,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII: Remedies",
+      "wordCount": 9911,
+      "estimatedMinutes": 40
+    }
+  ]
+}

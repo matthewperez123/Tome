@@ -1,0 +1,154 @@
+{
+  "bookId": "silas-marner",
+  "title": "Silas Marner: The Weaver of Raveloe",
+  "author": "George Eliot",
+  "chapterCount": 24,
+  "totalWordCount": 71450,
+  "totalMinutes": 286,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 4453,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4483,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2856,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3983,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3226,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 5827,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 7501,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2467,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 5070,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 449,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 6082,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 4079,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 1309,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 3714,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 836,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "Conclusion",
+      "wordCount": 985,
+      "estimatedMinutes": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bookId": "man-and-superman",
+  "title": "Man and Superman: A Comedy and a Philosophy",
+  "author": "George Bernard Shaw",
+  "chapterCount": 8,
+  "totalWordCount": 74821,
+  "totalMinutes": 300,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1059,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 33,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 15280,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 7648,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 24017,
+      "estimatedMinutes": 96
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 10766,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 6,
+      "title": "The Revolutionist’s Handbook and Pocket Companion",
+      "wordCount": 12534,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 7,
+      "title": "Maxims for Revolutionists",
+      "wordCount": 3484,
+      "estimatedMinutes": 14
+    }
+  ]
+}

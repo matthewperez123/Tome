@@ -1,0 +1,172 @@
+{
+  "bookId": "an-autobiography",
+  "title": "An Autobiography",
+  "author": "Theodore Roosevelt",
+  "chapterCount": 27,
+  "totalWordCount": 213866,
+  "totalMinutes": 857,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Foreword",
+      "wordCount": 540,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Boyhood and Youth",
+      "wordCount": 9662,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 4,
+      "title": "II: The Vigor of Life",
+      "wordCount": 9703,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 5,
+      "title": "III: Practical Politics",
+      "wordCount": 14542,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 6,
+      "title": "IV: In Cowboy Land",
+      "wordCount": 14178,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 7,
+      "title": "V: Applied Idealism",
+      "wordCount": 14509,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 8,
+      "title": "VI: The New York Police",
+      "wordCount": 13257,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 9,
+      "title": "VII: The War of America the Unready",
+      "wordCount": 19341,
+      "estimatedMinutes": 77
+    },
+    {
+      "index": 10,
+      "title": "Appendix A",
+      "wordCount": 490,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "Appendix B",
+      "wordCount": 4155,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "VIII: The New York Governorship",
+      "wordCount": 15790,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 13,
+      "title": "Appendix A",
+      "wordCount": 1122,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "Appendix B",
+      "wordCount": 972,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "IX: Outdoors and Indoors",
+      "wordCount": 11493,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 16,
+      "title": "X: The Presidency; Making an Old Party Progressive",
+      "wordCount": 15109,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 17,
+      "title": "XI: The Natural Resources of the Nation",
+      "wordCount": 10435,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 18,
+      "title": "XII: The Big Stick and the Square Deal",
+      "wordCount": 13393,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 19,
+      "title": "XIII: Social and Industrial Justice",
+      "wordCount": 13599,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 20,
+      "title": "Appendix A",
+      "wordCount": 445,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XIV: The Monroe Doctrine and the Panama Canal",
+      "wordCount": 9210,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 22,
+      "title": "Appendix A",
+      "wordCount": 916,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XV: The Peace of Righteousness",
+      "wordCount": 9730,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 24,
+      "title": "Appendix A",
+      "wordCount": 6295,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 25,
+      "title": "Appendix B",
+      "wordCount": 4252,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "Appendix C",
+      "wordCount": 296,
+      "estimatedMinutes": 1
+    }
+  ]
+}

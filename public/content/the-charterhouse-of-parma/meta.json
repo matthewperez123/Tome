@@ -1,0 +1,190 @@
+{
+  "bookId": "the-charterhouse-of-parma",
+  "title": "The Charterhouse of Parma",
+  "author": "Stendhal",
+  "chapterCount": 30,
+  "totalWordCount": 201297,
+  "totalMinutes": 805,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To the Reader",
+      "wordCount": 550,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 5294,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 7859,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 6179,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 7567,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 8410,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 15256,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 7419,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 6081,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3617,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2840,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 9225,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 5518,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 9918,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 7632,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 6458,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 6487,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 5534,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 7348,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 6685,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 9306,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 7603,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 6986,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 8152,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 7126,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 7174,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 6090,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 5514,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 6344,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 29,
+      "title": "Appendix",
+      "wordCount": 1125,
+      "estimatedMinutes": 5
+    }
+  ]
+}

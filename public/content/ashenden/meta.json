@@ -1,0 +1,112 @@
+{
+  "bookId": "ashenden",
+  "title": "Ashenden: Or, The British Agent",
+  "author": "W. Somerset Maugham",
+  "chapterCount": 17,
+  "totalWordCount": 87597,
+  "totalMinutes": 353,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1543,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: R.",
+      "wordCount": 902,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: A Domiciliary Visit",
+      "wordCount": 5092,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "III: Miss King",
+      "wordCount": 7153,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "IV: The Hairless Mexican",
+      "wordCount": 6035,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "V: The Dark Woman",
+      "wordCount": 3673,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VI: The Greek",
+      "wordCount": 4875,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: A Trip to Paris",
+      "wordCount": 6459,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "VIII: Giulia Lazzari",
+      "wordCount": 7798,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 9,
+      "title": "IX: Gustav",
+      "wordCount": 2181,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X: The Traitor",
+      "wordCount": 11964,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 11,
+      "title": "XI: Behind the Scenes",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: His Excellency",
+      "wordCount": 10969,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Flip of a Coin",
+      "wordCount": 1639,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Chance Acquaintance",
+      "wordCount": 5213,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XV: Love and Russian Literature",
+      "wordCount": 4154,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVI: Mr. Harrington’s Washing",
+      "wordCount": 5674,
+      "estimatedMinutes": 23
+    }
+  ]
+}

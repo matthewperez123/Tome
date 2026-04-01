@@ -1,0 +1,88 @@
+{
+  "bookId": "the-crystal-stopper",
+  "title": "The Crystal Stopper",
+  "author": "Maurice Leblanc",
+  "chapterCount": 13,
+  "totalWordCount": 74429,
+  "totalMinutes": 298,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Arrests",
+      "wordCount": 5460,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 1,
+      "title": "II: Eight from Nine Leaves One",
+      "wordCount": 5613,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "III: The Home Life of Alexis Daubrecq",
+      "wordCount": 5651,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "IV: The Chief of the Enemies",
+      "wordCount": 5025,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "V: The Twenty-Seven",
+      "wordCount": 7057,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 5,
+      "title": "VI: The Death-Sentence",
+      "wordCount": 7300,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "VII: The Profile of Napoleon",
+      "wordCount": 5548,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Lovers’ Tower",
+      "wordCount": 5039,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "IX: In the Dark",
+      "wordCount": 5461,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "X: Extra-Dry?",
+      "wordCount": 4539,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "XI: The Cross of Lorraine",
+      "wordCount": 6208,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 11,
+      "title": "XII: The Scaffold",
+      "wordCount": 4128,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Last Battle",
+      "wordCount": 7400,
+      "estimatedMinutes": 30
+    }
+  ]
+}

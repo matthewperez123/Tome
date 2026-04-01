@@ -1,0 +1,58 @@
+{
+  "bookId": "the-two-noble-kinsmen",
+  "title": "The Two Noble Kinsmen",
+  "author": "William Shakespeare & John Fletcher",
+  "chapterCount": 8,
+  "totalWordCount": 25678,
+  "totalMinutes": 104,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 106,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 272,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 4429,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 5133,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6490,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 3729,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 5350,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "Epilogue",
+      "wordCount": 169,
+      "estimatedMinutes": 1
+    }
+  ]
+}

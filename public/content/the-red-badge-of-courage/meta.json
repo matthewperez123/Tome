@@ -1,0 +1,154 @@
+{
+  "bookId": "the-red-badge-of-courage",
+  "title": "The Red Badge of Courage",
+  "author": "Stephen Crane",
+  "chapterCount": 24,
+  "totalWordCount": 46199,
+  "totalMinutes": 185,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3707,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2787,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3023,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1179,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2260,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2252,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1816,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1361,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 2252,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1651,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 1099,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1865,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1624,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1950,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1911,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1915,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1742,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 1475,
+      "estimatedMinutes": 6
+    }
+  ]
+}

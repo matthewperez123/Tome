@@ -1,0 +1,196 @@
+{
+  "bookId": "kidnapped",
+  "title": "Kidnapped: Being Memoirs of the Adventures of David Balfour in the Year 1751",
+  "author": "Robert Louis Stevenson",
+  "chapterCount": 31,
+  "totalWordCount": 80178,
+  "totalMinutes": 323,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: I Set Off Upon My Journey to the House of Shaws",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "II: I Come to My Journey’s End",
+      "wordCount": 1942,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: I Make Acquaintance of My Uncle",
+      "wordCount": 2675,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV: I Run a Great Danger in the House of Shaws",
+      "wordCount": 2993,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "V: I Go to the Queen’s Ferry",
+      "wordCount": 2408,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: What Befell at the Queen’s Ferry",
+      "wordCount": 1887,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: I Go to Sea in the Brig “Covenant” of Dysart",
+      "wordCount": 2718,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Roundhouse",
+      "wordCount": 1934,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: The Man with the Belt of Gold",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "X: The Siege of the Roundhouse",
+      "wordCount": 2558,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI: The Captain Knuckles Under",
+      "wordCount": 1587,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XII: I Hear of the “Red Fox”",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Loss of the Brig",
+      "wordCount": 2148,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Islet",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XV: The Lad with the Silver Button: Through the Isle of Mull",
+      "wordCount": 3047,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Lad with the Silver Button: Across Morven",
+      "wordCount": 2789,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Death of the Red Fox",
+      "wordCount": 2128,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVIII: I Talk with Alan in the Wood of Lettermore",
+      "wordCount": 3024,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XIX: The House of Fear",
+      "wordCount": 2399,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX: The Flight in the Heather: The Rocks",
+      "wordCount": 3333,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Flight in the Heather: The Heugh of Corrynakiegh",
+      "wordCount": 2733,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Flight in the Heather: The Moor",
+      "wordCount": 2952,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Cluny’s Cage",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Flight in the Heather: The Quarrel",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXV: In Balquhidder",
+      "wordCount": 2532,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXVI: End of the Flight: We Pass the Forth",
+      "wordCount": 3989,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVII: I Come to Mr. Rankeillor",
+      "wordCount": 2867,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: I Go in Quest of My Inheritance",
+      "wordCount": 2756,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXIX: I Come Into My Kingdom",
+      "wordCount": 2395,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXX: Goodbye",
+      "wordCount": 1407,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "Afterword",
+      "wordCount": 138,
+      "estimatedMinutes": 1
+    }
+  ]
+}

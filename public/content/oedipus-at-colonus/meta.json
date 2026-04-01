@@ -1,0 +1,28 @@
+{
+  "bookId": "oedipus-at-colonus",
+  "title": "Oedipus at Colonus",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 14094,
+  "totalMinutes": 58,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 379,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 53,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Oedipus at Colonus",
+      "wordCount": 13662,
+      "estimatedMinutes": 55
+    }
+  ]
+}

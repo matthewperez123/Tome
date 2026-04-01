@@ -1,0 +1,124 @@
+{
+  "bookId": "tono-bungay",
+  "title": "Tono-Bungay",
+  "author": "H. G. Wells",
+  "chapterCount": 19,
+  "totalWordCount": 135801,
+  "totalMinutes": 547,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 309,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Days Before Tono-Bungay Was Invented",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Of Bladesover House, and My Mother; and the Constitution of Society",
+      "wordCount": 13054,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 3,
+      "title": "II: Of My Launch Into the World and the Last I Saw of Bladesover",
+      "wordCount": 8154,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 4,
+      "title": "III: The Wimblehurst Apprenticeship",
+      "wordCount": 10668,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 5,
+      "title": "Book II: The Rise of Tono-Bungay",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "I: How I Became a London Student and Went Astray",
+      "wordCount": 10576,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 7,
+      "title": "II: The Dawn Comes, and My Uncle Appears in a New Silk Hat",
+      "wordCount": 6715,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "III: How We Made Tono-Bungay Hum",
+      "wordCount": 4523,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "IV: Marion",
+      "wordCount": 16251,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 10,
+      "title": "Book III: The Great Days of Tono-Bungay",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I: The Hardingham Hotel, and How We Became Big People",
+      "wordCount": 8300,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 12,
+      "title": "II: Our Progress from Camden Town to Crest Hill",
+      "wordCount": 15619,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 13,
+      "title": "III: Soaring",
+      "wordCount": 12223,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 14,
+      "title": "IV: How I Stole the Heaps of Quap from Mordet Island",
+      "wordCount": 11415,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 15,
+      "title": "Book IV: The Aftermath of Tono-Bungay",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: The Stick of the Rocket",
+      "wordCount": 10499,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 17,
+      "title": "II: Love Among the Wreckage",
+      "wordCount": 4228,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "III: Night and the Open Sea",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bookId": "the-phoenix-and-the-carpet",
+  "title": "The Phoenix and the Carpet",
+  "author": "E. Nesbit",
+  "chapterCount": 12,
+  "totalWordCount": 62028,
+  "totalMinutes": 248,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Egg",
+      "wordCount": 5700,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 1,
+      "title": "II: The Topless Tower",
+      "wordCount": 5704,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "III: The Queen Cook",
+      "wordCount": 6324,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "IV: Two Bazaars",
+      "wordCount": 5620,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "V: The Temple",
+      "wordCount": 5464,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "VI: Doing Good",
+      "wordCount": 4710,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: Mews from Persia",
+      "wordCount": 4907,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Cats, the Cow, and the Burglar",
+      "wordCount": 4811,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: The Burglar’s Bride",
+      "wordCount": 5021,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "X: The Hole in the Carpet",
+      "wordCount": 4521,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "XI: The Beginning of the End",
+      "wordCount": 4435,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XII: The End of the End",
+      "wordCount": 4811,
+      "estimatedMinutes": 19
+    }
+  ]
+}

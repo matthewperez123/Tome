@@ -1,0 +1,346 @@
+{
+  "bookId": "the-moonstone",
+  "title": "The Moonstone",
+  "author": "Wilkie Collins",
+  "chapterCount": 56,
+  "totalWordCount": 196438,
+  "totalMinutes": 790,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 2148,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "First Period: The Loss of the Diamond (1848)",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 943,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1884,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2806,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3364,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3073,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 4587,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1631,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 4468,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2627,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 4837,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 8079,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2337,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 5674,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 3751,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 2736,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 2668,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 1358,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 4063,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 3637,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 4828,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "Second Period: The Discovery of the Truth (1848–1849)",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "First Narrative",
+      "wordCount": 4352,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "II",
+      "wordCount": 4285,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "III",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "IV",
+      "wordCount": 3461,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "V",
+      "wordCount": 3481,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "VI",
+      "wordCount": 632,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "VII",
+      "wordCount": 4225,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 33,
+      "title": "VIII",
+      "wordCount": 5852,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 34,
+      "title": "Second Narrative",
+      "wordCount": 4462,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 35,
+      "title": "II",
+      "wordCount": 1875,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "III",
+      "wordCount": 4050,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 37,
+      "title": "Third Narrative",
+      "wordCount": 1924,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "II",
+      "wordCount": 2782,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "III",
+      "wordCount": 3222,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 40,
+      "title": "IV",
+      "wordCount": 6000,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 41,
+      "title": "V",
+      "wordCount": 3569,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "VI",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "VII",
+      "wordCount": 5394,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 44,
+      "title": "VIII",
+      "wordCount": 5376,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 45,
+      "title": "IX",
+      "wordCount": 6166,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 46,
+      "title": "X",
+      "wordCount": 5752,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 47,
+      "title": "Fourth Narrative",
+      "wordCount": 14746,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 48,
+      "title": "Fifth Narrative",
+      "wordCount": 7238,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 49,
+      "title": "Sixth Narrative",
+      "wordCount": 4384,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 50,
+      "title": "Seventh Narrative",
+      "wordCount": 802,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "Eighth Narrative",
+      "wordCount": 786,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 52,
+      "title": "Epilogue: The Finding of the Diamond",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 53,
+      "title": "I: The Statement of Sergeant Cuff’s Man (1849)",
+      "wordCount": 335,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "II: The Statement of the Captain (1849)",
+      "wordCount": 472,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 55,
+      "title": "III: The Statement of Mr. Murthwaite (1850)",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    }
+  ]
+}

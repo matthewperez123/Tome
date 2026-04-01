@@ -1,0 +1,214 @@
+{
+  "bookId": "in-search-of-lost-time",
+  "title": "In Search of Lost Time",
+  "author": "Marcel Proust",
+  "chapterCount": 34,
+  "totalWordCount": 1097153,
+  "totalMinutes": 4403,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Volume I: Swann’s Way",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Overture",
+      "wordCount": 20750,
+      "estimatedMinutes": 83
+    },
+    {
+      "index": 2,
+      "title": "Combray",
+      "wordCount": 64662,
+      "estimatedMinutes": 259
+    },
+    {
+      "index": 3,
+      "title": "Swann in Love",
+      "wordCount": 90146,
+      "estimatedMinutes": 361
+    },
+    {
+      "index": 4,
+      "title": "Place-Names: The Name",
+      "wordCount": 20308,
+      "estimatedMinutes": 81
+    },
+    {
+      "index": 5,
+      "title": "Volume II: Within a Budding Grove",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "Madame Swann at Home",
+      "wordCount": 96212,
+      "estimatedMinutes": 385
+    },
+    {
+      "index": 8,
+      "title": "Place-Names: The Place",
+      "wordCount": 28198,
+      "estimatedMinutes": 113
+    },
+    {
+      "index": 9,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "Place-Names: The Place (Continued)",
+      "wordCount": 37235,
+      "estimatedMinutes": 149
+    },
+    {
+      "index": 11,
+      "title": "Seascape, with Frieze of Girls",
+      "wordCount": 74721,
+      "estimatedMinutes": 299
+    },
+    {
+      "index": 12,
+      "title": "Volume III: The Guermantes Way",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "I",
+      "wordCount": 134172,
+      "estimatedMinutes": 537
+    },
+    {
+      "index": 15,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I",
+      "wordCount": 14680,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 17,
+      "title": "II",
+      "wordCount": 108903,
+      "estimatedMinutes": 436
+    },
+    {
+      "index": 18,
+      "title": "Volume IV: Cities of the Plain",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "Prologue",
+      "wordCount": 13921,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 21,
+      "title": "I",
+      "wordCount": 64373,
+      "estimatedMinutes": 257
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 30883,
+      "estimatedMinutes": 124
+    },
+    {
+      "index": 23,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "II (Continued)",
+      "wordCount": 53789,
+      "estimatedMinutes": 215
+    },
+    {
+      "index": 25,
+      "title": "III",
+      "wordCount": 58718,
+      "estimatedMinutes": 235
+    },
+    {
+      "index": 26,
+      "title": "IV",
+      "wordCount": 8325,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 27,
+      "title": "Volume V: The Captive",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "I: Life with Albertine",
+      "wordCount": 80935,
+      "estimatedMinutes": 324
+    },
+    {
+      "index": 30,
+      "title": "II: The Verdurins Quarrel with M. de Charlus",
+      "wordCount": 5593,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 31,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "II (Continued)",
+      "wordCount": 51980,
+      "estimatedMinutes": 208
+    },
+    {
+      "index": 33,
+      "title": "III: Flight of Albertine",
+      "wordCount": 38608,
+      "estimatedMinutes": 154
+    }
+  ]
+}

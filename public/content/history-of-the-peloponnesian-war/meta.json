@@ -1,0 +1,220 @@
+{
+  "bookId": "history-of-the-peloponnesian-war",
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "chapterCount": 35,
+  "totalWordCount": 204266,
+  "totalMinutes": 823,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 5067,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 8648,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5476,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5519,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 7729,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 10369,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 5944,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 8808,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 10,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "IX",
+      "wordCount": 10532,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 12,
+      "title": "X",
+      "wordCount": 8032,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 13,
+      "title": "XI",
+      "wordCount": 6120,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XII",
+      "wordCount": 9062,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 16,
+      "title": "XIII",
+      "wordCount": 6813,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 17,
+      "title": "XIV",
+      "wordCount": 13369,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 18,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "XV",
+      "wordCount": 5525,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XVI",
+      "wordCount": 13052,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 21,
+      "title": "XVII",
+      "wordCount": 3041,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "XVIII",
+      "wordCount": 7754,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 24,
+      "title": "XIX",
+      "wordCount": 6855,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 25,
+      "title": "XX",
+      "wordCount": 10513,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 26,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "XXI",
+      "wordCount": 9384,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 28,
+      "title": "XXII",
+      "wordCount": 2466,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXIII",
+      "wordCount": 9817,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 30,
+      "title": "Book VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "XXIV",
+      "wordCount": 8579,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 32,
+      "title": "XXV",
+      "wordCount": 8181,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 33,
+      "title": "XXVI",
+      "wordCount": 7594,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 34,
+      "title": "Plans",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    }
+  ]
+}

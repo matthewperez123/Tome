@@ -1,0 +1,94 @@
+{
+  "bookId": "the-secret-agent",
+  "title": "The Secret Agent: A Simple Tale",
+  "author": "Joseph Conrad",
+  "chapterCount": 14,
+  "totalWordCount": 93284,
+  "totalMinutes": 375,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 2638,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2389,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 8759,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 6009,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5387,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 7019,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 9123,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4933,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 8722,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 8939,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4269,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 11459,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 10724,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2914,
+      "estimatedMinutes": 12
+    }
+  ]
+}

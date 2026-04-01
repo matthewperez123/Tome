@@ -1,0 +1,82 @@
+{
+  "bookId": "just-so-stories",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "chapterCount": 12,
+  "totalWordCount": 29001,
+  "totalMinutes": 114,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "How the Whale Got His Throat",
+      "wordCount": 1050,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "How the Camel Got His Hump",
+      "wordCount": 1089,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "How the Rhinoceros Got His Skin",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "How the Leopard Got His Spots",
+      "wordCount": 2131,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "The Elephant’s Child",
+      "wordCount": 2560,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "The Singsong of Old Man Kangaroo",
+      "wordCount": 1136,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "The Beginning of the Armadillos",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "How the First Letter Was Written",
+      "wordCount": 3332,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "How the Alphabet Was Made",
+      "wordCount": 3205,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "The Crab That Played with the Sea",
+      "wordCount": 3599,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "The Cat That Walked by Himself",
+      "wordCount": 4053,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "The Butterfly That Stamped",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    }
+  ]
+}

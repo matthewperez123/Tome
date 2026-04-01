@@ -1,0 +1,148 @@
+{
+  "bookId": "savrola",
+  "title": "Savrola: A Tale of the Revolution in Laurania",
+  "author": "Winston Churchill",
+  "chapterCount": 23,
+  "totalWordCount": 57332,
+  "totalMinutes": 231,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prefatory Note",
+      "wordCount": 50,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: An Event of Political Importance",
+      "wordCount": 2375,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: The Head of the State",
+      "wordCount": 2687,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III: The Man of the Multitude",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Deputation",
+      "wordCount": 2593,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: A Private Conversation",
+      "wordCount": 2230,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VI: On Constitutional Grounds",
+      "wordCount": 2284,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII: The State Ball",
+      "wordCount": 3260,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: “In the Starlight”",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX: The Admiral",
+      "wordCount": 2368,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X: The Wand of the Magician",
+      "wordCount": 2983,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI: In the Watches of the Night",
+      "wordCount": 2277,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: A Council of War",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Action of the Executive",
+      "wordCount": 2996,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Loyalty of the Army",
+      "wordCount": 2230,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV: Surprises",
+      "wordCount": 2663,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Progress of the Revolt",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Defence of the Palace",
+      "wordCount": 3859,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVIII: From a Window",
+      "wordCount": 2932,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: An Educational Experience",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: The End of the Quarrel",
+      "wordCount": 2065,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Return of the Fleet",
+      "wordCount": 2657,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXII: Life’s Compensations",
+      "wordCount": 2435,
+      "estimatedMinutes": 10
+    }
+  ]
+}

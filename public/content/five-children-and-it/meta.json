@@ -1,0 +1,76 @@
+{
+  "bookId": "five-children-and-it",
+  "title": "Five Children and It",
+  "author": "E. Nesbit",
+  "chapterCount": 11,
+  "totalWordCount": 53231,
+  "totalMinutes": 213,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Beautiful as the Day",
+      "wordCount": 6167,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 1,
+      "title": "II: Golden Guineas",
+      "wordCount": 5831,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "III: Being Wanted",
+      "wordCount": 6660,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "IV: Wings",
+      "wordCount": 5847,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "V: No Wings",
+      "wordCount": 2971,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI: A Castle and No Dinner",
+      "wordCount": 4107,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII: A Siege and Bed",
+      "wordCount": 3289,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII: Bigger Than the Baker’s Boy",
+      "wordCount": 5792,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "IX: Grown Up",
+      "wordCount": 4130,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "X: Scalps",
+      "wordCount": 4387,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "XI: The Last Wish",
+      "wordCount": 4050,
+      "estimatedMinutes": 16
+    }
+  ]
+}

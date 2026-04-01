@@ -1,0 +1,286 @@
+{
+  "bookId": "phoebe-junior",
+  "title": "Phoebe, Junior: A Last Chronicle of Carlingford",
+  "author": "Margaret Oliphant",
+  "chapterCount": 46,
+  "totalWordCount": 156817,
+  "totalMinutes": 624,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 409,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Pastor’s Progress",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: The Leading Member",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: Mr. Copperhead’s Ball",
+      "wordCount": 4517,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV: A Country Party",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: Self-Devotion",
+      "wordCount": 3352,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI: A Morning Call",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VII: Shopping",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Dorsets",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: Coming Home",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Papa",
+      "wordCount": 3309,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: Phoebe’s Preparations",
+      "wordCount": 3181,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII: Grange Lane",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Tozer Family",
+      "wordCount": 3786,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV: Strangers",
+      "wordCount": 3663,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XV: A Domestic Crisis",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XVI: The New Gentleman",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Public Meeting",
+      "wordCount": 3458,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Mr. May’s Affairs",
+      "wordCount": 3389,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XIX: The New Chaplain",
+      "wordCount": 3628,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XX: That Tozer Girl!",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXI: A New Friend",
+      "wordCount": 3270,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXII: A Desperate Expedient",
+      "wordCount": 4018,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Tided Over",
+      "wordCount": 2576,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV: A Visit",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXV: Tea",
+      "wordCount": 3796,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Hall",
+      "wordCount": 3343,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A Pair of Natural Enemies",
+      "wordCount": 3794,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The New Pupil",
+      "wordCount": 3917,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Ursula’s Entrées",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXX: Society at the Parsonage",
+      "wordCount": 3106,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Society",
+      "wordCount": 2844,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Lovemaking",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: A Disclosure",
+      "wordCount": 3567,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: An Extravagance",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "XXXV: The Millionaire",
+      "wordCount": 3368,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Father and Son",
+      "wordCount": 3969,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: A Pleasant Evening",
+      "wordCount": 2599,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: An Expedition",
+      "wordCount": 4008,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: A Catastrophe",
+      "wordCount": 2856,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 40,
+      "title": "XL: The Sinned-Against",
+      "wordCount": 4876,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 41,
+      "title": "XLI: A Morning’s Work",
+      "wordCount": 4262,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLII: A Great Mental Shock",
+      "wordCount": 2576,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Conflict",
+      "wordCount": 6370,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Phoebe’s Last Trial",
+      "wordCount": 4843,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Last",
+      "wordCount": 2289,
+      "estimatedMinutes": 9
+    }
+  ]
+}

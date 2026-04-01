@@ -1,0 +1,94 @@
+{
+  "bookId": "the-railway-children",
+  "title": "The Railway Children",
+  "author": "E. Nesbit",
+  "chapterCount": 14,
+  "totalWordCount": 59851,
+  "totalMinutes": 241,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Beginning of Things",
+      "wordCount": 4132,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 1,
+      "title": "II: Peter’s Coal-Mine",
+      "wordCount": 5180,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III: The Old Gentleman",
+      "wordCount": 4586,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "IV: The Engine-Burglar",
+      "wordCount": 5126,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V: Prisoners and Captives",
+      "wordCount": 3655,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI: Saviours of the Train",
+      "wordCount": 3878,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII: For Valour",
+      "wordCount": 4544,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Amateur Firemen",
+      "wordCount": 3996,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "IX: The Pride of Perks",
+      "wordCount": 4379,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "X: The Terrible Secret",
+      "wordCount": 3786,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: The Hound in the Red Jersey",
+      "wordCount": 4862,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XII: What Bobbie Brought Home",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Hound’s Grandfather",
+      "wordCount": 4225,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XIV: The End",
+      "wordCount": 3758,
+      "estimatedMinutes": 15
+    }
+  ]
+}

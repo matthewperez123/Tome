@@ -1,0 +1,112 @@
+{
+  "bookId": "cranford",
+  "title": "Cranford",
+  "author": "Elizabeth Gaskell",
+  "chapterCount": 17,
+  "totalWordCount": 72548,
+  "totalMinutes": 291,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1538,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: Our Society",
+      "wordCount": 3943,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "II: The Captain",
+      "wordCount": 5595,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "III: A Love Affair of Long Ago",
+      "wordCount": 3454,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: A Visit to an Old Bachelor",
+      "wordCount": 4224,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "V: Old Letters",
+      "wordCount": 4137,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: Poor Peter",
+      "wordCount": 4754,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VII: Visiting",
+      "wordCount": 3800,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII: “Your Ladyship”",
+      "wordCount": 4994,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "IX: Signor Brunoni",
+      "wordCount": 3750,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "X: The Panic",
+      "wordCount": 5480,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "XI: Samuel Brown",
+      "wordCount": 4617,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: Engaged to Be Married",
+      "wordCount": 3138,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: Stopped Payment",
+      "wordCount": 4381,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "XIV: Friends in Need",
+      "wordCount": 6863,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 15,
+      "title": "XV: A Happy Return",
+      "wordCount": 4906,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "XVI: Peace to Cranford",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    }
+  ]
+}

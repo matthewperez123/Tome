@@ -1,0 +1,244 @@
+{
+  "bookId": "the-mark-of-zorro",
+  "title": "The Mark of Zorro",
+  "author": "Johnston McCulley",
+  "chapterCount": 39,
+  "totalWordCount": 68067,
+  "totalMinutes": 273,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Pedro, the Boaster",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "II: On the Heels of the Storm",
+      "wordCount": 1967,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: Señor Zorro Pays a Visit",
+      "wordCount": 1111,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "IV: Swords Clash and Pedro Explains",
+      "wordCount": 2291,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: A Ride in the Morning",
+      "wordCount": 1493,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "VI: Diego Seeks a Bride",
+      "wordCount": 1969,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: A Different Sort of Man",
+      "wordCount": 1725,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Don Carlos Plays a Game",
+      "wordCount": 2130,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX: The Clash of Blades",
+      "wordCount": 2072,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X: A Hint at Jealousy",
+      "wordCount": 1651,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: Three Suitors",
+      "wordCount": 1774,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: A Visit",
+      "wordCount": 2519,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: Love Comes Swiftly",
+      "wordCount": 2373,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIV: Captain Ramón Writes a Letter",
+      "wordCount": 1236,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XV: At the Presidio",
+      "wordCount": 2304,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Chase That Failed",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: Sergeant Gonzales Meets a Friend",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Don Diego Returns",
+      "wordCount": 1167,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX: Captain Ramón Apologizes",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XX: Don Diego Shows Interest",
+      "wordCount": 1143,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Whipping",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXII: Swift Punishment",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: More Punishment",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: At the Hacienda of Don Alejandro",
+      "wordCount": 2498,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: A League Is Formed",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXVI: An Understanding",
+      "wordCount": 2242,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Orders for Arrest",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Outrage",
+      "wordCount": 2035,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Don Diego Feels Ill",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Sign of the Fox",
+      "wordCount": 1258,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Rescue",
+      "wordCount": 1575,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Close Quarters",
+      "wordCount": 2382,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Flight and Pursuit",
+      "wordCount": 1746,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: The Blood of the Pulidos",
+      "wordCount": 1245,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Clash of Blades Again",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: All Against Them",
+      "wordCount": 1557,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Fox at Bay",
+      "wordCount": 1291,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: The Man Unmasked",
+      "wordCount": 1478,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: “Meal Mush and Goat’s Milk!”",
+      "wordCount": 769,
+      "estimatedMinutes": 3
+    }
+  ]
+}

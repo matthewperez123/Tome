@@ -1,0 +1,82 @@
+{
+  "bookId": "dialogues",
+  "title": "Dialogues",
+  "author": "Seneca",
+  "chapterCount": 12,
+  "totalWordCount": 225355,
+  "totalMinutes": 902,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To Marcia, on Consolation",
+      "wordCount": 14754,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 1,
+      "title": "On Anger",
+      "wordCount": 39036,
+      "estimatedMinutes": 156
+    },
+    {
+      "index": 2,
+      "title": "To Helvia, on Consolation",
+      "wordCount": 11285,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 3,
+      "title": "To Polybius, on Consolation",
+      "wordCount": 9267,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 4,
+      "title": "On the Shortness of Life",
+      "wordCount": 10642,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 5,
+      "title": "On Leisure",
+      "wordCount": 3381,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "On Peace of Mind",
+      "wordCount": 13272,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 7,
+      "title": "On Providence",
+      "wordCount": 6838,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "On the Firmness of the Wise Person",
+      "wordCount": 8816,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 9,
+      "title": "On a Happy Life",
+      "wordCount": 12643,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 10,
+      "title": "On Clemency",
+      "wordCount": 14394,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 11,
+      "title": "On Benefits",
+      "wordCount": 81027,
+      "estimatedMinutes": 324
+    }
+  ]
+}

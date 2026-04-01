@@ -1,0 +1,124 @@
+{
+  "bookId": "don-juan",
+  "title": "Don Juan",
+  "author": "Lord Byron",
+  "chapterCount": 19,
+  "totalWordCount": 131036,
+  "totalMinutes": 524,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "Preface to Cantos VI, VII, and VIII",
+      "wordCount": 864,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Canto I",
+      "wordCount": 14156,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 3,
+      "title": "Canto II",
+      "wordCount": 14048,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 4,
+      "title": "Canto III",
+      "wordCount": 7690,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "Canto IV",
+      "wordCount": 7653,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "Canto V",
+      "wordCount": 10327,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 7,
+      "title": "Canto VI",
+      "wordCount": 7627,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 8,
+      "title": "Canto VII",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "Canto VIII",
+      "wordCount": 9058,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 10,
+      "title": "Canto IX",
+      "wordCount": 5515,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "Canto X",
+      "wordCount": 5616,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 12,
+      "title": "Canto XI",
+      "wordCount": 5767,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "Canto XII",
+      "wordCount": 5734,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 14,
+      "title": "Canto XIII",
+      "wordCount": 6945,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 15,
+      "title": "Canto XIV",
+      "wordCount": 6497,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "Canto XV",
+      "wordCount": 6262,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 17,
+      "title": "Canto XVI",
+      "wordCount": 8097,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 18,
+      "title": "Canto XVII",
+      "wordCount": 899,
+      "estimatedMinutes": 4
+    }
+  ]
+}

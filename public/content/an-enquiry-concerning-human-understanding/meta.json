@@ -1,0 +1,82 @@
+{
+  "bookId": "an-enquiry-concerning-human-understanding",
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "chapterCount": 12,
+  "totalWordCount": 48108,
+  "totalMinutes": 193,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Of the Different Species of Philosophy",
+      "wordCount": 3580,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: Of the Origin of Ideas",
+      "wordCount": 1764,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: Of the Association of Ideas",
+      "wordCount": 472,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "IV: Sceptical Doubts Concerning the Operations of the Understanding",
+      "wordCount": 4947,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "V: Sceptical Solution of These Doubts",
+      "wordCount": 4665,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "VI: Of Probability",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "VII: Of the Idea of Necessary Connection",
+      "wordCount": 5832,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VIII: Of Liberty and Necessity",
+      "wordCount": 7470,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "IX: Of the Reason of Animals",
+      "wordCount": 1146,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "X: Of Miracles",
+      "wordCount": 7007,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 10,
+      "title": "XI: Of a Particular Providence and of a Future State",
+      "wordCount": 5363,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 11,
+      "title": "XII: Of the Academical or Sceptical Philosophy",
+      "wordCount": 4907,
+      "estimatedMinutes": 20
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "bookId": "the-age-of-innocence",
+  "title": "The Age of Innocence",
+  "author": "Edith Wharton",
+  "chapterCount": 36,
+  "totalWordCount": 102207,
+  "totalMinutes": 411,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1976,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2221,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1729,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2847,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2594,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1966,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2434,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3960,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3064,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3618,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2165,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2319,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3379,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3159,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 3795,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 3796,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 4366,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 2796,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 3188,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 1758,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXV",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVI",
+      "wordCount": 3552,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXVII",
+      "wordCount": 2340,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXVIII",
+      "wordCount": 2208,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXIX",
+      "wordCount": 2263,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXX",
+      "wordCount": 3163,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXI",
+      "wordCount": 3791,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXII",
+      "wordCount": 2853,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXIII",
+      "wordCount": 4909,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 35,
+      "title": "XXXIV",
+      "wordCount": 5474,
+      "estimatedMinutes": 22
+    }
+  ]
+}

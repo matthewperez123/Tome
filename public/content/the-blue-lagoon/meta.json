@@ -1,0 +1,358 @@
+{
+  "bookId": "the-blue-lagoon",
+  "title": "The Blue Lagoon",
+  "author": "H. de Vere Stacpoole",
+  "chapterCount": 58,
+  "totalWordCount": 63970,
+  "totalMinutes": 264,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1552,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Where the Slush Lamp Burns",
+      "wordCount": 1194,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "II: Under the Stars",
+      "wordCount": 2095,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "III: The Shadow and the Fire",
+      "wordCount": 1055,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "IV: And Like a Dream Dissolved",
+      "wordCount": 1604,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "V: Voices Heard in the Mist",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VI: Dawn on a Wide, Wide Sea",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VII: Story of the Pig and the Billy-Goat",
+      "wordCount": 897,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "VIII: “S-H-E-N-A-N-D-O-A-H”",
+      "wordCount": 2292,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "IX: Shadows in the Moonlight",
+      "wordCount": 1827,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "X: The Tragedy of the Boats",
+      "wordCount": 910,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XI: The Island",
+      "wordCount": 1174,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XII: The Lake of Azure",
+      "wordCount": 2136,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XIII: Death Veiled with Lichen",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XIV: Echoes of Fairyland",
+      "wordCount": 1533,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XV: Fair Pictures in the Blue",
+      "wordCount": 635,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XVI: The Poetry of Learning",
+      "wordCount": 2881,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XVII: The Devil’s Cask",
+      "wordCount": 1307,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XVIII: The Rat Hunt",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XIX: Starlight on the Foam",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XX: The Dreamer on the Reef",
+      "wordCount": 1464,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXI: The Garland of Flowers",
+      "wordCount": 915,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXII: Alone",
+      "wordCount": 817,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "XXIII: They Move Away",
+      "wordCount": 698,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: Under the Artu Tree",
+      "wordCount": 690,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "II: Half Child-Half Savage",
+      "wordCount": 1902,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "III: The Demon of the Reef",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "IV: What Beauty Concealed",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "V: The Sound of a Drum",
+      "wordCount": 1208,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "VI: Sails Upon the Sea",
+      "wordCount": 2279,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "VII: The Schooner",
+      "wordCount": 1197,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "VIII: Love Steps In",
+      "wordCount": 1225,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "IX: The Sleep of Paradise",
+      "wordCount": 282,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "X: An Island Honeymoon",
+      "wordCount": 851,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XI: The Vanishing of Emmeline",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XII: The Vanishing of Emmeline (Continued)",
+      "wordCount": 839,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "XIII: The Newcomer",
+      "wordCount": 615,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 44,
+      "title": "XIV: Hannah",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 45,
+      "title": "XV: The Lagoon of Fire",
+      "wordCount": 805,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 46,
+      "title": "XVI: The Cyclone",
+      "wordCount": 1169,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 47,
+      "title": "XVII: The Stricken Woods",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 48,
+      "title": "XVIII: A Fallen Idol",
+      "wordCount": 718,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "XIX: The Expedition",
+      "wordCount": 1966,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "XX: The Keeper of the Lagoon",
+      "wordCount": 713,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "XXI: The Hand of the Sea",
+      "wordCount": 324,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 52,
+      "title": "XXII: Together",
+      "wordCount": 221,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 53,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "I: Mad Lestrange",
+      "wordCount": 829,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 55,
+      "title": "II: The Secret of the Azure",
+      "wordCount": 874,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 56,
+      "title": "II: Captain Fountain",
+      "wordCount": 2702,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "IV: Due South",
+      "wordCount": 1770,
+      "estimatedMinutes": 7
+    }
+  ]
+}

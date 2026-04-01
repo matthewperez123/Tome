@@ -1,0 +1,130 @@
+{
+  "bookId": "the-child-of-the-cavern",
+  "title": "The Child of the Cavern",
+  "author": "Jules Verne",
+  "chapterCount": 20,
+  "totalWordCount": 44147,
+  "totalMinutes": 178,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 494,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Contradictory Letters",
+      "wordCount": 2047,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: On the Road",
+      "wordCount": 1885,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: The Dochart Pit",
+      "wordCount": 2822,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV: The Ford Family",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: Some Strange Phenomena",
+      "wordCount": 1279,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI: Simon Ford’s Experiment",
+      "wordCount": 2416,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII: New Aberfoyle",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: Exploring",
+      "wordCount": 2423,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX: The Fire-Maidens",
+      "wordCount": 4386,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X: Coal Town",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XI: Hanging by a Thread",
+      "wordCount": 2695,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: Nell Adopted",
+      "wordCount": 3224,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: On the Revolving Ladder",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Sunrise",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV: Loch Lomond and Loch Katrine",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Final Threat",
+      "wordCount": 2994,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: The “Monk”",
+      "wordCount": 2792,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Nell’s Wedding",
+      "wordCount": 1676,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Legend of Old Silfax",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    }
+  ]
+}

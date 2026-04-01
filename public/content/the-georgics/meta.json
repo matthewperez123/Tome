@@ -1,0 +1,34 @@
+{
+  "bookId": "the-georgics",
+  "title": "The Georgics",
+  "author": "Virgil",
+  "chapterCount": 4,
+  "totalWordCount": 24442,
+  "totalMinutes": 97,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 5382,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 6119,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 6579,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 6362,
+      "estimatedMinutes": 25
+    }
+  ]
+}

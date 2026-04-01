@@ -1,0 +1,142 @@
+{
+  "bookId": "greenmantle",
+  "title": "Greenmantle",
+  "author": "John Buchan",
+  "chapterCount": 22,
+  "totalWordCount": 98677,
+  "totalMinutes": 394,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: A Mission Is Proposed",
+      "wordCount": 3488,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: The Gathering of the Missionaries",
+      "wordCount": 5595,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "III: Peter Pienaar",
+      "wordCount": 4353,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: Adventures of Two Dutchmen on the Loose",
+      "wordCount": 4663,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "V: Further Adventures of the Same",
+      "wordCount": 4750,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "VI: The Indiscretions of the Same",
+      "wordCount": 5469,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VII: Christmastide",
+      "wordCount": 5069,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Essen Barges",
+      "wordCount": 3822,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: The Return of the Straggler",
+      "wordCount": 4455,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "X: The Garden-House of Suliman the Red",
+      "wordCount": 3373,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: The Companions of the Rosy Hours",
+      "wordCount": 4529,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XII: Four Missionaries See Light in Their Mission",
+      "wordCount": 3693,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII: I Move in Good Society",
+      "wordCount": 4440,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Lady of the Mantilla",
+      "wordCount": 4219,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: An Embarrassed Toilet",
+      "wordCount": 5137,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Battered Caravanserai",
+      "wordCount": 4299,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII: Trouble by the Waters of Babylon",
+      "wordCount": 3925,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Sparrows on the Housetops",
+      "wordCount": 3967,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIX: Greenmantle",
+      "wordCount": 3511,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: Peter Pienaar Goes to the Wars",
+      "wordCount": 5547,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Little Hill",
+      "wordCount": 5850,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Guns of the North",
+      "wordCount": 4523,
+      "estimatedMinutes": 18
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "bookId": "dick-sands-the-boy-captain",
+  "title": "Dick Sands, the Boy Captain",
+  "author": "Jules Verne",
+  "chapterCount": 41,
+  "totalWordCount": 101757,
+  "totalMinutes": 412,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 491,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Pilgrim",
+      "wordCount": 2922,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II: The Apprentice",
+      "wordCount": 2086,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: A Rescue",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV: The Survivors of the Waldeck",
+      "wordCount": 1722,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V: Dingo’s Sagacity",
+      "wordCount": 3483,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI: A Whale in Sight",
+      "wordCount": 2635,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VII: Preparations for an Attack",
+      "wordCount": 2059,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "VIII: A Catastrophe",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "IX: Dick’s Promotion",
+      "wordCount": 1908,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: The New Crew",
+      "wordCount": 3240,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XI: Rough Weather",
+      "wordCount": 3138,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XII: Hope Revived",
+      "wordCount": 2879,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIII: Land at Last",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XIV: Ashore",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XV: A Stranger",
+      "wordCount": 3458,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVI: Through the Forest",
+      "wordCount": 3165,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVII: Misgivings",
+      "wordCount": 2980,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XVIII: A Terrible Discovery",
+      "wordCount": 2520,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I: The Dark Continent",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "II: Accomplices",
+      "wordCount": 2662,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "III: On the March Again",
+      "wordCount": 3020,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "IV: Rough Travelling",
+      "wordCount": 2731,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "V: White Ants",
+      "wordCount": 2567,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "VI: A Diving-Bell",
+      "wordCount": 2825,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "VII: A Slave Caravan",
+      "wordCount": 2543,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "VIII: Notes by the Way",
+      "wordCount": 2568,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "IX: Kazonndé",
+      "wordCount": 2585,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "X: Market-Day",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XI: A Bowl of Punch",
+      "wordCount": 2509,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XII: Royal Obsequies",
+      "wordCount": 2705,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "XIII: In Captivity",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XIV: A Ray of Hope",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 35,
+      "title": "XV: An Exciting Chase",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XVI: A Magician",
+      "wordCount": 2071,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XVII: Drifting Down the Stream",
+      "wordCount": 2389,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XVIII: An Anxious Voyage",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XIX: An Attack",
+      "wordCount": 2452,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XX: A Happy Reunion",
+      "wordCount": 978,
+      "estimatedMinutes": 4
+    }
+  ]
+}

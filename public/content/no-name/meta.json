@@ -1,0 +1,352 @@
+{
+  "bookId": "no-name",
+  "title": "No Name",
+  "author": "Wilkie Collins",
+  "chapterCount": 57,
+  "totalWordCount": 264501,
+  "totalMinutes": 1060,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 517,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The First Scene",
+      "wordCount": 5390,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1901,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 4539,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 4018,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1812,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2996,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4867,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4164,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3482,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3372,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 6288,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2951,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 7450,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 16,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 5586,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 17,
+      "title": "The Second Scene",
+      "wordCount": 6085,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 18,
+      "title": "II",
+      "wordCount": 6383,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 19,
+      "title": "III",
+      "wordCount": 5877,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 20,
+      "title": "Between the Scenes: Chronicle of Events: Preserved in Captain Wragge’s Dispatch-Box",
+      "wordCount": 8015,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 21,
+      "title": "The Third Scene",
+      "wordCount": 2739,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 5383,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 23,
+      "title": "III",
+      "wordCount": 5479,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 24,
+      "title": "IV",
+      "wordCount": 4789,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 5582,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 26,
+      "title": "The Fourth Scene",
+      "wordCount": 6641,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 27,
+      "title": "II",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "III",
+      "wordCount": 3402,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "IV",
+      "wordCount": 4798,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 30,
+      "title": "V",
+      "wordCount": 6113,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 31,
+      "title": "VI",
+      "wordCount": 5646,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 32,
+      "title": "VII",
+      "wordCount": 5577,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "VIII",
+      "wordCount": 5147,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 34,
+      "title": "IX",
+      "wordCount": 6061,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 35,
+      "title": "X",
+      "wordCount": 5128,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 36,
+      "title": "XI",
+      "wordCount": 3759,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 37,
+      "title": "XII",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XIII",
+      "wordCount": 7640,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 39,
+      "title": "XIV",
+      "wordCount": 5002,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 40,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 6542,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 41,
+      "title": "The Fifth Scene",
+      "wordCount": 5073,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 42,
+      "title": "II",
+      "wordCount": 5815,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 43,
+      "title": "III",
+      "wordCount": 6919,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 44,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 4925,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 45,
+      "title": "The Sixth Scene",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "II",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 1114,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 48,
+      "title": "The Seventh Scene",
+      "wordCount": 5697,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 49,
+      "title": "II",
+      "wordCount": 2862,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "III",
+      "wordCount": 3715,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 51,
+      "title": "IV",
+      "wordCount": 10058,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 52,
+      "title": "Between the Scenes: Progress of the Story Through the Post",
+      "wordCount": 5016,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 53,
+      "title": "The Last Scene",
+      "wordCount": 4221,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 54,
+      "title": "II",
+      "wordCount": 6071,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 55,
+      "title": "III",
+      "wordCount": 3455,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 56,
+      "title": "IV",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    }
+  ]
+}

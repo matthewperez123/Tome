@@ -1,0 +1,82 @@
+{
+  "bookId": "the-magic-city",
+  "title": "The Magic City",
+  "author": "E. Nesbit",
+  "chapterCount": 12,
+  "totalWordCount": 59016,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Beginning",
+      "wordCount": 5466,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 1,
+      "title": "II: Deliverer or Destroyer",
+      "wordCount": 6130,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 2,
+      "title": "III: Lost",
+      "wordCount": 5265,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "IV: The Dragon-Slayer",
+      "wordCount": 6481,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "V: On the Carpet",
+      "wordCount": 5251,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: The Lions in the Desert",
+      "wordCount": 4729,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: The Dwellers by the Sea",
+      "wordCount": 5441,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "VIII: Ups and Downs",
+      "wordCount": 4911,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "IX: On the Lightning Loose",
+      "wordCount": 4683,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 9,
+      "title": "X: The Great Sloth",
+      "wordCount": 5067,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI: The Night Attack",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: The End",
+      "wordCount": 2794,
+      "estimatedMinutes": 11
+    }
+  ]
+}

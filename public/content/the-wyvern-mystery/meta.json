@@ -1,0 +1,400 @@
+{
+  "bookId": "the-wyvern-mystery",
+  "title": "The Wyvern Mystery",
+  "author": "J. Sheridan Le Fanu",
+  "chapterCount": 65,
+  "totalWordCount": 127100,
+  "totalMinutes": 511,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Alice Maybell",
+      "wordCount": 1259,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "II: The Vale of Carwell",
+      "wordCount": 1251,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "III: The Grange",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: The Old Squire and Alice Maybell",
+      "wordCount": 2096,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V: The Terrace Garden",
+      "wordCount": 2261,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: The Old Squire Unlike Himself",
+      "wordCount": 1871,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: The Squire’s Eldest Son Comes Home",
+      "wordCount": 2147,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VIII: Never Did Run Smooth",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "IX: In Which the Squire Loses His Gold-Headed Cane",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X: The Drive Over Cressley Common by Moonlight",
+      "wordCount": 1636,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: Home",
+      "wordCount": 1677,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: The Omen of Carwell Grange",
+      "wordCount": 1702,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: An Inspection of Carwell Grange",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Letter",
+      "wordCount": 1672,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: Harry Arrives",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XVI: A Party of Three",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: Mildred Tarnley’s Warning Story",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Brothers’ Walk",
+      "wordCount": 2650,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XIX: Coming In",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: Harry Appears at the Grange",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI: Harry’s Beer and Conversation",
+      "wordCount": 2245,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Trout",
+      "wordCount": 940,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Visitor",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Summons",
+      "wordCount": 4192,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 24,
+      "title": "XXV: Lilly Dogger Is Sent to Bed",
+      "wordCount": 1614,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Lady Has Her Tea",
+      "wordCount": 2630,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Through the House",
+      "wordCount": 1058,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Bell Rings",
+      "wordCount": 1978,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Tom Is Ordered Up",
+      "wordCount": 1805,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Old Soldier Grows More Friendly, and Frightens Mrs. Tarnley",
+      "wordCount": 3435,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXXI: News from Cressley Common",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXXII: An Unlooked-for Return",
+      "wordCount": 2572,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Charles Fairfield Alone",
+      "wordCount": 1519,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Awake",
+      "wordCount": 2988,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Restless",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Through the Wall",
+      "wordCount": 2964,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: A Messenger",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Unreasonable Bertha",
+      "wordCount": 1803,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: An Abduction",
+      "wordCount": 1857,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 39,
+      "title": "XL: Pursuit",
+      "wordCount": 1207,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 40,
+      "title": "XLI: Day—Twilight—Darkness",
+      "wordCount": 1235,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 41,
+      "title": "XLII: Hatherton",
+      "wordCount": 1367,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "XLIII: The Welcome",
+      "wordCount": 1104,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 43,
+      "title": "XLIV: The Wykeford Doctor",
+      "wordCount": 1049,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "XLV: Speech Returns",
+      "wordCount": 1199,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 45,
+      "title": "XLVI: Harry Drinks a Glass and Spills a Glass",
+      "wordCount": 1339,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 46,
+      "title": "XLVII: Home to Wyvern",
+      "wordCount": 1401,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: A Twilight Visit",
+      "wordCount": 2726,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 48,
+      "title": "XLIX: The Heir of the Fairfields",
+      "wordCount": 2901,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "L: Bertha Velderkaust",
+      "wordCount": 3007,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 50,
+      "title": "LI: Sergeant-Major Archdale",
+      "wordCount": 2485,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "LII: A Talk with the Squire",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 52,
+      "title": "LIII: Harry Fairfield Grows Uneasy",
+      "wordCount": 1638,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 53,
+      "title": "LIV: A Drive to Twyford",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 54,
+      "title": "LV: How Fares the Child?",
+      "wordCount": 2758,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 55,
+      "title": "LVI: The Old Squire Leaves Wyvern",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 56,
+      "title": "LVII: Marjory Trevellian",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 57,
+      "title": "LVIII: The Enchanted Garden",
+      "wordCount": 1993,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 58,
+      "title": "LIX: An Old Friend",
+      "wordCount": 899,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 59,
+      "title": "LX: Tom Orange",
+      "wordCount": 969,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "LXI: The Hour and the Man",
+      "wordCount": 1189,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 61,
+      "title": "LXII: The March to Noulton Farm",
+      "wordCount": 2704,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 62,
+      "title": "LXIII: A Silent Farewell",
+      "wordCount": 1751,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 63,
+      "title": "LXIV: The March by Night",
+      "wordCount": 2015,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 64,
+      "title": "Conclusion",
+      "wordCount": 1562,
+      "estimatedMinutes": 6
+    }
+  ]
+}

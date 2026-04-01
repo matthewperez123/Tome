@@ -1,0 +1,244 @@
+{
+  "bookId": "the-sea-wolf",
+  "title": "The Sea-Wolf",
+  "author": "Jack London",
+  "chapterCount": 39,
+  "totalWordCount": 106308,
+  "totalMinutes": 424,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2912,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3987,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 5201,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1252,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2604,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3276,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2360,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3587,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1629,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2949,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 2709,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 5357,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2422,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2804,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1689,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1842,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2450,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 4892,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 4847,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 2826,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 2566,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 2117,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 1774,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXVI",
+      "wordCount": 3523,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXVII",
+      "wordCount": 3212,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII",
+      "wordCount": 1095,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "XXXIX",
+      "wordCount": 2616,
+      "estimatedMinutes": 10
+    }
+  ]
+}

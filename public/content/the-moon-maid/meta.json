@@ -1,0 +1,250 @@
+{
+  "bookId": "the-moon-maid",
+  "title": "The Moon Maid",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 40,
+  "totalWordCount": 125766,
+  "totalMinutes": 504,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I: The Moon Maid",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 1962,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "I: The Flight of “The Barsoom”",
+      "wordCount": 5517,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "II: The Heart of the Moon",
+      "wordCount": 4134,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "III: Human Quadrupeds",
+      "wordCount": 4372,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "IV: In the Hands of the Va-Gas",
+      "wordCount": 4143,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "V: A Lunar Storm",
+      "wordCount": 3862,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VI: An Exodus and a Battle",
+      "wordCount": 4350,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "VII: The Moon Maid Escapes",
+      "wordCount": 3497,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "VIII: Into the Mouth of the Crater",
+      "wordCount": 4590,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "IX: The Fight with the Kalkars",
+      "wordCount": 3341,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "X: The Kalkar City",
+      "wordCount": 5313,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XI: Laythe",
+      "wordCount": 3501,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XII: Ko-Tah Threatens the Princess",
+      "wordCount": 4177,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XIII: Ko-Tah Is Killed",
+      "wordCount": 4316,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XIV: Back to “The Barsoom”",
+      "wordCount": 4747,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "Part II: The Moon Men",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "Prologue",
+      "wordCount": 2271,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "I: The Flag",
+      "wordCount": 2773,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "II: The Hellhounds",
+      "wordCount": 2348,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "III: Brother General Or-Tis",
+      "wordCount": 3704,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "IV: A Fight on Market Day",
+      "wordCount": 2800,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "V: The Court-Martial",
+      "wordCount": 3696,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "VI: Betrayed",
+      "wordCount": 3675,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "VII: The Arrest of Julian 8th",
+      "wordCount": 1466,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "VIII: I Horsewhip an Officer",
+      "wordCount": 2068,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "IX: Revolution",
+      "wordCount": 3932,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "X: The Butcher",
+      "wordCount": 3307,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "Part III: The Red Hawk",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: The Desert Clans",
+      "wordCount": 4219,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 31,
+      "title": "II: Exodus",
+      "wordCount": 2117,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "III: Armageddon",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "IV: The Capital",
+      "wordCount": 3837,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "V: The Sea",
+      "wordCount": 3381,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "VI: Saku the Nipon",
+      "wordCount": 3370,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "VII: Bethelda",
+      "wordCount": 3652,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 37,
+      "title": "VIII: Raban",
+      "wordCount": 4556,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 38,
+      "title": "IX: Reunion",
+      "wordCount": 2976,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "X: Peace",
+      "wordCount": 493,
+      "estimatedMinutes": 2
+    }
+  ]
+}

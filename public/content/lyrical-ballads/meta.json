@@ -1,0 +1,34 @@
+{
+  "bookId": "lyrical-ballads",
+  "title": "Lyrical Ballads: With Pastoral and Other Poems",
+  "author": "William Wordsworth & Samuel Taylor Coleridge",
+  "chapterCount": 4,
+  "totalWordCount": 54687,
+  "totalMinutes": 219,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 9807,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 1,
+      "title": "Volume I",
+      "wordCount": 18952,
+      "estimatedMinutes": 76
+    },
+    {
+      "index": 2,
+      "title": "Volume II",
+      "wordCount": 24241,
+      "estimatedMinutes": 97
+    },
+    {
+      "index": 3,
+      "title": "Appendix",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    }
+  ]
+}

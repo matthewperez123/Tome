@@ -1,0 +1,16 @@
+{
+  "bookId": "a-start-in-life",
+  "title": "A Start in Life",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 59285,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Start in Life",
+      "wordCount": 59285,
+      "estimatedMinutes": 237
+    }
+  ]
+}

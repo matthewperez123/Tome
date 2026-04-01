@@ -1,0 +1,22 @@
+{
+  "bookId": "verses-on-various-occasions",
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "chapterCount": 2,
+  "totalWordCount": 31243,
+  "totalMinutes": 125,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Solitude",
+      "wordCount": 25003,
+      "estimatedMinutes": 100
+    },
+    {
+      "index": 1,
+      "title": "CLXXVIII: The Dream of Gerontius",
+      "wordCount": 6240,
+      "estimatedMinutes": 25
+    }
+  ]
+}

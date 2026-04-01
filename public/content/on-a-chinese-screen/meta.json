@@ -1,0 +1,358 @@
+{
+  "bookId": "on-a-chinese-screen",
+  "title": "On a Chinese Screen",
+  "author": "W. Somerset Maugham",
+  "chapterCount": 58,
+  "totalWordCount": 50994,
+  "totalMinutes": 206,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Rising of the Curtain",
+      "wordCount": 515,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "II: My Lady’s Parlour",
+      "wordCount": 582,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "III: The Mongol Chief",
+      "wordCount": 334,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "IV: The Rolling Stone",
+      "wordCount": 910,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "V: The Cabinet Minister",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "VI: Dinner Parties",
+      "wordCount": 1389,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VII: The Altar of Heaven",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Servants of God",
+      "wordCount": 1100,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "IX: The Inn",
+      "wordCount": 932,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "X: The Glory Hole",
+      "wordCount": 644,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "XI: Fear",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: The Picture",
+      "wordCount": 344,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "XIII: Her Britannic Majesty’s Representative",
+      "wordCount": 653,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Opium Den",
+      "wordCount": 337,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XV: The Last Chance",
+      "wordCount": 425,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Nun",
+      "wordCount": 425,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 16,
+      "title": "XVII: Henderson",
+      "wordCount": 799,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Dawn",
+      "wordCount": 761,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Point of Honour",
+      "wordCount": 1000,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XX: The Beast of Burden",
+      "wordCount": 753,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XXI: Dr. Macalister",
+      "wordCount": 1196,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Road",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII: God’s Truth",
+      "wordCount": 772,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Romance",
+      "wordCount": 1347,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Grand Style",
+      "wordCount": 870,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Rain",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Sullivan",
+      "wordCount": 466,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Dining-Room",
+      "wordCount": 900,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Arabesque",
+      "wordCount": 139,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Consul",
+      "wordCount": 1944,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Stripling",
+      "wordCount": 307,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Fannings",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: The Song of the River",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Mirage",
+      "wordCount": 553,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 34,
+      "title": "XXXV: The Stranger",
+      "wordCount": 1383,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Democracy",
+      "wordCount": 866,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Seventh Day Adventist",
+      "wordCount": 545,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: The Philosopher",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: The Missionary Lady",
+      "wordCount": 679,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "XL: A Game of Billiards",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 40,
+      "title": "XLI: The Skipper",
+      "wordCount": 430,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 41,
+      "title": "XLII: The Sights of Town",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "XLIII: Nightfall",
+      "wordCount": 274,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "XLIV: The Normal Man",
+      "wordCount": 1414,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 44,
+      "title": "XLV: The Old Timer",
+      "wordCount": 858,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XLVI: The Plain",
+      "wordCount": 558,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XLVII: Failure",
+      "wordCount": 477,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: A Student of the Drama",
+      "wordCount": 1134,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 48,
+      "title": "XLIX: The Taipan",
+      "wordCount": 3035,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "L: Metempsychosis",
+      "wordCount": 296,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "LI: The Fragment",
+      "wordCount": 1117,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "LII: One of the Best",
+      "wordCount": 625,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 52,
+      "title": "LIII: The Sea-Dog",
+      "wordCount": 1559,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 53,
+      "title": "LIV: The Question",
+      "wordCount": 260,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "LV: The Sinologue",
+      "wordCount": 468,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 55,
+      "title": "LVI: The Vice-Consul",
+      "wordCount": 1395,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "LVII: A City Built on a Rock",
+      "wordCount": 1127,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 57,
+      "title": "LVIII: A Libation to the Gods",
+      "wordCount": 396,
+      "estimatedMinutes": 2
+    }
+  ]
+}

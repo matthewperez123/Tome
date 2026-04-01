@@ -1,0 +1,130 @@
+{
+  "bookId": "the-luck-of-barry-lyndon",
+  "title": "The Luck of Barry Lyndon",
+  "author": "William Makepeace Thackeray",
+  "chapterCount": 20,
+  "totalWordCount": 127120,
+  "totalMinutes": 510,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Bibliographical Note",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I: My Pedigree and Family—Undergo the Influence of the Tender Passion",
+      "wordCount": 11161,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 2,
+      "title": "II: I Show Myself to Be a Man of Spirit",
+      "wordCount": 6389,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "III: A False Start in the Genteel World",
+      "wordCount": 5603,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "IV: In Which Barry Takes a Near View of Military Glory",
+      "wordCount": 3976,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "V: Barry Far from Military Glory",
+      "wordCount": 5964,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "VI: The Crimp Wagon—Military Episodes",
+      "wordCount": 7242,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "VII: Barry Leads a Garrison Life, and Finds Many Friends There",
+      "wordCount": 4672,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: Barry’s Adieu to Military Profession",
+      "wordCount": 2965,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX: I Appear in a Manner Becoming My Name and Lineage",
+      "wordCount": 4907,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X: More Runs of Luck",
+      "wordCount": 6957,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 11,
+      "title": "XI: In Which the Luck Goes Against Barry",
+      "wordCount": 3504,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: Tragical History of Princess of X—﻿—",
+      "wordCount": 8023,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 13,
+      "title": "XIII: I Continue My Career as a Man of Fashion",
+      "wordCount": 6576,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 14,
+      "title": "XIV: I Return to Ireland, and Exhibit My Splendour and Generosity in That Kingdom",
+      "wordCount": 4784,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XV: I Pay Court to My Lady Lyndon",
+      "wordCount": 5594,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XVI: I Provide Nobly for My Family",
+      "wordCount": 6401,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 17,
+      "title": "XVII: I Appear as an Ornament of English Society",
+      "wordCount": 7921,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 18,
+      "title": "XVIII: My Good Fortune Begins to Waver",
+      "wordCount": 10038,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 19,
+      "title": "XIX: Conclusion",
+      "wordCount": 13176,
+      "estimatedMinutes": 53
+    }
+  ]
+}

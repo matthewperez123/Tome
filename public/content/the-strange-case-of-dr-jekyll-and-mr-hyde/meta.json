@@ -1,0 +1,70 @@
+{
+  "bookId": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "chapterCount": 10,
+  "totalWordCount": 25565,
+  "totalMinutes": 104,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Story of the Door",
+      "wordCount": 2405,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "Search for Mr. Hyde",
+      "wordCount": 2951,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "Dr. Jekyll Was Quite at Ease",
+      "wordCount": 804,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "The Carew Murder Case",
+      "wordCount": 1670,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "Incident of the Letter",
+      "wordCount": 1638,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "Incident of Dr. Lanyon",
+      "wordCount": 1498,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "Incident at the Window",
+      "wordCount": 558,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "The Last Night",
+      "wordCount": 4375,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "Dr. Lanyon’s Narrative",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "Henry Jekyll’s Full Statement of the Case",
+      "wordCount": 6952,
+      "estimatedMinutes": 28
+    }
+  ]
+}

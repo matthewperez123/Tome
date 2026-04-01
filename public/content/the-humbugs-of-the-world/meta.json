@@ -1,0 +1,376 @@
+{
+  "bookId": "the-humbugs-of-the-world",
+  "title": "The Humbugs of the World: An Account of the Humbugs, Delusions, Impositions, Quackeries, Deceits and Deceivers Generally, in All Ages",
+  "author": "P. T. Barnum",
+  "chapterCount": 61,
+  "totalWordCount": 109098,
+  "totalMinutes": 445,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Publisher’s Note",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 232,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Part I: Personal Reminiscences",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 1909,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 3025,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 2123,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "V",
+      "wordCount": 1550,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 1099,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 2043,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 1736,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "Part II: The Spiritualists",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "IX",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "X",
+      "wordCount": 1434,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XI",
+      "wordCount": 1886,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XII",
+      "wordCount": 1590,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XIII",
+      "wordCount": 1822,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XIV",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XV",
+      "wordCount": 2909,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XVI",
+      "wordCount": 2016,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XVII",
+      "wordCount": 3529,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "Part III: Trade and Business Impositions",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "XVIII",
+      "wordCount": 2182,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XIX",
+      "wordCount": 1965,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XX",
+      "wordCount": 2168,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXI",
+      "wordCount": 1735,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXII",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXIII",
+      "wordCount": 1357,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "Part IV: Money Manias",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "XXIV",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXV",
+      "wordCount": 2561,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXVI",
+      "wordCount": 1931,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXVII",
+      "wordCount": 2823,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "Part V: Medicine and Quacks",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "XXVIII",
+      "wordCount": 1330,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXIX",
+      "wordCount": 1524,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "XXX",
+      "wordCount": 1983,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "Part VI: Hoaxes",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XXXI",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "XXXII",
+      "wordCount": 3769,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "XXXIII",
+      "wordCount": 2805,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "Part VII: Ghosts and Witchcrafts",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 42,
+      "title": "XXXIV",
+      "wordCount": 2435,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XXXV",
+      "wordCount": 1935,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 44,
+      "title": "XXXVI",
+      "wordCount": 1944,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XXXVII",
+      "wordCount": 1673,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 46,
+      "title": "XXXVIII",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 47,
+      "title": "Part VIII: Adventurers",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "XXXIX",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "XL",
+      "wordCount": 1908,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "XLI",
+      "wordCount": 4649,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 51,
+      "title": "XLII",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 52,
+      "title": "XLIII",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 53,
+      "title": "Part IX: Religious Humbugs",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "XLIV",
+      "wordCount": 2699,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 55,
+      "title": "XLV",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 56,
+      "title": "XLVI",
+      "wordCount": 1614,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "XLVII",
+      "wordCount": 2362,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 58,
+      "title": "XLVIII",
+      "wordCount": 2076,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 59,
+      "title": "XLIX",
+      "wordCount": 1898,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 60,
+      "title": "L",
+      "wordCount": 2473,
+      "estimatedMinutes": 10
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bookId": "kim",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "chapterCount": 15,
+  "totalWordCount": 105455,
+  "totalMinutes": 422,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 9173,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 5395,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 6094,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 6809,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 6889,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 6535,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 5802,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 6160,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 7561,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 6186,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 7899,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 8522,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 7612,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 5989,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 8829,
+      "estimatedMinutes": 35
+    }
+  ]
+}

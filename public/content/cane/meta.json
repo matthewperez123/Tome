@@ -1,0 +1,214 @@
+{
+  "bookId": "cane",
+  "title": "Cane",
+  "author": "Jean Toomer",
+  "chapterCount": 34,
+  "totalWordCount": 42877,
+  "totalMinutes": 183,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 515,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Foreword",
+      "wordCount": 975,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Karintha",
+      "wordCount": 745,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "Reapers",
+      "wordCount": 66,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "November Cotton Flower",
+      "wordCount": 107,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "Becky",
+      "wordCount": 1005,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "Face",
+      "wordCount": 48,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "Cotton Song",
+      "wordCount": 112,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "Carma",
+      "wordCount": 797,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "Song of the Son",
+      "wordCount": 183,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "Georgia Dusk",
+      "wordCount": 205,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "Fern",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "Nullo",
+      "wordCount": 33,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "Evening Song",
+      "wordCount": 62,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Esther",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "Conversion",
+      "wordCount": 32,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "Portrait in Georgia",
+      "wordCount": 41,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "Blood-Burning Moon",
+      "wordCount": 3279,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "Part II",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "Seventh Street",
+      "wordCount": 228,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "Rhobert",
+      "wordCount": 523,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 22,
+      "title": "Avey",
+      "wordCount": 2724,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "Beehive",
+      "wordCount": 81,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "Storm Ending",
+      "wordCount": 45,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "Theater",
+      "wordCount": 1778,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "Her Lips Are Copper Wire",
+      "wordCount": 72,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "Calling Jesus",
+      "wordCount": 324,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "Box Seat",
+      "wordCount": 4903,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "Prayer",
+      "wordCount": 129,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "Harvest Song",
+      "wordCount": 340,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "Bona and Paul",
+      "wordCount": 3628,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "Part III",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "Kabnis",
+      "wordCount": 15540,
+      "estimatedMinutes": 62
+    }
+  ]
+}

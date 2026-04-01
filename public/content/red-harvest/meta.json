@@ -1,0 +1,172 @@
+{
+  "bookId": "red-harvest",
+  "title": "Red Harvest",
+  "author": "Dashiell Hammett",
+  "chapterCount": 27,
+  "totalWordCount": 61030,
+  "totalMinutes": 245,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: A Woman in Green and a Man in Gray",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II: The Czar of Poisonville",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: Dinah Brand",
+      "wordCount": 2553,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "IV: Hurricane Street",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "V: Old Elihu Talks Sense",
+      "wordCount": 2376,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Whisper’s Joint",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: That’s Why I Sewed You Up",
+      "wordCount": 2449,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Tip on Kid Cooper",
+      "wordCount": 1319,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "IX: A Black Knife",
+      "wordCount": 2720,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "X: Crime Wanted—Male or Female",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "XI: The Swell Spoon",
+      "wordCount": 2382,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: A New Deal",
+      "wordCount": 2446,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: —$200.10—",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: Max",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: Cedar Hill Inn",
+      "wordCount": 2483,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XVI: Exit Jerry",
+      "wordCount": 1635,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: Reno",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Painter Street",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Peace Conference",
+      "wordCount": 1941,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: Laudanum",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Seventeenth Murder",
+      "wordCount": 2091,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Ice Pick",
+      "wordCount": 3026,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Mr. Charles Proctor Dawn",
+      "wordCount": 2173,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Wanted",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV: Whiskeytown",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Blackmail",
+      "wordCount": 2260,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Warehouses",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    }
+  ]
+}

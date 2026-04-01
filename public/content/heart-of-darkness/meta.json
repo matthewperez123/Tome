@@ -1,0 +1,28 @@
+{
+  "bookId": "heart-of-darkness",
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "chapterCount": 3,
+  "totalWordCount": 38626,
+  "totalMinutes": 154,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 14482,
+      "estimatedMinutes": 58
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 12271,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 11873,
+      "estimatedMinutes": 47
+    }
+  ]
+}

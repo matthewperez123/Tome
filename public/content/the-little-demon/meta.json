@@ -1,0 +1,238 @@
+{
+  "bookId": "the-little-demon",
+  "title": "The Little Demon",
+  "author": "Fyodor Sologub",
+  "chapterCount": 38,
+  "totalWordCount": 98825,
+  "totalMinutes": 395,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 637,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Translators’ Preface",
+      "wordCount": 697,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Author’s Preface to the Second Russian Edition, 1908",
+      "wordCount": 514,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "Author’s Preface to the Fifth Russian Edition, 1909",
+      "wordCount": 353,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Dialogue to the Seventh Russian Edition, 1913",
+      "wordCount": 160,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "Author’s Introduction to the English Edition",
+      "wordCount": 547,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "I",
+      "wordCount": 3871,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "II",
+      "wordCount": 3831,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "III",
+      "wordCount": 2205,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "IV",
+      "wordCount": 3177,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "V",
+      "wordCount": 3559,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "VI",
+      "wordCount": 3639,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "VII",
+      "wordCount": 2064,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "VIII",
+      "wordCount": 3321,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "IX",
+      "wordCount": 2820,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "X",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XI",
+      "wordCount": 3344,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XII",
+      "wordCount": 3771,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XIII",
+      "wordCount": 2827,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIV",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XV",
+      "wordCount": 3789,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XVI",
+      "wordCount": 3271,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XVII",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XVIII",
+      "wordCount": 2480,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XIX",
+      "wordCount": 3771,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XX",
+      "wordCount": 2752,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXI",
+      "wordCount": 2695,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXII",
+      "wordCount": 3183,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XXIII",
+      "wordCount": 3110,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "XXIV",
+      "wordCount": 3453,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXV",
+      "wordCount": 3436,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "XXVI",
+      "wordCount": 3272,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXVII",
+      "wordCount": 1967,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXVIII",
+      "wordCount": 3229,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXIX",
+      "wordCount": 2267,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXX",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXI",
+      "wordCount": 2201,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXII",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    }
+  ]
+}

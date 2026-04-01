@@ -1,0 +1,214 @@
+{
+  "bookId": "the-last-man",
+  "title": "The Last Man",
+  "author": "Mary Shelley",
+  "chapterCount": 34,
+  "totalWordCount": 175457,
+  "totalMinutes": 705,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1692,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Volume I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 6183,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 4288,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 5363,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 5924,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 4831,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 5688,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 4784,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 7068,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 6813,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 4171,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "Volume II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "I",
+      "wordCount": 5967,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "II",
+      "wordCount": 7105,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 16,
+      "title": "III",
+      "wordCount": 6281,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 17,
+      "title": "IV",
+      "wordCount": 4107,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "V",
+      "wordCount": 3482,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "VI",
+      "wordCount": 6673,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "VII",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "VIII",
+      "wordCount": 10380,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 22,
+      "title": "IX",
+      "wordCount": 7415,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 23,
+      "title": "Volume III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "I",
+      "wordCount": 3630,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "II",
+      "wordCount": 6784,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 26,
+      "title": "III",
+      "wordCount": 7909,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 27,
+      "title": "IV",
+      "wordCount": 7948,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 28,
+      "title": "V",
+      "wordCount": 4114,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "VI",
+      "wordCount": 5240,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 30,
+      "title": "VII",
+      "wordCount": 5624,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 31,
+      "title": "VIII",
+      "wordCount": 5212,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 32,
+      "title": "IX",
+      "wordCount": 5336,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 33,
+      "title": "X",
+      "wordCount": 7738,
+      "estimatedMinutes": 31
+    }
+  ]
+}

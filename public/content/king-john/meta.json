@@ -1,0 +1,52 @@
+{
+  "bookId": "king-john",
+  "title": "King John",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 23215,
+  "totalMinutes": 94,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1382,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 124,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 2338,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 4940,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5190,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4833,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 4408,
+      "estimatedMinutes": 18
+    }
+  ]
+}

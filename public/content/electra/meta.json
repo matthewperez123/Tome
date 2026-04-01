@@ -1,0 +1,28 @@
+{
+  "bookId": "electra",
+  "title": "Electra",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 12219,
+  "totalMinutes": 50,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 446,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 55,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Electra",
+      "wordCount": 11718,
+      "estimatedMinutes": 47
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "bookId": "gladiator",
+  "title": "Gladiator",
+  "author": "Philip Wylie",
+  "chapterCount": 23,
+  "totalWordCount": 75145,
+  "totalMinutes": 297,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3057,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4792,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3308,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3340,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 4993,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 9257,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3808,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1613,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3202,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1305,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 3205,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1398,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 2287,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 3546,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 4623,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2972,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 4350,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 843,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 4066,
+      "estimatedMinutes": 16
+    }
+  ]
+}

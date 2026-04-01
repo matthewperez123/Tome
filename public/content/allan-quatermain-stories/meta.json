@@ -1,0 +1,40 @@
+{
+  "bookId": "allan-quatermain-stories",
+  "title": "Allan Quatermain Stories",
+  "author": "H. Rider Haggard",
+  "chapterCount": 5,
+  "totalWordCount": 30841,
+  "totalMinutes": 123,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 506,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Hunter Quatermain’s Story",
+      "wordCount": 6803,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 2,
+      "title": "Long Odds",
+      "wordCount": 6432,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "A Tale of Three Lions",
+      "wordCount": 11854,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 4,
+      "title": "Magepa the Buck",
+      "wordCount": 5246,
+      "estimatedMinutes": 21
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "bookId": "the-adventures-of-captain-hatteras",
+  "title": "The Adventures of Captain Hatteras",
+  "author": "Jules Verne",
+  "chapterCount": 62,
+  "totalWordCount": 128987,
+  "totalMinutes": 516,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 495,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I: The English at the North Pole",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Forward",
+      "wordCount": 2524,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "II: An Unexpected Letter",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "III: Dr. Clawbonny",
+      "wordCount": 2786,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "IV: The Dog-Captain",
+      "wordCount": 2347,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "V: At Sea",
+      "wordCount": 2511,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: The Great Polar Current",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VII: The Entrance of Davis Strait",
+      "wordCount": 2270,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Talk of the Crew",
+      "wordCount": 2557,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "IX: Another Letter",
+      "wordCount": 1710,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "X: Dangerous Sailing",
+      "wordCount": 2509,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XI: The Devil’s Thumb",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: Captain Hatteras",
+      "wordCount": 2663,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Captain’s Plans",
+      "wordCount": 2110,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Expeditions in Search of Franklin",
+      "wordCount": 2180,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XV: The Forward Driven Southward",
+      "wordCount": 2065,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Magnetic Pole",
+      "wordCount": 2506,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Fate of Sir John Franklin",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Way Northward",
+      "wordCount": 1561,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XIX: A Whale in Sight",
+      "wordCount": 1692,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XX: Beechey Island",
+      "wordCount": 2174,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXI: The Death of Bellot",
+      "wordCount": 2372,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXII: The First Signs of Mutiny",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Attacked by the Ice",
+      "wordCount": 2657,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Preparations for Wintering",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXV: One of James Ross’s Foxes",
+      "wordCount": 2586,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVI: The Last Piece of Coal",
+      "wordCount": 1865,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXVII: The Great Cold at Christmas",
+      "wordCount": 2039,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Preparations for Departure",
+      "wordCount": 1528,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Across the Ice-Fields",
+      "wordCount": 2744,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXX: The Cairn",
+      "wordCount": 1842,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Death of Simpson",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Return to the Forward",
+      "wordCount": 1793,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 34,
+      "title": "Part II: The Desert of Ice",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "I: The Doctor’s Inventory",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "II: Altamont’s First Words",
+      "wordCount": 2693,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "III: Seventeen Days of Land Journey",
+      "wordCount": 2507,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "IV: The Last Charge of Powder",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "V: The Seal and the Bear",
+      "wordCount": 2363,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "VI: The Porpoise",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "VII: A Discussion About Charts",
+      "wordCount": 2428,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 42,
+      "title": "VIII: Excursion to the North of Victoria Bay",
+      "wordCount": 2409,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "IX: Cold and Heat",
+      "wordCount": 2023,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 44,
+      "title": "X: The Pleasures of Winter-Quarters",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XI: Disquieting Traces",
+      "wordCount": 2355,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 46,
+      "title": "XII: The Ice Prison",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 47,
+      "title": "XIII: The Mine",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 48,
+      "title": "XIV: The Polar Spring",
+      "wordCount": 2282,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XV: The Northwest Passage",
+      "wordCount": 2677,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "XVI: Northern Arcadia",
+      "wordCount": 2289,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 51,
+      "title": "XVII: Altamont’s Revenge",
+      "wordCount": 1590,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 52,
+      "title": "XVIII: The Last Preparations",
+      "wordCount": 1261,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 53,
+      "title": "XIX: The Journey Northward",
+      "wordCount": 2368,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 54,
+      "title": "XX: Footprints on the Snow",
+      "wordCount": 2239,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 55,
+      "title": "XXI: The Open Sea",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 56,
+      "title": "XXII: The Approach to the Pole",
+      "wordCount": 2336,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 57,
+      "title": "XXIII: The English Flag",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 58,
+      "title": "XXIV: Polar Cosmography",
+      "wordCount": 2477,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 59,
+      "title": "XXV: Mount Hatteras",
+      "wordCount": 2759,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 60,
+      "title": "XXVI: Return to the South",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 61,
+      "title": "XXVII: Conclusion",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "bookId": "shorts-from-scenes-from-private-life",
+  "title": "Shorts from Scenes from Private Life",
+  "author": "Honoré de Balzac",
+  "chapterCount": 21,
+  "totalWordCount": 329153,
+  "totalMinutes": 1315,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 5113,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 1,
+      "title": "At the Sign of the Cat and Racket",
+      "wordCount": 21316,
+      "estimatedMinutes": 85
+    },
+    {
+      "index": 2,
+      "title": "The Ball at Sceaux",
+      "wordCount": 21657,
+      "estimatedMinutes": 87
+    },
+    {
+      "index": 3,
+      "title": "The Purse",
+      "wordCount": 11810,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 4,
+      "title": "The Vendetta",
+      "wordCount": 24937,
+      "estimatedMinutes": 100
+    },
+    {
+      "index": 5,
+      "title": "Madame Firmiani",
+      "wordCount": 7932,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 6,
+      "title": "A Second Home",
+      "wordCount": 26236,
+      "estimatedMinutes": 105
+    },
+    {
+      "index": 7,
+      "title": "Domestic Peace",
+      "wordCount": 13338,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 8,
+      "title": "The Imaginary Mistress",
+      "wordCount": 19277,
+      "estimatedMinutes": 77
+    },
+    {
+      "index": 9,
+      "title": "A Study of Woman",
+      "wordCount": 3361,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "Another Study of Woman",
+      "wordCount": 14864,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 11,
+      "title": "La Grande Bretêche",
+      "wordCount": 8124,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 12,
+      "title": "The Deserted Woman",
+      "wordCount": 16924,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 13,
+      "title": "La Grenadière",
+      "wordCount": 9128,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 14,
+      "title": "The Message",
+      "wordCount": 5202,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "Gobseck",
+      "wordCount": 22955,
+      "estimatedMinutes": 92
+    },
+    {
+      "index": 16,
+      "title": "Honorine",
+      "wordCount": 30622,
+      "estimatedMinutes": 122
+    },
+    {
+      "index": 17,
+      "title": "Colonel Chabert",
+      "wordCount": 24122,
+      "estimatedMinutes": 96
+    },
+    {
+      "index": 18,
+      "title": "The Atheist’s Mass",
+      "wordCount": 6773,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 19,
+      "title": "The Commission in Lunacy",
+      "wordCount": 27753,
+      "estimatedMinutes": 111
+    },
+    {
+      "index": 20,
+      "title": "Pierre Grassou",
+      "wordCount": 7709,
+      "estimatedMinutes": 31
+    }
+  ]
+}

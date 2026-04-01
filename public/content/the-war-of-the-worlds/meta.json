@@ -1,0 +1,184 @@
+{
+  "bookId": "the-war-of-the-worlds",
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "chapterCount": 29,
+  "totalWordCount": 60178,
+  "totalMinutes": 240,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: The Coming of the Martians",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Eve of the War",
+      "wordCount": 2228,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: The Falling Star",
+      "wordCount": 1343,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "III: On Horsell Common",
+      "wordCount": 1016,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "IV: The Cylinder Opens",
+      "wordCount": 1120,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "V: The Heat-Ray",
+      "wordCount": 1488,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI: The Heat-Ray in the Chobham Road",
+      "wordCount": 837,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VII: How I Reached Home",
+      "wordCount": 1321,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII: Friday Night",
+      "wordCount": 975,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX: The Fighting Begins",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "X: In the Storm",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XI: At the Window",
+      "wordCount": 2031,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII: What I Saw of the Destruction of Weybridge and Shepperton",
+      "wordCount": 3845,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: How I Fell in with the Curate",
+      "wordCount": 1780,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIV: In London",
+      "wordCount": 3733,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XV: What Had Happened in Surrey",
+      "wordCount": 2813,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Exodus from London",
+      "wordCount": 4391,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Thunder Child",
+      "wordCount": 3283,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "Book II: The Earth Under the Martians",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "I: Under Foot",
+      "wordCount": 2601,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "II: What We Saw from the Ruined House",
+      "wordCount": 3305,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "III: The Days of Imprisonment",
+      "wordCount": 1942,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "IV: The Death of the Curate",
+      "wordCount": 1616,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "V: The Stillness",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "VI: The Work of Fifteen Days",
+      "wordCount": 1253,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "VII: The Man on Putney Hill",
+      "wordCount": 5582,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 26,
+      "title": "VIII: Dead London",
+      "wordCount": 3098,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "IX: Wreckage",
+      "wordCount": 1843,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "X: The Epilogue",
+      "wordCount": 1378,
+      "estimatedMinutes": 6
+    }
+  ]
+}

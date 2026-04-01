@@ -1,0 +1,112 @@
+{
+  "bookId": "peter-and-wendy",
+  "title": "Peter and Wendy",
+  "author": "J. M. Barrie",
+  "chapterCount": 17,
+  "totalWordCount": 47210,
+  "totalMinutes": 190,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Peter Breaks Through",
+      "wordCount": 3049,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: The Shadow",
+      "wordCount": 2955,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: Come Away, Come Away!",
+      "wordCount": 4128,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: The Flight",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "V: The Island Come True",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI: The Little House",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: The Home Under the Ground",
+      "wordCount": 2409,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Mermaids’ Lagoon",
+      "wordCount": 3917,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "IX: The Never Bird",
+      "wordCount": 1089,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "X: The Happy Home",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "XI: Wendy’s Story",
+      "wordCount": 2321,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII: The Children Are Carried Off",
+      "wordCount": 1640,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Do You Believe in Fairies?",
+      "wordCount": 2863,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Pirate Ship",
+      "wordCount": 2315,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: “Hook or Me This Time”",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Return Home",
+      "wordCount": 2965,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVII: When Wendy Grew Up",
+      "wordCount": 3508,
+      "estimatedMinutes": 14
+    }
+  ]
+}

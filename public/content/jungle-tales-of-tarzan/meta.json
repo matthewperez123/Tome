@@ -1,0 +1,82 @@
+{
+  "bookId": "jungle-tales-of-tarzan",
+  "title": "Jungle Tales of Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 12,
+  "totalWordCount": 74363,
+  "totalMinutes": 298,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Tarzan’s First Love",
+      "wordCount": 6521,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 1,
+      "title": "II: The Capture of Tarzan",
+      "wordCount": 5400,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 2,
+      "title": "III: The Fight for the Balu",
+      "wordCount": 4208,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: The God of Tarzan",
+      "wordCount": 6625,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "V: Tarzan and the Black Boy",
+      "wordCount": 9243,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 5,
+      "title": "VI: The Witch-Doctor Seeks Vengeance",
+      "wordCount": 7585,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 6,
+      "title": "VII: The End of Bukawai",
+      "wordCount": 4113,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Lion",
+      "wordCount": 5161,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "IX: The Nightmare",
+      "wordCount": 5228,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "X: The Battle for Teeka",
+      "wordCount": 7395,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 10,
+      "title": "XI: A Jungle Joke",
+      "wordCount": 6556,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 11,
+      "title": "XII: Tarzan Rescues the Moon",
+      "wordCount": 6328,
+      "estimatedMinutes": 25
+    }
+  ]
+}

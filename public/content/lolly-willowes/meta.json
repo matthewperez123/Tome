@@ -1,0 +1,34 @@
+{
+  "bookId": "lolly-willowes",
+  "title": "Lolly Willowes: Or The Loving Huntsman",
+  "author": "Sylvia Townsend Warner",
+  "chapterCount": 4,
+  "totalWordCount": 52241,
+  "totalMinutes": 210,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 391,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 15240,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 16418,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 20192,
+      "estimatedMinutes": 81
+    }
+  ]
+}

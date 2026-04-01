@@ -1,0 +1,106 @@
+{
+  "bookId": "the-story-of-the-treasure-seekers",
+  "title": "The Story of the Treasure Seekers: Being the Adventures of the Bastable Children in Search of a Fortune",
+  "author": "E. Nesbit",
+  "chapterCount": 16,
+  "totalWordCount": 52974,
+  "totalMinutes": 212,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Council of Ways and Means",
+      "wordCount": 2430,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II: Digging for Treasure",
+      "wordCount": 2348,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "III: Being Detectives",
+      "wordCount": 3736,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "IV: Good Hunting",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: The Poet and the Editor",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: Noël’s Princess",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VII: Being Bandits",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VIII: Being Editors",
+      "wordCount": 3329,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: The G.B.",
+      "wordCount": 3557,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X: Lord Tottenham",
+      "wordCount": 2703,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI: Castilian Amoroso",
+      "wordCount": 4950,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XII: The Nobleness of Oswald",
+      "wordCount": 4530,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Robber and the Burglar",
+      "wordCount": 5741,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Divining-Rod",
+      "wordCount": 2901,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV: “Lo, the Poor Indian!”",
+      "wordCount": 3095,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: The End of the Treasure-Seeking",
+      "wordCount": 3582,
+      "estimatedMinutes": 14
+    }
+  ]
+}

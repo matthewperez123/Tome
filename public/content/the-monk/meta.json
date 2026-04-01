@@ -1,0 +1,94 @@
+{
+  "bookId": "the-monk",
+  "title": "The Monk: A Romance",
+  "author": "M. G. Lewis",
+  "chapterCount": 14,
+  "totalWordCount": 136437,
+  "totalMinutes": 544,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 357,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Advertisement",
+      "wordCount": 151,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 9704,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 15799,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 11809,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 20316,
+      "estimatedMinutes": 81
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 9310,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 10095,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 7454,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 7252,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 12364,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 10614,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 14076,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 7136,
+      "estimatedMinutes": 29
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "murder-in-the-gunroom",
+  "title": "Murder in the Gunroom",
+  "author": "H. Beam Piper",
+  "chapterCount": 22,
+  "totalWordCount": 67796,
+  "totalMinutes": 273,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 389,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2644,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2078,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3029,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2395,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1691,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 5095,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 5065,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3450,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3194,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2970,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3527,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 4141,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 4102,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 3228,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 4814,
+      "estimatedMinutes": 19
+    }
+  ]
+}

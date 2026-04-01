@@ -1,0 +1,232 @@
+{
+  "bookId": "leaves-of-grass",
+  "title": "Leaves of Grass",
+  "author": "Walt Whitman",
+  "chapterCount": 37,
+  "totalWordCount": 130284,
+  "totalMinutes": 520,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Inscriptions",
+      "wordCount": 2537,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "Starting from Paumanok",
+      "wordCount": 3118,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "Song of Myself",
+      "wordCount": 15803,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 3,
+      "title": "Children of Adam",
+      "wordCount": 5386,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Calamus",
+      "wordCount": 5287,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Salut au Monde!",
+      "wordCount": 2692,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Song of the Open Road",
+      "wordCount": 2708,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "Crossing Brooklyn Ferry",
+      "wordCount": 1784,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "Song of the Answerer",
+      "wordCount": 1185,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "Our Old Feuillage",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "A Song of Joys",
+      "wordCount": 1963,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "Song of the Broad-Axe",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "Song of the Exposition",
+      "wordCount": 2363,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "Song of the Redwood-Tree",
+      "wordCount": 1065,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "A Song for Occupations",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "A Song of the Rolling Earth",
+      "wordCount": 1543,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "Birds of Passage",
+      "wordCount": 3513,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "A Broadway Pageant",
+      "wordCount": 914,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "Sea-Drift",
+      "wordCount": 3803,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "By the Roadside",
+      "wordCount": 2530,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "Drum-Taps",
+      "wordCount": 10920,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 21,
+      "title": "Memories of President Lincoln",
+      "wordCount": 2526,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "By Blue Ontario’s Shore",
+      "wordCount": 3999,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "Autumn Rivulets",
+      "wordCount": 9871,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 24,
+      "title": "Proud Music of the Storm",
+      "wordCount": 1498,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "Passage to India",
+      "wordCount": 2277,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "Prayer of Columbus",
+      "wordCount": 577,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "The Sleepers",
+      "wordCount": 2426,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "To Think of Time",
+      "wordCount": 1554,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "Whispers of Heavenly Death",
+      "wordCount": 2595,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "Thou Mother with Thy Equal Brood",
+      "wordCount": 1558,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "From Noon to Starry Night",
+      "wordCount": 5285,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 32,
+      "title": "Songs of Parting",
+      "wordCount": 3747,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "Sands at Seventy",
+      "wordCount": 5292,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 34,
+      "title": "Goodbye My Fancy",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 35,
+      "title": "Old Age Echoes",
+      "wordCount": 1319,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "A Backward Glance O’er Travel’d Roads",
+      "wordCount": 6128,
+      "estimatedMinutes": 25
+    }
+  ]
+}

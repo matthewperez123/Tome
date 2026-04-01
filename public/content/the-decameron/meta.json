@@ -1,0 +1,748 @@
+{
+  "bookId": "the-decameron",
+  "title": "The Decameron",
+  "author": "Giovanni Boccaccio",
+  "chapterCount": 123,
+  "totalWordCount": 286940,
+  "totalMinutes": 1158,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Proem",
+      "wordCount": 1027,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Day the First",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Day the First Introduction",
+      "wordCount": 7551,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 3,
+      "title": "The First Story",
+      "wordCount": 5033,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "The Second Story",
+      "wordCount": 1650,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "The Third Story",
+      "wordCount": 1095,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "The Fourth Story",
+      "wordCount": 1434,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "The Fifth Story",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "The Sixth Story",
+      "wordCount": 962,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "The Seventh Story",
+      "wordCount": 1773,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "The Eighth Story",
+      "wordCount": 883,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "The Ninth Story",
+      "wordCount": 401,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 12,
+      "title": "The Tenth Story",
+      "wordCount": 2474,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "Day the Second",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "Day the Second Introduction",
+      "wordCount": 174,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "The First Story",
+      "wordCount": 1845,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "The Second Story",
+      "wordCount": 2437,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "The Third Story",
+      "wordCount": 3258,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "The Fourth Story",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "The Fifth Story",
+      "wordCount": 5029,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 20,
+      "title": "The Sixth Story",
+      "wordCount": 5170,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 21,
+      "title": "The Seventh Story",
+      "wordCount": 8392,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 22,
+      "title": "The Eighth Story",
+      "wordCount": 6152,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 23,
+      "title": "The Ninth Story",
+      "wordCount": 4983,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 24,
+      "title": "The Tenth Story",
+      "wordCount": 3792,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "Day the Third",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "Day the Third Introduction",
+      "wordCount": 1179,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "The First Story",
+      "wordCount": 2618,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "The Second Story",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "The Third Story",
+      "wordCount": 3699,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "The Fourth Story",
+      "wordCount": 1986,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "The Fifth Story",
+      "wordCount": 2304,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "The Sixth Story",
+      "wordCount": 3300,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "The Seventh Story",
+      "wordCount": 6400,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 34,
+      "title": "The Eighth Story",
+      "wordCount": 3804,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "The Ninth Story",
+      "wordCount": 3627,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 36,
+      "title": "The Tenth Story",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 37,
+      "title": "Day the Fourth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "Day the Fourth Introduction",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "The First Story",
+      "wordCount": 4045,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 40,
+      "title": "The Second Story",
+      "wordCount": 3832,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "The Third Story",
+      "wordCount": 2583,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 42,
+      "title": "The Fourth Story",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 43,
+      "title": "The Fifth Story",
+      "wordCount": 1414,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 44,
+      "title": "The Sixth Story",
+      "wordCount": 2795,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "The Seventh Story",
+      "wordCount": 1524,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "The Eighth Story",
+      "wordCount": 2095,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 47,
+      "title": "The Ninth Story",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 48,
+      "title": "The Tenth Story",
+      "wordCount": 4501,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 49,
+      "title": "Day the Fifth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "Day the Fifth Introduction",
+      "wordCount": 280,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 51,
+      "title": "The First Story",
+      "wordCount": 4246,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 52,
+      "title": "The Second Story",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 53,
+      "title": "The Third Story",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 54,
+      "title": "The Fourth Story",
+      "wordCount": 2034,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "The Fifth Story",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 56,
+      "title": "The Sixth Story",
+      "wordCount": 2169,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 57,
+      "title": "The Seventh Story",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 58,
+      "title": "The Eighth Story",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 59,
+      "title": "The Ninth Story",
+      "wordCount": 2456,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 60,
+      "title": "The Tenth Story",
+      "wordCount": 4223,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 61,
+      "title": "Day the Sixth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 62,
+      "title": "Day the Sixth Introduction",
+      "wordCount": 849,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 63,
+      "title": "The First Story",
+      "wordCount": 593,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 64,
+      "title": "The Second Story",
+      "wordCount": 1321,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 65,
+      "title": "The Third Story",
+      "wordCount": 686,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 66,
+      "title": "The Fourth Story",
+      "wordCount": 906,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 67,
+      "title": "The Fifth Story",
+      "wordCount": 744,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 68,
+      "title": "The Sixth Story",
+      "wordCount": 832,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 69,
+      "title": "The Seventh Story",
+      "wordCount": 1030,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 70,
+      "title": "The Eighth Story",
+      "wordCount": 539,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 71,
+      "title": "The Ninth Story",
+      "wordCount": 828,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 72,
+      "title": "The Tenth Story",
+      "wordCount": 5538,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 73,
+      "title": "Day the Seventh",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 74,
+      "title": "Day the Seventh Introduction",
+      "wordCount": 439,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 75,
+      "title": "The First Story",
+      "wordCount": 1725,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 76,
+      "title": "The Second Story",
+      "wordCount": 1702,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 77,
+      "title": "The Third Story",
+      "wordCount": 2042,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 78,
+      "title": "The Fourth Story",
+      "wordCount": 1645,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 79,
+      "title": "The Fifth Story",
+      "wordCount": 3158,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 80,
+      "title": "The Sixth Story",
+      "wordCount": 1392,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 81,
+      "title": "The Seventh Story",
+      "wordCount": 2305,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 82,
+      "title": "The Eighth Story",
+      "wordCount": 3056,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 83,
+      "title": "The Ninth Story",
+      "wordCount": 4206,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 84,
+      "title": "The Tenth Story",
+      "wordCount": 2420,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 85,
+      "title": "Day the Eighth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 86,
+      "title": "Day the Eighth Introduction",
+      "wordCount": 117,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 87,
+      "title": "The First Story",
+      "wordCount": 1049,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 88,
+      "title": "The Second Story",
+      "wordCount": 2084,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 89,
+      "title": "The Third Story",
+      "wordCount": 3203,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 90,
+      "title": "The Fourth Story",
+      "wordCount": 2018,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 91,
+      "title": "The Fifth Story",
+      "wordCount": 1248,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 92,
+      "title": "The Sixth Story",
+      "wordCount": 2329,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 93,
+      "title": "The Seventh Story",
+      "wordCount": 9579,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 94,
+      "title": "The Eighth Story",
+      "wordCount": 1590,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 95,
+      "title": "The Ninth Story",
+      "wordCount": 6545,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 96,
+      "title": "The Tenth Story",
+      "wordCount": 5366,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 97,
+      "title": "Day the Ninth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 98,
+      "title": "Day the Ninth Introduction",
+      "wordCount": 347,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 99,
+      "title": "The First Story",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 100,
+      "title": "The Second Story",
+      "wordCount": 1131,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 101,
+      "title": "The Third Story",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 102,
+      "title": "The Fourth Story",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 103,
+      "title": "The Fifth Story",
+      "wordCount": 3174,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 104,
+      "title": "The Sixth Story",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 105,
+      "title": "The Seventh Story",
+      "wordCount": 794,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 106,
+      "title": "The Eighth Story",
+      "wordCount": 1352,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 107,
+      "title": "The Ninth Story",
+      "wordCount": 1959,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 108,
+      "title": "The Tenth Story",
+      "wordCount": 2127,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 109,
+      "title": "Day the Tenth",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 110,
+      "title": "Day the Tenth Introduction",
+      "wordCount": 169,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 111,
+      "title": "The First Story",
+      "wordCount": 1137,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 112,
+      "title": "The Second Story",
+      "wordCount": 1841,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 113,
+      "title": "The Third Story",
+      "wordCount": 2621,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 114,
+      "title": "The Fourth Story",
+      "wordCount": 2807,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 115,
+      "title": "The Fifth Story",
+      "wordCount": 1742,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 116,
+      "title": "The Sixth Story",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 117,
+      "title": "The Seventh Story",
+      "wordCount": 2754,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 118,
+      "title": "The Eighth Story",
+      "wordCount": 7163,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 119,
+      "title": "The Ninth Story",
+      "wordCount": 6843,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 120,
+      "title": "The Tenth Story",
+      "wordCount": 5309,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 121,
+      "title": "Conclusion of the Author",
+      "wordCount": 1898,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 122,
+      "title": "Glossary",
+      "wordCount": 99,
+      "estimatedMinutes": 1
+    }
+  ]
+}

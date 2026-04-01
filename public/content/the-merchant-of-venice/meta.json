@@ -1,0 +1,46 @@
+{
+  "bookId": "the-merchant-of-venice",
+  "title": "The Merchant of Venice",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 22330,
+  "totalMinutes": 90,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 136,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5672,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 5556,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 4088,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    }
+  ]
+}

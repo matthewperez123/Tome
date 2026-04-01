@@ -1,0 +1,40 @@
+{
+  "bookId": "the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "author": "James Hogg",
+  "chapterCount": 5,
+  "totalWordCount": 84560,
+  "totalMinutes": 338,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 370,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Editor’s Narrative",
+      "wordCount": 30279,
+      "estimatedMinutes": 121
+    },
+    {
+      "index": 3,
+      "title": "Private Memoirs and Confessions of a Sinner: Written by Himself",
+      "wordCount": 48828,
+      "estimatedMinutes": 195
+    },
+    {
+      "index": 4,
+      "title": "The Editor’s Narrative",
+      "wordCount": 5083,
+      "estimatedMinutes": 20
+    }
+  ]
+}

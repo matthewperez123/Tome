@@ -1,0 +1,292 @@
+{
+  "bookId": "orlando-furioso",
+  "title": "Orlando Furioso",
+  "author": "Ludovico Ariosto",
+  "chapterCount": 47,
+  "totalWordCount": 300586,
+  "totalMinutes": 1202,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "Canto I",
+      "wordCount": 5059,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "Canto II",
+      "wordCount": 4723,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "Canto III",
+      "wordCount": 4774,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "Canto IV",
+      "wordCount": 4537,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "Canto V",
+      "wordCount": 5713,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "Canto VI",
+      "wordCount": 5018,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "Canto VII",
+      "wordCount": 4946,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "Canto VIII",
+      "wordCount": 5649,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "Canto IX",
+      "wordCount": 5919,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "Canto X",
+      "wordCount": 7081,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 11,
+      "title": "Canto XI",
+      "wordCount": 5202,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "Canto XII",
+      "wordCount": 5782,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "Canto XIII",
+      "wordCount": 5166,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "Canto XIV",
+      "wordCount": 8102,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 15,
+      "title": "Canto XV",
+      "wordCount": 6437,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "Canto XVI",
+      "wordCount": 5437,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 17,
+      "title": "Canto XVII",
+      "wordCount": 8342,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 18,
+      "title": "Canto XVIII",
+      "wordCount": 11874,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 19,
+      "title": "Canto XIX",
+      "wordCount": 6699,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "Canto XX",
+      "wordCount": 8904,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 21,
+      "title": "Canto XXI",
+      "wordCount": 4456,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "Canto XXII",
+      "wordCount": 6109,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 23,
+      "title": "Canto XXIII",
+      "wordCount": 8456,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 24,
+      "title": "Canto XXIV",
+      "wordCount": 7072,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 25,
+      "title": "Canto XXV",
+      "wordCount": 6019,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 26,
+      "title": "Canto XXVI",
+      "wordCount": 8339,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 27,
+      "title": "Canto XXVII",
+      "wordCount": 8448,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 28,
+      "title": "Canto XXVIII",
+      "wordCount": 6250,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 29,
+      "title": "Canto XXIX",
+      "wordCount": 4616,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "Canto XXX",
+      "wordCount": 5824,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 31,
+      "title": "Canto XXXI",
+      "wordCount": 6633,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 32,
+      "title": "Canto XXXII",
+      "wordCount": 6836,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 33,
+      "title": "Canto XXXIII",
+      "wordCount": 7755,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 34,
+      "title": "Canto XXXIV",
+      "wordCount": 5684,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 35,
+      "title": "Canto XXXV",
+      "wordCount": 4960,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 36,
+      "title": "Canto XXXVI",
+      "wordCount": 5133,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 37,
+      "title": "Canto XXXVII",
+      "wordCount": 7532,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 38,
+      "title": "Canto XXXVIII",
+      "wordCount": 5536,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 39,
+      "title": "Canto XXXIX",
+      "wordCount": 5240,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 40,
+      "title": "Canto XL",
+      "wordCount": 5017,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 41,
+      "title": "Canto XLI",
+      "wordCount": 6230,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 42,
+      "title": "Canto XLII",
+      "wordCount": 6334,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 43,
+      "title": "Canto XLIII",
+      "wordCount": 12481,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 44,
+      "title": "Canto XLIV",
+      "wordCount": 6439,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 45,
+      "title": "Canto XLV",
+      "wordCount": 7343,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 46,
+      "title": "Canto XLVI",
+      "wordCount": 8483,
+      "estimatedMinutes": 34
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "bookId": "the-mill-on-the-floss",
+  "title": "The Mill on the Floss",
+  "author": "George Eliot",
+  "chapterCount": 66,
+  "totalWordCount": 207621,
+  "totalMinutes": 839,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: Boy and Girl",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Outside Dorlcote Mill",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: Mr. Tulliver, of Dorlcote Mill, Declares His Resolution About Tom",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: Mr. Riley Gives His Advice Concerning a School for Tom",
+      "wordCount": 5347,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "IV: Tom Is Expected",
+      "wordCount": 2050,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V: Tom Comes Home",
+      "wordCount": 3899,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: The Aunts and Uncles Are Coming",
+      "wordCount": 4558,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VII: Enter the Aunts and Uncles",
+      "wordCount": 9280,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 8,
+      "title": "VIII: Mr. Tulliver Shows His Weaker Side",
+      "wordCount": 4034,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX: To Garum Firs",
+      "wordCount": 5531,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "X: Maggie Behaves Worse Than She Expected",
+      "wordCount": 2417,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XI: Maggie Tries to Run Away from Her Shadow",
+      "wordCount": 4720,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Mr. and Mrs. Glegg at Home",
+      "wordCount": 5239,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XIII: Mr. Tulliver Further Entangles the Skein of Life",
+      "wordCount": 1239,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "Book II: School-Time",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "I: Tom’s “First Half”",
+      "wordCount": 8112,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 16,
+      "title": "II: The Christmas Holidays",
+      "wordCount": 3074,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "III: The New Schoolfellow",
+      "wordCount": 2320,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "IV: “The Young Idea”",
+      "wordCount": 4200,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "V: Maggie’s Second Visit",
+      "wordCount": 1849,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "VI: A Love-Scene",
+      "wordCount": 1853,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "VII: The Golden Gates Are Passed",
+      "wordCount": 2628,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "Book III: The Downfall",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: What Had Happened at Home",
+      "wordCount": 2636,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "II: Mrs. Tulliver’s Teraphim, or Household Gods",
+      "wordCount": 1933,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "III: The Family Council",
+      "wordCount": 6316,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 26,
+      "title": "IV: A Vanishing Gleam",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "V: Tom Applies His Knife to the Oyster",
+      "wordCount": 4828,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "VI: Tending to Refute the Popular Prejudice Against the Present of a Pocketknife",
+      "wordCount": 2955,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "VII: How a Hen Takes to Stratagem",
+      "wordCount": 4897,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 30,
+      "title": "VIII: Daylight on the Wreck",
+      "wordCount": 3180,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "IX: An Item Added to the Family Register",
+      "wordCount": 2337,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "Book IV: The Valley of Humiliation",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "I: A Variation of Protestantism Unknown to Bossuet",
+      "wordCount": 1933,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "II: The Torn Nest Is Pierced by the Thorns",
+      "wordCount": 2208,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "III: A Voice from the Past",
+      "wordCount": 5980,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 36,
+      "title": "Book V: Wheat and Tares",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 37,
+      "title": "I: In the Red Deeps",
+      "wordCount": 5099,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 38,
+      "title": "II: Aunt Glegg Learns the Breadth of Bob’s Thumb",
+      "wordCount": 7103,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 39,
+      "title": "III: The Wavering Balance",
+      "wordCount": 2722,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 40,
+      "title": "IV: Another Love-Scene",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "V: The Cloven Tree",
+      "wordCount": 4662,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 42,
+      "title": "VI: The Hard-Won Triumph",
+      "wordCount": 1801,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 43,
+      "title": "VII: A Day of Reckoning",
+      "wordCount": 2488,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "Book VI: The Great Temptation",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "I: A Duet in Paradise",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "II: First Impressions",
+      "wordCount": 5190,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 47,
+      "title": "III: Confidential Moments",
+      "wordCount": 1634,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "IV: Brother and Sister",
+      "wordCount": 2962,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "V: Showing That Tom Had Opened the Oyster",
+      "wordCount": 1760,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 50,
+      "title": "VI: Illustrating the Laws of Attraction",
+      "wordCount": 4108,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 51,
+      "title": "VII: Philip Re-Enters",
+      "wordCount": 5397,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 52,
+      "title": "VIII: Wakem in a New Light",
+      "wordCount": 2800,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 53,
+      "title": "IX: Charity in Full-Dress",
+      "wordCount": 3800,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 54,
+      "title": "X: The Spell Seems Broken",
+      "wordCount": 2408,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 55,
+      "title": "XI: In the Lane",
+      "wordCount": 2518,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 56,
+      "title": "XII: A Family Party",
+      "wordCount": 2638,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "XIII: Borne Along by the Tide",
+      "wordCount": 5436,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 58,
+      "title": "XIV: Waking",
+      "wordCount": 4375,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 59,
+      "title": "Book VII: The Final Rescue",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "I: The Return to the Mill",
+      "wordCount": 2839,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 61,
+      "title": "II: St. Ogg’s Passes Judgment",
+      "wordCount": 3634,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "III: Showing That Old Acquaintances Are Capable of Surprising Us",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 63,
+      "title": "IV: Maggie and Lucy",
+      "wordCount": 2654,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 64,
+      "title": "V: The Last Conflict",
+      "wordCount": 4527,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 65,
+      "title": "VI: Conclusion",
+      "wordCount": 309,
+      "estimatedMinutes": 1
+    }
+  ]
+}

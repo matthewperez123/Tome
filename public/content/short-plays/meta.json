@@ -1,0 +1,106 @@
+{
+  "bookId": "short-plays",
+  "title": "Short Plays",
+  "author": "George Bernard Shaw",
+  "chapterCount": 16,
+  "totalWordCount": 167191,
+  "totalMinutes": 669,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Admirable Bashville",
+      "wordCount": 15815,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 1,
+      "title": "How He Lied to Her Husband",
+      "wordCount": 8600,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "Passion, Poison, and Petrifaction",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "The Interlude at the Playhouse",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "The Fascinating Foundling",
+      "wordCount": 4401,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "The Glimpse of Reality",
+      "wordCount": 6153,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "The Showing-Up of Blanco Posnet",
+      "wordCount": 36267,
+      "estimatedMinutes": 145
+    },
+    {
+      "index": 7,
+      "title": "Press Cuttings",
+      "wordCount": 12235,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 8,
+      "title": "The Dark Lady of the Sonnets",
+      "wordCount": 15314,
+      "estimatedMinutes": 61
+    },
+    {
+      "index": 9,
+      "title": "Overruled",
+      "wordCount": 13326,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 10,
+      "title": "Great Catherine",
+      "wordCount": 13965,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 11,
+      "title": "The Music Cure",
+      "wordCount": 4510,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "The Inca of Perusalem",
+      "wordCount": 8256,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 13,
+      "title": "Augustus Does His Bit",
+      "wordCount": 7060,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 14,
+      "title": "O’Flaherty V.C.",
+      "wordCount": 9213,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 15,
+      "title": "Annajanska",
+      "wordCount": 5162,
+      "estimatedMinutes": 21
+    }
+  ]
+}

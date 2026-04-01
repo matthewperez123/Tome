@@ -1,0 +1,34 @@
+{
+  "bookId": "exiles",
+  "title": "Exiles: A Play in Three Acts",
+  "author": "James Joyce",
+  "chapterCount": 4,
+  "totalWordCount": 26525,
+  "totalMinutes": 107,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 44,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "First Act",
+      "wordCount": 11117,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 2,
+      "title": "Second Act",
+      "wordCount": 8653,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 3,
+      "title": "Third Act",
+      "wordCount": 6711,
+      "estimatedMinutes": 27
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bookId": "lais",
+  "title": "Lais",
+  "author": "Marie de France",
+  "chapterCount": 15,
+  "totalWordCount": 48522,
+  "totalMinutes": 193,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 394,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 4458,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "Prologue by Way of Dedication",
+      "wordCount": 416,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "The Lay of Gugemar",
+      "wordCount": 7028,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 4,
+      "title": "The Lay of the Dolorous Knight",
+      "wordCount": 1975,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "The Lay of Eliduc",
+      "wordCount": 8755,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 6,
+      "title": "The Lay of the Nightingale",
+      "wordCount": 1271,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "The Lay of Sir Launfal",
+      "wordCount": 5043,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "The Lay of the Two Lovers",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "The Lay of the Werewolf",
+      "wordCount": 2547,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "The Lay of the Ash Tree",
+      "wordCount": 3608,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "The Lay of the Honeysuckle",
+      "wordCount": 806,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "The Lay of Equitan",
+      "wordCount": 2205,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "The Lay of Milon",
+      "wordCount": 4101,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "The Lay of Yonec",
+      "wordCount": 4065,
+      "estimatedMinutes": 16
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "bookId": "lilith",
+  "title": "Lilith: A Romance",
+  "author": "George MacDonald",
+  "chapterCount": 48,
+  "totalWordCount": 94652,
+  "totalMinutes": 380,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 524,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Library",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "II: The Mirror",
+      "wordCount": 805,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "III: The Raven",
+      "wordCount": 2390,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: Somewhere or Nowhere?",
+      "wordCount": 2387,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: The Old Church",
+      "wordCount": 911,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "VI: The Sexton’s Cottage",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VII: The Cemetery",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: My Father’s Manuscript",
+      "wordCount": 1830,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "IX: I Repent",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "X: The Bad Burrow",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XI: The Evil Wood",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XII: Friends and Foes",
+      "wordCount": 1287,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Little Ones",
+      "wordCount": 3111,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Crisis",
+      "wordCount": 1741,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV: A Strange Hostess",
+      "wordCount": 3493,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Gruesome Dance",
+      "wordCount": 3010,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Grotesque Tragedy",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Dead or Alive?",
+      "wordCount": 3174,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XIX: The White Leech",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX: Gone!—But How?",
+      "wordCount": 1522,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Fugitive Mother",
+      "wordCount": 1279,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXII: Bulika",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIII: A Woman of Bulika",
+      "wordCount": 843,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The White Leopardess",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Princess",
+      "wordCount": 2901,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVI: A Battle Royal",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Silent Fountain",
+      "wordCount": 1282,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: I Am Silenced",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Persian Cat",
+      "wordCount": 2536,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: Adam Explains",
+      "wordCount": 1657,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Sexton’s Old Horse",
+      "wordCount": 1783,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The Lovers and the Bags",
+      "wordCount": 1974,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Lona’s Narrative",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Preparation",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXXV: The Little Ones in Bulika",
+      "wordCount": 1852,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Mother and Daughter",
+      "wordCount": 1662,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Shadow",
+      "wordCount": 1071,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: To the House of Bitterness",
+      "wordCount": 2888,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: That Night",
+      "wordCount": 4263,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 40,
+      "title": "XL: The House of Death",
+      "wordCount": 4441,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLI: I Am Sent",
+      "wordCount": 1477,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XLII: I Sleep the Sleep",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Dreams That Came",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Waking",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Journey Home",
+      "wordCount": 1459,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The City",
+      "wordCount": 1381,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The “Endless Ending”",
+      "wordCount": 579,
+      "estimatedMinutes": 2
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bookId": "death-comes-for-the-archbishop",
+  "title": "Death Comes for the Archbishop",
+  "author": "Willa Cather",
+  "chapterCount": 10,
+  "totalWordCount": 69887,
+  "totalMinutes": 279,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 2804,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Vicar Apostolic",
+      "wordCount": 8736,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 2,
+      "title": "Book II: Missionary Journeys",
+      "wordCount": 6424,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "Book III: The Mass at Ácoma",
+      "wordCount": 8612,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 4,
+      "title": "Book IV: Snake Root",
+      "wordCount": 4974,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "Book V: Padre Martínez",
+      "wordCount": 8556,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 6,
+      "title": "Book VI: Doña Isabella",
+      "wordCount": 5337,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "Book VII: The Great Diocese",
+      "wordCount": 9489,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 8,
+      "title": "Book VIII: Gold Under Pike’s Peak",
+      "wordCount": 5928,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 9,
+      "title": "Book IX: Death Comes for the Archbishop",
+      "wordCount": 9027,
+      "estimatedMinutes": 36
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "bookId": "so-big",
+  "title": "So Big",
+  "author": "Edna Ferber",
+  "chapterCount": 21,
+  "totalWordCount": 86922,
+  "totalMinutes": 346,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 4566,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 5472,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3466,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 6863,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3005,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2466,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 6295,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3388,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 6254,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 4689,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3061,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 5840,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 5974,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 4602,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 5577,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 2372,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 5975,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1871,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1436,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1279,
+      "estimatedMinutes": 5
+    }
+  ]
+}

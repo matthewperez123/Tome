@@ -1,0 +1,46 @@
+{
+  "bookId": "a-midsummer-nights-dream",
+  "title": "A Midsummer Night’s Dream",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 17311,
+  "totalMinutes": 70,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 107,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 2843,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 3415,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 5458,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 3273,
+      "estimatedMinutes": 13
+    }
+  ]
+}

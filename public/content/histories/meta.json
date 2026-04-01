@@ -1,0 +1,70 @@
+{
+  "bookId": "histories",
+  "title": "Histories",
+  "author": "Herodotus",
+  "chapterCount": 10,
+  "totalWordCount": 288038,
+  "totalMinutes": 1153,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Book I: Clio",
+      "wordCount": 44825,
+      "estimatedMinutes": 179
+    },
+    {
+      "index": 2,
+      "title": "Book II: Euterpe",
+      "wordCount": 37452,
+      "estimatedMinutes": 150
+    },
+    {
+      "index": 3,
+      "title": "Book III: Thaleia",
+      "wordCount": 33243,
+      "estimatedMinutes": 133
+    },
+    {
+      "index": 4,
+      "title": "Book IV: Melpomene",
+      "wordCount": 33833,
+      "estimatedMinutes": 135
+    },
+    {
+      "index": 5,
+      "title": "Book V: Terpsichore",
+      "wordCount": 23149,
+      "estimatedMinutes": 93
+    },
+    {
+      "index": 6,
+      "title": "Book VI: Erato",
+      "wordCount": 24375,
+      "estimatedMinutes": 98
+    },
+    {
+      "index": 7,
+      "title": "Book VII: Polymnia",
+      "wordCount": 42135,
+      "estimatedMinutes": 169
+    },
+    {
+      "index": 8,
+      "title": "Book VIII: Urania",
+      "wordCount": 24806,
+      "estimatedMinutes": 99
+    },
+    {
+      "index": 9,
+      "title": "Book IX: Calliope",
+      "wordCount": 23264,
+      "estimatedMinutes": 93
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "bookId": "the-prince",
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "chapterCount": 28,
+  "totalWordCount": 34628,
+  "totalMinutes": 140,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2674,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "The Man and His Works",
+      "wordCount": 1308,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: How Many Kinds of Principalities There Are, and by What Means They Are Acquired",
+      "wordCount": 133,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "II: Concerning Hereditary Principalities",
+      "wordCount": 255,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "III: Concerning Mixed Principalities",
+      "wordCount": 2996,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "IV: Why the Kingdom of Darius, Conquered by Alexander, Did Not Rebel Against the Successors of Alexander at His Death",
+      "wordCount": 962,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "V: Concerning the Way to Govern Cities or Principalities Which Lived Under Their Own Laws Before They Were Annexed",
+      "wordCount": 456,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VI: Concerning New Principalities Which Are Acquired by One’s Own Arms and Ability",
+      "wordCount": 1202,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VII: Concerning New Principalities Which Are Acquired Either by the Arms of Others or by Good Fortune",
+      "wordCount": 2573,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "VIII: Concerning Those Who Have Obtained a Principality by Wickedness",
+      "wordCount": 1518,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "IX: Concerning a Civil Principality",
+      "wordCount": 1277,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 11,
+      "title": "X: Concerning the Way in Which the Strength of All Principalities Ought to Be Measured",
+      "wordCount": 715,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "XI: Concerning Ecclesiastical Principalities",
+      "wordCount": 873,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XII: How Many Kinds of Soldiery There Are, and Concerning Mercenaries",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XIII: Concerning Auxiliaries, Mixed Soldiery, and One’s Own",
+      "wordCount": 1241,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIV: That Which Concerns a Prince on the Subject of the Art of War",
+      "wordCount": 878,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XV: Concerning Things for Which Men, and Especially Princes, Are Praised or Blamed",
+      "wordCount": 518,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "XVI: Concerning Liberality and Meanness",
+      "wordCount": 805,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 18,
+      "title": "XVII: Concerning Cruelty and Clemency, and Whether It Is Better to Be Loved Than Feared",
+      "wordCount": 1043,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Concerning the Way in Which Princes Should Keep Faith",
+      "wordCount": 983,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XIX: That One Should Avoid Being Despised and Hated",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XX: Are Fortresses, and Many Other Things to Which Princes Often Resort, Advantageous or Hurtful?",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXI: How a Prince Should Conduct Himself So as to Gain Renown",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXII: Concerning the Secretaries of Princes",
+      "wordCount": 457,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "XXIII: How Flatterers Should Be Avoided",
+      "wordCount": 697,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Why the Princes of Italy Have Lost Their States",
+      "wordCount": 534,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "XXV: What Fortune Can Effect in Human Affairs and How to Withstand Her",
+      "wordCount": 1155,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "XXVI: An Exhortation to Liberate Italy from the Barbarians",
+      "wordCount": 1375,
+      "estimatedMinutes": 6
+    }
+  ]
+}

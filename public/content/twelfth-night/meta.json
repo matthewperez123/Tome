@@ -1,0 +1,46 @@
+{
+  "bookId": "twelfth-night",
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 21319,
+  "totalMinutes": 86,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 81,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4976,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5050,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 5925,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    }
+  ]
+}

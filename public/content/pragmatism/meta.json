@@ -1,0 +1,64 @@
+{
+  "bookId": "pragmatism",
+  "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+  "author": "William James",
+  "chapterCount": 9,
+  "totalWordCount": 51249,
+  "totalMinutes": 207,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 399,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Lecture I: The Present Dilemma in Philosophy",
+      "wordCount": 6892,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "Lecture II: What Pragmatism Means",
+      "wordCount": 6978,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 3,
+      "title": "Lecture III: Some Metaphysical Problems Pragmatically Considered",
+      "wordCount": 7162,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "Lecture IV: The One and the Many",
+      "wordCount": 6409,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "Lecture V: Pragmatism and Common Sense",
+      "wordCount": 5203,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "Lecture VI: Pragmatism’s Conception of Truth",
+      "wordCount": 7070,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 7,
+      "title": "Lecture VII: Pragmatism and Humanism",
+      "wordCount": 5743,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "Lecture VIII: Pragmatism and Religion",
+      "wordCount": 5393,
+      "estimatedMinutes": 22
+    }
+  ]
+}

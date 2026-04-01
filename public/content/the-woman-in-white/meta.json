@@ -1,0 +1,382 @@
+{
+  "bookId": "the-woman-in-white",
+  "title": "The Woman in White",
+  "author": "Wilkie Collins",
+  "chapterCount": 62,
+  "totalWordCount": 247733,
+  "totalMinutes": 1000,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface to the Present Edition",
+      "wordCount": 667,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "The First Epoch",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Story Begun by Walter Hartright of Clement’s Inn, Teacher of Drawing",
+      "wordCount": 335,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1382,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3653,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3465,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 863,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 6180,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2160,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 3479,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2888,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 5773,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 2901,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 4685,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "The Story Continued by Vincent Gilmore of Chancery Lane, Solicitor",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "II",
+      "wordCount": 4014,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "III",
+      "wordCount": 4121,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "IV",
+      "wordCount": 1866,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "The Story Continued by Marian Halcombe, in Extracts from Her Diary",
+      "wordCount": 7001,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 6442,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 23,
+      "title": "The Second Epoch",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "The Story Continued by Marian Halcombe",
+      "wordCount": 5728,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 25,
+      "title": "II",
+      "wordCount": 6255,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 26,
+      "title": "III",
+      "wordCount": 6420,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 27,
+      "title": "IV",
+      "wordCount": 5725,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 28,
+      "title": "V",
+      "wordCount": 4166,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "VI",
+      "wordCount": 8917,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 30,
+      "title": "VII",
+      "wordCount": 5878,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 31,
+      "title": "VIII",
+      "wordCount": 5283,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 32,
+      "title": "IX",
+      "wordCount": 7043,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 33,
+      "title": "X",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "The Story Continued by Frederick Fairlie, Esq., of Limmeridge House",
+      "wordCount": 7502,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 35,
+      "title": "The Story Continued by Eliza Michelson, Housekeeper at Blackwater Park",
+      "wordCount": 7470,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 36,
+      "title": "II",
+      "wordCount": 9089,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 37,
+      "title": "The Story Continued in Several Narratives",
+      "wordCount": 4674,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "The Third Epoch",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "The Story Continued by Walter Hartright",
+      "wordCount": 1024,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 40,
+      "title": "II",
+      "wordCount": 6408,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 41,
+      "title": "III",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "IV",
+      "wordCount": 4714,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 43,
+      "title": "V",
+      "wordCount": 2788,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 44,
+      "title": "VI",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "VII",
+      "wordCount": 5407,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 46,
+      "title": "VIII",
+      "wordCount": 5389,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 47,
+      "title": "IX",
+      "wordCount": 4978,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 48,
+      "title": "X",
+      "wordCount": 7146,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 49,
+      "title": "XI",
+      "wordCount": 3058,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 50,
+      "title": "The Story Continued by Mrs. Catherick",
+      "wordCount": 5388,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 51,
+      "title": "The Story Continued by Walter Hartright",
+      "wordCount": 1400,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 52,
+      "title": "II",
+      "wordCount": 4981,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 53,
+      "title": "III",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 54,
+      "title": "IV",
+      "wordCount": 2515,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 55,
+      "title": "V",
+      "wordCount": 4108,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 56,
+      "title": "VI",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "VII",
+      "wordCount": 5306,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 58,
+      "title": "The Story Continued by Isidor, Ottavio, Baldassare Fosco; Count of the Holy Roman Empire, Knight Grand Cross of the Order of the Brazen Crown, Perpetual Arch-Master of the Rosicrucian Masons of Mesopotamia; Attached (In Honorary Capacities) to Societies Musical, Societies Medical, Societies Philosophical, and Societies General Benevolent, Throughout Europe; etc. etc. etc.",
+      "wordCount": 5691,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 59,
+      "title": "The Story Concluded by Walter Hartright",
+      "wordCount": 2992,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 60,
+      "title": "II",
+      "wordCount": 1778,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 61,
+      "title": "III",
+      "wordCount": 784,
+      "estimatedMinutes": 3
+    }
+  ]
+}

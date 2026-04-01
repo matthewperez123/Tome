@@ -1,0 +1,238 @@
+{
+  "bookId": "charlotte-temple",
+  "title": "Charlotte Temple: A Tale of Truth",
+  "author": "Susanna Haswell Rowson",
+  "chapterCount": 38,
+  "totalWordCount": 36519,
+  "totalMinutes": 148,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Author’s Preface",
+      "wordCount": 469,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Volume I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: A Boarding School",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "II: Domestic Concerns",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III: Unexpected Misfortunes",
+      "wordCount": 1267,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "IV: Change of Fortune",
+      "wordCount": 1476,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "V: Such Things Are",
+      "wordCount": 963,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "VI: An Intriguing Teacher",
+      "wordCount": 1095,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VII: Natural Sense of Propriety Inherent in the Female Bosom",
+      "wordCount": 1193,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "VIII: Domestic Pleasures Planned",
+      "wordCount": 1077,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX: We Know Not What a Day May Bring Forth",
+      "wordCount": 1022,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "X: When We Have Excited Curiosity, It Is but an Act of Good Nature to Gratify It",
+      "wordCount": 735,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "XI: Conflict of Love and Duty",
+      "wordCount": 853,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XII: “How Thou Art Fall’n!”",
+      "wordCount": 1045,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIII: Cruel Disappointment",
+      "wordCount": 1154,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIV: Maternal Sorrow",
+      "wordCount": 993,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XV: Embarkation",
+      "wordCount": 779,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "XVI: Necessary Digression",
+      "wordCount": 978,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XVII: A Wedding",
+      "wordCount": 892,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "Volume II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XVIII: Reflections",
+      "wordCount": 1191,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XIX: A Mistake Discovered",
+      "wordCount": 1115,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XX: Virtue—When Most Amiable",
+      "wordCount": 1331,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXI: Another’s Woe",
+      "wordCount": 875,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "XXII: Sorrows of the Heart",
+      "wordCount": 1142,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXIII: A Man May Smile, and Smile, and Be a Villain",
+      "wordCount": 1039,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXIV: Mystery Developed",
+      "wordCount": 1355,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "XXV: Reception of a Letter",
+      "wordCount": 658,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXVI: What Might Be Expected",
+      "wordCount": 1032,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXVII: “Like a Fair Lily”",
+      "wordCount": 1398,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: A Trifling Retrospect",
+      "wordCount": 1001,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "XXIX: We Go Forward Again",
+      "wordCount": 1068,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXX: “Friendship a Name”",
+      "wordCount": 951,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXI: Subject Continued",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 34,
+      "title": "XXXII: Reasons Why and Wherefore",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: Which People Void of Feeling Need Not Read",
+      "wordCount": 1314,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: Retribution",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 37,
+      "title": "XXXV: Conclusion",
+      "wordCount": 528,
+      "estimatedMinutes": 2
+    }
+  ]
+}

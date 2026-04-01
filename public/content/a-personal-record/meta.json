@@ -1,0 +1,64 @@
+{
+  "bookId": "a-personal-record",
+  "title": "A Personal Record: Some Reminiscences",
+  "author": "Joseph Conrad",
+  "chapterCount": 9,
+  "totalWordCount": 48142,
+  "totalMinutes": 192,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Note",
+      "wordCount": 2497,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "A Familiar Preface",
+      "wordCount": 3362,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 7184,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 6362,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 6806,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 6642,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 4957,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 6616,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3716,
+      "estimatedMinutes": 15
+    }
+  ]
+}

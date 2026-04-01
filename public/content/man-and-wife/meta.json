@@ -1,0 +1,478 @@
+{
+  "bookId": "man-and-wife",
+  "title": "Man and Wife",
+  "author": "Wilkie Collins",
+  "chapterCount": 78,
+  "totalWordCount": 228695,
+  "totalMinutes": 937,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue: The Irish Marriage",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Villa at Hampstead",
+      "wordCount": 8560,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "II: The March of Time",
+      "wordCount": 3788,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "The Story",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "First Scene: The Summerhouse",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: The Owls",
+      "wordCount": 949,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "II: The Guests",
+      "wordCount": 3455,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "III: The Discoveries",
+      "wordCount": 3552,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "IV: The Two",
+      "wordCount": 3147,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "V: The Plan",
+      "wordCount": 1706,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "VI: The Suitor",
+      "wordCount": 4137,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "VII: The Debt",
+      "wordCount": 2686,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "VIII: The Scandal",
+      "wordCount": 3684,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "Second Scene: The Inn",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "IX: Anne",
+      "wordCount": 5336,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "X: Mr. Bishopriggs",
+      "wordCount": 3252,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XI: Sir Patrick",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XII: Arnold",
+      "wordCount": 3987,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIII: Blanche",
+      "wordCount": 4460,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "Third Scene: London",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XIV: Geoffrey as a Letter-Writer",
+      "wordCount": 1958,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XV: Geoffrey in the Marriage Market",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XVI: Geoffrey as a Public Character",
+      "wordCount": 3119,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "Fourth Scene: Windygates",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "XVII: Near It",
+      "wordCount": 1919,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XVIII: Nearer Still",
+      "wordCount": 4103,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XIX: Close on It",
+      "wordCount": 5732,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XX: Touching It",
+      "wordCount": 5011,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 28,
+      "title": "XXI: Done!",
+      "wordCount": 6785,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 29,
+      "title": "XXII: Gone",
+      "wordCount": 5422,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "XXIII: Traced",
+      "wordCount": 5358,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 31,
+      "title": "XXIV: Backward",
+      "wordCount": 2704,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXV: Forward",
+      "wordCount": 2626,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "XXVI: Dropped",
+      "wordCount": 2186,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXVII: Outwitted",
+      "wordCount": 3636,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "XXVIII: Stifled",
+      "wordCount": 2025,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "Fifth Scene: Glasgow",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 37,
+      "title": "XXIX: Anne Among the Lawyers",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "XXX: Anne in the Newspapers",
+      "wordCount": 1528,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "Sixth Scene: Swanhaven Lodge",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "XXXI: Seeds of the Future (First Sowing)",
+      "wordCount": 6053,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 41,
+      "title": "XXXII: Seeds of the Future (Second Sowing)",
+      "wordCount": 4575,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 42,
+      "title": "XXXIII: Seeds of the Future (Third Sowing)",
+      "wordCount": 2620,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "Seventh Scene: Ham Farm",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "XXXIV: The Night Before",
+      "wordCount": 2568,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XXXV: The Day",
+      "wordCount": 1000,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 46,
+      "title": "XXXVI: The Truth at Last",
+      "wordCount": 5524,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 47,
+      "title": "XXXVII: The Way Out",
+      "wordCount": 4040,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 48,
+      "title": "XXXVIII: The News from Glasgow",
+      "wordCount": 4227,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 49,
+      "title": "Eighth Scene: The Pantry",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 50,
+      "title": "XXXIX: Anne Wins a Victory",
+      "wordCount": 3306,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "Ninth Scene: The Music-Room",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 52,
+      "title": "XL: Julius Makes Mischief",
+      "wordCount": 6390,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 53,
+      "title": "Tenth Scene: The Bedroom",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 54,
+      "title": "XLI: Lady Lundie Does Her Duty",
+      "wordCount": 6467,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 55,
+      "title": "Eleventh Scene: Sir Patrick’s House",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 56,
+      "title": "XLII: The Smoking-Room Window",
+      "wordCount": 1453,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "XLIII: The Explosion",
+      "wordCount": 3388,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 58,
+      "title": "Twelfth Scene: Drury Lane",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 59,
+      "title": "XLIV: The Letter and the Law",
+      "wordCount": 5384,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 60,
+      "title": "Thirteenth Scene: Fulham",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 61,
+      "title": "XLV: The Footrace",
+      "wordCount": 5685,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 62,
+      "title": "Fourteenth Scene: Portland Place",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 63,
+      "title": "XLVI: A Scotch Marriage",
+      "wordCount": 9434,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 64,
+      "title": "Fifteenth Scene: Holchester House",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 65,
+      "title": "XLVII: The Last Chance",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 66,
+      "title": "Sixteenth Scene: The Inn",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 67,
+      "title": "XLVIII: The Place",
+      "wordCount": 1315,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 68,
+      "title": "XLIX: The Night",
+      "wordCount": 4432,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 69,
+      "title": "L: The Morning",
+      "wordCount": 2858,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 70,
+      "title": "LI: The Proposal",
+      "wordCount": 2439,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 71,
+      "title": "LII: The Apparition",
+      "wordCount": 3168,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 72,
+      "title": "LIII: What Had Happened in the Hours of Darkness?",
+      "wordCount": 3420,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 73,
+      "title": "LIV: The Manuscript",
+      "wordCount": 10766,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 74,
+      "title": "LV: The Signs of the End",
+      "wordCount": 6132,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 75,
+      "title": "LVI: The Means",
+      "wordCount": 1036,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 76,
+      "title": "LVII: The End",
+      "wordCount": 4474,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 77,
+      "title": "Epilogue",
+      "wordCount": 1707,
+      "estimatedMinutes": 7
+    }
+  ]
+}

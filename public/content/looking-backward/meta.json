@@ -1,0 +1,184 @@
+{
+  "bookId": "looking-backward",
+  "title": "Looking Backward: 2000–1887",
+  "author": "Edward Bellamy",
+  "chapterCount": 29,
+  "totalWordCount": 76767,
+  "totalMinutes": 307,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Preface",
+      "wordCount": 498,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1665,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2815,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1761,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1222,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3443,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2906,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3515,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1819,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 1815,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3644,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 886,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2627,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1276,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 4828,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 1248,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 698,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 3755,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 5444,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 3615,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 6369,
+      "estimatedMinutes": 25
+    }
+  ]
+}

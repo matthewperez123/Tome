@@ -1,0 +1,52 @@
+{
+  "bookId": "mrs-warrens-profession",
+  "title": "Mrs. Warren’s Profession",
+  "author": "George Bernard Shaw",
+  "chapterCount": 7,
+  "totalWordCount": 35640,
+  "totalMinutes": 144,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 759,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "The Author’s Apology",
+      "wordCount": 10221,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 2,
+      "title": "Dramatis Personae",
+      "wordCount": 19,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Act I",
+      "wordCount": 5655,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "Act II",
+      "wordCount": 7473,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 5,
+      "title": "Act III",
+      "wordCount": 5140,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "Act IV",
+      "wordCount": 6373,
+      "estimatedMinutes": 25
+    }
+  ]
+}

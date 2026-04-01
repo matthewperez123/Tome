@@ -1,0 +1,82 @@
+{
+  "bookId": "mutual-aid",
+  "title": "Mutual Aid: A Factor of Evolution",
+  "author": "Peter Kropotkin",
+  "chapterCount": 12,
+  "totalWordCount": 88932,
+  "totalMinutes": 354,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 537,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "I: Mutual Aid Among Animals",
+      "wordCount": 8396,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 3,
+      "title": "II: Mutual Aid Among Animals (Continued)",
+      "wordCount": 11751,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 4,
+      "title": "III: Mutual Aid Among Savages",
+      "wordCount": 10323,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 5,
+      "title": "IV: Mutual Aid Among the Barbarians",
+      "wordCount": 9738,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 6,
+      "title": "V: Mutual Aid in the Medieval City",
+      "wordCount": 8472,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 7,
+      "title": "VI: Mutual Aid in the Medieval City (Continued)",
+      "wordCount": 8790,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 8,
+      "title": "VII: Mutual Aid Amongst Ourselves",
+      "wordCount": 9373,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 9,
+      "title": "VIII: Mutual Aid Amongst Ourselves (Continued)",
+      "wordCount": 8114,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 10,
+      "title": "Conclusion",
+      "wordCount": 2115,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "Appendix",
+      "wordCount": 7699,
+      "estimatedMinutes": 31
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "bookId": "mrs-dalloway",
+  "title": "Mrs. Dalloway",
+  "author": "Virginia Woolf",
+  "chapterCount": 1,
+  "totalWordCount": 63910,
+  "totalMinutes": 256,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Mrs. Dalloway",
+      "wordCount": 63910,
+      "estimatedMinutes": 256
+    }
+  ]
+}

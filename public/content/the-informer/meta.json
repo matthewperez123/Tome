@@ -1,0 +1,124 @@
+{
+  "bookId": "the-informer",
+  "title": "The Informer",
+  "author": "Liam O’Flaherty",
+  "chapterCount": 19,
+  "totalWordCount": 71798,
+  "totalMinutes": 289,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 512,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 6897,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 115,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4912,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5674,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1769,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1031,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 7921,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 5793,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 5142,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 10732,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1351,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 1525,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 4603,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 6376,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 482,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1572,
+      "estimatedMinutes": 6
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "bookId": "quicksand",
+  "title": "Quicksand",
+  "author": "Nella Larsen",
+  "chapterCount": 25,
+  "totalWordCount": 46324,
+  "totalMinutes": 184,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3333,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2122,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 1242,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 1327,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 1508,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1400,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2091,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1344,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1126,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2547,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1351,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1065,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1669,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1425,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2040,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 1001,
+      "estimatedMinutes": 4
+    }
+  ]
+}

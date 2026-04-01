@@ -1,0 +1,34 @@
+{
+  "bookId": "the-sound-and-the-fury",
+  "title": "The Sound and the Fury",
+  "author": "William Faulkner",
+  "chapterCount": 4,
+  "totalWordCount": 96686,
+  "totalMinutes": 387,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "April Seventh, 1928",
+      "wordCount": 20430,
+      "estimatedMinutes": 82
+    },
+    {
+      "index": 1,
+      "title": "June Second, 1910",
+      "wordCount": 31931,
+      "estimatedMinutes": 128
+    },
+    {
+      "index": 2,
+      "title": "April Sixth, 1928",
+      "wordCount": 27342,
+      "estimatedMinutes": 109
+    },
+    {
+      "index": 3,
+      "title": "April Eighth, 1928",
+      "wordCount": 16983,
+      "estimatedMinutes": 68
+    }
+  ]
+}

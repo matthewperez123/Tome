@@ -1,0 +1,16 @@
+{
+  "bookId": "eugenie-grandet",
+  "title": "Eugénie Grandet",
+  "author": "Honoré de Balzac",
+  "chapterCount": 1,
+  "totalWordCount": 76085,
+  "totalMinutes": 304,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Eugénie Grandet",
+      "wordCount": 76085,
+      "estimatedMinutes": 304
+    }
+  ]
+}

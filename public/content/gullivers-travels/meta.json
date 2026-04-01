@@ -1,0 +1,280 @@
+{
+  "bookId": "gullivers-travels",
+  "title": "Gulliver’s Travels",
+  "author": "Jonathan Swift",
+  "chapterCount": 45,
+  "totalWordCount": 102768,
+  "totalMinutes": 416,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 449,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1482,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "Part I: A Voyage to Lilliput",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 3992,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 3640,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 2763,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 1833,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "V",
+      "wordCount": 2405,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VI",
+      "wordCount": 3676,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "VII",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "VIII",
+      "wordCount": 2350,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "Part II: A Voyage to Brobdingnag",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I",
+      "wordCount": 4889,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 13,
+      "title": "II",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "III",
+      "wordCount": 3833,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "IV",
+      "wordCount": 1769,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "V",
+      "wordCount": 3786,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "VI",
+      "wordCount": 3135,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "VII",
+      "wordCount": 2362,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "VIII",
+      "wordCount": 4653,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "Part III: A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I",
+      "wordCount": 2032,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 3018,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "III",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "IV",
+      "wordCount": 2094,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "V",
+      "wordCount": 2561,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "VI",
+      "wordCount": 1944,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "VII",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "VIII",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "IX",
+      "wordCount": 1307,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "X",
+      "wordCount": 3015,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XI",
+      "wordCount": 1244,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "Part IV: A Voyage to the Country of the Houyhnhnms",
+      "wordCount": 10,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "I",
+      "wordCount": 2594,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 34,
+      "title": "II",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "III",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 36,
+      "title": "IV",
+      "wordCount": 1923,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "V",
+      "wordCount": 2300,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "VI",
+      "wordCount": 2395,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "VII",
+      "wordCount": 2693,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 40,
+      "title": "VIII",
+      "wordCount": 2139,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "IX",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 42,
+      "title": "X",
+      "wordCount": 2679,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XI",
+      "wordCount": 3015,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "XII",
+      "wordCount": 2186,
+      "estimatedMinutes": 9
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "bookId": "the-black-arrow",
+  "title": "The Black Arrow: A Tale of the Two Roses",
+  "author": "Robert Louis Stevenson",
+  "chapterCount": 38,
+  "totalWordCount": 79425,
+  "totalMinutes": 323,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 5211,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Two Lads",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: At the Sign of the Sun in Kettley",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: In the Fen",
+      "wordCount": 1894,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: The Fen Ferry",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV: A Greenwood Company",
+      "wordCount": 2550,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: “Bloody as the Hunter”",
+      "wordCount": 2759,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VI: To the Day’s End",
+      "wordCount": 2300,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VII: The Hooded Face",
+      "wordCount": 2871,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "Book II: The Moat House",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "I: Dick Asks Questions",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "II: The Two Oaths",
+      "wordCount": 2491,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "III: The Room Over the Chapel",
+      "wordCount": 2156,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "IV: The Passage",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "V: How Dick Changed Sides",
+      "wordCount": 2827,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "Book III: My Lord Foxham",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: The House by the Shore",
+      "wordCount": 2381,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "II: A Skirmish in the Dark",
+      "wordCount": 2131,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "III: St. Bride’s Cross",
+      "wordCount": 1086,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "IV: The “Good Hope”",
+      "wordCount": 2886,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "V: The “Good Hope” (Continued)",
+      "wordCount": 2049,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "VI: The “Good Hope” (Concluded)",
+      "wordCount": 1780,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "Book IV: The Disguise",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: The Den",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "II: “In Mine Enemies’ House”",
+      "wordCount": 3072,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "III: The Dead Spy",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "IV: In the Abbey Church",
+      "wordCount": 3109,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "V: Earl Risingham",
+      "wordCount": 1115,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "VI: Arblaster Again",
+      "wordCount": 3486,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "Book V: Crookback",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "I: The Shrill Trumpet",
+      "wordCount": 2293,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "II: The Battle of Shoreby",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "III: The Battle of Shoreby (Concluded)",
+      "wordCount": 1388,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 33,
+      "title": "IV: The Sack of Shoreby",
+      "wordCount": 3200,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "V: Night in the Woods: Alicia Risingham",
+      "wordCount": 2469,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "VI: Night in the Woods (Concluded): Dick and Joan",
+      "wordCount": 3020,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "VII: Dick’s Revenge",
+      "wordCount": 1316,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "VIII: Conclusion",
+      "wordCount": 760,
+      "estimatedMinutes": 3
+    }
+  ]
+}

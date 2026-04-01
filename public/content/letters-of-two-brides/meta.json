@@ -1,0 +1,364 @@
+{
+  "bookId": "letters-of-two-brides",
+  "title": "Letters of Two Brides",
+  "author": "Honoré de Balzac",
+  "chapterCount": 59,
+  "totalWordCount": 83658,
+  "totalMinutes": 336,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "First Part",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Louise de Chaulieu to Renée de Maucombe",
+      "wordCount": 4534,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II: The Same to the Same",
+      "wordCount": 2058,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: The Same to the Same",
+      "wordCount": 1561,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "IV: The Same to the Same",
+      "wordCount": 1278,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V: Renée de Maucombe to Louise de Chaulieu",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: Don Felipe Hénarez to Don Fernand",
+      "wordCount": 2155,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII: Louise de Chaulieu to Renée de Maucombe",
+      "wordCount": 2243,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Same to the Same",
+      "wordCount": 1024,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX: Mme. de l’Estorade to Mlle. de Chaulieu",
+      "wordCount": 589,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "X: Mlle. de Chaulieu to Mme. de l’Estorade",
+      "wordCount": 860,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XI: Mme. de l’Estorade to Mlle. de Chaulieu",
+      "wordCount": 95,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "XII: Mlle. de Chaulieu to Mme. de l’Estorade",
+      "wordCount": 3943,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIII: Mme. de l’Estorade to Mlle. de Chaulieu",
+      "wordCount": 3479,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Duc de Soria to the Baron de Macumer",
+      "wordCount": 381,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 15,
+      "title": "XV: Louise de Chaulieu to Mme. de l’Estorade",
+      "wordCount": 2604,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Same to the Same",
+      "wordCount": 557,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Same to the Same",
+      "wordCount": 559,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Mme. de l’Estorade to Louise de Chaulieu",
+      "wordCount": 1280,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX: Louise de Chaulieu to Mme. de l’Estorade",
+      "wordCount": 1970,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX: Renée de l’Estorade to Louise de Chaulieu",
+      "wordCount": 971,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XXI: Louise de Chaulieu to Renée de l’Estorade",
+      "wordCount": 2032,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII: Louise to Felipe",
+      "wordCount": 1212,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Felipe to Louise",
+      "wordCount": 1198,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Louise de Chaulieu to Renée de l’Estorade",
+      "wordCount": 2476,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXV: Renée de l’Estorade to Louise de Chaulieu",
+      "wordCount": 726,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Louise de Macumer to Renée de l’Estorade",
+      "wordCount": 1815,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Same to the Same",
+      "wordCount": 2030,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Renée de l’Estorade to Louise de Macumer",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXIX: M. de l’Estorade to the Baronne de Macumer",
+      "wordCount": 538,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "XXX: Louise de Macumer to Renée de l’Estorade",
+      "wordCount": 870,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Renée de l’Estorade to Louise de Macumer",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Mme. de Macumer to Mme. de l’Estorade",
+      "wordCount": 1268,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Mme. de l’Estorade to Mme. de Macumer",
+      "wordCount": 337,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mme. de Macumer to the Vicomtesse de l’Estorade",
+      "wordCount": 76,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "XXXV: The Same to the Same",
+      "wordCount": 938,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: The Vicomtesse de l’Estorade to the Baronne de Macumer",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Baronne de Macumer to the Vicomtesse de l’Estorade",
+      "wordCount": 293,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Vicomtesse de l’Estorade to the Baronne de Macumer",
+      "wordCount": 244,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: The Baronne de Macumer to the Vicomtesse de l’Estorade",
+      "wordCount": 611,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 40,
+      "title": "XL: The Comtesse de l’Estorade to the Baronne de Macumer",
+      "wordCount": 1836,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Baronne de Macumer to the Vicomtesse de l’Estorade",
+      "wordCount": 728,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 42,
+      "title": "XLII: Renée to Louise",
+      "wordCount": 280,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Mme. de Macumer to the Comtesse de l’Estorade",
+      "wordCount": 506,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Same to the Same",
+      "wordCount": 405,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 45,
+      "title": "XLV: Renée to Louise",
+      "wordCount": 2869,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Mme. de Macumer to the Comtesse de l’Estorade",
+      "wordCount": 1375,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Renée to Louise",
+      "wordCount": 224,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "Second Part",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: The Baronne de Macumer to the Comtesse de l’Estorade",
+      "wordCount": 4017,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 50,
+      "title": "XLIX: Marie Gaston to Daniel d’Arthez",
+      "wordCount": 916,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "L: Mme. de l’Estorade to Mme. de Macumer",
+      "wordCount": 578,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 52,
+      "title": "LI: The Comtesse de l’Estorade to Mme. Marie Gaston",
+      "wordCount": 2013,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 53,
+      "title": "LII: Mme. Gaston to Mme. de l’Estorade",
+      "wordCount": 2791,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 54,
+      "title": "LIII: Mme. de l’Estorade to Mme. Gaston",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 55,
+      "title": "LIV: Mme. Gaston to the Comtesse de l’Estorade",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 56,
+      "title": "LV: The Comtesse de l’Estorade to Mme. Gaston",
+      "wordCount": 980,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 57,
+      "title": "LVI: Mme. Gaston to the Comtesse de l’Estorade",
+      "wordCount": 121,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 58,
+      "title": "LVII: The Comtesse de l’Estorade to the Comte de l’Estorade",
+      "wordCount": 2041,
+      "estimatedMinutes": 8
+    }
+  ]
+}

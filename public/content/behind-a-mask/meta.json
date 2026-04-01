@@ -1,0 +1,70 @@
+{
+  "bookId": "behind-a-mask",
+  "title": "Behind a Mask: Or, a Woman’s Power",
+  "author": "Louisa May Alcott",
+  "chapterCount": 10,
+  "totalWordCount": 41277,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Jean Muir",
+      "wordCount": 3826,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: A Good Beginning",
+      "wordCount": 5008,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "III: Passion and Pique",
+      "wordCount": 6537,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "IV: A Discovery",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: How the Girl Did It",
+      "wordCount": 5083,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "VI: On the Watch",
+      "wordCount": 5498,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "VII: The Last Chance",
+      "wordCount": 4857,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: Suspense",
+      "wordCount": 3043,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX: Lady Coventry",
+      "wordCount": 3719,
+      "estimatedMinutes": 15
+    }
+  ]
+}

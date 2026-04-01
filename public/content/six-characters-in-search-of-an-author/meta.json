@@ -1,0 +1,40 @@
+{
+  "bookId": "six-characters-in-search-of-an-author",
+  "title": "Six Characters in Search of an Author: A Comedy in the Making",
+  "author": "Luigi Pirandello",
+  "chapterCount": 5,
+  "totalWordCount": 20662,
+  "totalMinutes": 83,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 434,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 57,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 8061,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 7349,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 4761,
+      "estimatedMinutes": 19
+    }
+  ]
+}

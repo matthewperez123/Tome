@@ -1,0 +1,190 @@
+{
+  "bookId": "ghost-stories",
+  "title": "Ghost Stories",
+  "author": "E. F. Benson",
+  "chapterCount": 30,
+  "totalWordCount": 155730,
+  "totalMinutes": 623,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 491,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Room in the Tower",
+      "wordCount": 5298,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "The Dust-Cloud",
+      "wordCount": 5348,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "Gavon’s Eve",
+      "wordCount": 4313,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "The Confession of Charles Linkworth",
+      "wordCount": 5916,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 5,
+      "title": "At Abdul Ali’s Grave",
+      "wordCount": 4866,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "The Shootings of Achnaleish",
+      "wordCount": 5672,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "How Fear Departed from the Long Gallery",
+      "wordCount": 5859,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "Caterpillars",
+      "wordCount": 3514,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "The Cat",
+      "wordCount": 5512,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "The Bus-Conductor",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "The Man Who Went Too Far",
+      "wordCount": 8383,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 12,
+      "title": "Between the Lights",
+      "wordCount": 4748,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "Outside the Door",
+      "wordCount": 3056,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "The Terror by Night",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "The Other Bed",
+      "wordCount": 4304,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "The Thing in the Hall",
+      "wordCount": 4720,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "The House with the Brickkiln",
+      "wordCount": 4446,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "“And the Dead Spake—”",
+      "wordCount": 7567,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 19,
+      "title": "The Outcast",
+      "wordCount": 6655,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 20,
+      "title": "The Horror-Horn",
+      "wordCount": 5360,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 21,
+      "title": "Machaon",
+      "wordCount": 6040,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "Negotium Perambulans. …",
+      "wordCount": 6173,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 23,
+      "title": "At the Farmhouse",
+      "wordCount": 6779,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 24,
+      "title": "Inscrutable Decrees",
+      "wordCount": 5787,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 25,
+      "title": "The Gardener",
+      "wordCount": 5260,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 26,
+      "title": "Mr. Tilly’s Séance",
+      "wordCount": 5890,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 27,
+      "title": "Mrs. Amworth",
+      "wordCount": 5979,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 28,
+      "title": "In the Tube",
+      "wordCount": 5727,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 29,
+      "title": "Roderick’s Story",
+      "wordCount": 5711,
+      "estimatedMinutes": 23
+    }
+  ]
+}

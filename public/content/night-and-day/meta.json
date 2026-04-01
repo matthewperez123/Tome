@@ -1,0 +1,214 @@
+{
+  "bookId": "night-and-day",
+  "title": "Night and Day",
+  "author": "Virginia Woolf",
+  "chapterCount": 34,
+  "totalWordCount": 166981,
+  "totalMinutes": 666,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 4665,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 4313,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5351,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 4059,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 6887,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2694,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2374,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 4347,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3654,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3278,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 4749,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 4305,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 5215,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 4475,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 4039,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 10263,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 4195,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 4126,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 4321,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 4253,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 8357,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 4040,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 7851,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 6542,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 5395,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 4960,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 8499,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 8086,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 7737,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "three-lives",
+  "title": "Three Lives: Stories of the Good Anna, Melanctha and the Gentle Lena",
+  "author": "Gertrude Stein",
+  "chapterCount": 6,
+  "totalWordCount": 86071,
+  "totalMinutes": 345,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Good Anna",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3911,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "II: The Life of the Good Anna",
+      "wordCount": 16632,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 3,
+      "title": "III: The Death of the Good Anna",
+      "wordCount": 1822,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "Melanctha",
+      "wordCount": 50096,
+      "estimatedMinutes": 200
+    },
+    {
+      "index": 5,
+      "title": "The Gentle Lena",
+      "wordCount": 13607,
+      "estimatedMinutes": 54
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "bookId": "gitanjali",
+  "title": "Gitanjali: (Song Offerings)",
+  "author": "Rabindranath Tagore",
+  "chapterCount": 3,
+  "totalWordCount": 14920,
+  "totalMinutes": 59,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 351,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 2365,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "Chapter 3",
+      "wordCount": 12204,
+      "estimatedMinutes": 49
+    }
+  ]
+}

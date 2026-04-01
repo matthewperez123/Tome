@@ -1,0 +1,112 @@
+{
+  "bookId": "mystery-at-lynden-sands",
+  "title": "Mystery at Lynden Sands",
+  "author": "J. J. Connington",
+  "chapterCount": 17,
+  "totalWordCount": 84651,
+  "totalMinutes": 338,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Death at Foxhills",
+      "wordCount": 5822,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 1,
+      "title": "II: A Bus-Driver’s Holiday",
+      "wordCount": 2563,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: The Police at the Caretaker’s",
+      "wordCount": 6021,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "IV: What Happened in the Night",
+      "wordCount": 4259,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "V: The Diary",
+      "wordCount": 3353,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI: The Beach Tragedy",
+      "wordCount": 4640,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII: The Letter",
+      "wordCount": 4527,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Colt Automatic",
+      "wordCount": 7582,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "IX: The Second Cartridge-Case",
+      "wordCount": 4410,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "X: The Attack on the Australian",
+      "wordCount": 3682,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: Mme. Laurent-Desrousseaux’s Evidence",
+      "wordCount": 6709,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 11,
+      "title": "XII: The Fordingbridge Mystery",
+      "wordCount": 5961,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "XIII: Cressida’s Narrative",
+      "wordCount": 5959,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Telegram",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: The Method of Coercion",
+      "wordCount": 3525,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Manhunt on the Beach",
+      "wordCount": 5369,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Threads in the Case",
+      "wordCount": 6978,
+      "estimatedMinutes": 28
+    }
+  ]
+}

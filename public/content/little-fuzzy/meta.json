@@ -1,0 +1,118 @@
+{
+  "bookId": "little-fuzzy",
+  "title": "Little Fuzzy",
+  "author": "H. Beam Piper",
+  "chapterCount": 18,
+  "totalWordCount": 59737,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 498,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 4763,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3055,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2112,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 5234,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 5027,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4624,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 4058,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3874,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2566,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 4497,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 5418,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1645,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 2731,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1352,
+      "estimatedMinutes": 5
+    }
+  ]
+}

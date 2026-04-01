@@ -1,0 +1,28 @@
+{
+  "bookId": "lost-illusions",
+  "title": "Lost Illusions",
+  "author": "Honoré de Balzac",
+  "chapterCount": 3,
+  "totalWordCount": 247672,
+  "totalMinutes": 991,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Two Poets",
+      "wordCount": 55313,
+      "estimatedMinutes": 221
+    },
+    {
+      "index": 1,
+      "title": "Part II: A Distinguished Provincial at Paris",
+      "wordCount": 120134,
+      "estimatedMinutes": 481
+    },
+    {
+      "index": 2,
+      "title": "Part III: Eve and David",
+      "wordCount": 72225,
+      "estimatedMinutes": 289
+    }
+  ]
+}

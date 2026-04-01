@@ -1,0 +1,196 @@
+{
+  "bookId": "the-house-of-mirth",
+  "title": "The House of Mirth",
+  "author": "Edith Wharton",
+  "chapterCount": 31,
+  "totalWordCount": 130424,
+  "totalMinutes": 525,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 4588,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3729,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5924,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 4654,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 4960,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 4540,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4583,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 5019,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4987,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3687,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3085,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 4505,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 7497,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 5070,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I",
+      "wordCount": 4980,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 18,
+      "title": "II",
+      "wordCount": 5449,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 19,
+      "title": "III",
+      "wordCount": 4910,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 20,
+      "title": "IV",
+      "wordCount": 4162,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "V",
+      "wordCount": 4201,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "VI",
+      "wordCount": 4520,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "VII",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "VIII",
+      "wordCount": 4950,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 25,
+      "title": "IX",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "X",
+      "wordCount": 5776,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XI",
+      "wordCount": 3268,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XII",
+      "wordCount": 2459,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XIII",
+      "wordCount": 5476,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 30,
+      "title": "XIV",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    }
+  ]
+}

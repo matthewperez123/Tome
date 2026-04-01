@@ -1,0 +1,196 @@
+{
+  "bookId": "candide",
+  "title": "Candide: Or, the Optimist",
+  "author": "Voltaire",
+  "chapterCount": 31,
+  "totalWordCount": 33728,
+  "totalMinutes": 133,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1086,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "I: How Candide Was Brought Up in a Magnificent Castle, and How He Was Expelled Thence",
+      "wordCount": 773,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "II: What Became of Candide Among the Bulgarians",
+      "wordCount": 790,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "III: How Candide Made His Escape from the Bulgarians, and What Afterwards Became of Him",
+      "wordCount": 738,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "IV: How Candide Found His Old Master Pangloss, and What Happened to Them",
+      "wordCount": 1060,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "V: Tempest, Shipwreck, Earthquake, and What Became of Doctor Pangloss, Candide, and James the Anabaptist",
+      "wordCount": 855,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "VI: How the Portuguese Made a Beautiful Auto-Da-Fé, to Prevent Any Further Earthquakes; and How Candide Was Publicly Whipped",
+      "wordCount": 398,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VII: How the Old Woman Took Care of Candide, and How He Found the Object He Loved",
+      "wordCount": 690,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VIII: The History of Cunégonde",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX: What Became of Cunégonde, Candide, the Grand Inquisitor, and the Jew",
+      "wordCount": 549,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "X: In What Distress Candide, Cunégonde, and the Old Woman Arrived at Cadiz; and of Their Embarkation",
+      "wordCount": 659,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XI: History of the Old Woman",
+      "wordCount": 1159,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XII: The Adventures of the Old Woman Continued",
+      "wordCount": 1317,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII: How Candide Was Forced Away from His Fair Cunégonde and the Old Woman",
+      "wordCount": 767,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XIV: How Candide and Cacambo Were Received by the Jesuits of Paraguay",
+      "wordCount": 1147,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XV: How Candide Killed the Brother of His Dear Cunégonde",
+      "wordCount": 720,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XVI: Adventures of the Two Travellers, with Two Girls, Two Monkeys, and the Savages Called Oreillons",
+      "wordCount": 1236,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVII: Arrival of Candide and His Valet at El Dorado, and What They Saw There",
+      "wordCount": 1181,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII: What They Saw in the Country of El Dorado",
+      "wordCount": 1869,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: What Happened to Them at Surinam and How Candide Got Acquainted with Martin",
+      "wordCount": 1728,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XX: What Happened at Sea to Candide and Martin",
+      "wordCount": 831,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "XXI: Candide and Martin, Reasoning, Draw Near the Coast of France",
+      "wordCount": 547,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 22,
+      "title": "XXII: What Happened in France to Candide and Martin",
+      "wordCount": 3452,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Candide and Martin Touched Upon the Coast of England, and What They Saw There",
+      "wordCount": 446,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Of Paquette and Friar Giroflée",
+      "wordCount": 1624,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Visit to Lord Pococurante, a Noble Venetian",
+      "wordCount": 1810,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Of a Supper Which Candide and Martin Took with Six Strangers, and Who They Were",
+      "wordCount": 1124,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Candide’s Voyage to Constantinople",
+      "wordCount": 1258,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: What Happened to Candide, Cunégonde, Pangloss, Martin, etc.",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXIX: How Candide Found Cunégonde and the Old Woman Again",
+      "wordCount": 373,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "XXX: The Conclusion",
+      "wordCount": 1561,
+      "estimatedMinutes": 6
+    }
+  ]
+}

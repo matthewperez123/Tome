@@ -1,0 +1,28 @@
+{
+  "bookId": "antigone",
+  "title": "Antigone",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 10299,
+  "totalMinutes": 42,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 169,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 43,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Antigone",
+      "wordCount": 10087,
+      "estimatedMinutes": 40
+    }
+  ]
+}

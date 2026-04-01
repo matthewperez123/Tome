@@ -1,0 +1,226 @@
+{
+  "bookId": "the-sketchbook-of-geoffrey-crayon-gent",
+  "title": "The Sketchbook of Geoffrey Crayon, Gent.",
+  "author": "Washington Irving",
+  "chapterCount": 36,
+  "totalWordCount": 124188,
+  "totalMinutes": 498,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 408,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface to the Revised Edition",
+      "wordCount": 2118,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "The Author’s Account of Himself",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "The Voyage",
+      "wordCount": 2278,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "Roscoe",
+      "wordCount": 2308,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "The Wife",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Rip Van Winkle",
+      "wordCount": 7219,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "English Writers on America",
+      "wordCount": 3184,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "Rural Life in England",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "The Broken Heart",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "The Art of Book-Making",
+      "wordCount": 2513,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "A Royal Poet",
+      "wordCount": 4948,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "The Country Church",
+      "wordCount": 1841,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "The Widow and Her Son",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "A Sunday in London",
+      "wordCount": 680,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "The Boar’s Head Tavern, Eastcheap",
+      "wordCount": 3814,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "The Mutability of Literature",
+      "wordCount": 3637,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "Rural Funerals",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "The Inn Kitchen",
+      "wordCount": 720,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "The Spectre Bridegroom",
+      "wordCount": 5587,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "Westminster Abbey",
+      "wordCount": 3920,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "Christmas",
+      "wordCount": 1824,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "The Stage Coach",
+      "wordCount": 2322,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "Christmas Eve",
+      "wordCount": 3914,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "Christmas Day",
+      "wordCount": 4660,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "The Christmas Dinner",
+      "wordCount": 4463,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "London Antiques",
+      "wordCount": 2036,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "Little Britain",
+      "wordCount": 5071,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 28,
+      "title": "Stratford-on-Avon",
+      "wordCount": 6380,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 29,
+      "title": "Traits of Indian Character",
+      "wordCount": 3916,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "Philip of Pokanoket",
+      "wordCount": 6019,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 31,
+      "title": "John Bull",
+      "wordCount": 4101,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "The Pride of the Village",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "The Angler",
+      "wordCount": 3246,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "The Legend of Sleepy Hollow",
+      "wordCount": 12172,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 35,
+      "title": "L’Envoy",
+      "wordCount": 732,
+      "estimatedMinutes": 3
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "bookId": "the-cloven-foot",
+  "title": "The Cloven Foot",
+  "author": "M. E. Braddon",
+  "chapterCount": 46,
+  "totalWordCount": 160967,
+  "totalMinutes": 646,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Heir Presumptive",
+      "wordCount": 5889,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "II: Jasper Treverton’s Will",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: A Mysterious Visitor",
+      "wordCount": 4252,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: La Chicot",
+      "wordCount": 5646,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "V: A Disappointed Lover",
+      "wordCount": 2662,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: La Chicot Has Her Own Way",
+      "wordCount": 4207,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VII: “A Little While Such Lips as Thine to Kiss”",
+      "wordCount": 7564,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 7,
+      "title": "VIII: “Days That Are Over, Dreams That Are Done”",
+      "wordCount": 4730,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "IX: “And Art Thou Come! and Art Thou True!”",
+      "wordCount": 3677,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X: Engaged",
+      "wordCount": 3851,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: No Trousseau",
+      "wordCount": 2296,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII: An Ill-Omened Wedding",
+      "wordCount": 4680,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Settlement",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: “You Have but to Say the Word”",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XV: Edward Clare Discovers a Likeness",
+      "wordCount": 3755,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: Shall It Be “Yes” or “No”?",
+      "wordCount": 2755,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVII: Murder",
+      "wordCount": 2839,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVIII: What the Diamonds Were Worth",
+      "wordCount": 4396,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "XIX: “To a Deep Lawny Dell They Came”",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: The Church Near Camelot",
+      "wordCount": 2852,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XXI: Halcyon Days",
+      "wordCount": 2286,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: A Village Iago",
+      "wordCount": 4185,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXIII: “In the Meanwhile the Skies ’Gan Rumble Sore”",
+      "wordCount": 2459,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXIV: “And Purple Light Shone Over All”",
+      "wordCount": 1891,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Children’s Party",
+      "wordCount": 1643,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Disinterested Parent",
+      "wordCount": 7233,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Desrolles Is Not Communicative",
+      "wordCount": 2339,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Edward Clare Goes on a Voyage of Discovery",
+      "wordCount": 5210,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 28,
+      "title": "XXIX: George Gerard",
+      "wordCount": 2482,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXX: Thou Art the Man",
+      "wordCount": 3785,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Why Don’t You Trust Me?",
+      "wordCount": 2161,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXXII: On His Defence",
+      "wordCount": 4463,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: At the Morgue",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: George Gerard in Danger",
+      "wordCount": 3744,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXV: On a Voyage of Discovery",
+      "wordCount": 2564,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Kergariou’s Wife",
+      "wordCount": 2902,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Tenant from Beechampton",
+      "wordCount": 2535,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Celia’s Lovers",
+      "wordCount": 7418,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: On Suspicion",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XL: Mr. Leopold Asks Irrelevant Questions",
+      "wordCount": 1941,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 40,
+      "title": "XLI: Mrs. Evitt Makes a Revelation",
+      "wordCount": 6332,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 41,
+      "title": "XLII: The Undertaker’s Evidence",
+      "wordCount": 3101,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLIII: An Old Lady’s Diary",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XLIV: Three Witnesses",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XLV: The Hunt for Desrolles",
+      "wordCount": 3943,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "Epilogue",
+      "wordCount": 1298,
+      "estimatedMinutes": 5
+    }
+  ]
+}

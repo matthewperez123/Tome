@@ -1,0 +1,148 @@
+{
+  "bookId": "tombstone",
+  "title": "Tombstone: An Iliad of the Southwest",
+  "author": "Walter Noble Burns",
+  "chapterCount": 23,
+  "totalWordCount": 109633,
+  "totalMinutes": 437,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Sources",
+      "wordCount": 544,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Hills of Silver",
+      "wordCount": 6960,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "II: Red Lights and Altar Candles",
+      "wordCount": 4963,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "III: Glad Hand and Trigger Finger",
+      "wordCount": 5288,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "IV: Wyatt Earp Plays a Lone Hand",
+      "wordCount": 3282,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: Curly Bill",
+      "wordCount": 5837,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "VI: The Affair of Skeleton Canyon",
+      "wordCount": 3485,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Billy Breakenridge Makes Good",
+      "wordCount": 4189,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Old Man with a Beard",
+      "wordCount": 3282,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: Ringo",
+      "wordCount": 3291,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Russian Bill’s Little Drama",
+      "wordCount": 5318,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 11,
+      "title": "XI: On the Benson Road",
+      "wordCount": 3870,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XII: Flashes of Storm",
+      "wordCount": 6002,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Showdown",
+      "wordCount": 5511,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Red Road of Vengeance",
+      "wordCount": 5857,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 15,
+      "title": "XV: The Out Trail",
+      "wordCount": 5865,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 16,
+      "title": "XVI: John Ringo Cashes In",
+      "wordCount": 5215,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVII: Buried Treasure",
+      "wordCount": 4756,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Honeymoon Cattle Drive",
+      "wordCount": 6217,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Round Table’s Last Knight",
+      "wordCount": 7098,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 20,
+      "title": "XX: Patchy",
+      "wordCount": 5013,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "XXI: Hands Up!",
+      "wordCount": 4879,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 22,
+      "title": "XXII: Sunshine and Peace",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    }
+  ]
+}

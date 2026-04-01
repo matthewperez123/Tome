@@ -1,0 +1,82 @@
+{
+  "bookId": "a-tangled-tale",
+  "title": "A Tangled Tale",
+  "author": "Lewis Carroll",
+  "chapterCount": 12,
+  "totalWordCount": 27563,
+  "totalMinutes": 111,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 69,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Knot I: Excelsior",
+      "wordCount": 452,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Knot II: Eligible Apartments",
+      "wordCount": 1305,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "Knot III: Mad Mathesis",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "Knot IV: The Dead Reckoning",
+      "wordCount": 1259,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "Knot V: Oughts and Crosses",
+      "wordCount": 1162,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "Knot VI: Her Radiancy",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "Knot VII: Petty Cash",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "Knot VIII: De Omnibus Rebus",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "Knot IX: A Serpent with Corners",
+      "wordCount": 1289,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "Knot X: Chelsea Buns",
+      "wordCount": 1929,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "Appendix",
+      "wordCount": 15543,
+      "estimatedMinutes": 62
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "bookId": "the-american-crisis",
+  "title": "The American Crisis",
+  "author": "Thomas Paine",
+  "chapterCount": 17,
+  "totalWordCount": 75978,
+  "totalMinutes": 304,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Introduction",
+      "wordCount": 637,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "The Crisis I",
+      "wordCount": 3452,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "The Crisis II: To Lord Howe",
+      "wordCount": 6583,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "The Crisis III",
+      "wordCount": 12222,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 4,
+      "title": "The Crisis IV",
+      "wordCount": 1226,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "The Crisis V: To Gen. Sir William Howe",
+      "wordCount": 10069,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 6,
+      "title": "The Crisis VI: To the Earl of Carlisle, General Clinton, and William Eden, Esq., British Commissioners at New York",
+      "wordCount": 3665,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "The Crisis VII: To the People of England",
+      "wordCount": 7348,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 8,
+      "title": "The Crisis VIII: Address to the People of England",
+      "wordCount": 2793,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "The Crisis IX",
+      "wordCount": 1883,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "The Crisis Extraordinary",
+      "wordCount": 6101,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "The Crisis X: On the King of England’s Speech",
+      "wordCount": 7911,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 12,
+      "title": "The Crisis XI: On the Present State of News",
+      "wordCount": 3552,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "A Supernumerary Crisis",
+      "wordCount": 1529,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "The Crisis XII: To the Earl of Shelburne",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "The Crisis XIII: Thoughts on the Peace, and Probable Advantages Thereof",
+      "wordCount": 2040,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "A Supernumerary Crisis",
+      "wordCount": 1310,
+      "estimatedMinutes": 5
+    }
+  ]
+}

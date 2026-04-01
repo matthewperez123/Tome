@@ -1,0 +1,106 @@
+{
+  "bookId": "the-rainbow",
+  "title": "The Rainbow",
+  "author": "D. H. Lawrence",
+  "chapterCount": 16,
+  "totalWordCount": 186373,
+  "totalMinutes": 746,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: How Tom Brangwen Married a Polish Lady",
+      "wordCount": 16630,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 1,
+      "title": "II: They Live at the Marsh",
+      "wordCount": 12258,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 2,
+      "title": "III: Childhood of Anna Lensky",
+      "wordCount": 5680,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "IV: Girlhood of Anna Brangwen",
+      "wordCount": 13534,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 4,
+      "title": "V: Wedding at the Marsh",
+      "wordCount": 3786,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI: Anna Victrix",
+      "wordCount": 21072,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 6,
+      "title": "VII: The Cathedral",
+      "wordCount": 5301,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Child",
+      "wordCount": 11191,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 8,
+      "title": "IX: The Marsh and the Flood",
+      "wordCount": 8020,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 9,
+      "title": "X: The Widening Circle",
+      "wordCount": 8178,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 10,
+      "title": "XI: First Love",
+      "wordCount": 18973,
+      "estimatedMinutes": 76
+    },
+    {
+      "index": 11,
+      "title": "XII: Shame",
+      "wordCount": 7059,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Man’s World",
+      "wordCount": 22655,
+      "estimatedMinutes": 91
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Widening Circle",
+      "wordCount": 5540,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "XV: The Bitterness of Ecstasy",
+      "wordCount": 21462,
+      "estimatedMinutes": 86
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Rainbow",
+      "wordCount": 5034,
+      "estimatedMinutes": 20
+    }
+  ]
+}

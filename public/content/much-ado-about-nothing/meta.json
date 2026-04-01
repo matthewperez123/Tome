@@ -1,0 +1,46 @@
+{
+  "bookId": "much-ado-about-nothing",
+  "title": "Much Ado About Nothing",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 22633,
+  "totalMinutes": 92,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 82,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 3502,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5895,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4738,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 3387,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 5029,
+      "estimatedMinutes": 20
+    }
+  ]
+}

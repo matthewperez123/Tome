@@ -1,0 +1,52 @@
+{
+  "bookId": "the-comedy-of-errors",
+  "title": "The Comedy of Errors",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 16817,
+  "totalMinutes": 68,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 529,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 109,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 2181,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 2945,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 3059,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4202,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 3792,
+      "estimatedMinutes": 15
+    }
+  ]
+}

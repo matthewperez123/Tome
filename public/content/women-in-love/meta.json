@@ -1,0 +1,196 @@
+{
+  "bookId": "women-in-love",
+  "title": "Women in Love",
+  "author": "D. H. Lawrence",
+  "chapterCount": 31,
+  "totalWordCount": 182151,
+  "totalMinutes": 730,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Sisters",
+      "wordCount": 6269,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 1,
+      "title": "II: Shortlands",
+      "wordCount": 4210,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: Classroom",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV: Diver",
+      "wordCount": 2440,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: In the Train",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI: Crème de Menthe",
+      "wordCount": 5572,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VII: Fetish",
+      "wordCount": 1868,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Breadalby",
+      "wordCount": 10666,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 8,
+      "title": "IX: Coal-Dust",
+      "wordCount": 3541,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "X: Sketchbook",
+      "wordCount": 1496,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: An Island",
+      "wordCount": 3995,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XII: Carpeting",
+      "wordCount": 3691,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XIII: Mino",
+      "wordCount": 4171,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XIV: Water-Party",
+      "wordCount": 14011,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 14,
+      "title": "XV: Sunday Evening",
+      "wordCount": 3101,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: Man to Man",
+      "wordCount": 4594,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Industrial Magnate",
+      "wordCount": 9928,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Rabbit",
+      "wordCount": 3776,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XIX: Moony",
+      "wordCount": 8657,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 19,
+      "title": "XX: Gladiatorial",
+      "wordCount": 3870,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XXI: Threshold",
+      "wordCount": 5592,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 21,
+      "title": "XXII: Woman to Woman",
+      "wordCount": 3963,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Excurse",
+      "wordCount": 7650,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Death and Love",
+      "wordCount": 11849,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 24,
+      "title": "XXV: Marriage or Not",
+      "wordCount": 1191,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Chair",
+      "wordCount": 3653,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Flitting",
+      "wordCount": 5684,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Gudrun in the Pompadour",
+      "wordCount": 2282,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Continental",
+      "wordCount": 21086,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 29,
+      "title": "XXX: Snowed Up",
+      "wordCount": 13631,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Exeunt",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    }
+  ]
+}

@@ -1,0 +1,2524 @@
+{
+  "bookId": "les-miserables",
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "chapterCount": 419,
+  "totalWordCount": 560750,
+  "totalMinutes": 2295,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 113,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Volume I: Fantine",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Book I: A Just Man",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: M. Myriel",
+      "wordCount": 1061,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "II: M. Myriel Becomes M. Welcome",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "III: A Hard Bishopric for a Good Bishop",
+      "wordCount": 775,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "IV: Works Corresponding to Words",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "V: Monseigneur Bienvenu Made His Cassocks Last Too Long",
+      "wordCount": 1035,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "VI: Who Guarded His House for Him",
+      "wordCount": 2198,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VII: Cravatte",
+      "wordCount": 1276,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "VIII: Philosophy After Drinking",
+      "wordCount": 1474,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "IX: The Brother as Depicted by the Sister",
+      "wordCount": 1405,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "X: The Bishop in the Presence of an Unknown Light",
+      "wordCount": 4718,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "XI: A Restriction",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XII: The Solitude of Monseigneur Welcome",
+      "wordCount": 1125,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XIII: What He Believed",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XIV: What He Thought",
+      "wordCount": 932,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "Book II: The Fall",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: The Evening of a Day of Walking",
+      "wordCount": 4364,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "II: Prudence Counselled to Wisdom",
+      "wordCount": 1443,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "III: The Heroism of Passive Obedience",
+      "wordCount": 2072,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "IV: Details Concerning the Cheese-Dairies of Pontarlier",
+      "wordCount": 1353,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "V: Tranquillity",
+      "wordCount": 531,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 23,
+      "title": "VI: Jean Valjean",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "VII: The Interior of Despair",
+      "wordCount": 2950,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "VIII: Billows and Shadows",
+      "wordCount": 764,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "IX: New Troubles",
+      "wordCount": 450,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 27,
+      "title": "X: The Man Aroused",
+      "wordCount": 1138,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XI: What He Does",
+      "wordCount": 1421,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XII: The Bishop Works",
+      "wordCount": 1137,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XIII: Little Gervais",
+      "wordCount": 3342,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "Book III: In the Year 1817",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "I: The Year 1817",
+      "wordCount": 2275,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "II: A Double Quartette",
+      "wordCount": 1570,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "III: Four and Four",
+      "wordCount": 1456,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "IV: Tholomyès Is So Merry That He Sings a Spanish Ditty",
+      "wordCount": 868,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 36,
+      "title": "V: At Bombarda’s",
+      "wordCount": 1003,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "VI: A Chapter in Which They Adore Each Other",
+      "wordCount": 529,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 38,
+      "title": "VII: The Wisdom of Tholomyès",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "VIII: The Death of a Horse",
+      "wordCount": 803,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "IX: A Merry End to Mirth",
+      "wordCount": 910,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 41,
+      "title": "Book IV: To Confide Is Sometimes to Deliver Into a Person’s Power",
+      "wordCount": 12,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 42,
+      "title": "I: One Mother Meets Another Mother",
+      "wordCount": 3362,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "II: First Sketch of Two Unprepossessing Figures",
+      "wordCount": 810,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "III: The Lark",
+      "wordCount": 1035,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 45,
+      "title": "Book V: The Descent",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 46,
+      "title": "I: The History of a Progress in Black Glass Trinkets",
+      "wordCount": 537,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 47,
+      "title": "II: Madeleine",
+      "wordCount": 1369,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 48,
+      "title": "III: Sums Deposited with Laffitte",
+      "wordCount": 1173,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 49,
+      "title": "IV: M. Madeleine in Mourning",
+      "wordCount": 861,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 50,
+      "title": "V: Vague Flashes on the Horizon",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 51,
+      "title": "VI: Father Fauchelevent",
+      "wordCount": 997,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "VII: Fauchelevent Becomes a Gardener in Paris",
+      "wordCount": 438,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 53,
+      "title": "VIII: Madame Victurnien Expends Thirty Francs on Morality",
+      "wordCount": 1077,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 54,
+      "title": "IX: Madame Victurnien’s Success",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "X: Result of the Success",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 56,
+      "title": "XI: Christus Nos Liberavit",
+      "wordCount": 304,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 57,
+      "title": "XII: M. Bamatabois’s Inactivity",
+      "wordCount": 953,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 58,
+      "title": "XIII: The Solution of Some Questions Connected with the Municipal Police",
+      "wordCount": 3827,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 59,
+      "title": "Book VI: Javert",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "I: The Beginning of Repose",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 61,
+      "title": "II: How Jean May Become Champ",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 62,
+      "title": "Book VII: The Champmathieu Affair",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 63,
+      "title": "I: Sister Simplice",
+      "wordCount": 1108,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 64,
+      "title": "II: The Perspicacity of Master Scaufflaire",
+      "wordCount": 1651,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 65,
+      "title": "III: A Tempest in a Skull",
+      "wordCount": 7738,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 66,
+      "title": "IV: Forms Assumed by Suffering During Sleep",
+      "wordCount": 1210,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 67,
+      "title": "V: Hindrances",
+      "wordCount": 4090,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 68,
+      "title": "VI: Sister Simplice Put to the Proof",
+      "wordCount": 2514,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 69,
+      "title": "VII: The Traveller on His Arrival Takes Precautions for Departure",
+      "wordCount": 1643,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 70,
+      "title": "VIII: An Entrance by Favor",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 71,
+      "title": "IX: A Place Where Convictions Are in Process of Formation",
+      "wordCount": 2684,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 72,
+      "title": "X: The System of Denials",
+      "wordCount": 2810,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 73,
+      "title": "XI: Champmathieu More and More Astonished",
+      "wordCount": 1635,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 74,
+      "title": "Book VIII: A Counterblow",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 75,
+      "title": "I: In What Mirror M. Madeleine Contemplates His Hair",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 76,
+      "title": "II: Fantine Happy",
+      "wordCount": 1486,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 77,
+      "title": "III: Javert Satisfied",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 78,
+      "title": "IV: Authority Reasserts Its Rights",
+      "wordCount": 1458,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 79,
+      "title": "V: A Suitable Tomb",
+      "wordCount": 2083,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 80,
+      "title": "Volume II: Cosette",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 81,
+      "title": "Book I: Waterloo",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 82,
+      "title": "I: What Is Met with on the Way from Nivelles",
+      "wordCount": 663,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 83,
+      "title": "II: Hougomont",
+      "wordCount": 2687,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 84,
+      "title": "III: The Eighteenth of June, 1815",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 85,
+      "title": "IV: A",
+      "wordCount": 742,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 86,
+      "title": "V: The Quid Obscurum of Battles",
+      "wordCount": 1113,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 87,
+      "title": "VI: Four O’Clock in the Afternoon",
+      "wordCount": 1025,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 88,
+      "title": "VII: Napoleon in a Good Humor",
+      "wordCount": 2182,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 89,
+      "title": "VIII: The Emperor Puts a Question to the Guide Lacoste",
+      "wordCount": 914,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 90,
+      "title": "IX: The Unexpected",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 91,
+      "title": "X: The Plateau of Mont-Saint-Jean",
+      "wordCount": 1764,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 92,
+      "title": "XI: A Bad Guide to Napoleon; A Good Guide to Bülow",
+      "wordCount": 533,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 93,
+      "title": "XII: The Guard",
+      "wordCount": 579,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 94,
+      "title": "XIII: The Catastrophe",
+      "wordCount": 897,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 95,
+      "title": "XIV: The Last Square",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 96,
+      "title": "XV: Cambronne",
+      "wordCount": 865,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 97,
+      "title": "XVI: Quot Libras in Duce?",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 98,
+      "title": "XVII: Is Waterloo to Be Considered Good?",
+      "wordCount": 656,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 99,
+      "title": "XVIII: A Recrudescence of Divine Right",
+      "wordCount": 986,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 100,
+      "title": "XIX: The Battlefield at Night",
+      "wordCount": 2393,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 101,
+      "title": "Book II: The Ship Orion",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 102,
+      "title": "I: Number 24,601 Becomes Number 9,430",
+      "wordCount": 1075,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 103,
+      "title": "II: In Which the Reader Will Peruse Two Verses, Which Are of the Devil’s Composition, Possibly",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 104,
+      "title": "III: The Ankle-Chain Must Have Undergone a Certain Preparatory Manipulation to Be Thus Broken with a Blow from a Hammer",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 105,
+      "title": "Book III: Accomplishment of the Promise Made to the Dead Woman",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 106,
+      "title": "I: The Water Question at Montfermeil",
+      "wordCount": 1329,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 107,
+      "title": "II: Two Complete Portraits",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 108,
+      "title": "III: Men Must Have Wine, and Horses Must Have Water",
+      "wordCount": 822,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 109,
+      "title": "IV: Entrance on the Scene of a Doll",
+      "wordCount": 522,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 110,
+      "title": "V: The Little One All Alone",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 111,
+      "title": "VI: Which Possibly Proves Boulatruelle’s Intelligence",
+      "wordCount": 1918,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 112,
+      "title": "VII: Cosette Side by Side with the Stranger in the Dark",
+      "wordCount": 831,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 113,
+      "title": "VIII: The Unpleasantness of Receiving Into One’s House a Poor Man Who May Be a Rich Man",
+      "wordCount": 6348,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 114,
+      "title": "IX: Thénardier and His Manouvres",
+      "wordCount": 2800,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 115,
+      "title": "X: He Who Seeks to Better Himself May Render His Situation Worse",
+      "wordCount": 1812,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 116,
+      "title": "XI: Number 9,430 Reappears, and Cosette Wins It in the Lottery",
+      "wordCount": 514,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 117,
+      "title": "Book IV: The Gorbeau Hovel",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 118,
+      "title": "I: Master Gorbeau",
+      "wordCount": 2371,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 119,
+      "title": "II: A Nest for Owl and a Warbler",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 120,
+      "title": "III: Two Misfortunes Make One Piece of Good Fortune",
+      "wordCount": 1541,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 121,
+      "title": "IV: The Remarks of the Principal Tenant",
+      "wordCount": 800,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 122,
+      "title": "V: A Five-Franc Piece Falls on the Ground and Produces a Tumult",
+      "wordCount": 1307,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 123,
+      "title": "Book V: For a Black Hunt, a Mute Pack",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 124,
+      "title": "I: The Zigzags of Strategy",
+      "wordCount": 1413,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 125,
+      "title": "II: It Is Lucky That the Pont d’Austerlitz Bears Carriages",
+      "wordCount": 589,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 126,
+      "title": "III: To Wit, the Plan of Paris in 1727",
+      "wordCount": 1176,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 127,
+      "title": "IV: The Gropings of Flight",
+      "wordCount": 967,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 128,
+      "title": "V: Which Would Be Impossible with Gas Lanterns",
+      "wordCount": 1388,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 129,
+      "title": "VI: The Beginning of an Enigma",
+      "wordCount": 888,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 130,
+      "title": "VII: Continuation of the Enigma",
+      "wordCount": 714,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 131,
+      "title": "VIII: The Enigma Becomes Doubly Mysterious",
+      "wordCount": 679,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 132,
+      "title": "IX: The Man with the Bell",
+      "wordCount": 1315,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 133,
+      "title": "X: Which Explains How Javert Got on the Scent",
+      "wordCount": 3414,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 134,
+      "title": "Book VI: Le Petit-Picpus",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 135,
+      "title": "I: Number 62 Rue Petit-Picpus",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 136,
+      "title": "II: The Obedience of Martin Verga",
+      "wordCount": 2583,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 137,
+      "title": "III: Austerities",
+      "wordCount": 591,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 138,
+      "title": "IV: Gayeties",
+      "wordCount": 1249,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 139,
+      "title": "V: Distractions",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 140,
+      "title": "VI: The Little Convent",
+      "wordCount": 927,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 141,
+      "title": "VII: Some Silhouettes of This Darkness",
+      "wordCount": 788,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 142,
+      "title": "VIII: Post Corda Lapides",
+      "wordCount": 634,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 143,
+      "title": "IX: A Century Under a Guimpe",
+      "wordCount": 728,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 144,
+      "title": "X: Origin of the Perpetual Adoration",
+      "wordCount": 600,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 145,
+      "title": "XI: End of the Petit-Picpus",
+      "wordCount": 657,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 146,
+      "title": "Book VII: Parenthesis",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 147,
+      "title": "I: The Convent as an Abstract Idea",
+      "wordCount": 185,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 148,
+      "title": "II: The Convent as an Historical Fact",
+      "wordCount": 1087,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 149,
+      "title": "III: On What Conditions One Can Respect the Past",
+      "wordCount": 846,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 150,
+      "title": "IV: The Convent from the Point of View of Principles",
+      "wordCount": 512,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 151,
+      "title": "V: Prayer",
+      "wordCount": 431,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 152,
+      "title": "VI: The Absolute Goodness of Prayer",
+      "wordCount": 785,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 153,
+      "title": "VII: Precautions to Be Observed in Blame",
+      "wordCount": 241,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 154,
+      "title": "VIII: Faith, Law",
+      "wordCount": 758,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 155,
+      "title": "Book VIII: Cemeteries Take That Which Is Committed Them",
+      "wordCount": 9,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 156,
+      "title": "I: Which Treats of the Manner of Entering a Convent",
+      "wordCount": 2959,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 157,
+      "title": "II: Fauchelevent in the Presence of a Difficulty",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 158,
+      "title": "III: Mother Innocente",
+      "wordCount": 3314,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 159,
+      "title": "IV: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo",
+      "wordCount": 2070,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 160,
+      "title": "V: It Is Not Necessary to Be Drunk in Order to Be Immortal",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 161,
+      "title": "VI: Between Four Planks",
+      "wordCount": 585,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 162,
+      "title": "VII: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 163,
+      "title": "VIII: A Successful Interrogatory",
+      "wordCount": 1110,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 164,
+      "title": "IX: Cloistered",
+      "wordCount": 2646,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 165,
+      "title": "Volume III: Marius",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 166,
+      "title": "Book I: Paris Studied in Its Atom",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 167,
+      "title": "I: Parvulus",
+      "wordCount": 256,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 168,
+      "title": "II: Some of His Particular Characteristics",
+      "wordCount": 500,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 169,
+      "title": "III: He Is Agreeable",
+      "wordCount": 419,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 170,
+      "title": "IV: He May Be of Use",
+      "wordCount": 259,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 171,
+      "title": "V: His Frontiers",
+      "wordCount": 819,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 172,
+      "title": "VI: A Bit of History",
+      "wordCount": 747,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 173,
+      "title": "VII: The Gamin Should Have His Place in the Classifications of India",
+      "wordCount": 746,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 174,
+      "title": "VIII: In Which the Reader Will Find a Charming Saying of the Last King",
+      "wordCount": 588,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 175,
+      "title": "IX: The Old Soul of Gaul",
+      "wordCount": 293,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 176,
+      "title": "X: Ecce Paris, Ecce Homo",
+      "wordCount": 1096,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 177,
+      "title": "XI: To Scoff, to Reign",
+      "wordCount": 838,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 178,
+      "title": "XII: The Future Latent in the People",
+      "wordCount": 359,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 179,
+      "title": "XIII: Little Gavroche",
+      "wordCount": 892,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 180,
+      "title": "Book II: The Great Bourgeois",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 181,
+      "title": "I: Ninety Years and Thirty-Two Teeth",
+      "wordCount": 704,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 182,
+      "title": "II: Like Master, Like House",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 183,
+      "title": "III: Luc-Esprit",
+      "wordCount": 347,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 184,
+      "title": "IV: A Centenarian Aspirant",
+      "wordCount": 334,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 185,
+      "title": "V: Basque and Nicolette",
+      "wordCount": 453,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 186,
+      "title": "VI: In Which Magnon and Her Two Children Are Seen",
+      "wordCount": 761,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 187,
+      "title": "VII: Rule: Receive No One Except in the Evening",
+      "wordCount": 218,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 188,
+      "title": "VIII: Two Do Not Make a Pair",
+      "wordCount": 824,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 189,
+      "title": "Book III: The Grandfather and the Grandson",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 190,
+      "title": "I: An Ancient Salon",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 191,
+      "title": "II: One of the Red Spectres of That Epoch",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 192,
+      "title": "III: Requiescant",
+      "wordCount": 2948,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 193,
+      "title": "IV: End of the Brigand",
+      "wordCount": 1263,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 194,
+      "title": "V: The Utility of Going to Mass, in Order to Become a Revolutionist",
+      "wordCount": 650,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 195,
+      "title": "VI: The Consequences of Having Met a Warden",
+      "wordCount": 2551,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 196,
+      "title": "VII: Some Petticoat",
+      "wordCount": 1689,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 197,
+      "title": "VIII: Marble Against Granite",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 198,
+      "title": "Book IV: The Friends of the A.B.C.",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 199,
+      "title": "I: A Group Which Barely Missed Becoming Historic",
+      "wordCount": 5257,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 200,
+      "title": "II: Blondeau’s Funeral Oration by Bossuet",
+      "wordCount": 1259,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 201,
+      "title": "III: Marius’ Astonishments",
+      "wordCount": 709,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 202,
+      "title": "IV: The Back Room of the Café Musain",
+      "wordCount": 2843,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 203,
+      "title": "V: Enlargement of Horizon",
+      "wordCount": 1428,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 204,
+      "title": "VI: Res Angusta",
+      "wordCount": 877,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 205,
+      "title": "Book V: The Excellence of Misfortune",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 206,
+      "title": "I: Marius Indigent",
+      "wordCount": 861,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 207,
+      "title": "II: Marius Poor",
+      "wordCount": 1261,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 208,
+      "title": "III: Marius Grown Up",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 209,
+      "title": "IV: M. Mabeuf",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 210,
+      "title": "V: Poverty a Good Neighbor for Misery",
+      "wordCount": 863,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 211,
+      "title": "VI: The Substitute",
+      "wordCount": 1719,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 212,
+      "title": "Book VI: The Conjunction of Two Stars",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 213,
+      "title": "I: The Sobriquet: Mode of Formation of Family Names",
+      "wordCount": 1231,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 214,
+      "title": "II: Lux Facta Est",
+      "wordCount": 878,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 215,
+      "title": "III: Effect of the Spring",
+      "wordCount": 430,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 216,
+      "title": "IV: Beginning of a Great Malady",
+      "wordCount": 1131,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 217,
+      "title": "V: Divers Claps of Thunder Fall on Ma’am Bougon",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 218,
+      "title": "VI: Taken Prisoner",
+      "wordCount": 1007,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 219,
+      "title": "VII: Adventures of the Letter U Delivered Over to Conjectures",
+      "wordCount": 699,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 220,
+      "title": "VIII: The Veterans Themselves Can Be Happy",
+      "wordCount": 661,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 221,
+      "title": "IX: Eclipse",
+      "wordCount": 784,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 222,
+      "title": "Book VII: Patron Minette",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 223,
+      "title": "I: Mines and Miners",
+      "wordCount": 865,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 224,
+      "title": "II: The Lowest Depths",
+      "wordCount": 588,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 225,
+      "title": "III: Babet, Gueulemer, Claquesous, and Montparnasse",
+      "wordCount": 937,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 226,
+      "title": "IV: Composition of the Troupe",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 227,
+      "title": "Book VIII: The Wicked Poor Man",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 228,
+      "title": "I: Marius, While Seeking a Girl in a Bonnet, Encounters a Man in a Cap",
+      "wordCount": 710,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 229,
+      "title": "II: Treasure Trove",
+      "wordCount": 649,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 230,
+      "title": "III: Quadrifrons",
+      "wordCount": 1378,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 231,
+      "title": "IV: A Rose in Misery",
+      "wordCount": 2532,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 232,
+      "title": "V: A Providential Peephole",
+      "wordCount": 912,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 233,
+      "title": "VI: The Wild Man in His Lair",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 234,
+      "title": "VII: Strategy and Tactics",
+      "wordCount": 1245,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 235,
+      "title": "VIII: The Ray of Light in the Hovel",
+      "wordCount": 792,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 236,
+      "title": "IX: Jondrette Comes Near Weeping",
+      "wordCount": 1377,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 237,
+      "title": "X: Tariff of Licensed Cabs: Two Francs an Hour",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 238,
+      "title": "XI: Offers of Service from Misery to Wretchedness",
+      "wordCount": 936,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 239,
+      "title": "XII: The Use Made of M. Leblanc’s Five-Franc Piece",
+      "wordCount": 1722,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 240,
+      "title": "XIII: Solus Cum Solo, in Loco Remoto, Non Cogitabuntur Orare Pater Noster",
+      "wordCount": 991,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 241,
+      "title": "XIV: In Which a Police Agent Bestows Two Fistfuls on a Lawyer",
+      "wordCount": 1223,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 242,
+      "title": "XV: Jondrette Makes His Purchases",
+      "wordCount": 841,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 243,
+      "title": "XVI: In Which Will Be Found the Words to an English Air Which Was in Fashion in 1832",
+      "wordCount": 1224,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 244,
+      "title": "XVII: The Use Made of Marius’ Five-Franc Piece",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 245,
+      "title": "XVIII: Marius’ Two Chairs Form a Vis-a-Vis",
+      "wordCount": 522,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 246,
+      "title": "XIX: Occupying One’s Self with Obscure Depths",
+      "wordCount": 1632,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 247,
+      "title": "XX: The Trap",
+      "wordCount": 9355,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 248,
+      "title": "XXI: One Should Always Begin by Arresting the Victims",
+      "wordCount": 1255,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 249,
+      "title": "XXII: The Little One Who Was Crying in Volume Two",
+      "wordCount": 608,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 250,
+      "title": "Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis",
+      "wordCount": 15,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 251,
+      "title": "Book I: A Few Pages of History",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 252,
+      "title": "I: Well Cut",
+      "wordCount": 2132,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 253,
+      "title": "II: Badly Sewed",
+      "wordCount": 1190,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 254,
+      "title": "III: Louis Philippe",
+      "wordCount": 2753,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 255,
+      "title": "IV: Cracks Beneath the Foundation",
+      "wordCount": 2595,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 256,
+      "title": "V: Facts Whence History Springs and Which History Ignores",
+      "wordCount": 3968,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 257,
+      "title": "VI: Enjolras and His Lieutenants",
+      "wordCount": 1415,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 258,
+      "title": "Book II: Éponine",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 259,
+      "title": "I: The Lark’s Meadow",
+      "wordCount": 2208,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 260,
+      "title": "II: Embryonic Formation of Crimes in the Incubation of Prisons",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 261,
+      "title": "III: Apparition to Father Mabeuf",
+      "wordCount": 1485,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 262,
+      "title": "IV: An Apparition to Marius",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 263,
+      "title": "Book III: The House in the Rue Plumet",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 264,
+      "title": "I: The House with a Secret",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 265,
+      "title": "II: Jean Valjean as a National Guard",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 266,
+      "title": "III: Foliis Ac Frondibus",
+      "wordCount": 1404,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 267,
+      "title": "IV: Change of Gate",
+      "wordCount": 1879,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 268,
+      "title": "V: The Rose Perceives That It Is an Engine of War",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 269,
+      "title": "VI: The Battle Begun",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 270,
+      "title": "VII: To One Sadness Oppose a Sadness and a Half",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 271,
+      "title": "VIII: The Chain-Gang",
+      "wordCount": 3895,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 272,
+      "title": "Book IV: Succor from Below May Turn Out to Be Succor from on High",
+      "wordCount": 14,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 273,
+      "title": "I: A Wound Without, Healing Within",
+      "wordCount": 875,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 274,
+      "title": "II: Mother Plutarque Finds No Difficulty in Explaining a Phenomenon",
+      "wordCount": 3085,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 275,
+      "title": "Book V: The End of Which Does Not Resemble the Beginning",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 276,
+      "title": "I: Solitude and the Barracks Combined",
+      "wordCount": 619,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 277,
+      "title": "II: Cosette’s Apprehensions",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 278,
+      "title": "III: Enriched with Commentaries by Toussaint",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 279,
+      "title": "IV: A Heart Beneath a Stone",
+      "wordCount": 1290,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 280,
+      "title": "V: Cosette After the Letter",
+      "wordCount": 922,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 281,
+      "title": "VI: Old People Are Made to Go Out Opportunely",
+      "wordCount": 1296,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 282,
+      "title": "Book VI: Little Gavroche",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 283,
+      "title": "I: The Malicious Playfulness of the Wind",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 284,
+      "title": "II: In Which Little Gavroche Extracts Profit from Napoleon the Great",
+      "wordCount": 7997,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 285,
+      "title": "III: The Vicissitudes of Flight",
+      "wordCount": 4899,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 286,
+      "title": "Book VII: Slang",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 287,
+      "title": "I: Origin",
+      "wordCount": 2776,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 288,
+      "title": "II: Roots",
+      "wordCount": 3342,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 289,
+      "title": "III: Slang Which Weeps and Slang Which Laughs",
+      "wordCount": 1635,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 290,
+      "title": "IV: The Two Duties: To Watch and to Hope",
+      "wordCount": 1549,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 291,
+      "title": "Book VIII: Enchantments and Desolations",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 292,
+      "title": "I: Full Light",
+      "wordCount": 2152,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 293,
+      "title": "II: The Bewilderment of Perfect Happiness",
+      "wordCount": 804,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 294,
+      "title": "III: The Beginning of Shadow",
+      "wordCount": 1173,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 295,
+      "title": "IV: A Cab Runs in English and Barks in Slang",
+      "wordCount": 2469,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 296,
+      "title": "V: Things of the Night",
+      "wordCount": 256,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 297,
+      "title": "VI: Marius Becomes Practical Once More to the Extent of Giving Cosette His Address",
+      "wordCount": 2121,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 298,
+      "title": "VII: The Old Heart and the Young Heart in the Presence of Each Other",
+      "wordCount": 4668,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 299,
+      "title": "Book IX: Whither Are They Going?",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 300,
+      "title": "I: Jean Valjean",
+      "wordCount": 639,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 301,
+      "title": "II: Marius",
+      "wordCount": 943,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 302,
+      "title": "III: M. Mabeuf",
+      "wordCount": 1435,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 303,
+      "title": "Book X: The 5th of June, 1832",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 304,
+      "title": "I: The Surface of the Question",
+      "wordCount": 1283,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 305,
+      "title": "II: The Root of the Matter",
+      "wordCount": 2317,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 306,
+      "title": "III: A Burial; An Occasion to Be Born Again",
+      "wordCount": 2100,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 307,
+      "title": "IV: The Ebullitions of Former Days",
+      "wordCount": 1955,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 308,
+      "title": "V: Originality of Paris",
+      "wordCount": 1033,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 309,
+      "title": "Book XI: The Atom Fraternizes with the Hurricane",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 310,
+      "title": "I: Some Explanations with Regard to the Origin of Gavroche’s Poetry",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 311,
+      "title": "II: Gavroche on the March",
+      "wordCount": 1221,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 312,
+      "title": "III: Just Indignation of a Hairdresser",
+      "wordCount": 583,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 313,
+      "title": "IV: The Child Is Amazed at the Old Man",
+      "wordCount": 594,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 314,
+      "title": "V: The Old Man",
+      "wordCount": 514,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 315,
+      "title": "VI: Recruits",
+      "wordCount": 493,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 316,
+      "title": "Book XII: Corinthe",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 317,
+      "title": "I: History of Corinthe from Its Foundation",
+      "wordCount": 2009,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 318,
+      "title": "II: Preliminary Gayeties",
+      "wordCount": 3548,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 319,
+      "title": "III: Night Begins to Descend Upon Grantaire",
+      "wordCount": 1169,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 320,
+      "title": "IV: An Attempt to Console the Widow Hucheloup",
+      "wordCount": 1345,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 321,
+      "title": "V: Preparations",
+      "wordCount": 731,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 322,
+      "title": "VI: Waiting",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 323,
+      "title": "VII: The Man Recruited in the Rue des Billettes",
+      "wordCount": 1284,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 324,
+      "title": "VIII: Many Interrogation Points with Regard to a Certain le Cabuc",
+      "wordCount": 1619,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 325,
+      "title": "Book XIII: Marius Enters the Shadow",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 326,
+      "title": "I: From the Rue Plumet to the Quartier Saint-Denis",
+      "wordCount": 1092,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 327,
+      "title": "II: An Owl’s View of Paris",
+      "wordCount": 1026,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 328,
+      "title": "III: The Extreme Edge",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 329,
+      "title": "Book XIV: The Grandeurs of Despair",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 330,
+      "title": "I: The Flag: Act First",
+      "wordCount": 945,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 331,
+      "title": "II: The Flag: Act Second",
+      "wordCount": 1002,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 332,
+      "title": "III: Gavroche Would Have Done Better to Accept Enjolras’ Carbine",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 333,
+      "title": "IV: The Barrel of Powder",
+      "wordCount": 930,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 334,
+      "title": "V: End of the Verses of Jean Prouvaire",
+      "wordCount": 662,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 335,
+      "title": "VI: The Agony of Death After the Agony of Life",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 336,
+      "title": "VII: Gavroche as a Profound Calculator of Distances",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 337,
+      "title": "Book XV: The Rue de l’Homme Armé",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 338,
+      "title": "I: A Drinker Is a Babbler",
+      "wordCount": 3410,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 339,
+      "title": "II: The Street Urchin an Enemy of Light",
+      "wordCount": 1417,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 340,
+      "title": "III: While Cosette and Toussaint Are Asleep",
+      "wordCount": 577,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 341,
+      "title": "IV: Gavroche’s Excess of Zeal",
+      "wordCount": 1591,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 342,
+      "title": "Volume V: Jean Valjean",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 343,
+      "title": "Book I: The War Between Four Walls",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 344,
+      "title": "I: The Charybdis of the Faubourg Saint Antoine and the Scylla",
+      "wordCount": 2837,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 345,
+      "title": "II: What Is to Be Done in the Abyss if One Does Not Converse",
+      "wordCount": 1465,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 346,
+      "title": "III: Light and Shadow",
+      "wordCount": 625,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 347,
+      "title": "IV: Minus Five, Plus One",
+      "wordCount": 2407,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 348,
+      "title": "V: The Horizon Which One Beholds from the Summit of a Barricade",
+      "wordCount": 1565,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 349,
+      "title": "VI: Marius Haggard, Javert Laconic",
+      "wordCount": 710,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 350,
+      "title": "VII: The Situation Becomes Aggravated",
+      "wordCount": 1532,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 351,
+      "title": "VIII: The Artillerymen Compel People to Take Them Seriously",
+      "wordCount": 1031,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 352,
+      "title": "IX: Employment of the Old Talents of a Poacher and That Infallible Marksmanship Which Influenced the Condemnation of 1796",
+      "wordCount": 592,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 353,
+      "title": "X: Dawn",
+      "wordCount": 1483,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 354,
+      "title": "XI: The Shot Which Misses Nothing and Kills No One",
+      "wordCount": 426,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 355,
+      "title": "XII: Disorder a Partisan of Order",
+      "wordCount": 1175,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 356,
+      "title": "XIII: Passing Gleams",
+      "wordCount": 716,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 357,
+      "title": "XIV: Wherein Will Appear the Name of Enjolras’ Mistress",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 358,
+      "title": "XV: Gavroche Outside",
+      "wordCount": 996,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 359,
+      "title": "XVI: How from a Brother One Becomes a Father",
+      "wordCount": 3255,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 360,
+      "title": "XVII: Mortuus Pater Filium Moriturum Expectat",
+      "wordCount": 588,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 361,
+      "title": "XVIII: The Vulture Become Prey",
+      "wordCount": 1313,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 362,
+      "title": "XIX: Jean Valjean Takes His Revenge",
+      "wordCount": 866,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 363,
+      "title": "XX: The Dead Are in the Right and the Living Are Not in the Wrong",
+      "wordCount": 3505,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 364,
+      "title": "XXI: The Heroes",
+      "wordCount": 1644,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 365,
+      "title": "XXII: Foot to Foot",
+      "wordCount": 1361,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 366,
+      "title": "XXIII: Orestes Fasting and Pylades Drunk",
+      "wordCount": 1195,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 367,
+      "title": "XXIV: Prisoner",
+      "wordCount": 1060,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 368,
+      "title": "Book II: The Intestine of the Leviathan",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 369,
+      "title": "I: The Land Impoverished by the Sea",
+      "wordCount": 1499,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 370,
+      "title": "II: Ancient History of the Sewer",
+      "wordCount": 1269,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 371,
+      "title": "III: Bruneseau",
+      "wordCount": 1112,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 372,
+      "title": "IV",
+      "wordCount": 1377,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 373,
+      "title": "V: Present Progress",
+      "wordCount": 485,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 374,
+      "title": "VI: Future Progress",
+      "wordCount": 1842,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 375,
+      "title": "Book III: Mud but the Soul",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 376,
+      "title": "I: The Sewer and Its Surprises",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 377,
+      "title": "II: Explanation",
+      "wordCount": 826,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 378,
+      "title": "III: The “Spun” Man",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 379,
+      "title": "IV: He Also Bears His Cross",
+      "wordCount": 1423,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 380,
+      "title": "V: In the Case of Sand as in That of Woman, There Is a Fineness Which Is Treacherous",
+      "wordCount": 1906,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 381,
+      "title": "VI: The Fontis",
+      "wordCount": 824,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 382,
+      "title": "VII: One Sometimes Runs Aground When One Fancies That One Is Disembarking",
+      "wordCount": 915,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 383,
+      "title": "VIII: The Torn Coattail",
+      "wordCount": 1796,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 384,
+      "title": "IX: Marius Produces on Some One Who Is a Judge of the Matter, the Effect of Being Dead",
+      "wordCount": 1557,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 385,
+      "title": "X: Return of the Son Who Was Prodigal of His Life",
+      "wordCount": 640,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 386,
+      "title": "XI: Concussion in the Absolute",
+      "wordCount": 637,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 387,
+      "title": "XII: The Grandfather",
+      "wordCount": 2308,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 388,
+      "title": "Book IV: Javert Derailed",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 389,
+      "title": "I",
+      "wordCount": 4782,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 390,
+      "title": "Book V: Grandson and Grandfather",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 391,
+      "title": "I: In Which the Tree with the Zinc Plaster Appears Again",
+      "wordCount": 1266,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 392,
+      "title": "II: Marius, Emerging from Civil War, Makes Ready for Domestic War",
+      "wordCount": 1834,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 393,
+      "title": "III: Marius Attacked",
+      "wordCount": 1153,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 394,
+      "title": "IV: Mademoiselle Gillenormand Ends by No Longer Thinking It a Bad Thing That M. Fauchelevent Should Have Entered with Something Under His Arm",
+      "wordCount": 1929,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 395,
+      "title": "V: Deposit Your Money in a Forest Rather Than with a Notary",
+      "wordCount": 466,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 396,
+      "title": "VI: The Two Old Men Do Everything, Each One After His Own Fashion, to Render Cosette Happy",
+      "wordCount": 3229,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 397,
+      "title": "VII: The Effects of Dreams Mingled with Happiness",
+      "wordCount": 893,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 398,
+      "title": "VIII: Two Men Impossible to Find",
+      "wordCount": 1575,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 399,
+      "title": "Book VI: The Sleepless Night",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 400,
+      "title": "I: The 16th of February, 1833",
+      "wordCount": 3224,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 401,
+      "title": "II: Jean Valjean Still Wears His Arm in a Sling",
+      "wordCount": 3640,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 402,
+      "title": "III: The Inseparable",
+      "wordCount": 924,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 403,
+      "title": "IV: The Immortal Liver",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 404,
+      "title": "Book VII: The Last Draught from the Cup",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 405,
+      "title": "I: The Seventh Circle and the Eighth Heaven",
+      "wordCount": 6859,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 406,
+      "title": "II: The Obscurities Which a Revelation Can Contain",
+      "wordCount": 3236,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 407,
+      "title": "Book VIII: Fading Away of the Twilight",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 408,
+      "title": "I: The Lower Chamber",
+      "wordCount": 1622,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 409,
+      "title": "II: Another Step Backwards",
+      "wordCount": 985,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 410,
+      "title": "III: They Recall the Garden of the Rue Plumet",
+      "wordCount": 1645,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 411,
+      "title": "IV: Attraction and Extinction",
+      "wordCount": 694,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 412,
+      "title": "Book IX: Supreme Shadow, Supreme Dawn",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 413,
+      "title": "I: Pity for the Unhappy, but Indulgence for the Happy",
+      "wordCount": 843,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 414,
+      "title": "II: Last Flickerings of a Lamp Without Oil",
+      "wordCount": 622,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 415,
+      "title": "III: A Pen Is Heavy to the Man Who Lifted the Fauchelevent’s Cart",
+      "wordCount": 1125,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 416,
+      "title": "IV: A Bottle of Ink Which Only Succeeded in Whitening",
+      "wordCount": 6983,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 417,
+      "title": "V: A Night Behind Which There Is Day",
+      "wordCount": 3864,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 418,
+      "title": "VI: The Grass Covers and the Rain Effaces",
+      "wordCount": 275,
+      "estimatedMinutes": 1
+    }
+  ]
+}

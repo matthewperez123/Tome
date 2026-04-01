@@ -1,0 +1,64 @@
+{
+  "bookId": "a-daughter-of-eve",
+  "title": "A Daughter of Eve",
+  "author": "Honoré de Balzac",
+  "chapterCount": 9,
+  "totalWordCount": 45076,
+  "totalMinutes": 180,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Two Maries",
+      "wordCount": 4533,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II: Sisterly Confidences",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: The Story of a Happy Woman",
+      "wordCount": 3614,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "IV: A Man of Note",
+      "wordCount": 6100,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 4,
+      "title": "V: Florine",
+      "wordCount": 5351,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "VI: Love Versus Society",
+      "wordCount": 6894,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "VII: Suicide",
+      "wordCount": 5966,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Lover Saved and Lost",
+      "wordCount": 5710,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "IX: A Husband’s Triumph",
+      "wordCount": 4414,
+      "estimatedMinutes": 18
+    }
+  ]
+}

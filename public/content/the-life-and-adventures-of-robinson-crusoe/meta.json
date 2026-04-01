@@ -1,0 +1,130 @@
+{
+  "bookId": "the-life-and-adventures-of-robinson-crusoe",
+  "title": "The Life and Adventures of Robinson Crusoe",
+  "author": "Daniel Defoe",
+  "chapterCount": 20,
+  "totalWordCount": 121123,
+  "totalMinutes": 485,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Start in Life",
+      "wordCount": 5247,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 1,
+      "title": "II: Slavery and Escape",
+      "wordCount": 5182,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "III: Wrecked on a Desert Island",
+      "wordCount": 7629,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 3,
+      "title": "IV: First Weeks on the Island",
+      "wordCount": 8901,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 4,
+      "title": "V: Builds a House—The Journal",
+      "wordCount": 5439,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "VI: Ill and Conscience-Stricken",
+      "wordCount": 5667,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "VII: Agricultural Experience",
+      "wordCount": 3913,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VIII: Surveys His Position",
+      "wordCount": 4365,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: A Boat",
+      "wordCount": 6991,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 9,
+      "title": "X: Tames Goats",
+      "wordCount": 5002,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI: Finds Print of Man’s Foot on the Sand",
+      "wordCount": 5562,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "XII: A Cave Retreat",
+      "wordCount": 7078,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 12,
+      "title": "XIII: Wreck of a Spanish Ship",
+      "wordCount": 5567,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Dream Realised",
+      "wordCount": 6809,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 14,
+      "title": "XV: Friday’s Education",
+      "wordCount": 6215,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 15,
+      "title": "XVI: Rescue of Prisoners from Cannibals",
+      "wordCount": 7099,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 16,
+      "title": "XVII: Visit of Mutineers",
+      "wordCount": 6380,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Ship Recovered",
+      "wordCount": 6899,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 18,
+      "title": "XIX: Return to England",
+      "wordCount": 6091,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "XX: Fight Between Friday and a Bear",
+      "wordCount": 5087,
+      "estimatedMinutes": 20
+    }
+  ]
+}

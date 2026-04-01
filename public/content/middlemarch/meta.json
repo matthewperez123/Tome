@@ -1,0 +1,586 @@
+{
+  "bookId": "middlemarch",
+  "title": "Middlemarch: A Study of Provincial Life",
+  "author": "George Eliot",
+  "chapterCount": 96,
+  "totalWordCount": 314830,
+  "totalMinutes": 1264,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prelude",
+      "wordCount": 487,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Book I: Miss Brooke",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3280,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 4304,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 2845,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 3386,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 4292,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 1607,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 2089,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 3931,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 4343,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 3562,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 6576,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 14,
+      "title": "Book II: Old and Young",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XIII",
+      "wordCount": 3658,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XIV",
+      "wordCount": 3475,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XV",
+      "wordCount": 5442,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 5191,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "XVII",
+      "wordCount": 3444,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XVIII",
+      "wordCount": 4427,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XIX",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XX",
+      "wordCount": 4553,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XXI",
+      "wordCount": 3117,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "XXII",
+      "wordCount": 5578,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "Book III: Waiting for Death",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XXIII",
+      "wordCount": 4865,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 27,
+      "title": "XXIV",
+      "wordCount": 4595,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 28,
+      "title": "XXV",
+      "wordCount": 2606,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXVI",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXVII",
+      "wordCount": 3426,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "XXVIII",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXIX",
+      "wordCount": 3048,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 33,
+      "title": "XXX",
+      "wordCount": 2591,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 34,
+      "title": "XXXI",
+      "wordCount": 3726,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "XXXII",
+      "wordCount": 4423,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 36,
+      "title": "XXXIII",
+      "wordCount": 2134,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "Book IV: Three Love Problems",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XXXIV",
+      "wordCount": 2957,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXV",
+      "wordCount": 4283,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 40,
+      "title": "XXXVI",
+      "wordCount": 5817,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 41,
+      "title": "XXXVII",
+      "wordCount": 8142,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 42,
+      "title": "XXXVIII",
+      "wordCount": 3287,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "XXXIX",
+      "wordCount": 4562,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 44,
+      "title": "XL",
+      "wordCount": 5347,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 45,
+      "title": "XLI",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLII",
+      "wordCount": 4603,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "Book V: The Dead Hand",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "XLIII",
+      "wordCount": 2623,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 49,
+      "title": "XLIV",
+      "wordCount": 1207,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "XLV",
+      "wordCount": 6805,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 51,
+      "title": "XLVI",
+      "wordCount": 3541,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 52,
+      "title": "XLVII",
+      "wordCount": 2164,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 53,
+      "title": "XLVIII",
+      "wordCount": 3565,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 54,
+      "title": "XLIX",
+      "wordCount": 1475,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 55,
+      "title": "L",
+      "wordCount": 4052,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 56,
+      "title": "LI",
+      "wordCount": 4829,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 57,
+      "title": "LII",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 58,
+      "title": "LIII",
+      "wordCount": 5123,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 59,
+      "title": "Book VI: The Widow and the Wife",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 60,
+      "title": "LIV",
+      "wordCount": 4504,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 61,
+      "title": "LV",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 62,
+      "title": "LVI",
+      "wordCount": 7698,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 63,
+      "title": "LVII",
+      "wordCount": 3679,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 64,
+      "title": "LVIII",
+      "wordCount": 7310,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 65,
+      "title": "LIX",
+      "wordCount": 1076,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 66,
+      "title": "LX",
+      "wordCount": 4185,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 67,
+      "title": "LXI",
+      "wordCount": 5400,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 68,
+      "title": "LXII",
+      "wordCount": 4473,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 69,
+      "title": "Book VII: Two Temptations",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 70,
+      "title": "LXIII",
+      "wordCount": 2930,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 71,
+      "title": "LXIV",
+      "wordCount": 6568,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 72,
+      "title": "LXV",
+      "wordCount": 2001,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 73,
+      "title": "LXVI",
+      "wordCount": 3773,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 74,
+      "title": "LXVII",
+      "wordCount": 2935,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 75,
+      "title": "LXVIII",
+      "wordCount": 2989,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 76,
+      "title": "LXIX",
+      "wordCount": 3939,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 77,
+      "title": "LXX",
+      "wordCount": 4840,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 78,
+      "title": "LXXI",
+      "wordCount": 6452,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 79,
+      "title": "Book VIII: Sunset and Sunrise",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 80,
+      "title": "LXXII",
+      "wordCount": 1451,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 81,
+      "title": "LXXIII",
+      "wordCount": 1637,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 82,
+      "title": "LXXIV",
+      "wordCount": 4154,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 83,
+      "title": "LXXV",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 84,
+      "title": "LXXVI",
+      "wordCount": 3957,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 85,
+      "title": "LXXVII",
+      "wordCount": 2732,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 86,
+      "title": "LXXVIII",
+      "wordCount": 1662,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 87,
+      "title": "LXXIX",
+      "wordCount": 812,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 88,
+      "title": "LXXX",
+      "wordCount": 2403,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 89,
+      "title": "LXXXI",
+      "wordCount": 3860,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 90,
+      "title": "LXXXII",
+      "wordCount": 1532,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 91,
+      "title": "LXXXIII",
+      "wordCount": 3030,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 92,
+      "title": "LXXXIV",
+      "wordCount": 3649,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 93,
+      "title": "LXXXV",
+      "wordCount": 1095,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 94,
+      "title": "LXXXVI",
+      "wordCount": 1500,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 95,
+      "title": "Finale",
+      "wordCount": 2818,
+      "estimatedMinutes": 11
+    }
+  ]
+}

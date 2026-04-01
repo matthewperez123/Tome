@@ -1,0 +1,184 @@
+{
+  "bookId": "how-the-other-half-lives",
+  "title": "How the Other Half Lives: Studies Among the Tenements of New York",
+  "author": "Jacob Riis",
+  "chapterCount": 29,
+  "totalWordCount": 79461,
+  "totalMinutes": 318,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 205,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Genesis of the Tenement",
+      "wordCount": 1949,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "II: The Awakening",
+      "wordCount": 1439,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "III: The Mixed Crowd",
+      "wordCount": 2083,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "IV: The Downtown Back-Alleys",
+      "wordCount": 5609,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "V: The Italian in New York",
+      "wordCount": 1605,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VI: The Bend",
+      "wordCount": 3566,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VII: A Raid on the Stale-Beer Dives",
+      "wordCount": 2577,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "VIII: The Cheap Lodging-Houses",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "IX: Chinatown",
+      "wordCount": 3223,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "X: Jewtown",
+      "wordCount": 3960,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XI: The Sweaters of Jewtown",
+      "wordCount": 4444,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 14,
+      "title": "XII: The Bohemians—Tenement-House Cigarmaking",
+      "wordCount": 3367,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Color Line in New York",
+      "wordCount": 3060,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Common Herd",
+      "wordCount": 5270,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XV: The Problem of the Children",
+      "wordCount": 2442,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVI: Waifs of the City’s Slums",
+      "wordCount": 2303,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XVII: The Street Arab",
+      "wordCount": 3844,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Reign of Rum",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XIX: The Harvest of Tares",
+      "wordCount": 4605,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "XX: The Working Girls of New York",
+      "wordCount": 2557,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXI: Pauperism in the Tenements",
+      "wordCount": 3190,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXII: The Wrecks and the Waste",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXIII: The Man with the Knife",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXIV: What Has Been Done",
+      "wordCount": 3902,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXV: How the Case Stands",
+      "wordCount": 4125,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 28,
+      "title": "Appendix",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    }
+  ]
+}

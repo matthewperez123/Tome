@@ -1,0 +1,106 @@
+{
+  "bookId": "memoirs-of-arsene-lupin",
+  "title": "Memoirs of Arsène Lupin",
+  "author": "Maurice Leblanc",
+  "chapterCount": 16,
+  "totalWordCount": 84010,
+  "totalMinutes": 336,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 106,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Arsène Lupin at Twenty",
+      "wordCount": 5322,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 2,
+      "title": "II: Josephine Balsamo Born in 1788",
+      "wordCount": 4493,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "III: A Tribunal of the Inquisition",
+      "wordCount": 5840,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "IV: The Sinking Boat",
+      "wordCount": 4844,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "V: One of the Seven Branches",
+      "wordCount": 4854,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VI: Detectives and Policemen",
+      "wordCount": 5364,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII: The Delights of Capua",
+      "wordCount": 5733,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "VIII: Two Wills",
+      "wordCount": 6135,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "IX: The Tarpeian Rock",
+      "wordCount": 6191,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "X: The Mutilated Hand",
+      "wordCount": 5545,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "XI: The Old Lighthouse",
+      "wordCount": 5627,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: Madness and Genius",
+      "wordCount": 8077,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Strongbox of the Monks",
+      "wordCount": 6411,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Infernal Creature",
+      "wordCount": 8491,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 15,
+      "title": "Epilogue",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    }
+  ]
+}

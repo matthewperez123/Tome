@@ -1,0 +1,58 @@
+{
+  "bookId": "the-lives-of-the-caesars",
+  "title": "The Lives of the Caesars",
+  "author": "Suetonius",
+  "chapterCount": 8,
+  "totalWordCount": 125329,
+  "totalMinutes": 502,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: The Deified Julius",
+      "wordCount": 17165,
+      "estimatedMinutes": 69
+    },
+    {
+      "index": 1,
+      "title": "Book II: The Deified Augustus",
+      "wordCount": 24162,
+      "estimatedMinutes": 97
+    },
+    {
+      "index": 2,
+      "title": "Book III: Tiberius",
+      "wordCount": 16257,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 3,
+      "title": "Book IV: Gaius Caligula",
+      "wordCount": 13707,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 4,
+      "title": "Book V: The Deified Claudius",
+      "wordCount": 11617,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 5,
+      "title": "Book VI: Nero",
+      "wordCount": 14682,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 6,
+      "title": "Book VII: Galba—Otho—Vitellius",
+      "wordCount": 12734,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 7,
+      "title": "Book VIII: The Deified Vespasian—The Deified Titus—Domitian",
+      "wordCount": 15005,
+      "estimatedMinutes": 60
+    }
+  ]
+}

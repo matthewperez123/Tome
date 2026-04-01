@@ -1,0 +1,142 @@
+{
+  "bookId": "tarzan-and-the-ant-men",
+  "title": "Tarzan and the Ant Men",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 22,
+  "totalWordCount": 78041,
+  "totalMinutes": 310,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3670,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 4312,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4353,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3562,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 4572,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3571,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3605,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 3348,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3639,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3339,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3589,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3090,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 4017,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 3285,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3324,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3954,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 3319,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 3013,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 3202,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 2633,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    }
+  ]
+}

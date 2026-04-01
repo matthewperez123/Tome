@@ -1,0 +1,52 @@
+{
+  "bookId": "the-tempest",
+  "title": "The Tempest",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 17568,
+  "totalMinutes": 72,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 98,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4897,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 4245,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 3169,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 2811,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Epilogue",
+      "wordCount": 133,
+      "estimatedMinutes": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "bookId": "cup-of-gold",
+  "title": "Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional References to History",
+  "author": "John Steinbeck",
+  "chapterCount": 5,
+  "totalWordCount": 69401,
+  "totalMinutes": 277,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 11872,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 17083,
+      "estimatedMinutes": 68
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 10156,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 20927,
+      "estimatedMinutes": 84
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 9363,
+      "estimatedMinutes": 37
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "bookId": "ulysses",
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "chapterCount": 21,
+  "totalWordCount": 265796,
+  "totalMinutes": 1066,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 7174,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 4418,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5704,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 5877,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 6354,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 10920,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 10029,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 12623,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 11815,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 12552,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 12206,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 21331,
+      "estimatedMinutes": 85
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 16667,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 20339,
+      "estimatedMinutes": 81
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 38433,
+      "estimatedMinutes": 154
+    },
+    {
+      "index": 17,
+      "title": "III",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "XVI",
+      "wordCount": 22730,
+      "estimatedMinutes": 91
+    },
+    {
+      "index": 19,
+      "title": "XVII",
+      "wordCount": 22555,
+      "estimatedMinutes": 90
+    },
+    {
+      "index": 20,
+      "title": "XVIII",
+      "wordCount": 24066,
+      "estimatedMinutes": 96
+    }
+  ]
+}

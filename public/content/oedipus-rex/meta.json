@@ -1,0 +1,28 @@
+{
+  "bookId": "oedipus-rex",
+  "title": "Oedipus Rex",
+  "author": "Sophocles",
+  "chapterCount": 3,
+  "totalWordCount": 12873,
+  "totalMinutes": 52,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Argument",
+      "wordCount": 250,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 27,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Oedipus Rex",
+      "wordCount": 12596,
+      "estimatedMinutes": 50
+    }
+  ]
+}

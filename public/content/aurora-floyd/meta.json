@@ -1,0 +1,244 @@
+{
+  "bookId": "aurora-floyd",
+  "title": "Aurora Floyd",
+  "author": "M. E. Braddon",
+  "chapterCount": 39,
+  "totalWordCount": 183928,
+  "totalMinutes": 736,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: How a Rich Banker Married an Actress",
+      "wordCount": 5395,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 1,
+      "title": "II: Aurora",
+      "wordCount": 2700,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: What Became of the Diamond Bracelet",
+      "wordCount": 4920,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "IV: After the Ball",
+      "wordCount": 4599,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "V: John Mellish",
+      "wordCount": 4645,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 5,
+      "title": "VI: Rejected and Accepted",
+      "wordCount": 5141,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "VII: Aurora’s Strange Pensioner",
+      "wordCount": 5689,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VIII: Poor John Mellish Comes Back Again",
+      "wordCount": 4160,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "IX: How Talbot Bulstrode Spent His Christmas",
+      "wordCount": 3730,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X: Fighting the Battle",
+      "wordCount": 5032,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI: At the Château d’Arques",
+      "wordCount": 2395,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: Steeve Hargraves, the “Softy”",
+      "wordCount": 5965,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Spring Meeting",
+      "wordCount": 5542,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIV: “Love Took Up the Glass of Time, and Turned It in His Glowing Hands”",
+      "wordCount": 3997,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XV: Mr. Pastern’s Letter",
+      "wordCount": 3295,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI: Mr. James Conyers",
+      "wordCount": 4807,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Trainer’s Messenger",
+      "wordCount": 4673,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Out in the Rain",
+      "wordCount": 6734,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 18,
+      "title": "XIX: Money Matters",
+      "wordCount": 7092,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 19,
+      "title": "XX: Captain Prodder",
+      "wordCount": 4517,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XXI: “He Only Said, I Am A-Weary.”",
+      "wordCount": 4100,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXII: Still Constant",
+      "wordCount": 6959,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 22,
+      "title": "XXIII: On the Threshold of Darker Miseries",
+      "wordCount": 2624,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Captain Prodder Carries Bad News to His Niece’s House",
+      "wordCount": 5326,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Deed That Had Been Done in the Wood",
+      "wordCount": 8596,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 25,
+      "title": "XXVI: At the Golden Lion",
+      "wordCount": 3252,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXVII: “My Wife! My Wife! What Wife? I Have No Wife.”",
+      "wordCount": 2461,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Aurora’s Flight",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXIX: John Mellish Finds His Home Desolate",
+      "wordCount": 4698,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 29,
+      "title": "XXX: An Unexpected Visitor",
+      "wordCount": 5757,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Talbot Bulstrode’s Advice",
+      "wordCount": 2880,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXXII: On the Watch",
+      "wordCount": 4779,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Captain Prodder Goes Back to Doncaster",
+      "wordCount": 6067,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: The Discovery of the Weapon with Which James Conyers Had Been Slain",
+      "wordCount": 3115,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Under a Cloud",
+      "wordCount": 6342,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Reunion",
+      "wordCount": 3145,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Brass Button by Crosby, Birmingham",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Off the Scent",
+      "wordCount": 4830,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Talbot Bulstrode Makes Atonement for the Past",
+      "wordCount": 7109,
+      "estimatedMinutes": 28
+    }
+  ]
+}

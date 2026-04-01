@@ -1,0 +1,70 @@
+{
+  "bookId": "cornelli",
+  "title": "Cornelli",
+  "author": "Johanna Spyri",
+  "chapterCount": 10,
+  "totalWordCount": 49552,
+  "totalMinutes": 198,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Beside the Roaring Iller-Stream",
+      "wordCount": 3959,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "II: Up in the Top Story",
+      "wordCount": 4323,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: New Appearances in Iller-Stream",
+      "wordCount": 4583,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "IV: The Unwished-for Happens",
+      "wordCount": 5115,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "V: A Newcomer in Iller-Stream",
+      "wordCount": 3925,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "VI: A Friend Is Found",
+      "wordCount": 5439,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VII: A New Sorrow",
+      "wordCount": 4442,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Mother",
+      "wordCount": 5253,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "IX: A Great Change",
+      "wordCount": 4892,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "X: New Life in Iller-Stream",
+      "wordCount": 7621,
+      "estimatedMinutes": 30
+    }
+  ]
+}

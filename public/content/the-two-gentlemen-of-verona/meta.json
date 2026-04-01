@@ -1,0 +1,46 @@
+{
+  "bookId": "the-two-gentlemen-of-verona",
+  "title": "The Two Gentlemen of Verona",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 18307,
+  "totalMinutes": 74,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 72,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 3139,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5298,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 3851,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    }
+  ]
+}

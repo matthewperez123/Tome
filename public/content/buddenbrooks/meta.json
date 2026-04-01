@@ -1,0 +1,664 @@
+{
+  "bookId": "buddenbrooks",
+  "title": "Buddenbrooks",
+  "author": "Thomas Mann",
+  "chapterCount": 109,
+  "totalWordCount": 232645,
+  "totalMinutes": 944,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Translator’s Note",
+      "wordCount": 231,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2206,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 1135,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 725,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 618,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 1488,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 1900,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "I",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "II",
+      "wordCount": 1795,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "III",
+      "wordCount": 1116,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "IV",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "V",
+      "wordCount": 1806,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "VI",
+      "wordCount": 1279,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "VII",
+      "wordCount": 2250,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I",
+      "wordCount": 2523,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 2182,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "III",
+      "wordCount": 1515,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "IV",
+      "wordCount": 1190,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 25,
+      "title": "V",
+      "wordCount": 2500,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "VI",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "VII",
+      "wordCount": 1538,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "VIII",
+      "wordCount": 2365,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "IX",
+      "wordCount": 1215,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "X",
+      "wordCount": 810,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XI",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XII",
+      "wordCount": 857,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 33,
+      "title": "XIII",
+      "wordCount": 1079,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 34,
+      "title": "XIV",
+      "wordCount": 1711,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XV",
+      "wordCount": 1077,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 37,
+      "title": "I",
+      "wordCount": 1959,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "II",
+      "wordCount": 1381,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "III",
+      "wordCount": 3754,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "IV",
+      "wordCount": 1035,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 41,
+      "title": "V",
+      "wordCount": 1274,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "VI",
+      "wordCount": 2549,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "VII",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "VIII",
+      "wordCount": 2652,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "IX",
+      "wordCount": 683,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 46,
+      "title": "X",
+      "wordCount": 3758,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "XI",
+      "wordCount": 1639,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "Part V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 49,
+      "title": "I",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "II",
+      "wordCount": 2414,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "III",
+      "wordCount": 2393,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "IV",
+      "wordCount": 959,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 53,
+      "title": "V",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 54,
+      "title": "VI",
+      "wordCount": 1131,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 55,
+      "title": "VII",
+      "wordCount": 1157,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 56,
+      "title": "VIII",
+      "wordCount": 2277,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 57,
+      "title": "IX",
+      "wordCount": 1880,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 58,
+      "title": "Part VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 59,
+      "title": "I",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 60,
+      "title": "II",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 61,
+      "title": "III",
+      "wordCount": 2409,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 62,
+      "title": "IV",
+      "wordCount": 3514,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 63,
+      "title": "V",
+      "wordCount": 2568,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "VI",
+      "wordCount": 4679,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 65,
+      "title": "VII",
+      "wordCount": 2367,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 66,
+      "title": "VIII",
+      "wordCount": 1775,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 67,
+      "title": "IX",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 68,
+      "title": "X",
+      "wordCount": 4121,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 69,
+      "title": "XI",
+      "wordCount": 1427,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 70,
+      "title": "Part VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 71,
+      "title": "I",
+      "wordCount": 2637,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 72,
+      "title": "II",
+      "wordCount": 1332,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 73,
+      "title": "III",
+      "wordCount": 1886,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 74,
+      "title": "IV",
+      "wordCount": 1654,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 75,
+      "title": "V",
+      "wordCount": 2617,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 76,
+      "title": "VI",
+      "wordCount": 1776,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 77,
+      "title": "VII",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 78,
+      "title": "VIII",
+      "wordCount": 476,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 79,
+      "title": "Part VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 80,
+      "title": "I",
+      "wordCount": 3889,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 81,
+      "title": "II",
+      "wordCount": 3130,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 82,
+      "title": "III",
+      "wordCount": 1806,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 83,
+      "title": "IV",
+      "wordCount": 3444,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 84,
+      "title": "V",
+      "wordCount": 5730,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 85,
+      "title": "VI",
+      "wordCount": 4142,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 86,
+      "title": "VII",
+      "wordCount": 4764,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 87,
+      "title": "VIII",
+      "wordCount": 7776,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 88,
+      "title": "IX",
+      "wordCount": 1634,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 89,
+      "title": "Part IX",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 90,
+      "title": "I",
+      "wordCount": 4193,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 91,
+      "title": "II",
+      "wordCount": 5637,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 92,
+      "title": "III",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 93,
+      "title": "IV",
+      "wordCount": 5312,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 94,
+      "title": "Part X",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 95,
+      "title": "I",
+      "wordCount": 2628,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 96,
+      "title": "II",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 97,
+      "title": "III",
+      "wordCount": 3520,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 98,
+      "title": "IV",
+      "wordCount": 815,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 99,
+      "title": "V",
+      "wordCount": 6080,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 100,
+      "title": "VI",
+      "wordCount": 3281,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 101,
+      "title": "VII",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 102,
+      "title": "VIII",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 103,
+      "title": "IX",
+      "wordCount": 1558,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 104,
+      "title": "Part XI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 105,
+      "title": "I",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 106,
+      "title": "II",
+      "wordCount": 16330,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 107,
+      "title": "III",
+      "wordCount": 1077,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 108,
+      "title": "IV",
+      "wordCount": 1471,
+      "estimatedMinutes": 6
+    }
+  ]
+}

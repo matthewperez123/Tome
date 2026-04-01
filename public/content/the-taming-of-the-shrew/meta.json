@@ -1,0 +1,52 @@
+{
+  "bookId": "the-taming-of-the-shrew",
+  "title": "The Taming of the Shrew",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 22290,
+  "totalMinutes": 91,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 107,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Induction",
+      "wordCount": 2418,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 4488,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 3554,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 5947,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 2891,
+      "estimatedMinutes": 12
+    }
+  ]
+}

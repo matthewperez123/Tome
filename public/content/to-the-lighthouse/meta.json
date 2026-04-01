@@ -1,0 +1,280 @@
+{
+  "bookId": "to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "chapterCount": 45,
+  "totalWordCount": 69773,
+  "totalMinutes": 289,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Window",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3962,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 46,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 753,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1950,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1306,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2058,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 667,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1883,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 19,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 1211,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 10220,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2301,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "Time Passes",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I",
+      "wordCount": 110,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 487,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 23,
+      "title": "III",
+      "wordCount": 464,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "IV",
+      "wordCount": 485,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 25,
+      "title": "V",
+      "wordCount": 420,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 26,
+      "title": "VI",
+      "wordCount": 925,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "VII",
+      "wordCount": 181,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "VIII",
+      "wordCount": 761,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "IX",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "X",
+      "wordCount": 398,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "The Lighthouse",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "I",
+      "wordCount": 1922,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "II",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "III",
+      "wordCount": 2004,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "IV",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "V",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "VI",
+      "wordCount": 34,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "VII",
+      "wordCount": 721,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "VIII",
+      "wordCount": 1853,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "IX",
+      "wordCount": 87,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "X",
+      "wordCount": 1035,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 42,
+      "title": "XI",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XII",
+      "wordCount": 1821,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 44,
+      "title": "XIII",
+      "wordCount": 376,
+      "estimatedMinutes": 2
+    }
+  ]
+}

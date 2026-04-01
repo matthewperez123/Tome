@@ -1,0 +1,154 @@
+{
+  "bookId": "the-chessmen-of-mars",
+  "title": "The Chessmen of Mars",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 24,
+  "totalWordCount": 88559,
+  "totalMinutes": 354,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prelude",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "I: Tara in a Tantrum",
+      "wordCount": 3713,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: At the Gale’s Mercy",
+      "wordCount": 3742,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: The Headless Humans",
+      "wordCount": 4517,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV: Captured",
+      "wordCount": 4539,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "V: The Perfect Brain",
+      "wordCount": 3561,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: In the Toils of Horror",
+      "wordCount": 4638,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VII: A Repellent Sight",
+      "wordCount": 4384,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "VIII: Close Work",
+      "wordCount": 3517,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX: Adrift Over Strange Regions",
+      "wordCount": 4078,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: Entrapped",
+      "wordCount": 3546,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI: The Choice of Tara",
+      "wordCount": 3848,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XII: Ghek Plays Pranks",
+      "wordCount": 3499,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Desperate Deed",
+      "wordCount": 3830,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV: At Ghek’s Command",
+      "wordCount": 3964,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XV: The Old Man of the Pits",
+      "wordCount": 4057,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XVI: Another Change of Name",
+      "wordCount": 4032,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Play to the Death",
+      "wordCount": 3911,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XVIII: A Task for Loyalty",
+      "wordCount": 4351,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Menace of the Dead",
+      "wordCount": 3300,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XX: The Charge of Cowardice",
+      "wordCount": 4037,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXI: A Risk for Love",
+      "wordCount": 3457,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXII: At the Moment of Marriage",
+      "wordCount": 4486,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "Jetan, or Martian Chess",
+      "wordCount": 626,
+      "estimatedMinutes": 3
+    }
+  ]
+}

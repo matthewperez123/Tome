@@ -1,0 +1,100 @@
+{
+  "bookId": "metamorphoses",
+  "title": "Metamorphoses",
+  "author": "Ovid",
+  "chapterCount": 15,
+  "totalWordCount": 123899,
+  "totalMinutes": 496,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 8369,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 8684,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 6598,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 8648,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 4,
+      "title": "Book V",
+      "wordCount": 8088,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 5,
+      "title": "Book VI",
+      "wordCount": 8451,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 6,
+      "title": "Book VII",
+      "wordCount": 9129,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 7,
+      "title": "Book VIII",
+      "wordCount": 10476,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 8,
+      "title": "Book IX",
+      "wordCount": 7435,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "Book X",
+      "wordCount": 5977,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "Book XI",
+      "wordCount": 8751,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 11,
+      "title": "Book XII",
+      "wordCount": 6536,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 12,
+      "title": "Book XIII",
+      "wordCount": 11282,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 13,
+      "title": "Book XIV",
+      "wordCount": 5909,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "Book XV",
+      "wordCount": 9566,
+      "estimatedMinutes": 38
+    }
+  ]
+}

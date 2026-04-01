@@ -1,0 +1,202 @@
+{
+  "bookId": "marius-the-epicurean",
+  "title": "Marius the Epicurean: His Sensations and Ideas",
+  "author": "Walter Pater",
+  "chapterCount": 32,
+  "totalWordCount": 107494,
+  "totalMinutes": 433,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: “The Religion of Numa”",
+      "wordCount": 2237,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: White-Nights",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: Change of Air",
+      "wordCount": 3645,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: The Tree of Knowledge",
+      "wordCount": 2751,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: The Golden Book",
+      "wordCount": 9062,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "VI: Euphuism",
+      "wordCount": 4373,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: A Pagan End",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "VIII: Animula Vagula",
+      "wordCount": 4834,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX: New Cyrenaicism",
+      "wordCount": 3371,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X: On the Way",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XI: “The Most Religious City in the World”",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XII: The Divinity That Doth Hedge a King",
+      "wordCount": 5795,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 14,
+      "title": "XIII: The “Mistress and Mother” of Palaces",
+      "wordCount": 4390,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "XIV: Manly Amusement",
+      "wordCount": 3116,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "XV: Stoicism at Court",
+      "wordCount": 2469,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVI: Second Thoughts",
+      "wordCount": 3461,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XVII: Beata Urbs",
+      "wordCount": 2859,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XVIII: “The Ceremony of the Dart”",
+      "wordCount": 3884,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XIX: The Will as Vision",
+      "wordCount": 3683,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "XX: Two Curious Houses",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXI: Two Curious Houses",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXII: “The Minor Peace of the Church”",
+      "wordCount": 4414,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "XXIII: Divine Service",
+      "wordCount": 2977,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXIV: A Conversation Not Imaginary",
+      "wordCount": 7595,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 28,
+      "title": "XXV: Sunt Lacrimae Rerum",
+      "wordCount": 3260,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXVI: The Martyrs",
+      "wordCount": 2485,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXVII: The Triumph of Marcus Aurelius",
+      "wordCount": 2665,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXVIII: Anima Naturaliter Christiana",
+      "wordCount": 4168,
+      "estimatedMinutes": 17
+    }
+  ]
+}

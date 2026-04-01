@@ -1,0 +1,28 @@
+{
+  "bookId": "tractatus-logico-philosophicus",
+  "title": "Tractatus Logico-Philosophicus",
+  "author": "Ludwig Wittgenstein",
+  "chapterCount": 3,
+  "totalWordCount": 27630,
+  "totalMinutes": 111,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 6074,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 410,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Chapter 3",
+      "wordCount": 21146,
+      "estimatedMinutes": 85
+    }
+  ]
+}

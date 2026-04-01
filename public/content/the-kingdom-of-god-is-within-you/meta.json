@@ -1,0 +1,88 @@
+{
+  "bookId": "the-kingdom-of-god-is-within-you",
+  "title": "The Kingdom of God Is Within You: Christianity Not as a Mystical Teaching but as a New Concept of Life",
+  "author": "Leo Tolstoy",
+  "chapterCount": 13,
+  "totalWordCount": 122644,
+  "totalMinutes": 492,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 395,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 9097,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5924,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 11251,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 7718,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 8169,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 10266,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 6645,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 8238,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 8645,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 9452,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 4791,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Conclusion",
+      "wordCount": 32053,
+      "estimatedMinutes": 128
+    }
+  ]
+}

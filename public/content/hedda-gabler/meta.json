@@ -1,0 +1,46 @@
+{
+  "bookId": "hedda-gabler",
+  "title": "Hedda Gabler",
+  "author": "Henrik Ibsen",
+  "chapterCount": 6,
+  "totalWordCount": 30523,
+  "totalMinutes": 122,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 40,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 9127,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 7869,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5326,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 4801,
+      "estimatedMinutes": 19
+    }
+  ]
+}

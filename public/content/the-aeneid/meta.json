@@ -1,0 +1,82 @@
+{
+  "bookId": "the-aeneid",
+  "title": "The Aeneid",
+  "author": "Virgil",
+  "chapterCount": 12,
+  "totalWordCount": 106466,
+  "totalMinutes": 425,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 8210,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 8498,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 7302,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 7870,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "Book V",
+      "wordCount": 8784,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 5,
+      "title": "Book VI",
+      "wordCount": 9648,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 6,
+      "title": "Book VII",
+      "wordCount": 8563,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 7,
+      "title": "Book VIII",
+      "wordCount": 7535,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 8,
+      "title": "Book IX",
+      "wordCount": 8708,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 9,
+      "title": "Book X",
+      "wordCount": 10198,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 10,
+      "title": "Book XI",
+      "wordCount": 10361,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 11,
+      "title": "Book XII",
+      "wordCount": 10789,
+      "estimatedMinutes": 43
+    }
+  ]
+}

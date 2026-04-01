@@ -1,0 +1,460 @@
+{
+  "bookId": "lorna-doone",
+  "title": "Lorna Doone: A Romance of Exmoor",
+  "author": "R. D. Blackmore",
+  "chapterCount": 75,
+  "totalWordCount": 272055,
+  "totalMinutes": 1087,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Elements of Education",
+      "wordCount": 1605,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: An Important Item",
+      "wordCount": 3642,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "III: The Warpath of the Doones",
+      "wordCount": 5021,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 3,
+      "title": "IV: A Very Rash Visit",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: An Illegal Settlement",
+      "wordCount": 2420,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Necessary Practice",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VII: Hard It Is to Climb",
+      "wordCount": 4752,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Boy and a Girl",
+      "wordCount": 2961,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX: There Is No Place Like Home",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "X: A Brave Rescue and a Rough Ride",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: Tom Deserves His Supper",
+      "wordCount": 2998,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII: A Man Justly Popular",
+      "wordCount": 4094,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XIII: Master Huckaback Comes In",
+      "wordCount": 3904,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Motion Which Ends in a Mull",
+      "wordCount": 1865,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: Quo Warranto?",
+      "wordCount": 3937,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI: Lorna Growing Formidable",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII: John Is Bewitched",
+      "wordCount": 3343,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Witchery Leads to Witchcraft",
+      "wordCount": 1984,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIX: Another Dangerous Interview",
+      "wordCount": 2555,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XX: Lorna Begins Her Story",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI: Lorna Ends Her Story",
+      "wordCount": 3482,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XXII: A Long Spring Month",
+      "wordCount": 2877,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXIII: A Royal Invitation",
+      "wordCount": 3778,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIV: A Safe Pass for King’s Messenger",
+      "wordCount": 3471,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXV: A Great Man Attends to Business",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XXVI: John Is Drained and Cast Aside",
+      "wordCount": 3255,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Home Again at Last",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: John Has Hope of Lorna",
+      "wordCount": 4566,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Reaping Leads to Revelling",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXX: Annie Gets the Best of It",
+      "wordCount": 4025,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "XXXI: John Fry’s Errand",
+      "wordCount": 5009,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Feeding of the Pigs",
+      "wordCount": 4309,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: An Early Morning Call",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Two Negatives Make an Affirmative",
+      "wordCount": 2262,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Ruth Is Not Like Lorna",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: John Returns to Business",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: A Very Desperate Venture",
+      "wordCount": 5057,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: A Good Turn for Jeremy",
+      "wordCount": 4312,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: A Troubled State and a Foolish Joke",
+      "wordCount": 5257,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 39,
+      "title": "XL: Two Fools Together",
+      "wordCount": 3774,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "XLI: Cold Comfort",
+      "wordCount": 3132,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "XLII: The Great Winter",
+      "wordCount": 4141,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLIII: Not Too Soon",
+      "wordCount": 3878,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XLIV: Brought Home at Last",
+      "wordCount": 3692,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 44,
+      "title": "XLV: A Change Long Needed",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XLVI: Squire Faggus Makes Some Lucky Hits",
+      "wordCount": 4549,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 46,
+      "title": "XLVII: Jeremy in Danger",
+      "wordCount": 4348,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: Every Man Must Defend Himself",
+      "wordCount": 4358,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 48,
+      "title": "XLIX: Maiden Sentinels Are Best",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 49,
+      "title": "L: A Merry Meeting a Sad One",
+      "wordCount": 5515,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 50,
+      "title": "LI: A Visit from the Counsellor",
+      "wordCount": 3763,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 51,
+      "title": "LII: The Way to Make the Cream Rise",
+      "wordCount": 3409,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 52,
+      "title": "LIII: Jeremy Finds Out Something",
+      "wordCount": 4354,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "LIV: Mutual Discomfiture",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 54,
+      "title": "LV: Getting Into Chancery",
+      "wordCount": 3428,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 55,
+      "title": "LVI: John Becomes Too Popular",
+      "wordCount": 5436,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 56,
+      "title": "LVII: Lorna Knows Her Nurse",
+      "wordCount": 6012,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 57,
+      "title": "LVIII: Master Huckaback’s Secret",
+      "wordCount": 4471,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 58,
+      "title": "LIX: Lorna Gone Away",
+      "wordCount": 5100,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 59,
+      "title": "LX: Annie Luckier Than John",
+      "wordCount": 3210,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 60,
+      "title": "LXI: Therefore He Seeks Comfort",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 61,
+      "title": "LXII: The King Must Not Be Prayed For",
+      "wordCount": 4468,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 62,
+      "title": "LXIII: John Is Worsted by the Women",
+      "wordCount": 3634,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 63,
+      "title": "LXIV: Slaughter in the Marshes",
+      "wordCount": 3539,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 64,
+      "title": "LXV: Falling Among Lambs",
+      "wordCount": 3724,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "LXVI: Suitable Devotion",
+      "wordCount": 4354,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 66,
+      "title": "LXVII: Lorna Still Is Lorna",
+      "wordCount": 3503,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 67,
+      "title": "LXVIII: John Is John No Longer",
+      "wordCount": 4713,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 68,
+      "title": "LXIX: Not to Be Put Up with",
+      "wordCount": 3632,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 69,
+      "title": "LXX: Compelled to Volunteer",
+      "wordCount": 3799,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 70,
+      "title": "LXXI: A Long Account Settled",
+      "wordCount": 2536,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 71,
+      "title": "LXXII: The Counsellor and the Carver",
+      "wordCount": 3473,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 72,
+      "title": "LXXIII: How to Get Out of Chancery",
+      "wordCount": 2505,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 73,
+      "title": "LXXIV: Blood Upon the Altar",
+      "wordCount": 3103,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 74,
+      "title": "LXXV: Give Away the Grandeur",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    }
+  ]
+}

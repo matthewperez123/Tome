@@ -1,0 +1,118 @@
+{
+  "bookId": "huntingtower",
+  "title": "Huntingtower",
+  "author": "John Buchan",
+  "chapterCount": 18,
+  "totalWordCount": 79315,
+  "totalMinutes": 318,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 1304,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: How a Retired Provision Merchant Felt the Impulse of Spring",
+      "wordCount": 2788,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: Of Mr. John Heritage and the Difference in Points of View",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "III: How Childe Roland and Another Came to the Dark Tower",
+      "wordCount": 6326,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 5,
+      "title": "IV: Dougal",
+      "wordCount": 3699,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "V: Of the Princess in the Tower",
+      "wordCount": 7670,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 7,
+      "title": "VI: How Mr. McCunn Departed with Relief and Returned with Resolution",
+      "wordCount": 5423,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "VII: Sundry Doings in the Mirk",
+      "wordCount": 5037,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "VIII: How a Middle-Aged Crusader Accepted a Challenge",
+      "wordCount": 4392,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "IX: The First Battle of the Cruives",
+      "wordCount": 4830,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "X: Deals with an Escape and a Journey",
+      "wordCount": 5213,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XI: Gravity Out of Bed",
+      "wordCount": 4112,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 13,
+      "title": "XII: How Mr. McCunn Committed an Assault Upon an Ally",
+      "wordCount": 4971,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Coming of the Danish Brig",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Second Battle of the Cruives",
+      "wordCount": 7714,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 16,
+      "title": "XV: The Gorbals Die-Hards Go Into Action",
+      "wordCount": 5154,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVI: In Which a Princess Leaves a Dark Tower and a Provision Merchant Returns to His Family",
+      "wordCount": 2799,
+      "estimatedMinutes": 11
+    }
+  ]
+}

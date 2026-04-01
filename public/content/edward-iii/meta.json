@@ -1,0 +1,52 @@
+{
+  "bookId": "edward-iii",
+  "title": "Edward III",
+  "author": "William Shakespeare",
+  "chapterCount": 7,
+  "totalWordCount": 21587,
+  "totalMinutes": 86,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 358,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 144,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 5604,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 5207,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Act IV",
+      "wordCount": 5416,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "Act V",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    }
+  ]
+}

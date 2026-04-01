@@ -1,0 +1,142 @@
+{
+  "bookId": "topsy-turvy",
+  "title": "Topsy-Turvy",
+  "author": "Jules Verne",
+  "chapterCount": 22,
+  "totalWordCount": 42415,
+  "totalMinutes": 173,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 316,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "In Which the North Polar Practical Association Rushes a Document Across Two Worlds",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "In Which the Delegates from England, Holland, Sweden, Denmark and Russia Are Presented to the Reader",
+      "wordCount": 3838,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "In Which the Arctic Regions Are Sold at Auction to the Highest Bidder",
+      "wordCount": 3160,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "In Which Old Acquaintances Appear to Our New Readers, and in Which a Wonderful Man Is Described",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "In Which the Possibility That Coal Mines Surround the North Pole Is Considered",
+      "wordCount": 2047,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "In Which a Telephone Communication Between Mrs. Scorbitt and J. T. Maston Is Interrupted",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "In Which President Barbicane Says No More Than Suits His Purpose",
+      "wordCount": 2776,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "Yes, Just Like Jupiter",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "In Which Appears the French Gentleman to Whom We Referred at the Beginning of This Truthful Story",
+      "wordCount": 1154,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "In Which a Little Uneasiness Begins to Show Itself",
+      "wordCount": 2382,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "What Was Found in the Notebook of J. T. Maston and What It No Longer Contained",
+      "wordCount": 1772,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "In Which J. T. Maston Heroically Continues to Be Silent",
+      "wordCount": 2173,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "At the Close of Which J. T. Maston Utters an Epigram",
+      "wordCount": 2188,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "Very Short, but in Which “X” Takes a Geographical Value",
+      "wordCount": 156,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Which Contains a Few Interesting Details for the Inhabitants of the Earthly Sphere",
+      "wordCount": 2451,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "In Which a Crowd of Dissatisfied People Break Into the Cell of J. T. Maston",
+      "wordCount": 1232,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "What Had Been Done at Kilimanjaro During Eight Month of This Memorable Year",
+      "wordCount": 2654,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "In Which the Population of Wamasai Assemble to Hear President Barbicane Say ‘Fire’ to Capt. Nicholl",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "In Which J. T. Maston Regrets That the Crowd Did Not Lynch Him When He Was in Prison",
+      "wordCount": 2035,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "In Which This Story, as Truthful as It Is Improbable, Is Finished",
+      "wordCount": 1657,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "Very Short, Since Enough Has Been Said to Make the World’s Population Feel Perfectly Sure Again",
+      "wordCount": 175,
+      "estimatedMinutes": 1
+    }
+  ]
+}

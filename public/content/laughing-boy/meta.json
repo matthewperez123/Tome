@@ -1,0 +1,148 @@
+{
+  "bookId": "laughing-boy",
+  "title": "Laughing Boy",
+  "author": "Oliver La Farge",
+  "chapterCount": 23,
+  "totalWordCount": 65027,
+  "totalMinutes": 261,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 456,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introductory Note",
+      "wordCount": 220,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2946,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2269,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3096,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 3202,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 1386,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 3590,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3672,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2628,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 3072,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 3136,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 5258,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2403,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 1823,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 4220,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 2963,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 2065,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 3069,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 4366,
+      "estimatedMinutes": 17
+    }
+  ]
+}

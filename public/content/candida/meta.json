@@ -1,0 +1,40 @@
+{
+  "bookId": "candida",
+  "title": "Candida",
+  "author": "George Bernard Shaw",
+  "chapterCount": 5,
+  "totalWordCount": 23402,
+  "totalMinutes": 94,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 512,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 20,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Act I",
+      "wordCount": 9603,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 3,
+      "title": "Act II",
+      "wordCount": 6907,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 4,
+      "title": "Act III",
+      "wordCount": 6360,
+      "estimatedMinutes": 25
+    }
+  ]
+}

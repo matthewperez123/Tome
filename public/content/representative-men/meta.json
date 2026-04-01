@@ -1,0 +1,52 @@
+{
+  "bookId": "representative-men",
+  "title": "Representative Men: Seven Lectures",
+  "author": "Ralph Waldo Emerson",
+  "chapterCount": 7,
+  "totalWordCount": 58146,
+  "totalMinutes": 233,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Uses of Great Men",
+      "wordCount": 7009,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "II: Plato; or, the Philospher",
+      "wordCount": 10757,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 2,
+      "title": "III: Swedenborg; or, the Mystic",
+      "wordCount": 11418,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 3,
+      "title": "IV: Montaigne; or, the Skeptic",
+      "wordCount": 8249,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 4,
+      "title": "V: Shakespeare; or, the Poet",
+      "wordCount": 6594,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "VI: Napoleon; or, the Man of the World",
+      "wordCount": 7634,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "VII: Goethe; or, the Writer",
+      "wordCount": 6485,
+      "estimatedMinutes": 26
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "bookId": "the-rector-and-the-doctors-family",
+  "title": "The Rector and The Doctor’s Family",
+  "author": "Margaret Oliphant",
+  "chapterCount": 25,
+  "totalWordCount": 66487,
+  "totalMinutes": 270,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 444,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Rector",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3141,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 3230,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3261,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "The Doctor’s Family",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "I",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "II",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "III",
+      "wordCount": 3268,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "IV",
+      "wordCount": 1726,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "V",
+      "wordCount": 2266,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "VI",
+      "wordCount": 4419,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "VII",
+      "wordCount": 2502,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "VIII",
+      "wordCount": 2632,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "IX",
+      "wordCount": 3828,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "X",
+      "wordCount": 2773,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XI",
+      "wordCount": 1636,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XII",
+      "wordCount": 5405,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 19,
+      "title": "XIII",
+      "wordCount": 2960,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XIV",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XV",
+      "wordCount": 2245,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XVI",
+      "wordCount": 5071,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 23,
+      "title": "XVII",
+      "wordCount": 3206,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XVIII",
+      "wordCount": 972,
+      "estimatedMinutes": 4
+    }
+  ]
+}

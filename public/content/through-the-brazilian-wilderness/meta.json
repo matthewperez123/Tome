@@ -1,0 +1,112 @@
+{
+  "bookId": "through-the-brazilian-wilderness",
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "chapterCount": 17,
+  "totalWordCount": 112475,
+  "totalMinutes": 451,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Frontispiece 1",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Frontispiece 2",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Preface",
+      "wordCount": 188,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "I: The Start",
+      "wordCount": 10807,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 5,
+      "title": "II: Up the Paraguay",
+      "wordCount": 6882,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 6,
+      "title": "III: A Jaguar Hunt on the Taquary",
+      "wordCount": 9853,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 7,
+      "title": "IV: The Headwaters of the Paraguay",
+      "wordCount": 10852,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 8,
+      "title": "V: Up the River of Tapirs",
+      "wordCount": 10349,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 9,
+      "title": "VI: Through the Highland Wilderness of Western Brazil",
+      "wordCount": 10345,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 10,
+      "title": "VII: With a Mule Train Across Nhambiquara Land",
+      "wordCount": 11670,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 11,
+      "title": "VIII: The River of Doubt",
+      "wordCount": 11991,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 12,
+      "title": "IX: Down an Unknown River Into the Equatorial Forest",
+      "wordCount": 11982,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 13,
+      "title": "X: To the Amazon and Home; Zoological and Geographical Results of the Expedition",
+      "wordCount": 5786,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 14,
+      "title": "Appendix A: The Work of the Field Zoologist and Field Geographer in South America",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "Appendix B: The Outfit for Travelling in the South American Wilderness",
+      "wordCount": 7175,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 16,
+      "title": "Appendix C: My Letter of May 1 to General Lauro Müller",
+      "wordCount": 588,
+      "estimatedMinutes": 2
+    }
+  ]
+}

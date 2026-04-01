@@ -1,0 +1,172 @@
+{
+  "bookId": "ten-days-that-shook-the-world",
+  "title": "Ten Days That Shook the World",
+  "author": "John Reed",
+  "chapterCount": 27,
+  "totalWordCount": 120742,
+  "totalMinutes": 482,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 125,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1798,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "Notes and Explanations",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "I: Background",
+      "wordCount": 4544,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "II: The Coming Storm",
+      "wordCount": 7229,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "III: On the Eve",
+      "wordCount": 8955,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "IV: The Fall of the Provisional Government",
+      "wordCount": 10914,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 7,
+      "title": "V: Plunging Ahead",
+      "wordCount": 10248,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 8,
+      "title": "VI: The Committee for Salvation",
+      "wordCount": 7109,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 9,
+      "title": "VII: The Revolutionary Front",
+      "wordCount": 5606,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "VIII: Counterrevolution",
+      "wordCount": 7134,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 11,
+      "title": "IX: Victory",
+      "wordCount": 6892,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 12,
+      "title": "X: Moscow",
+      "wordCount": 4335,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XI: The Conquest of Power",
+      "wordCount": 8743,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 14,
+      "title": "XII: The Peasants’ Congress",
+      "wordCount": 6007,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "Appendix to Chapter I",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "Appendix to Chapter II",
+      "wordCount": 6986,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 17,
+      "title": "Appendix to Chapter III",
+      "wordCount": 2169,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "Appendix to Chapter IV",
+      "wordCount": 1741,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "Appendix to Chapter V",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "Appendix to Chapter VI",
+      "wordCount": 238,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "Appendix to Chapter VII",
+      "wordCount": 589,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 22,
+      "title": "Appendix to Chapter VIII",
+      "wordCount": 3328,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "Appendix to Chapter IX",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "Appendix to Chapter X",
+      "wordCount": 848,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "Appendix to Chapter XI",
+      "wordCount": 7293,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 26,
+      "title": "Appendix to Chapter XII",
+      "wordCount": 497,
+      "estimatedMinutes": 2
+    }
+  ]
+}

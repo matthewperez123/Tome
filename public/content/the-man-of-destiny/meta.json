@@ -1,0 +1,28 @@
+{
+  "bookId": "the-man-of-destiny",
+  "title": "The Man of Destiny",
+  "author": "George Bernard Shaw",
+  "chapterCount": 3,
+  "totalWordCount": 16919,
+  "totalMinutes": 68,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 852,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 11,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 3",
+      "wordCount": 16056,
+      "estimatedMinutes": 64
+    }
+  ]
+}

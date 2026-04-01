@@ -1,0 +1,262 @@
+{
+  "bookId": "el-filibusterismo",
+  "title": "El Filibusterismo",
+  "author": "José Rizal",
+  "chapterCount": 42,
+  "totalWordCount": 113237,
+  "totalMinutes": 450,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 388,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Translator’s Introduction",
+      "wordCount": 1184,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: On the Upper Deck",
+      "wordCount": 3791,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "II: On the Lower Deck",
+      "wordCount": 2538,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III: Legends",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV: Cabesang Tales",
+      "wordCount": 3845,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "V: A Cochero’s Christmas Eve",
+      "wordCount": 2084,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VI: Basilio",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VII: Simoun",
+      "wordCount": 4355,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "VIII: Merry Christmas!",
+      "wordCount": 1086,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX: Pilates",
+      "wordCount": 768,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "X: Wealth and Want",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XI: Los Baños",
+      "wordCount": 4931,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 13,
+      "title": "XII: Plácido Penitente",
+      "wordCount": 2849,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Class in Physics",
+      "wordCount": 4072,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XIV: In the House of the Students",
+      "wordCount": 3721,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XV: Señor Pasta",
+      "wordCount": 2976,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Tribulations of a Chinese",
+      "wordCount": 3607,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Quiapo Fair",
+      "wordCount": 1647,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Legerdemain",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Fuse",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XX: The Arbiter",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXI: Manila Types",
+      "wordCount": 4008,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Performance",
+      "wordCount": 4707,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXIII: A Corpse",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Dreams",
+      "wordCount": 3547,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXV: Smiles and Tears",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Pasquinades",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXVII: The Friar and the Filipino",
+      "wordCount": 3780,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Tatakut",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Exit Capitan Tiago",
+      "wordCount": 1251,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXX: Julî",
+      "wordCount": 3599,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The High Official",
+      "wordCount": 2080,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Effect of the Pasquinades",
+      "wordCount": 1543,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: La Ultima Razón",
+      "wordCount": 2724,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: The Wedding",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 36,
+      "title": "XXXV: The Fiesta",
+      "wordCount": 2834,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: Ben-Zayb’s Afflictions",
+      "wordCount": 2144,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: The Mystery",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: Fatality",
+      "wordCount": 1690,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: Conclusion",
+      "wordCount": 3916,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 41,
+      "title": "Glossary",
+      "wordCount": 1067,
+      "estimatedMinutes": 4
+    }
+  ]
+}

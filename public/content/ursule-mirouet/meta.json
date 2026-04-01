@@ -1,0 +1,22 @@
+{
+  "bookId": "ursule-mirouet",
+  "title": "Ursule Mirouët",
+  "author": "Honoré de Balzac",
+  "chapterCount": 2,
+  "totalWordCount": 84704,
+  "totalMinutes": 339,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: The Heirs in Alarm",
+      "wordCount": 44706,
+      "estimatedMinutes": 179
+    },
+    {
+      "index": 1,
+      "title": "Part II: The Minoret Property",
+      "wordCount": 39998,
+      "estimatedMinutes": 160
+    }
+  ]
+}

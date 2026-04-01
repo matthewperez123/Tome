@@ -1,0 +1,70 @@
+{
+  "bookId": "the-confessions-of-arsene-lupin",
+  "title": "The Confessions of Arsène Lupin",
+  "author": "Maurice Leblanc",
+  "chapterCount": 10,
+  "totalWordCount": 66565,
+  "totalMinutes": 266,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Two Hundred Thousand Francs Reward! …",
+      "wordCount": 7008,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "II: The Wedding-Ring",
+      "wordCount": 6261,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 2,
+      "title": "III: The Sign of the Shadow",
+      "wordCount": 7371,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "IV: The Infernal Trap",
+      "wordCount": 7655,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "V: The Red Silk Scarf",
+      "wordCount": 7959,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 5,
+      "title": "VI: Shadowed by Death",
+      "wordCount": 6812,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 6,
+      "title": "VII: A Tragedy in the Forest of Morgues",
+      "wordCount": 3723,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: Lupin’s Marriage",
+      "wordCount": 7279,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 8,
+      "title": "IX: The Invisible Prisoner",
+      "wordCount": 5105,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "X: Edith Swan-Neck",
+      "wordCount": 7392,
+      "estimatedMinutes": 30
+    }
+  ]
+}

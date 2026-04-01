@@ -1,0 +1,94 @@
+{
+  "bookId": "siddhartha",
+  "title": "Siddhartha: An Indian Tale",
+  "author": "Hermann Hesse",
+  "chapterCount": 14,
+  "totalWordCount": 39200,
+  "totalMinutes": 158,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Son of the Brahmin",
+      "wordCount": 2668,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "With the Samanas",
+      "wordCount": 3315,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "Gotama",
+      "wordCount": 3082,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "Awakening",
+      "wordCount": 1501,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "Kamala",
+      "wordCount": 4699,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "With the Childlike People",
+      "wordCount": 2910,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "Sansara",
+      "wordCount": 3247,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "By the River",
+      "wordCount": 4089,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "The Ferryman",
+      "wordCount": 4303,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "The Son",
+      "wordCount": 3217,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "Om",
+      "wordCount": 2309,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "Govinda",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    }
+  ]
+}

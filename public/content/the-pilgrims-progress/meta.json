@@ -1,0 +1,40 @@
+{
+  "bookId": "the-pilgrims-progress",
+  "title": "The Pilgrim’s Progress",
+  "author": "John Bunyan",
+  "chapterCount": 5,
+  "totalWordCount": 109866,
+  "totalMinutes": 439,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Works from Which Notes to This Edition Have Been Selected",
+      "wordCount": 459,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The Author’s Apology for His Book",
+      "wordCount": 1975,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "The First Part",
+      "wordCount": 54844,
+      "estimatedMinutes": 219
+    },
+    {
+      "index": 3,
+      "title": "The Author’s Way of Sending Forth His Second Part of the Pilgrim",
+      "wordCount": 2003,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "The Second Part",
+      "wordCount": 50585,
+      "estimatedMinutes": 202
+    }
+  ]
+}

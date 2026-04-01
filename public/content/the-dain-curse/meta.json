@@ -1,0 +1,166 @@
+{
+  "bookId": "the-dain-curse",
+  "title": "The Dain Curse",
+  "author": "Dashiell Hammett",
+  "chapterCount": 26,
+  "totalWordCount": 68790,
+  "totalMinutes": 278,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: The Dains",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Eight Diamonds",
+      "wordCount": 2154,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: Long-Nose",
+      "wordCount": 2038,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: Something Black",
+      "wordCount": 3674,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: The Vague Harpers",
+      "wordCount": 1522,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "V: Gabrielle",
+      "wordCount": 4078,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: The Man from Devil’s Island",
+      "wordCount": 1836,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VII: The Curse",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: But and If",
+      "wordCount": 1298,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "Part II: The Temple",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "IX: Tad’s Blind Man",
+      "wordCount": 2867,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "X: Dead Flowers",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XI: God",
+      "wordCount": 3621,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XII: The Unholy Grail",
+      "wordCount": 3885,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "Part III: Quesada",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Cliff Road",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Crumpled Chrysler",
+      "wordCount": 2876,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XV: I’ve Killed Him",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVI: The Night Hunt",
+      "wordCount": 3216,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XVII: Below Dull Point",
+      "wordCount": 2561,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Pineapple",
+      "wordCount": 2270,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XIX: The Degenerate",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XX: The House in the Cove",
+      "wordCount": 3701,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXI: Aaronia Haldorn",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXII: Confessional",
+      "wordCount": 3874,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXIII: The Circus",
+      "wordCount": 3077,
+      "estimatedMinutes": 12
+    }
+  ]
+}

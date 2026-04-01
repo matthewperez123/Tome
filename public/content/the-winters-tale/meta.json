@@ -1,0 +1,46 @@
+{
+  "bookId": "the-winters-tale",
+  "title": "The Winter’s Tale",
+  "author": "William Shakespeare",
+  "chapterCount": 6,
+  "totalWordCount": 26029,
+  "totalMinutes": 105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 98,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 4327,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 4156,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 9069,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 5,
+      "title": "Act V",
+      "wordCount": 4962,
+      "estimatedMinutes": 20
+    }
+  ]
+}

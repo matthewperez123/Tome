@@ -1,0 +1,166 @@
+{
+  "bookId": "the-little-white-bird",
+  "title": "The Little White Bird: Or, Adventures in Kensigton Gardens",
+  "author": "J. M. Barrie",
+  "chapterCount": 26,
+  "totalWordCount": 66291,
+  "totalMinutes": 266,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: David and I Set Forth Upon a Journey",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "II: The Little Nursery Governess",
+      "wordCount": 2786,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: Her Marriage, Her Clothes, Her Appetite, and an Inventory of Her Furniture",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV: A Night-Piece",
+      "wordCount": 2057,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V: The Fight for Timothy",
+      "wordCount": 2505,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: A Shock",
+      "wordCount": 1178,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VII: The Last of Timothy",
+      "wordCount": 1167,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Inconsiderate Waiter",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: A Confirmed Spinster",
+      "wordCount": 2540,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X: Sporting Reflections",
+      "wordCount": 498,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 10,
+      "title": "XI: The Runaway Perambulator",
+      "wordCount": 3021,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII: The Pleasantest Club in London",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Grand Tour of the Gardens",
+      "wordCount": 3121,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIV: Peter Pan",
+      "wordCount": 3201,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: The Thrush’s Nest",
+      "wordCount": 3204,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XVI: Lockout Time",
+      "wordCount": 3937,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Little House",
+      "wordCount": 5511,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Peter’s Goat",
+      "wordCount": 2890,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XIX: An Interloper",
+      "wordCount": 1230,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX: David and Porthos Compared",
+      "wordCount": 2177,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XXI: William Paterson",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: Joey",
+      "wordCount": 2788,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Pilkington’s",
+      "wordCount": 2809,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Barbara",
+      "wordCount": 2555,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Cricket Match",
+      "wordCount": 937,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Dedication",
+      "wordCount": 2748,
+      "estimatedMinutes": 11
+    }
+  ]
+}

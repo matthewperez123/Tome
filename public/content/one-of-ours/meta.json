@@ -1,0 +1,472 @@
+{
+  "bookId": "one-of-ours",
+  "title": "One of Ours",
+  "author": "Willa Cather",
+  "chapterCount": 77,
+  "totalWordCount": 126124,
+  "totalMinutes": 512,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: On Lovely Creek",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2483,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2293,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1626,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3451,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1514,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 853,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 825,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1122,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1018,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1510,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 1884,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1264,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1145,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2075,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "Book II: Enid",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "I",
+      "wordCount": 679,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "II",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "III",
+      "wordCount": 2419,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "IV",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "V",
+      "wordCount": 1098,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "VI",
+      "wordCount": 1554,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "VII",
+      "wordCount": 1600,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "VIII",
+      "wordCount": 1038,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "IX",
+      "wordCount": 1894,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 30,
+      "title": "X",
+      "wordCount": 2609,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XI",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "XII",
+      "wordCount": 3799,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "Book III: Sunrise on the Prairie",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "I",
+      "wordCount": 1455,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "II",
+      "wordCount": 819,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 36,
+      "title": "III",
+      "wordCount": 1133,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 37,
+      "title": "IV",
+      "wordCount": 1148,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 38,
+      "title": "V",
+      "wordCount": 2485,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "VI",
+      "wordCount": 1336,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 40,
+      "title": "VII",
+      "wordCount": 433,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 41,
+      "title": "VIII",
+      "wordCount": 1511,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "IX",
+      "wordCount": 1380,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 43,
+      "title": "X",
+      "wordCount": 2204,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 44,
+      "title": "XI",
+      "wordCount": 2045,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XII",
+      "wordCount": 712,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 46,
+      "title": "XIII",
+      "wordCount": 896,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 47,
+      "title": "Book IV: The Voyage of the Anchises",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "I",
+      "wordCount": 659,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 49,
+      "title": "II",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 50,
+      "title": "III",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "IV",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 52,
+      "title": "V",
+      "wordCount": 566,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 53,
+      "title": "VI",
+      "wordCount": 2597,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 54,
+      "title": "VII",
+      "wordCount": 1841,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 55,
+      "title": "VIII",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 56,
+      "title": "IX",
+      "wordCount": 1969,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 57,
+      "title": "Book V: “Bidding the Eagles of the West Fly On”",
+      "wordCount": 10,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 58,
+      "title": "I",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 59,
+      "title": "II",
+      "wordCount": 1655,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 60,
+      "title": "III",
+      "wordCount": 1196,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 61,
+      "title": "IV",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 62,
+      "title": "V",
+      "wordCount": 1487,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "VI",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "VII",
+      "wordCount": 1469,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 65,
+      "title": "VIII",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 66,
+      "title": "IX",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "X",
+      "wordCount": 5147,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 68,
+      "title": "XI",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 69,
+      "title": "XII",
+      "wordCount": 593,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 70,
+      "title": "XIII",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "XIV",
+      "wordCount": 2485,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 72,
+      "title": "XV",
+      "wordCount": 1211,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 73,
+      "title": "XVI",
+      "wordCount": 2225,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 74,
+      "title": "XVII",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 75,
+      "title": "XVIII",
+      "wordCount": 4013,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 76,
+      "title": "XIX",
+      "wordCount": 1354,
+      "estimatedMinutes": 5
+    }
+  ]
+}

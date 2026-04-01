@@ -1,0 +1,82 @@
+{
+  "bookId": "ethan-frome",
+  "title": "Ethan Frome",
+  "author": "Edith Wharton",
+  "chapterCount": 12,
+  "totalWordCount": 35903,
+  "totalMinutes": 144,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1020,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 4646,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 2968,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 4190,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 4075,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3093,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 5572,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "Epilogue",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    }
+  ]
+}

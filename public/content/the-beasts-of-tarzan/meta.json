@@ -1,0 +1,136 @@
+{
+  "bookId": "the-beasts-of-tarzan",
+  "title": "The Beasts of Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "chapterCount": 21,
+  "totalWordCount": 63647,
+  "totalMinutes": 255,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Kidnapped",
+      "wordCount": 2665,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II: Marooned",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: Beasts at Bay",
+      "wordCount": 3616,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "IV: Sheeta",
+      "wordCount": 3196,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: Mugambi",
+      "wordCount": 3156,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "VI: A Hideous Crew",
+      "wordCount": 3110,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VII: Betrayed",
+      "wordCount": 2977,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Dance of Death",
+      "wordCount": 3089,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX: Chivalry or Villainy",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: The Swede",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "XI: Tambudza",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: A Black Scoundrel",
+      "wordCount": 3108,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII: Escape",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: Alone in the Jungle",
+      "wordCount": 2893,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV: Down the Ugambi",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: In the Darkness of the Night",
+      "wordCount": 2959,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVII: On the Deck of the Kincaid",
+      "wordCount": 2587,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Paulvitch Plots Revenge",
+      "wordCount": 3972,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Last of the Kincaid",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX: Jungle Island Again",
+      "wordCount": 3640,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Law of the Jungle",
+      "wordCount": 3994,
+      "estimatedMinutes": 16
+    }
+  ]
+}

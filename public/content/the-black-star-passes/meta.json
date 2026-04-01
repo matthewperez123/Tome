@@ -1,0 +1,166 @@
+{
+  "bookId": "the-black-star-passes",
+  "title": "The Black Star Passes",
+  "author": "John W. Campbell",
+  "chapterCount": 26,
+  "totalWordCount": 75985,
+  "totalMinutes": 306,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 411,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1097,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Book I: Piracy Preferred",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Prologue",
+      "wordCount": 2168,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "I",
+      "wordCount": 2872,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "II",
+      "wordCount": 5297,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "III",
+      "wordCount": 4626,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "IV",
+      "wordCount": 5606,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "Book II: Solarite",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I",
+      "wordCount": 1808,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "II",
+      "wordCount": 1794,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "III",
+      "wordCount": 2555,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "IV",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "V",
+      "wordCount": 7462,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 14,
+      "title": "VI",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "VII",
+      "wordCount": 2827,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "VIII",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "Book III: The Black Star Passes",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "Prologue",
+      "wordCount": 5767,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 19,
+      "title": "I",
+      "wordCount": 3369,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "II",
+      "wordCount": 3925,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "III",
+      "wordCount": 4721,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 22,
+      "title": "IV",
+      "wordCount": 2654,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "V",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "VI",
+      "wordCount": 4011,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "Epilogue",
+      "wordCount": 516,
+      "estimatedMinutes": 2
+    }
+  ]
+}
