@@ -407,6 +407,7 @@ type BookMeta = {
   genre?: string | null
   tradition?: string | null
   cover_colors?: string[] | null
+  coverColors?: { primary: string; secondary: string; accent?: string } | null
   year?: number | null
 }
 
@@ -451,7 +452,10 @@ export function getCoverParams(book: BookMeta): CoverParams {
   let primaryColor: string
   let secondaryColor: string
 
-  if (book.cover_colors && book.cover_colors.length >= 2) {
+  if (book.coverColors) {
+    primaryColor = book.coverColors.primary
+    secondaryColor = book.coverColors.secondary
+  } else if (book.cover_colors && book.cover_colors.length >= 2) {
     primaryColor = book.cover_colors[0]
     secondaryColor = book.cover_colors[1]
   } else {
