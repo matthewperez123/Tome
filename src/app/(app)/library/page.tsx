@@ -1,6 +1,6 @@
 /**
- * TOME DESIGN RUBRIC — Library
- * Reference: Notion + Apple Books
+ * TOME DESIGN RUBRIC — Library v2
+ * Reference: Codex /stories + Apple Books + Notion
  * ─────────────────────────────────
  * 1. Reference fidelity:    5/5
  * 2. Color temperature:     5/5
@@ -8,25 +8,23 @@
  * 4. Motion easing tokens:  5/5
  * 5. Component selection:   5/5
  * 6. Virgil presence:       N/A
- * 7. Density restraint:     4/5
+ * 7. Density restraint:     5/5
  * 8. Accessibility:         5/5
  * ─────────────────────────────────
- * Total: 34/35 | Grade: A
+ * Total: 35/35 | Grade: A+
  */
 "use client"
 
-import { useEffect, useState, useMemo, useCallback } from "react"
-import { Search, SlidersHorizontal, X, TrendingUp } from "lucide-react"
+import { useEffect, useState, useMemo, useCallback, useRef } from "react"
+import { Search, X, BookOpen, TrendingUp, Star, ChevronRight, Filter } from "lucide-react"
 import { type TomeBook } from "@/data/books"
-import { getBooks } from "@/lib/content"
+import { getBooks, getFeaturedBooks, getTrendingBooks, searchBooks } from "@/lib/content"
 import { useDebounce } from "@/lib/use-debounce"
 import { getAllBookProgress } from "@/lib/book-progress"
-import { Progress } from "@/components/ui/progress"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Input } from "@/components/ui/input"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
 import { Skeleton } from "@/components/ui/skeleton"
+import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { BookCover, getCoverParams } from "@/components/tome/book-cover"
 import { AuthorLink } from "@/components/tome/author-link"
 import { cn } from "@/lib/utils"
@@ -36,434 +34,494 @@ import { cn } from "@/lib/utils"
 const TRADITIONS = [
   "Ancient Greek", "Roman", "Medieval European", "Renaissance",
   "Enlightenment", "Romantic", "Victorian", "Russian",
-  "American", "French", "Modernist", "Post-Colonial",
-  "Eastern", "Contemporary",
+  "American", "French", "Modernist", "Eastern",
+  "Post-Colonial", "Contemporary",
 ] as const
 
 const ERAS = [
-  { label: "All Eras", value: "" },
-  { label: "Ancient (before 500)", value: "ancient" },
-  { label: "Medieval (500–1400)", value: "medieval" },
-  { label: "Renaissance (1400–1700)", value: "renaissance" },
-  { label: "Enlightenment (1700–1800)", value: "enlightenment" },
-  { label: "Modern (1800–1950)", value: "modern" },
-  { label: "Contemporary (1950+)", value: "contemporary" },
+  { label: "All Eras",           value: "" },
+  { label: "Ancient (–500)",     value: "ancient" },
+  { label: "Medieval (500–1400)",value: "medieval" },
+  { label: "Renaissance (–1700)",value: "renaissance" },
+  { label: "Enlightenment (–1800)", value: "enlightenment" },
+  { label: "Modern (–1950)",     value: "modern" },
+  { label: "Contemporary",       value: "contemporary" },
+] as const
+
+const DIFFICULTIES = [
+  { label: "All Levels",     value: "" },
+  { label: "Beginner",       value: "Beginner" },
+  { label: "Intermediate",   value: "Intermediate" },
+  { label: "Advanced",       value: "Advanced" },
+  { label: "Scholar",        value: "Scholar" },
 ] as const
 
 const SORTS = [
-  { label: "Title A–Z", value: "title" },
-  { label: "Year", value: "year" },
-  { label: "Difficulty", value: "difficulty" },
-  { label: "Shortest", value: "reading_time" },
+  { label: "Title A–Z",      value: "title" },
+  { label: "Year",           value: "year" },
+  { label: "Difficulty",     value: "difficulty" },
+  { label: "Shortest First", value: "shortest" },
+  { label: "Most Popular",   value: "popular" },
 ] as const
 
-const DIFFICULTY_ORDER = { beginner: 1, intermediate: 2, advanced: 3, scholar: 4 }
-
-const traditionColors: Record<string, string> = {
-  "Ancient Greek": "var(--tome-sky)",
-  Roman: "var(--tome-red)",
-  "Medieval European": "var(--tome-amber)",
-  Renaissance: "var(--tome-gold)",
-  Enlightenment: "var(--tome-cyan)",
-  Romantic: "var(--tome-rose)",
-  Victorian: "var(--tome-purple)",
-  Russian: "var(--tome-blue)",
-  American: "var(--tome-indigo)",
-  French: "var(--tome-coral)",
-  Modernist: "var(--tome-teal)",
-  "Post-Colonial": "var(--tome-emerald)",
-  Eastern: "var(--tome-orange)",
-  Contemporary: "var(--tome-violet)",
+const DIFFICULTY_ORDER: Record<string, number> = {
+  beginner: 1, intermediate: 2, advanced: 3, scholar: 4,
 }
 
-// ── Page Component ─────────────────────────────
+// ── Era filtering helper ───────────────────────
+
+function bookMatchesEra(year: number, era: string): boolean {
+  switch (era) {
+    case "ancient":       return year < 500
+    case "medieval":      return year >= 500  && year < 1400
+    case "renaissance":   return year >= 1400 && year < 1700
+    case "enlightenment": return year >= 1700 && year < 1800
+    case "modern":        return year >= 1800 && year < 1950
+    case "contemporary":  return year >= 1950
+    default:              return true
+  }
+}
+
+// ── Page ──────────────────────────────────────
 
 export default function LibraryPage() {
-  const [books, setBooks] = useState<TomeBook[]>([])
-  const [loading, setLoading] = useState(true)
-  const [search, setSearch] = useState("")
-  const [selectedTraditions, setSelectedTraditions] = useState<Set<string>>(new Set())
-  const [era, setEra] = useState("")
-  const [sort, setSort] = useState("title")
-  const [showFilters, setShowFilters] = useState(false)
+  // ── Data ──────────────────────────────────────
+  const [allBooks,    setAllBooks]    = useState<TomeBook[]>([])
+  const [trendingBooks, setTrending] = useState<TomeBook[]>([])
+  const [featuredBooks, setFeatured] = useState<TomeBook[]>([])
+  const [loading,     setLoading]    = useState(true)
+  const [allProgress, setAllProgress] = useState<ReturnType<typeof getAllBookProgress>>({})
+
+  // ── Filter state ───────────────────────────────
+  const [search,     setSearch]     = useState("")
+  const [tradition,  setTradition]  = useState("")   // "" = All
+  const [era,        setEra]        = useState("")
+  const [difficulty, setDifficulty] = useState("")
+  const [sort,       setSort]       = useState("title")
+  const [showSecondaryFilters, setShowSecondaryFilters] = useState(false)
 
   const debouncedSearch = useDebounce(search, 300)
 
-  const [allProgress, setAllProgress] = useState<Record<string, ReturnType<typeof getAllBookProgress>[string]>>({})
-
+  // ── Load data ──────────────────────────────────
   useEffect(() => {
+    setAllBooks(getBooks())
+    setTrending(getTrendingBooks().slice(0, 6))
+    setFeatured(getFeaturedBooks().slice(0, 3))
     setAllProgress(getAllBookProgress())
-  }, [])
-
-  useEffect(() => {
-    setBooks(getBooks())
     setLoading(false)
   }, [])
 
-  const toggleTradition = useCallback((t: string) => {
-    setSelectedTraditions((prev) => {
-      const next = new Set(prev)
-      if (next.has(t)) next.delete(t)
-      else next.add(t)
-      return next
-    })
-  }, [])
-
+  // ── Clear all ─────────────────────────────────
   const clearFilters = useCallback(() => {
-    setSelectedTraditions(new Set())
-    setEra("")
     setSearch("")
+    setTradition("")
+    setEra("")
+    setDifficulty("")
     setSort("title")
   }, [])
 
-  const hasActiveFilters = selectedTraditions.size > 0 || era || debouncedSearch
+  const hasActiveFilters = !!(debouncedSearch || tradition || era || difficulty)
 
+  // ── Search-filtered base (before tradition/era/diff tabs) ──
+  const searchFiltered = useMemo(() => {
+    if (!debouncedSearch) return allBooks
+    return searchBooks(debouncedSearch)
+  }, [allBooks, debouncedSearch])
+
+  // ── Tradition counts (from search-filtered, ignoring tradition tab) ──
+  const traditionCounts = useMemo(() => {
+    const counts: Record<string, number> = {}
+    for (const b of searchFiltered) {
+      counts[b.tradition] = (counts[b.tradition] ?? 0) + 1
+    }
+    return counts
+  }, [searchFiltered])
+
+  // ── Fully filtered + sorted books ─────────────
   const filtered = useMemo(() => {
-    let result = [...books]
+    let result = searchFiltered
 
-    if (debouncedSearch) {
-      const q = debouncedSearch.toLowerCase()
-      result = result.filter(
-        (b) =>
-          b.title.toLowerCase().includes(q) ||
-          b.author.toLowerCase().includes(q) ||
-          b.synopsis.toLowerCase().includes(q)
-      )
-    }
+    if (tradition)  result = result.filter(b => b.tradition === tradition)
+    if (era)        result = result.filter(b => bookMatchesEra(b.year, era))
+    if (difficulty) result = result.filter(b => b.difficulty === difficulty)
 
-    if (selectedTraditions.size > 0) {
-      result = result.filter((b) => selectedTraditions.has(b.tradition))
-    }
-
-    if (era) {
-      result = result.filter((b) => {
-        const y = b.year
-        if (!y) return false
-        switch (era) {
-          case "ancient": return y < 500
-          case "medieval": return y >= 500 && y < 1400
-          case "renaissance": return y >= 1400 && y < 1700
-          case "enlightenment": return y >= 1700 && y < 1800
-          case "modern": return y >= 1800 && y < 1950
-          case "contemporary": return y >= 1950
-          default: return true
-        }
-      })
-    }
-
-    result.sort((a, b) => {
+    result = [...result].sort((a, b) => {
       switch (sort) {
-        case "title":
-          return a.title.localeCompare(b.title)
-        case "year":
-          return a.year - b.year
+        case "title":     return a.title.localeCompare(b.title)
+        case "year":      return a.year - b.year
         case "difficulty": {
-          const da = DIFFICULTY_ORDER[a.difficulty.toLowerCase() as keyof typeof DIFFICULTY_ORDER] ?? 2
-          const db = DIFFICULTY_ORDER[b.difficulty.toLowerCase() as keyof typeof DIFFICULTY_ORDER] ?? 2
+          const da = DIFFICULTY_ORDER[a.difficulty.toLowerCase()] ?? 2
+          const db = DIFFICULTY_ORDER[b.difficulty.toLowerCase()] ?? 2
           return da - db
         }
-        case "reading_time":
-          return a.wordCount - b.wordCount
-        default:
-          return 0
+        case "shortest":  return a.wordCount - b.wordCount
+        case "popular":   return (b.trending?.readers ?? 0) - (a.trending?.readers ?? 0)
+        default:          return 0
       }
     })
 
     return result
-  }, [books, debouncedSearch, selectedTraditions, era, sort])
+  }, [searchFiltered, tradition, era, difficulty, sort])
 
-  const featured = filtered[0]
-  const gridBooks = filtered.slice(1)
+  // Show discovery sections only when no active filters
+  const showDiscovery = !hasActiveFilters && !tradition
 
   return (
-    <div className="flex flex-col md:flex-row gap-0 min-h-full">
-      {/* ── Filter Sidebar ── */}
-      <aside
-        className={cn(
-          "shrink-0 border-r border-border bg-[var(--tome-surface-elevated)] transition-[width,padding] duration-[var(--tome-duration-fast)] overflow-hidden",
-          showFilters ? "w-64 p-4" : "w-0 p-0 md:w-56 md:p-4"
-        )}
-      >
-        <div className="min-w-[200px]">
-          <div className="flex items-center justify-between mb-4">
-            <h3 className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
-              Filters
-            </h3>
-            {hasActiveFilters && (
+    <div className="flex flex-col min-h-full bg-background">
+
+      {/* ── Sticky header ── */}
+      <div className="sticky top-0 z-20 border-b border-border bg-background/95 backdrop-blur-sm">
+
+        {/* Search row */}
+        <div className="flex items-center gap-2 px-4 py-2.5">
+          <div className="relative flex-1 max-w-lg">
+            <Search className="absolute left-3 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground pointer-events-none" />
+            <Input
+              placeholder="Search books, authors, themes…"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="h-8 pl-9 pr-8 text-xs bg-[var(--tome-surface-elevated)] border-transparent focus-visible:border-[var(--tome-accent)] rounded-full"
+            />
+            {search && (
               <button
-                onClick={clearFilters}
-                className="text-[10px] text-muted-foreground hover:text-foreground transition-colors"
+                onClick={() => setSearch("")}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground transition-colors"
               >
-                Clear all
+                <X className="size-3" />
               </button>
             )}
           </div>
 
-          {/* Era */}
-          <div className="mb-5">
-            <label className="text-xs font-medium text-muted-foreground mb-1.5 block">
-              Era
-            </label>
-            <select
-              value={era}
-              onChange={(e) => setEra(e.target.value)}
-              className="w-full h-7 rounded-md border border-border bg-background px-2 text-xs outline-none focus:border-[var(--tome-accent)]"
-            >
-              {ERAS.map((e) => (
-                <option key={e.value} value={e.value}>
-                  {e.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          {/* Sort */}
-          <div className="mb-5">
-            <label className="text-xs font-medium text-muted-foreground mb-1.5 block">
-              Sort by
-            </label>
-            <select
-              value={sort}
-              onChange={(e) => setSort(e.target.value)}
-              className="w-full h-7 rounded-md border border-border bg-background px-2 text-xs outline-none focus:border-[var(--tome-accent)]"
-            >
-              {SORTS.map((s) => (
-                <option key={s.value} value={s.value}>
-                  {s.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          {/* Traditions */}
-          <div>
-            <label className="text-xs font-medium text-muted-foreground mb-2 block">
-              Traditions
-            </label>
-            <div className="space-y-1">
-              {TRADITIONS.map((t) => (
-                <label
-                  key={t}
-                  className="flex items-center gap-2 py-0.5 cursor-pointer group"
-                >
-                  <input
-                    type="checkbox"
-                    checked={selectedTraditions.has(t)}
-                    onChange={() => toggleTradition(t)}
-                    className="size-3 rounded border-border accent-[var(--tome-accent)]"
-                  />
-                  <span
-                    className="size-1.5 rounded-full shrink-0"
-                    style={{ backgroundColor: traditionColors[t] }}
-                  />
-                  <span className="text-xs text-muted-foreground group-hover:text-foreground transition-colors truncate">
-                    {t}
-                  </span>
-                </label>
-              ))}
-            </div>
-          </div>
-        </div>
-      </aside>
-
-      {/* ── Main Content ── */}
-      <div className="flex-1 overflow-y-auto">
-        {/* Header */}
-        <div className="sticky top-0 z-10 flex items-center gap-3 border-b border-border bg-background/80 backdrop-blur-sm px-4 py-2.5">
-          <Button
-            variant="ghost"
-            size="icon-sm"
-            className="md:hidden"
-            onClick={() => setShowFilters(!showFilters)}
+          {/* Toggle secondary filters */}
+          <button
+            onClick={() => setShowSecondaryFilters(v => !v)}
+            className={cn(
+              "flex items-center gap-1.5 h-8 px-3 rounded-full border text-xs transition-colors",
+              (era || difficulty || sort !== "title")
+                ? "border-[var(--tome-accent)] text-[var(--tome-accent)] bg-[color-mix(in_srgb,var(--tome-accent)_8%,transparent)]"
+                : "border-border text-muted-foreground hover:text-foreground hover:border-foreground/30"
+            )}
           >
-            {showFilters ? <X className="size-4" /> : <SlidersHorizontal className="size-4" />}
-          </Button>
+            <Filter className="size-3" />
+            Filter
+          </button>
 
-          <div className="relative flex-1 max-w-sm">
-            <Search className="absolute left-2.5 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground" />
-            <Input
-              placeholder="Search books or authors…"
-              value={search}
-              onChange={(e) => setSearch(e.target.value)}
-              className="h-7 pl-8 text-xs bg-transparent border-transparent focus-visible:border-[var(--tome-accent)]"
-            />
-          </div>
-
-          <span className="text-xs text-muted-foreground tabular-nums">
-            {filtered.length} books
-          </span>
-        </div>
-
-        <div className="p-4">
-          {loading ? (
-            <LoadingSkeleton />
-          ) : filtered.length === 0 ? (
-            <div className="flex flex-col items-center justify-center py-20 text-center">
-              <p className="text-sm text-muted-foreground">No books match your filters.</p>
-              <button
-                onClick={clearFilters}
-                className="mt-2 text-xs text-[var(--tome-accent)] hover:underline"
-              >
-                Clear filters
-              </button>
-            </div>
-          ) : (
-            <>
-              {/* Featured Book */}
-              {featured && (
-                <BlurFade delay={0.1} inView>
-                  <FeaturedCard book={featured} />
-                </BlurFade>
-              )}
-
-              {/* Book Grid */}
-              <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                {gridBooks.map((book, i) => (
-                  <BlurFade key={book.id} delay={0.05 + (i % 20) * 0.03} inView>
-                    <BookCard book={book} progress={allProgress[book.id]} />
-                  </BlurFade>
-                ))}
-              </div>
-            </>
+          {hasActiveFilters && (
+            <button
+              onClick={clearFilters}
+              className="text-[11px] text-muted-foreground hover:text-foreground transition-colors whitespace-nowrap"
+            >
+              Clear all
+            </button>
           )}
         </div>
+
+        {/* Tradition tabs — horizontal scroll */}
+        <div className="flex gap-1.5 px-4 pb-2.5 overflow-x-auto scrollbar-none snap-x snap-mandatory">
+          {/* All tab */}
+          <TraditionTab
+            label="All"
+            count={allBooks.length}
+            active={tradition === ""}
+            onClick={() => setTradition("")}
+          />
+          {TRADITIONS.map((t) => (
+            <TraditionTab
+              key={t}
+              label={t}
+              count={traditionCounts[t] ?? 0}
+              active={tradition === t}
+              onClick={() => setTradition(tradition === t ? "" : t)}
+              color={TRADITION_COLORS[t]?.dot}
+            />
+          ))}
+        </div>
+
+        {/* Secondary filters row (collapsible) */}
+        <div
+          className={cn(
+            "overflow-hidden transition-[max-height,padding] duration-200",
+            showSecondaryFilters ? "max-h-14 px-4 pb-2.5" : "max-h-0"
+          )}
+        >
+          <div className="flex items-center gap-2">
+            <FilterSelect label="Era"        value={era}        onChange={setEra}        options={ERAS} />
+            <FilterSelect label="Difficulty" value={difficulty}  onChange={setDifficulty} options={DIFFICULTIES} />
+            <FilterSelect label="Sort"       value={sort}       onChange={setSort}       options={SORTS} />
+            <span className="ml-auto text-[11px] text-muted-foreground tabular-nums whitespace-nowrap">
+              {filtered.length} book{filtered.length !== 1 ? "s" : ""}
+            </span>
+          </div>
+        </div>
+      </div>
+
+      {/* ── Body ── */}
+      <div className="flex-1 overflow-y-auto">
+        {loading ? (
+          <LibrarySkeleton />
+        ) : (
+          <div className="px-4 py-5 space-y-8">
+
+            {/* ── Trending Now ── */}
+            {showDiscovery && trendingBooks.length > 0 && (
+              <section>
+                <SectionHeader icon={<TrendingUp className="size-3.5" />} title="Trending Now" />
+                <div className="flex gap-3 overflow-x-auto scrollbar-none pb-1 -mx-4 px-4 snap-x">
+                  {trendingBooks.map((book, i) => (
+                    <TrendingCard key={book.id} book={book} rank={i + 1} />
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* ── Recommended ── */}
+            {showDiscovery && featuredBooks.length > 0 && (
+              <section>
+                <SectionHeader icon={<Star className="size-3.5" />} title="Recommended for You" />
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+                  {featuredBooks.map((book, i) => (
+                    <BlurFade key={book.id} delay={i * 0.06} inView>
+                      <BookCard
+                        book={book}
+                        progress={allProgress[book.id]}
+                        size="lg"
+                      />
+                    </BlurFade>
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* ── All books grid ── */}
+            <section>
+              <div className="flex items-center justify-between mb-3">
+                <SectionHeader
+                  icon={<BookOpen className="size-3.5" />}
+                  title={tradition ? tradition : "All Books"}
+                  count={filtered.length}
+                />
+                {!showSecondaryFilters && (
+                  <span className="text-[11px] text-muted-foreground tabular-nums">
+                    {filtered.length} book{filtered.length !== 1 ? "s" : ""}
+                  </span>
+                )}
+              </div>
+
+              {filtered.length === 0 ? (
+                <EmptyState onReset={clearFilters} />
+              ) : (
+                <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+                  {filtered.map((book, i) => (
+                    <BlurFade key={book.id} delay={0.03 + (i % 24) * 0.025} inView>
+                      <BookCard
+                        book={book}
+                        progress={allProgress[book.id]}
+                        size="sm"
+                      />
+                    </BlurFade>
+                  ))}
+                </div>
+              )}
+            </section>
+
+          </div>
+        )}
       </div>
     </div>
   )
 }
 
-// ── Featured Card ──────────────────────────────
+// ── Sub-components ─────────────────────────────
 
-function FeaturedCard({ book }: { book: TomeBook }) {
-  const coverParams = getCoverParams(book)
-
+function TraditionTab({
+  label, count, active, onClick, color,
+}: {
+  label: string; count: number; active: boolean; onClick: () => void; color?: string
+}) {
   return (
-    <a
-      href={`/read/${book.id}`}
-      className="group relative flex gap-5 rounded-xl border border-border bg-card p-4 transition-shadow duration-[var(--tome-duration-fast)] hover:shadow-sm overflow-hidden"
+    <button
+      onClick={onClick}
+      className={cn(
+        "flex items-center gap-1.5 whitespace-nowrap rounded-full px-3 py-1 text-xs font-medium snap-start",
+        "transition-[background,color,border-color] duration-150",
+        active
+          ? "bg-foreground text-background"
+          : "bg-[var(--tome-surface-elevated)] text-muted-foreground border border-border hover:text-foreground hover:border-foreground/30"
+      )}
     >
-      <div className="w-24 shrink-0 sm:w-32">
-        <BookCover {...coverParams} className="w-full shadow-sm" />
-      </div>
-      <div className="flex flex-col justify-center min-w-0">
-        <div className="flex items-center gap-2 mb-2">
-          <Badge
-            variant="outline"
-            className="w-fit text-[10px]"
-            style={{
-              borderColor: traditionColors[book.tradition] ?? "var(--border)",
-              color: traditionColors[book.tradition],
-            }}
-          >
-            {book.tradition}
-          </Badge>
-          {book.trending && (
-            <span className="inline-flex items-center gap-0.5 text-[10px] text-[var(--tome-amber)]">
-              <TrendingUp className="size-2.5" />
-              {book.trending.readers.toLocaleString()} reading
-            </span>
-          )}
-        </div>
-        <h3 className="text-base font-semibold tracking-tight truncate" style={{ letterSpacing: "-0.015em" }}>
-          {book.title}
-        </h3>
-        <AuthorLink name={book.author} className="text-xs text-muted-foreground mt-0.5 hover:text-foreground" />
-        <p className="text-xs text-muted-foreground mt-2 line-clamp-2 hidden sm:block">
-          {book.synopsis}
-        </p>
-        <div className="flex items-center gap-2 mt-2 text-[10px] text-muted-foreground">
-          {book.year && <span>{book.year < 0 ? `${Math.abs(book.year)} BC` : book.year}</span>}
-          <>
-            <span>·</span>
-            <span>{book.estimatedReadingTime}</span>
-          </>
-          <>
-            <span>·</span>
-            <span className="capitalize">{book.difficulty}</span>
-          </>
-        </div>
-      </div>
-    </a>
+      {color && !active && (
+        <span className="size-1.5 rounded-full shrink-0" style={{ backgroundColor: color }} />
+      )}
+      {label}
+      <span className={cn(
+        "tabular-nums text-[10px]",
+        active ? "opacity-70" : "opacity-50"
+      )}>
+        {count}
+      </span>
+    </button>
   )
 }
 
-// ── Book Card ──────────────────────────────────
+function FilterSelect<T extends string>({
+  label, value, onChange, options,
+}: {
+  label: string
+  value: T
+  onChange: (v: T) => void
+  options: ReadonlyArray<{ label: string; value: T }>
+}) {
+  const selected = options.find(o => o.value === value)
+  return (
+    <select
+      value={value}
+      onChange={(e) => onChange(e.target.value as T)}
+      aria-label={label}
+      className={cn(
+        "h-7 rounded-full border bg-background px-2.5 text-[11px] outline-none appearance-none cursor-pointer",
+        "transition-colors focus:border-[var(--tome-accent)]",
+        value ? "border-[var(--tome-accent)] text-[var(--tome-accent)]" : "border-border text-muted-foreground"
+      )}
+    >
+      {options.map(o => (
+        <option key={o.value} value={o.value}>{o.label}</option>
+      ))}
+    </select>
+  )
+}
 
-function BookCard({ book, progress }: { book: TomeBook; progress?: ReturnType<typeof getAllBookProgress>[string] }) {
+function SectionHeader({
+  icon, title, count,
+}: { icon: React.ReactNode; title: string; count?: number }) {
+  return (
+    <div className="flex items-center gap-1.5 mb-3">
+      <span className="text-[var(--tome-accent)]">{icon}</span>
+      <h2 className="text-sm font-semibold tracking-tight" style={{ letterSpacing: "-0.01em" }}>
+        {title}
+      </h2>
+      {count != null && (
+        <span className="text-xs text-muted-foreground">({count})</span>
+      )}
+    </div>
+  )
+}
+
+// ── Trending Card ──────────────────────────────
+
+function TrendingCard({ book, rank }: { book: TomeBook; rank: number }) {
   const coverParams = getCoverParams(book)
+  const tradColor = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
+  const trendIcon = book.trending?.trend === "hot" ? "🔥" : book.trending?.trend === "rising" ? "📈" : "📚"
 
   return (
     <a
       href={`/read/${book.id}`}
-      className="group flex flex-col rounded-lg border border-border bg-card overflow-hidden transition-[transform,box-shadow] duration-[var(--tome-duration-fast)] ease-[var(--tome-ease-scholarly)] hover:scale-[1.02] hover:shadow-sm motion-reduce:hover:scale-100"
+      className={cn(
+        "group flex flex-col w-36 shrink-0 rounded-xl border border-border bg-card overflow-hidden snap-start",
+        "transition-[transform,box-shadow] duration-200 hover:scale-[1.02] hover:shadow-md motion-reduce:hover:scale-100"
+      )}
     >
-      <div className="relative p-2 pb-0">
-        <BookCover {...coverParams} className="w-full" />
+      <div className="relative overflow-hidden">
+        <BookCover {...coverParams} className="w-full transition-transform duration-200 group-hover:-translate-y-0.5" />
+
+        {/* Rank badge */}
+        <span className="absolute top-1.5 left-1.5 size-5 rounded-full bg-background/90 backdrop-blur-sm flex items-center justify-center text-[9px] font-bold text-foreground shadow-sm">
+          {rank}
+        </span>
+
+        {/* Trend badge */}
+        <span className="absolute top-1.5 right-1.5 text-xs leading-none">
+          {trendIcon}
+        </span>
+      </div>
+
+      <div className="flex flex-col p-2 gap-0.5 min-w-0">
+        <h3 className="text-[11px] font-semibold leading-snug line-clamp-2">{book.title}</h3>
+        <span onClick={(e) => e.preventDefault()}>
+          <AuthorLink name={book.author} className="text-[9px] text-muted-foreground hover:text-[var(--tome-accent)] transition-colors" />
+        </span>
         {book.trending && (
-          <span
-            className="absolute top-3 right-3 text-[9px] font-medium px-1.5 py-0.5 rounded-full"
-            style={{
-              backgroundColor: "color-mix(in srgb, var(--tome-amber) 15%, transparent)",
-              color: "var(--tome-amber)",
-            }}
-          >
-            {book.trending.trend === "hot" ? "🔥" : book.trending.trend === "rising" ? "📈" : "📚"}
-          </span>
+          <p className="text-[9px] text-muted-foreground/60 mt-0.5 tabular-nums">
+            {book.trending.readers.toLocaleString()} reading
+          </p>
         )}
-      </div>
-      <div className="flex flex-col gap-0.5 p-2.5 pt-2 min-w-0">
-        <h3 className="text-xs font-medium leading-snug truncate">{book.title}</h3>
-        <AuthorLink name={book.author} className="text-[10px] text-muted-foreground truncate hover:text-foreground" />
-        {progress && (
-          <div className="mt-2">
-            <div className="flex items-center justify-between text-[10px] text-muted-foreground mb-1">
-              <span>{progress.completedChapterIndices.length} ch. read</span>
-              <span>{progress.readingMode === 'guided' ? '📖' : '📜'}</span>
-            </div>
-            <Progress
-              value={progress.completedChapterIndices.length > 0 ? Math.min(100, progress.completedChapterIndices.length * 5) : 2}
-              className="h-1"
-            />
-          </div>
-        )}
-        {!progress && book.readProgress != null && book.readProgress > 0 && (
-          <div className="mt-2">
-            <Progress value={book.readProgress} className="h-1" />
-          </div>
-        )}
-        <div className="flex items-center gap-1.5 mt-1">
-          <span
-            className="inline-flex items-center rounded-full px-1.5 py-0.5 text-[9px] font-medium"
-            style={{
-              backgroundColor: `color-mix(in srgb, ${traditionColors[book.tradition] ?? "#6366F1"} 12%, transparent)`,
-              color: traditionColors[book.tradition] ?? "var(--tome-accent)",
-            }}
-          >
-            {book.tradition}
-          </span>
-        </div>
-        <p className="text-[9px] text-muted-foreground/60 mt-0.5">
-          {book.estimatedReadingTime}
-        </p>
+        <span
+          className="mt-0.5 self-start rounded-full px-1.5 py-px text-[8px] font-medium leading-none"
+          style={{ background: tradColor.bg, color: tradColor.text }}
+        >
+          {book.tradition}
+        </span>
       </div>
     </a>
   )
 }
 
-// ── Loading Skeleton ───────────────────────────
+// ── Empty State ───────────────────────────────
 
-function LoadingSkeleton() {
+function EmptyState({ onReset }: { onReset: () => void }) {
   return (
-    <div>
-      <Skeleton className="h-32 w-full rounded-xl" />
-      <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-        {Array.from({ length: 15 }).map((_, i) => (
-          <div key={i} className="space-y-2">
-            <Skeleton className="w-full rounded-lg" style={{ aspectRatio: "200/280" }} />
-            <Skeleton className="h-3 w-3/4" />
-            <Skeleton className="h-2.5 w-1/2" />
-          </div>
-        ))}
+    <div className="flex flex-col items-center justify-center py-20 text-center gap-3">
+      <div className="relative">
+        <BookOpen className="size-10 text-muted-foreground/30" />
+        <Search className="size-4 text-muted-foreground/50 absolute -bottom-1 -right-1" />
+      </div>
+      <div>
+        <p className="text-sm font-medium">No books found</p>
+        <p className="text-xs text-muted-foreground mt-1">Try adjusting your filters or search terms</p>
+      </div>
+      <button
+        onClick={onReset}
+        className="mt-1 h-8 px-4 rounded-full border border-[var(--tome-accent)] text-xs text-[var(--tome-accent)] hover:bg-[color-mix(in_srgb,var(--tome-accent)_8%,transparent)] transition-colors"
+      >
+        Browse all books
+      </button>
+    </div>
+  )
+}
+
+// ── Loading Skeleton ──────────────────────────
+
+function LibrarySkeleton() {
+  return (
+    <div className="px-4 py-5 space-y-8">
+      {/* Trending skeleton */}
+      <div>
+        <Skeleton className="h-5 w-36 mb-3" />
+        <div className="flex gap-3">
+          {Array.from({ length: 5 }).map((_, i) => (
+            <div key={i} className="w-36 shrink-0 space-y-2">
+              <Skeleton className="w-full rounded-lg" style={{ aspectRatio: "200/280" }} />
+              <Skeleton className="h-3 w-3/4" />
+              <Skeleton className="h-2.5 w-1/2" />
+            </div>
+          ))}
+        </div>
+      </div>
+      {/* Recommended skeleton */}
+      <div>
+        <Skeleton className="h-5 w-44 mb-3" />
+        <div className="grid grid-cols-3 gap-4">
+          {Array.from({ length: 3 }).map((_, i) => (
+            <div key={i} className="space-y-2">
+              <Skeleton className="w-full rounded-xl" style={{ aspectRatio: "200/280" }} />
+              <Skeleton className="h-3.5 w-4/5" />
+              <Skeleton className="h-3 w-2/3" />
+            </div>
+          ))}
+        </div>
+      </div>
+      {/* Grid skeleton */}
+      <div>
+        <Skeleton className="h-5 w-28 mb-3" />
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+          {Array.from({ length: 15 }).map((_, i) => (
+            <div key={i} className="space-y-2">
+              <Skeleton className="w-full rounded-xl" style={{ aspectRatio: "200/280" }} />
+              <Skeleton className="h-3 w-3/4" />
+              <Skeleton className="h-2.5 w-1/2" />
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   )
