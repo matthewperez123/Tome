@@ -16,17 +16,19 @@
 "use client"
 
 import { useEffect, useState, useMemo, useCallback, useRef } from "react"
-import { Search, X, BookOpen, TrendingUp, Star, ChevronRight, Filter } from "lucide-react"
+import { X, BookOpen, TrendingUp, Star, ChevronRight, Search } from "lucide-react"
 import { type TomeBook } from "@/data/books"
 import { getBooks, getFeaturedBooks, getTrendingBooks, searchBooks } from "@/lib/content"
 import { useDebounce } from "@/lib/use-debounce"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { BlurFade } from "@/components/ui/blur-fade"
-import { Input } from "@/components/ui/input"
 import { Skeleton } from "@/components/ui/skeleton"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { BookCover, getCoverParams } from "@/components/tome/book-cover"
 import { AuthorLink } from "@/components/tome/author-link"
+import { SearchBar } from "@/components/tome/SearchBar"
+import { FilterTabs, type FilterTabItem } from "@/components/tome/FilterTabs"
+import { FilterDropdown } from "@/components/tome/FilterDropdown"
 import { cn } from "@/lib/utils"
 
 // ── Constants ──────────────────────────────────
@@ -98,7 +100,6 @@ export default function LibraryPage() {
   const [era,        setEra]        = useState("")
   const [difficulty, setDifficulty] = useState("")
   const [sort,       setSort]       = useState("title")
-  const [showSecondaryFilters, setShowSecondaryFilters] = useState(false)
 
   const debouncedSearch = useDebounce(search, 300)
 
@@ -137,6 +138,22 @@ export default function LibraryPage() {
     return counts
   }, [searchFiltered])
 
+  // ── Tradition tab items for FilterTabs component ──
+  const traditionTabItems: FilterTabItem[] = useMemo(() => {
+    const items: FilterTabItem[] = [
+      { label: "All", value: "", count: allBooks.length },
+    ]
+    for (const t of TRADITIONS) {
+      items.push({
+        label: t,
+        value: t,
+        count: traditionCounts[t] ?? 0,
+        dotColor: TRADITION_COLORS[t]?.dot,
+      })
+    }
+    return items
+  }, [allBooks.length, traditionCounts])
+
   // ── Fully filtered + sorted books ─────────────
   const filtered = useMemo(() => {
     let result = searchFiltered
@@ -170,89 +187,67 @@ export default function LibraryPage() {
     <div className="flex flex-col min-h-full bg-background">
 
       {/* ── Sticky header ── */}
-      <div className="sticky top-0 z-20 border-b border-border bg-background/95 backdrop-blur-sm">
+      <div className="sticky top-0 z-10 border-b border-border bg-background/80 backdrop-blur-sm">
 
-        {/* Search row */}
-        <div className="flex items-center gap-2 px-4 py-2.5">
-          <div className="relative flex-1 max-w-lg">
-            <Search className="absolute left-3 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground pointer-events-none" />
-            <Input
-              placeholder="Search books, authors, themes…"
-              value={search}
-              onChange={(e) => setSearch(e.target.value)}
-              className="h-8 pl-9 pr-8 text-xs bg-[var(--tome-surface-elevated)] border-transparent focus-visible:border-[var(--tome-accent)] rounded-full"
-            />
-            {search && (
-              <button
-                onClick={() => setSearch("")}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground transition-colors"
-              >
-                <X className="size-3" />
-              </button>
-            )}
+        {/* Title + Search row — matches /authors: title left, search right */}
+        <div className="flex items-center gap-3 px-4 py-2.5">
+          <div className="flex flex-col min-w-0 mr-auto">
+            <h1 className="text-sm font-serif font-semibold leading-none tracking-tight">
+              Library
+            </h1>
+            <p className="text-[10px] text-muted-foreground mt-0.5">
+              {filtered.length} book{filtered.length !== 1 ? "s" : ""} across {new Set(allBooks.map(b => b.tradition)).size} traditions
+            </p>
           </div>
-
-          {/* Toggle secondary filters */}
-          <button
-            onClick={() => setShowSecondaryFilters(v => !v)}
-            className={cn(
-              "flex items-center gap-1.5 h-8 px-3 rounded-full border text-xs transition-colors",
-              (era || difficulty || sort !== "title")
-                ? "border-[var(--tome-accent)] text-[var(--tome-accent)] bg-[color-mix(in_srgb,var(--tome-accent)_8%,transparent)]"
-                : "border-border text-muted-foreground hover:text-foreground hover:border-foreground/30"
-            )}
-          >
-            <Filter className="size-3" />
-            Filter
-          </button>
-
-          {hasActiveFilters && (
-            <button
-              onClick={clearFilters}
-              className="text-[11px] text-muted-foreground hover:text-foreground transition-colors whitespace-nowrap"
-            >
-              Clear all
-            </button>
-          )}
+          <SearchBar
+            placeholder="Search books, authors, themes…"
+            value={search}
+            onChange={setSearch}
+            className="w-48 sm:w-64"
+          />
         </div>
 
         {/* Tradition tabs — horizontal scroll */}
-        <div className="flex gap-1.5 px-4 pb-2.5 overflow-x-auto scrollbar-none snap-x snap-mandatory">
-          {/* All tab */}
-          <TraditionTab
-            label="All"
-            count={allBooks.length}
-            active={tradition === ""}
-            onClick={() => setTradition("")}
-          />
-          {TRADITIONS.map((t) => (
-            <TraditionTab
-              key={t}
-              label={t}
-              count={traditionCounts[t] ?? 0}
-              active={tradition === t}
-              onClick={() => setTradition(tradition === t ? "" : t)}
-              color={TRADITION_COLORS[t]?.dot}
-            />
-          ))}
+        <FilterTabs
+          items={traditionTabItems}
+          activeValue={tradition}
+          onChange={setTradition}
+          className="px-4 pb-2"
+        />
+
+        {/* Secondary filters row (always visible) */}
+        <div className="flex items-center gap-2 px-4 pb-2.5">
+          <FilterDropdown label="Era"        value={era}        onChange={setEra}        options={ERAS} />
+          <FilterDropdown label="Difficulty"  value={difficulty}  onChange={setDifficulty} options={DIFFICULTIES} />
+          <FilterDropdown label="Sort"       value={sort}       onChange={setSort}       options={SORTS} />
+          <span className="ml-auto text-[11px] text-muted-foreground tabular-nums whitespace-nowrap">
+            {filtered.length} book{filtered.length !== 1 ? "s" : ""}
+          </span>
         </div>
 
-        {/* Secondary filters row (collapsible) */}
-        <div
-          className={cn(
-            "overflow-hidden transition-[max-height,padding] duration-200",
-            showSecondaryFilters ? "max-h-14 px-4 pb-2.5" : "max-h-0"
-          )}
-        >
-          <div className="flex items-center gap-2">
-            <FilterSelect label="Era"        value={era}        onChange={setEra}        options={ERAS} />
-            <FilterSelect label="Difficulty" value={difficulty}  onChange={setDifficulty} options={DIFFICULTIES} />
-            <FilterSelect label="Sort"       value={sort}       onChange={setSort}       options={SORTS} />
-            <span className="ml-auto text-[11px] text-muted-foreground tabular-nums whitespace-nowrap">
-              {filtered.length} book{filtered.length !== 1 ? "s" : ""}
-            </span>
+        {/* Active filter pills */}
+        {hasActiveFilters && (
+          <div className="flex items-center gap-1.5 px-4 pb-2.5 overflow-x-auto scrollbar-none">
+            {tradition && (
+              <FilterPill label={tradition} onRemove={() => setTradition("")} />
+            )}
+            {era && (
+              <FilterPill label={ERAS.find(e => e.value === era)?.label ?? era} onRemove={() => setEra("")} />
+            )}
+            {difficulty && (
+              <FilterPill label={difficulty} onRemove={() => setDifficulty("")} />
+            )}
+            {debouncedSearch && (
+              <FilterPill label={`"${debouncedSearch}"`} onRemove={() => setSearch("")} />
+            )}
+            <button
+              onClick={clearFilters}
+              className="text-[10px] text-muted-foreground hover:text-foreground transition-colors whitespace-nowrap ml-1"
+            >
+              Clear all
+            </button>
           </div>
-        </div>
+        )}
       </div>
 
       {/* ── Body ── */}
@@ -260,7 +255,7 @@ export default function LibraryPage() {
         {loading ? (
           <LibrarySkeleton />
         ) : (
-          <div className="px-4 py-5 space-y-8">
+          <div className="p-4 space-y-8">
 
             {/* ── Trending Now ── */}
             {showDiscovery && trendingBooks.length > 0 && (
@@ -300,17 +295,12 @@ export default function LibraryPage() {
                   title={tradition ? tradition : "All Books"}
                   count={filtered.length}
                 />
-                {!showSecondaryFilters && (
-                  <span className="text-[11px] text-muted-foreground tabular-nums">
-                    {filtered.length} book{filtered.length !== 1 ? "s" : ""}
-                  </span>
-                )}
               </div>
 
               {filtered.length === 0 ? (
                 <EmptyState onReset={clearFilters} />
               ) : (
-                <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+                <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-5">
                   {filtered.map((book, i) => (
                     <BlurFade key={book.id} delay={0.03 + (i % 24) * 0.025} inView>
                       <BookCard
@@ -333,60 +323,14 @@ export default function LibraryPage() {
 
 // ── Sub-components ─────────────────────────────
 
-function TraditionTab({
-  label, count, active, onClick, color,
-}: {
-  label: string; count: number; active: boolean; onClick: () => void; color?: string
-}) {
+function FilterPill({ label, onRemove }: { label: string; onRemove: () => void }) {
   return (
-    <button
-      onClick={onClick}
-      className={cn(
-        "flex items-center gap-1.5 whitespace-nowrap rounded-full px-3 py-1 text-xs font-medium snap-start",
-        "transition-[background,color,border-color] duration-150",
-        active
-          ? "bg-foreground text-background"
-          : "bg-[var(--tome-surface-elevated)] text-muted-foreground border border-border hover:text-foreground hover:border-foreground/30"
-      )}
-    >
-      {color && !active && (
-        <span className="size-1.5 rounded-full shrink-0" style={{ backgroundColor: color }} />
-      )}
+    <span className="inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-medium bg-[#EEF2FF] text-[#4F46E5] whitespace-nowrap">
       {label}
-      <span className={cn(
-        "tabular-nums text-[10px]",
-        active ? "opacity-70" : "opacity-50"
-      )}>
-        {count}
-      </span>
-    </button>
-  )
-}
-
-function FilterSelect<T extends string>({
-  label, value, onChange, options,
-}: {
-  label: string
-  value: T
-  onChange: (v: T) => void
-  options: ReadonlyArray<{ label: string; value: T }>
-}) {
-  const selected = options.find(o => o.value === value)
-  return (
-    <select
-      value={value}
-      onChange={(e) => onChange(e.target.value as T)}
-      aria-label={label}
-      className={cn(
-        "h-7 rounded-full border bg-background px-2.5 text-[11px] outline-none appearance-none cursor-pointer",
-        "transition-colors focus:border-[var(--tome-accent)]",
-        value ? "border-[var(--tome-accent)] text-[var(--tome-accent)]" : "border-border text-muted-foreground"
-      )}
-    >
-      {options.map(o => (
-        <option key={o.value} value={o.value}>{o.label}</option>
-      ))}
-    </select>
+      <button onClick={onRemove} className="hover:text-[#3730A3] transition-colors" aria-label={`Remove ${label} filter`}>
+        <X className="size-2.5" />
+      </button>
+    </span>
   )
 }
 
@@ -418,7 +362,7 @@ function TrendingCard({ book, rank }: { book: TomeBook; rank: number }) {
       href={`/book/${book.id}`}
       className={cn(
         "group flex flex-col w-36 shrink-0 rounded-xl border border-border bg-card overflow-hidden snap-start",
-        "transition-[transform,box-shadow] duration-200 hover:scale-[1.02] hover:shadow-md motion-reduce:hover:scale-100"
+        "transition-[transform,box-shadow] duration-[var(--tome-duration-fast)] ease-[var(--tome-ease-scholarly)] hover:scale-[1.02] hover:shadow-md motion-reduce:hover:scale-100"
       )}
     >
       <div className="relative overflow-hidden">
@@ -483,7 +427,7 @@ function EmptyState({ onReset }: { onReset: () => void }) {
 
 function LibrarySkeleton() {
   return (
-    <div className="px-4 py-5 space-y-8">
+    <div className="p-4 space-y-8">
       {/* Trending skeleton */}
       <div>
         <Skeleton className="h-5 w-36 mb-3" />
@@ -513,7 +457,7 @@ function LibrarySkeleton() {
       {/* Grid skeleton */}
       <div>
         <Skeleton className="h-5 w-28 mb-3" />
-        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+        <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-5">
           {Array.from({ length: 15 }).map((_, i) => (
             <div key={i} className="space-y-2">
               <Skeleton className="w-full rounded-xl" style={{ aspectRatio: "200/280" }} />

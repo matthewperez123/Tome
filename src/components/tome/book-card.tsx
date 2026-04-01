@@ -121,7 +121,7 @@ export function BookCard({ book, progress, size = "sm", className }: BookCardPro
       href={`/book/${book.id}`}
       className={cn(
         "group flex flex-col rounded-xl border border-border bg-card overflow-hidden",
-        "transition-[transform,box-shadow] duration-[200ms] ease-[var(--tome-ease-scholarly)]",
+        "transition-[transform,box-shadow] duration-[var(--tome-duration-fast)] ease-[var(--tome-ease-scholarly)]",
         "hover:scale-[1.02] hover:shadow-md motion-reduce:hover:scale-100",
         className
       )}
@@ -137,7 +137,7 @@ export function BookCard({ book, progress, size = "sm", className }: BookCardPro
           fallbackColors={book.coverColors}
           showTomeWordmark={size === "lg"}
           className={cn(
-            "w-full transition-transform duration-[200ms] group-hover:-translate-y-0.5 rounded-none",
+            "w-full transition-transform duration-[var(--tome-duration-fast)] group-hover:-translate-y-0.5 rounded-none",
             size === "lg" && "min-h-[160px]"
           )}
         />

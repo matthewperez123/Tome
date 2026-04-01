@@ -2,11 +2,12 @@
 
 import { useMemo, useState, useCallback } from "react"
 import Link from "next/link"
-import { Search } from "lucide-react"
+import { Search, Users2 } from "lucide-react"
 import { AUTHORS } from "@/data/authors"
 import { BlurFade } from "@/components/ui/blur-fade"
-import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
+import { SearchBar } from "@/components/tome/SearchBar"
+import { FilterDropdown } from "@/components/tome/FilterDropdown"
 import { cn } from "@/lib/utils"
 import { useDebounce } from "@/lib/use-debounce"
 
@@ -143,17 +144,13 @@ export default function AuthorsPage() {
         {/* Era */}
         <div className="mb-5">
           <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Era</label>
-          <select
+          <FilterDropdown
+            label="Era"
             value={eraFilter}
-            onChange={(e) => setEraFilter(e.target.value)}
-            className="w-full h-7 rounded-md border border-border bg-background px-2 text-xs outline-none focus:border-[var(--tome-accent)]"
-          >
-            {ERAS.map((e) => (
-              <option key={e.value} value={e.value}>
-                {e.label}
-              </option>
-            ))}
-          </select>
+            onChange={setEraFilter}
+            options={ERAS}
+            className="w-full rounded-md"
+          />
         </div>
 
         {/* Nationality */}
@@ -161,17 +158,13 @@ export default function AuthorsPage() {
           <label className="text-xs font-medium text-muted-foreground mb-1.5 block">
             Nationality
           </label>
-          <select
+          <FilterDropdown
+            label="Nationality"
             value={nationalityFilter}
-            onChange={(e) => setNationalityFilter(e.target.value)}
-            className="w-full h-7 rounded-md border border-border bg-background px-2 text-xs outline-none focus:border-[var(--tome-accent)]"
-          >
-            {NATIONALITIES.map((n) => (
-              <option key={n.value} value={n.value}>
-                {n.label}
-              </option>
-            ))}
-          </select>
+            onChange={setNationalityFilter}
+            options={NATIONALITIES}
+            className="w-full rounded-md"
+          />
         </div>
 
         {/* Traditions */}
@@ -215,28 +208,32 @@ export default function AuthorsPage() {
               </p>
             </div>
 
-            <div className="relative w-48 sm:w-64">
-              <Search className="absolute left-2.5 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                placeholder="Search authors…"
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                className="h-7 pl-8 text-xs bg-transparent border-transparent focus-visible:border-[var(--tome-accent)]"
-              />
-            </div>
+            <SearchBar
+              placeholder="Search authors…"
+              value={search}
+              onChange={setSearch}
+              className="w-48 sm:w-64"
+            />
           </div>
         </div>
 
         {/* Author Grid */}
         <div className="p-4">
           {filtered.length === 0 ? (
-            <div className="flex flex-col items-center justify-center py-20 text-center">
-              <p className="text-sm text-muted-foreground">No authors match your filters.</p>
+            <div className="flex flex-col items-center justify-center py-20 text-center gap-3">
+              <div className="relative">
+                <Users2 className="size-10 text-muted-foreground/30" />
+                <Search className="size-4 text-muted-foreground/50 absolute -bottom-1 -right-1" />
+              </div>
+              <div>
+                <p className="text-sm font-medium">No authors found</p>
+                <p className="text-xs text-muted-foreground mt-1">Try adjusting your filters or search terms</p>
+              </div>
               <button
                 onClick={clearFilters}
-                className="mt-2 text-xs text-[var(--tome-accent)] hover:underline"
+                className="mt-1 h-8 px-4 rounded-full border border-[var(--tome-accent)] text-xs text-[var(--tome-accent)] hover:bg-[color-mix(in_srgb,var(--tome-accent)_8%,transparent)] transition-colors"
               >
-                Clear filters
+                Browse all authors
               </button>
             </div>
           ) : (
