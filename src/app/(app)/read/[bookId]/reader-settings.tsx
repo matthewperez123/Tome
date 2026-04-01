@@ -1,10 +1,10 @@
 "use client"
 
-import { Moon, Sun, Columns2, AlignJustify, Minus, Plus } from "lucide-react"
+import { Moon, Sun, Columns2, AlignJustify, Square, Minus, Plus } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 export type ReaderTheme = "light" | "dark"
-export type ReaderLayout = "single" | "dual"
+export type ReaderLayout = "scroll" | "page" | "book"
 
 const FONT_SIZES = [14, 16, 18, 20, 22] as const
 export type FontSize = (typeof FONT_SIZES)[number]
@@ -35,7 +35,7 @@ export function ReaderSettings({
         disabled={sizeIdx === 0}
         onClick={() => onFontSizeChange(FONT_SIZES[sizeIdx - 1])}
         className="flex size-7 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors disabled:opacity-30"
-        title="Decrease font size"
+        aria-label="Decrease font size"
       >
         <Minus className="size-3" />
       </button>
@@ -46,34 +46,66 @@ export function ReaderSettings({
         disabled={sizeIdx === FONT_SIZES.length - 1}
         onClick={() => onFontSizeChange(FONT_SIZES[sizeIdx + 1])}
         className="flex size-7 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors disabled:opacity-30"
-        title="Increase font size"
+        aria-label="Increase font size"
       >
         <Plus className="size-3" />
       </button>
 
       <div className="mx-1 h-4 w-px bg-border" />
 
-      {/* Layout toggle */}
-      <button
-        onClick={() => onLayoutChange(layout === "single" ? "dual" : "single")}
-        className={cn(
-          "hidden md:flex size-7 items-center justify-center rounded-md transition-colors",
-          "text-muted-foreground hover:text-foreground"
-        )}
-        title={layout === "single" ? "Two-column spread" : "Single column"}
-      >
-        {layout === "single" ? (
-          <Columns2 className="size-3.5" />
-        ) : (
+      {/* Layout toggle — 3-segment control */}
+      <div className="rounded-md border border-border overflow-hidden flex items-center">
+        {/* Scroll segment */}
+        <button
+          onClick={() => onLayoutChange("scroll")}
+          className={cn(
+            "inline-flex size-7 items-center justify-center transition-colors",
+            layout === "scroll"
+              ? "bg-foreground text-background"
+              : "text-muted-foreground hover:text-foreground"
+          )}
+          aria-label="Scroll layout"
+          aria-pressed={layout === "scroll"}
+        >
           <AlignJustify className="size-3.5" />
-        )}
-      </button>
+        </button>
+
+        {/* Page segment */}
+        <button
+          onClick={() => onLayoutChange("page")}
+          className={cn(
+            "inline-flex size-7 items-center justify-center border-x border-border transition-colors",
+            layout === "page"
+              ? "bg-foreground text-background"
+              : "text-muted-foreground hover:text-foreground"
+          )}
+          aria-label="Page layout"
+          aria-pressed={layout === "page"}
+        >
+          <Square className="size-3.5" />
+        </button>
+
+        {/* Book segment — hidden on mobile */}
+        <button
+          onClick={() => onLayoutChange("book")}
+          className={cn(
+            "hidden md:inline-flex size-7 items-center justify-center transition-colors",
+            layout === "book"
+              ? "bg-foreground text-background"
+              : "text-muted-foreground hover:text-foreground"
+          )}
+          aria-label="Book spread layout"
+          aria-pressed={layout === "book"}
+        >
+          <Columns2 className="size-3.5" />
+        </button>
+      </div>
 
       {/* Theme toggle */}
       <button
         onClick={() => onThemeChange(theme === "light" ? "dark" : "light")}
         className="flex size-7 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors"
-        title={theme === "light" ? "Dark reading mode" : "Light reading mode"}
+        aria-label={theme === "light" ? "Dark reading mode" : "Light reading mode"}
       >
         {theme === "light" ? (
           <Moon className="size-3.5" />

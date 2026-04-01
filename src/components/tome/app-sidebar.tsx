@@ -78,13 +78,24 @@ function SidebarNav({ pathname }: { pathname: string }) {
     return () => window.removeEventListener("keydown", handleKeyDown)
   }, [])
 
+  // Map sub-routes to their parent nav item
+  const activeHref = (() => {
+    if (pathname.startsWith("/book/"))    return "/library"
+    if (pathname.startsWith("/author/") && !pathname.startsWith("/authors")) return "/authors"
+    if (pathname.startsWith("/profile"))  return "/profile" // /profile/stats etc
+    if (pathname.startsWith("/clubs/"))   return "/social"
+    if (pathname.startsWith("/quiz/"))    return "/quizzes"
+    if (pathname.startsWith("/read/"))    return "/reading"
+    return pathname
+  })()
+
   return (
     <SidebarMenu ref={listRef}>
       {sidebarNav.map((item) => {
         const isActive =
           item.href === "/"
             ? pathname === "/"
-            : pathname.startsWith(item.href)
+            : activeHref === item.href || pathname.startsWith(item.href)
 
         return (
           <SidebarMenuItem key={item.href}>

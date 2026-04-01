@@ -6,11 +6,13 @@ import {
   BrainCircuit,
   Trophy,
   Users,
+  Users2,
   Globe2,
   ShoppingBag,
   User,
   type LucideIcon,
 } from "lucide-react"
+
 
 export type NavItem = {
   label: string
@@ -22,12 +24,14 @@ export const sidebarNav: NavItem[] = [
   { label: "Home", href: "/", icon: Home },
   { label: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
   { label: "Library", href: "/library", icon: Library },
+  { label: "Authors", href: "/authors", icon: Users2 },
   { label: "Reading", href: "/reading", icon: BookOpen },
   { label: "Quizzes", href: "/quizzes", icon: BrainCircuit },
   { label: "Explore", href: "/explore", icon: Globe2 },
   { label: "Achievements", href: "/achievements", icon: Trophy },
   { label: "Community", href: "/social", icon: Users },
   { label: "Shop", href: "/shop", icon: ShoppingBag },
+  { label: "Profile", href: "/profile", icon: User },
 ]
 
 export const dockNav: NavItem[] = [

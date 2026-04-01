@@ -49,12 +49,18 @@ export function StepVirgil({ onComplete }: { onComplete: () => void }) {
       {/* Speech Bubble */}
       <div className="relative z-10 mt-6 w-full rounded-xl border border-border bg-[var(--tome-surface-elevated)] p-5">
         <div className="absolute -top-2 left-1/2 -translate-x-1/2 rotate-45 size-4 border-l border-t border-border bg-[var(--tome-surface-elevated)]" />
-        <TypingAnimation
-          className="text-sm leading-relaxed text-muted-foreground font-serif italic text-left"
-          duration={30}
-        >
+        {/* Typing animation with reduced-motion fallback */}
+        <div className="motion-reduce:hidden">
+          <TypingAnimation
+            className="text-sm leading-relaxed text-muted-foreground font-serif italic text-left"
+            duration={30}
+          >
+            {virgilSpeech}
+          </TypingAnimation>
+        </div>
+        <p className="hidden motion-reduce:block text-sm leading-relaxed text-muted-foreground font-serif italic text-left">
           {virgilSpeech}
-        </TypingAnimation>
+        </p>
       </div>
 
       <Button className="mt-8 w-full" onClick={onComplete}>

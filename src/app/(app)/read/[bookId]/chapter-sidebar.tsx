@@ -1,6 +1,6 @@
 "use client"
 
-import { BookOpen, ChevronLeft, ChevronRight } from "lucide-react"
+import { BookOpen, ChevronLeft, ChevronRight, Lock, CheckCircle2 } from "lucide-react"
 import { motion } from "framer-motion"
 import { springs } from "@/lib/design-tokens"
 import { cn } from "@/lib/utils"
@@ -12,6 +12,8 @@ interface ChapterSidebarProps {
   onSelect: (index: number) => void
   open: boolean
   onToggle: () => void
+  lockedChapterIndices?: number[]
+  completedChapterIndices?: number[]
 }
 
 export function ChapterSidebar({
@@ -21,6 +23,8 @@ export function ChapterSidebar({
   onSelect,
   open,
   onToggle,
+  lockedChapterIndices = [],
+  completedChapterIndices = [],
 }: ChapterSidebarProps) {
   return (
     <div
@@ -32,6 +36,7 @@ export function ChapterSidebar({
       {/* Toggle button */}
       <button
         onClick={onToggle}
+        aria-label={open ? "Collapse chapter sidebar" : "Expand chapter sidebar"}
         className="absolute top-3 right-0 z-10 flex size-6 items-center justify-center rounded-l-md border border-r-0 border-border bg-background text-muted-foreground hover:text-foreground transition-colors"
         style={{ right: open ? "0" : "auto", left: open ? "auto" : "2px" }}
       >
@@ -54,15 +59,21 @@ export function ChapterSidebar({
           <nav className="flex-1 overflow-y-auto space-y-0.5">
             {chapters.map((chapter, i) => {
               const isActive = i === currentChapter
+              const isLocked = lockedChapterIndices.includes(i)
+              const isCompleted = completedChapterIndices.includes(i)
+
               return (
                 <button
                   key={i}
-                  onClick={() => onSelect(i)}
+                  onClick={() => !isLocked && onSelect(i)}
+                  aria-disabled={isLocked ? "true" : undefined}
+                  title={isLocked ? "Complete the previous chapter's trial to unlock" : undefined}
                   className={cn(
                     "relative flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-xs transition-[color,opacity] duration-[var(--tome-duration-fast)]",
                     isActive
                       ? "text-foreground font-medium"
-                      : "text-muted-foreground hover:text-foreground hover:opacity-70"
+                      : "text-muted-foreground hover:text-foreground hover:opacity-70",
+                    isLocked && "pointer-events-none opacity-40"
                   )}
                 >
                   {/* Active indicator */}
@@ -73,16 +84,22 @@ export function ChapterSidebar({
                       transition={springs.interactive}
                     />
                   )}
-                  <span
-                    className={cn(
-                      "size-4 shrink-0 flex items-center justify-center rounded text-[9px] tabular-nums",
-                      isActive
-                        ? "bg-foreground text-background font-semibold"
-                        : "bg-muted text-muted-foreground"
-                    )}
-                  >
-                    {i + 1}
-                  </span>
+                  {isLocked ? (
+                    <Lock className="size-3 shrink-0" />
+                  ) : isCompleted && !isActive ? (
+                    <CheckCircle2 className="size-3 shrink-0 text-emerald-500" />
+                  ) : (
+                    <span
+                      className={cn(
+                        "size-4 shrink-0 flex items-center justify-center rounded text-[9px] tabular-nums",
+                        isActive
+                          ? "bg-foreground text-background font-semibold"
+                          : "bg-muted text-muted-foreground"
+                      )}
+                    >
+                      {i + 1}
+                    </span>
+                  )}
                   <span className="truncate">{chapter}</span>
                 </button>
               )
