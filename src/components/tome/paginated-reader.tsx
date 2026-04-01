@@ -13,7 +13,7 @@ export interface PaginatedReaderProps {
   onPageChange: (page: number) => void
   onChapterEnd: () => void   // called when advancing past last page
   isPaginating: boolean      // show skeleton while paginator runs
-  mode: "page" | "book"
+  mode: "book"
   theme: ReaderTheme
   fontSize: number
   accentColor: string        // genre color for progress bar
@@ -66,7 +66,7 @@ function PageSkeleton() {
 // ─── ProgressStrip ───────────────────────────────────────────────────────────
 
 interface ProgressStripProps {
-  mode: "page" | "book"
+  mode: "book"
   currentPage: number  // 0-indexed
   totalPages: number
   accentColor: string
@@ -76,10 +76,10 @@ interface ProgressStripProps {
 function ProgressStrip({ mode, currentPage, totalPages, accentColor, textColor }: ProgressStripProps) {
   const displayLeft  = currentPage + 1
   const displayRight = currentPage + 2
-  const label = mode === "book" && currentPage + 1 < totalPages
+  const label = currentPage + 1 < totalPages
     ? `Pages ${displayLeft}–${displayRight} of ${totalPages}`
     : `Page ${displayLeft} of ${totalPages}`
-  const pct = ((currentPage + (mode === "book" ? 2 : 1)) / Math.max(1, totalPages)) * 100
+  const pct = ((currentPage + 2) / Math.max(1, totalPages)) * 100
 
   return (
     <div className="absolute bottom-0 inset-x-0 flex flex-col items-center gap-1 pb-3 pointer-events-none">
@@ -113,23 +113,19 @@ export function PaginatedReader({
   const pointerStartX = useRef<number | null>(null)
 
   const goNext = useCallback(() => {
-    const isLast = mode === "book"
-      ? currentPage + 2 >= pages.length
-      : currentPage >= pages.length - 1
-
-    if (isLast) {
+    if (currentPage + 2 >= pages.length) {
       onChapterEnd()
     } else {
       setDirection(1)
-      onPageChange(mode === "book" ? currentPage + 2 : currentPage + 1)
+      onPageChange(currentPage + 2)
     }
-  }, [currentPage, pages.length, mode, onChapterEnd, onPageChange])
+  }, [currentPage, pages.length, onChapterEnd, onPageChange])
 
   const goPrev = useCallback(() => {
     if (currentPage <= 0) return
     setDirection(-1)
-    onPageChange(mode === "book" ? Math.max(0, currentPage - 2) : currentPage - 1)
-  }, [currentPage, mode, onPageChange])
+    onPageChange(Math.max(0, currentPage - 2))
+  }, [currentPage, onPageChange])
 
   // Keyboard navigation — capture phase to suppress parent handlers
   useEffect(() => {
@@ -183,21 +179,14 @@ export function PaginatedReader({
     height: "100%",
   }
 
-  const paperStyle = (side: "left" | "right" | "single"): React.CSSProperties => ({
+  const paperStyle = (side: "left" | "right"): React.CSSProperties => ({
     background: t.bg,
     padding: `${PADDING_V}px ${PADDING_H}px`,
     overflow: "hidden",
     position: "relative",
     display: "flex",
     flexDirection: "column",
-    ...(mode === "book"
-      ? {
-          borderRadius: side === "left" ? "4px 0 0 4px" : "0 4px 4px 0",
-        }
-      : {
-          borderRadius: 4,
-          boxShadow: "0 4px 32px rgba(0,0,0,0.18), 0 1px 6px rgba(0,0,0,0.10)",
-        }),
+    borderRadius: side === "left" ? "4px 0 0 4px" : "0 4px 4px 0",
   })
 
   // Page content renderer
@@ -244,11 +233,10 @@ export function PaginatedReader({
   }
 
   // ── Book (dual-page spread) mode ───────────────────────────────────────────
-  if (mode === "book") {
-    const leftIdx  = currentPage
-    const rightIdx = currentPage + 1
+  const leftIdx  = currentPage
+  const rightIdx = currentPage + 1
 
-    return (
+  return (
       <div
         className="relative flex h-full w-full items-center justify-center select-none"
         onPointerDown={handlePointerDown}
@@ -304,35 +292,4 @@ export function PaginatedReader({
         />
       </div>
     )
-  }
-
-  // ── Single page mode ───────────────────────────────────────────────────────
-  return (
-    <div
-      className="relative flex h-full w-full items-center justify-center select-none"
-      onPointerDown={handlePointerDown}
-      onPointerUp={handlePointerUp}
-      onClick={handleContainerClick}
-      style={{ cursor: "default" }}
-    >
-      <div
-        className="relative overflow-hidden"
-        style={{
-          ...paperStyle("single"),
-          width: "min(600px, calc(100% - 48px))",
-          height: "calc(100% - 72px)",
-        }}
-      >
-        {renderPage(currentPage)}
-      </div>
-
-      <ProgressStrip
-        mode="page"
-        currentPage={currentPage}
-        totalPages={pages.length}
-        accentColor={accentColor}
-        textColor={t.muted}
-      />
-    </div>
-  )
 }

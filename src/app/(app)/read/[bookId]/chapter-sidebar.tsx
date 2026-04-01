@@ -1,9 +1,49 @@
 "use client"
 
-import { BookOpen, ChevronLeft, ChevronRight, Lock, CheckCircle2 } from "lucide-react"
+import { BookOpen, ChevronLeft, ChevronRight, Lock, CheckCircle2, FileText, ScrollText, BookMarked } from "lucide-react"
 import { motion } from "framer-motion"
 import { springs } from "@/lib/design-tokens"
 import { cn } from "@/lib/utils"
+
+// ── Chapter type classification ──
+
+export type ChapterType = "front-matter" | "chapter" | "back-matter"
+
+const FRONT_MATTER_KEYWORDS = [
+  "preface", "introduction", "introductory", "foreword", "dedication",
+  "prologue", "epigraph", "letter", "note to", "author's note",
+]
+
+const BACK_MATTER_KEYWORDS = [
+  "epilogue", "afterword", "appendix", "conclusion", "postscript",
+  "notes", "endnotes", "glossary", "bibliography", "colophon",
+  "three notes",
+]
+
+export function classifyChapter(title: string): ChapterType {
+  const lower = title.toLowerCase().trim()
+  if (FRONT_MATTER_KEYWORDS.some(kw => lower.startsWith(kw) || lower.includes(kw))) return "front-matter"
+  if (BACK_MATTER_KEYWORDS.some(kw => lower.startsWith(kw) || lower.includes(kw))) return "back-matter"
+  return "chapter"
+}
+
+function getChapterTypeIcon(type: ChapterType) {
+  switch (type) {
+    case "front-matter": return ScrollText
+    case "chapter": return BookOpen
+    case "back-matter": return FileText
+  }
+}
+
+function getChapterTypeLabel(type: ChapterType): string {
+  switch (type) {
+    case "front-matter": return "Front Matter"
+    case "chapter": return "Chapters"
+    case "back-matter": return "Back Matter"
+  }
+}
+
+// ── Types ──
 
 interface ChapterSidebarProps {
   bookTitle: string
@@ -16,6 +56,8 @@ interface ChapterSidebarProps {
   completedChapterIndices?: number[]
 }
 
+// ── Component ──
+
 export function ChapterSidebar({
   bookTitle,
   chapters,
@@ -26,6 +68,21 @@ export function ChapterSidebar({
   lockedChapterIndices = [],
   completedChapterIndices = [],
 }: ChapterSidebarProps) {
+  // Classify all chapters into contiguous groups
+  const groups: { type: ChapterType; label: string; chapters: { index: number; title: string }[] }[] = []
+  let currentGroup: (typeof groups)[number] | null = null
+
+  chapters.forEach((title, i) => {
+    const type = classifyChapter(title)
+    if (!currentGroup || currentGroup.type !== type) {
+      currentGroup = { type, label: getChapterTypeLabel(type), chapters: [] }
+      groups.push(currentGroup)
+    }
+    currentGroup.chapters.push({ index: i, title })
+  })
+
+  const hasMultipleGroups = groups.length > 1
+
   return (
     <div
       className={cn(
@@ -40,68 +97,84 @@ export function ChapterSidebar({
         className="absolute top-3 right-0 z-10 flex size-6 items-center justify-center rounded-l-md border border-r-0 border-border bg-background text-muted-foreground hover:text-foreground transition-colors"
         style={{ right: open ? "0" : "auto", left: open ? "auto" : "2px" }}
       >
-        {open ? (
-          <ChevronLeft className="size-3" />
-        ) : (
-          <ChevronRight className="size-3" />
-        )}
+        {open ? <ChevronLeft className="size-3" /> : <ChevronRight className="size-3" />}
       </button>
 
       {open && (
         <div className="flex h-full min-w-[220px] flex-col p-3">
           {/* Book title */}
           <div className="flex items-center gap-2 mb-4 px-1">
-            <BookOpen className="size-3.5 shrink-0 text-muted-foreground" />
+            <BookMarked className="size-3.5 shrink-0 text-muted-foreground" />
             <p className="text-xs font-medium truncate">{bookTitle}</p>
           </div>
 
-          {/* Chapter list */}
-          <nav className="flex-1 overflow-y-auto space-y-0.5">
-            {chapters.map((chapter, i) => {
-              const isActive = i === currentChapter
-              const isLocked = lockedChapterIndices.includes(i)
-              const isCompleted = completedChapterIndices.includes(i)
-
+          {/* Chapter list with type groups */}
+          <nav className="flex-1 overflow-y-auto">
+            {groups.map((group) => {
+              const Icon = getChapterTypeIcon(group.type)
               return (
-                <button
-                  key={i}
-                  onClick={() => !isLocked && onSelect(i)}
-                  aria-disabled={isLocked ? "true" : undefined}
-                  title={isLocked ? "Complete the previous chapter's trial to unlock" : undefined}
-                  className={cn(
-                    "relative flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-xs transition-[color,opacity] duration-[var(--tome-duration-fast)]",
-                    isActive
-                      ? "text-foreground font-medium"
-                      : "text-muted-foreground hover:text-foreground hover:opacity-70",
-                    isLocked && "pointer-events-none opacity-40"
+                <div key={`${group.type}-${group.chapters[0]?.index}`} className="mb-3">
+                  {/* Group header — only show if multiple groups exist */}
+                  {hasMultipleGroups && (
+                    <div className="flex items-center gap-1.5 px-2 mb-1.5">
+                      <Icon className="size-3 text-muted-foreground/60" />
+                      <span className="text-[10px] font-medium text-muted-foreground/60 uppercase tracking-wider">
+                        {group.label}
+                      </span>
+                    </div>
                   )}
-                >
-                  {/* Active indicator */}
-                  {isActive && (
-                    <motion.div
-                      layoutId="chapter-indicator"
-                      className="absolute left-0 top-1 bottom-1 w-0.5 rounded-full bg-foreground"
-                      transition={springs.interactive}
-                    />
-                  )}
-                  {isLocked ? (
-                    <Lock className="size-3 shrink-0" />
-                  ) : isCompleted && !isActive ? (
-                    <CheckCircle2 className="size-3 shrink-0 text-emerald-500" />
-                  ) : (
-                    <span
-                      className={cn(
-                        "size-4 shrink-0 flex items-center justify-center rounded text-[9px] tabular-nums",
-                        isActive
-                          ? "bg-foreground text-background font-semibold"
-                          : "bg-muted text-muted-foreground"
-                      )}
-                    >
-                      {i + 1}
-                    </span>
-                  )}
-                  <span className="truncate">{chapter}</span>
-                </button>
+
+                  {/* Chapter items */}
+                  <div className="space-y-0.5">
+                    {group.chapters.map(({ index: i, title }) => {
+                      const isActive = i === currentChapter
+                      const isLocked = lockedChapterIndices.includes(i)
+                      const isCompleted = completedChapterIndices.includes(i)
+
+                      return (
+                        <button
+                          key={i}
+                          onClick={() => !isLocked && onSelect(i)}
+                          aria-disabled={isLocked ? "true" : undefined}
+                          title={isLocked ? "Complete the previous chapter's trial to unlock" : undefined}
+                          className={cn(
+                            "relative flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-xs transition-[color,opacity] duration-[var(--tome-duration-fast)]",
+                            isActive
+                              ? "text-foreground font-medium"
+                              : "text-muted-foreground hover:text-foreground hover:opacity-70",
+                            isLocked && "pointer-events-none opacity-40"
+                          )}
+                        >
+                          {/* Active indicator */}
+                          {isActive && (
+                            <motion.div
+                              layoutId="chapter-indicator"
+                              className="absolute left-0 top-1 bottom-1 w-0.5 rounded-full bg-foreground"
+                              transition={springs.interactive}
+                            />
+                          )}
+                          {isLocked ? (
+                            <Lock className="size-3 shrink-0" />
+                          ) : isCompleted && !isActive ? (
+                            <CheckCircle2 className="size-3 shrink-0 text-emerald-500" />
+                          ) : (
+                            <span
+                              className={cn(
+                                "size-4 shrink-0 flex items-center justify-center rounded text-[9px] tabular-nums",
+                                isActive
+                                  ? "bg-foreground text-background font-semibold"
+                                  : "bg-muted text-muted-foreground"
+                              )}
+                            >
+                              {i + 1}
+                            </span>
+                          )}
+                          <span className="truncate">{title}</span>
+                        </button>
+                      )
+                    })}
+                  </div>
+                </div>
               )
             })}
           </nav>

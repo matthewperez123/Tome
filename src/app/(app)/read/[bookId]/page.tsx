@@ -86,7 +86,7 @@ export default function ReaderPage() {
   const [annotationOpen, setAnnotationOpen] = useState(false)
   const [bookmarkOpen, setBookmarkOpen] = useState(false)
   const [theme, setTheme]             = useState<ReaderTheme>("light")
-  const [viewMode, setViewMode]       = useState<ReaderLayout>("scroll")
+  const [viewMode, setViewMode]       = useState<ReaderLayout>("scroll" as ReaderLayout)
   const [fontSize, setFontSize]       = useState<FontSize>(18)
 
   // ── Paginated mode state ──
@@ -295,9 +295,7 @@ export default function ReaderPage() {
       setIsPaginating(true)
 
       const usableH = containerDims.h - PAGE_PADDING_V - 28 // 28px for progress strip
-      const usableW = viewMode === "book"
-        ? (containerDims.w - SPREAD_SPINE) / 2 - PAGE_PADDING_H
-        : containerDims.w - PAGE_PADDING_H
+      const usableW = (containerDims.w - SPREAD_SPINE) / 2 - PAGE_PADDING_H
 
       const html = chapterHTML
 
@@ -692,7 +690,7 @@ export default function ReaderPage() {
                 onPageChange={setCurrentPage}
                 onChapterEnd={handleFinishChapter}
                 isPaginating={isPaginating}
-                mode={viewMode as "page" | "book"}
+                mode="book"
                 theme={theme}
                 fontSize={fontSize}
                 accentColor={genreColor}

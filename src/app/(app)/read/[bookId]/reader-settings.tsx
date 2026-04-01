@@ -1,10 +1,10 @@
 "use client"
 
-import { Moon, Sun, Columns2, AlignJustify, Square, Minus, Plus } from "lucide-react"
+import { Moon, Sun, Columns2, AlignJustify, Minus, Plus } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 export type ReaderTheme = "light" | "dark"
-export type ReaderLayout = "scroll" | "page" | "book"
+export type ReaderLayout = "scroll" | "book"
 
 const FONT_SIZES = [14, 16, 18, 20, 22] as const
 export type FontSize = (typeof FONT_SIZES)[number]
@@ -53,7 +53,7 @@ export function ReaderSettings({
 
       <div className="mx-1 h-4 w-px bg-border" />
 
-      {/* Layout toggle — 3-segment control */}
+      {/* Layout toggle — 2-segment: Scroll | Book Spread */}
       <div className="rounded-md border border-border overflow-hidden flex items-center">
         {/* Scroll segment */}
         <button
@@ -70,26 +70,11 @@ export function ReaderSettings({
           <AlignJustify className="size-3.5" />
         </button>
 
-        {/* Page segment */}
-        <button
-          onClick={() => onLayoutChange("page")}
-          className={cn(
-            "inline-flex size-7 items-center justify-center border-x border-border transition-colors",
-            layout === "page"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          )}
-          aria-label="Page layout"
-          aria-pressed={layout === "page"}
-        >
-          <Square className="size-3.5" />
-        </button>
-
-        {/* Book segment — hidden on mobile */}
+        {/* Book spread segment — hidden on mobile */}
         <button
           onClick={() => onLayoutChange("book")}
           className={cn(
-            "hidden md:inline-flex size-7 items-center justify-center transition-colors",
+            "hidden md:inline-flex size-7 items-center justify-center border-l border-border transition-colors",
             layout === "book"
               ? "bg-foreground text-background"
               : "text-muted-foreground hover:text-foreground"
