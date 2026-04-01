@@ -1,0 +1,70 @@
+{
+  "bookId": "eugene-onegin",
+  "title": "Eugene Onegin",
+  "author": "Alexander Pushkin",
+  "chapterCount": 10,
+  "totalWordCount": 34083,
+  "totalMinutes": 137,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "A Short Biographical Notice of Alexander Pushkin",
+      "wordCount": 2481,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "Canto the First: “The Spleen”",
+      "wordCount": 4434,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "Canto the Second: The Poet",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "Canto the Third: The Country Damsel",
+      "wordCount": 4140,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "Canto the Fourth: Rural Life",
+      "wordCount": 3351,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "Canto the Fifth: The Fête",
+      "wordCount": 3642,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "Canto the Sixth: The Duel",
+      "wordCount": 3616,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "Canto the Seventh: Moscow",
+      "wordCount": 4283,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "Canto the Eighth: The Great World",
+      "wordCount": 4466,
+      "estimatedMinutes": 18
+    }
+  ]
+}

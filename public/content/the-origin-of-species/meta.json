@@ -1,0 +1,118 @@
+{
+  "bookId": "the-origin-of-species",
+  "title": "The Origin of Species: Or, the Preservation of Favoured Races in the Struggle for Life",
+  "author": "Charles Darwin",
+  "chapterCount": 18,
+  "totalWordCount": 200178,
+  "totalMinutes": 802,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "An Historical Sketch of the Progress of Opinion on the Origin of Species, Previously to the Publication of the First Edition of This Work",
+      "wordCount": 3506,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "I: Variation Under Domestication",
+      "wordCount": 12356,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 3,
+      "title": "II: Variation Under Nature",
+      "wordCount": 6514,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "III: Struggle for Existence",
+      "wordCount": 6230,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 5,
+      "title": "IV: Natural Selection; or the Survival of the Fittest",
+      "wordCount": 19761,
+      "estimatedMinutes": 79
+    },
+    {
+      "index": 6,
+      "title": "V: Laws of Variation",
+      "wordCount": 12183,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 7,
+      "title": "VI: Difficulties of the Theory",
+      "wordCount": 15646,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 8,
+      "title": "VII: Miscellaneous Objections to the Theory of Natural Selection",
+      "wordCount": 16763,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 9,
+      "title": "VIII: Instinct",
+      "wordCount": 13980,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 10,
+      "title": "IX: Hybridism",
+      "wordCount": 12940,
+      "estimatedMinutes": 52
+    },
+    {
+      "index": 11,
+      "title": "X: On the Imperfection of the Geological Record",
+      "wordCount": 11574,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 12,
+      "title": "XI: On the Geological Succession of Organic Beings",
+      "wordCount": 11353,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 13,
+      "title": "XII: Geographical Distribution",
+      "wordCount": 12188,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 14,
+      "title": "XIII: Geographical Distribution—Continued",
+      "wordCount": 8643,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 15,
+      "title": "XIV: Mutual Affinities of Organic Beings: Morphology—Embryology—Rudimentary Organs—Classification",
+      "wordCount": 18432,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 16,
+      "title": "XV: Recapitulation and Conclusion",
+      "wordCount": 11430,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 17,
+      "title": "Glossary of the Principal Scientific Terms Used in the Present Volume",
+      "wordCount": 5038,
+      "estimatedMinutes": 20
+    }
+  ]
+}

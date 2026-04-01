@@ -1,0 +1,58 @@
+{
+  "bookId": "the-secret-glory",
+  "title": "The Secret Glory",
+  "author": "Arthur Machen",
+  "chapterCount": 8,
+  "totalWordCount": 65965,
+  "totalMinutes": 264,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 359,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Note",
+      "wordCount": 47,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Preface",
+      "wordCount": 764,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "I",
+      "wordCount": 12004,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 4,
+      "title": "II",
+      "wordCount": 17516,
+      "estimatedMinutes": 70
+    },
+    {
+      "index": 5,
+      "title": "III",
+      "wordCount": 11720,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 6,
+      "title": "IV",
+      "wordCount": 22702,
+      "estimatedMinutes": 91
+    },
+    {
+      "index": 7,
+      "title": "Epilogue",
+      "wordCount": 853,
+      "estimatedMinutes": 3
+    }
+  ]
+}

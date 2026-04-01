@@ -1,0 +1,418 @@
+{
+  "bookId": "bleak-house",
+  "title": "Bleak House",
+  "author": "Charles Dickens",
+  "chapterCount": 68,
+  "totalWordCount": 355455,
+  "totalMinutes": 1423,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 764,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: In Chancery",
+      "wordCount": 2618,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: In Fashion",
+      "wordCount": 2907,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III: A Progress",
+      "wordCount": 7896,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 4,
+      "title": "IV: Telescopic Philanthropy",
+      "wordCount": 4914,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "V: A Morning Adventure",
+      "wordCount": 5713,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 6,
+      "title": "VI: Quite at Home",
+      "wordCount": 8709,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 7,
+      "title": "VII: The Ghost’s Walk",
+      "wordCount": 4242,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII: Covering a Multitude of Sins",
+      "wordCount": 8308,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "IX: Signs and Tokens",
+      "wordCount": 6264,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 10,
+      "title": "X: The Law-Writer",
+      "wordCount": 4219,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: Our Dear Brother",
+      "wordCount": 5862,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: On the Watch",
+      "wordCount": 5568,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 13,
+      "title": "XIII: Esther’s Narrative",
+      "wordCount": 6051,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 14,
+      "title": "XIV: Deportment",
+      "wordCount": 8566,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 15,
+      "title": "XV: Bell Yard",
+      "wordCount": 6330,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 16,
+      "title": "XVI: Tom-All-Alone’s",
+      "wordCount": 3511,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: Esther’s Narrative",
+      "wordCount": 5688,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Lady Dedlock",
+      "wordCount": 7116,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 19,
+      "title": "XIX: Moving On",
+      "wordCount": 5412,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XX: A New Lodger",
+      "wordCount": 5662,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Smallweed Family",
+      "wordCount": 6903,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 22,
+      "title": "XXII: Mr. Bucket",
+      "wordCount": 5195,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Esther’s Narrative",
+      "wordCount": 7391,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 24,
+      "title": "XXIV: An Appeal Case",
+      "wordCount": 7414,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 25,
+      "title": "XXV: Mrs. Snagsby Sees It All",
+      "wordCount": 3521,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Sharpshooters",
+      "wordCount": 5162,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 27,
+      "title": "XXVII: More Old Soldiers Than One",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Ironmaster",
+      "wordCount": 4608,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Young Man",
+      "wordCount": 3836,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXX: Esther’s Narrative",
+      "wordCount": 6547,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Nurse and Patient",
+      "wordCount": 6541,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The Appointed Time",
+      "wordCount": 5415,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Interlopers",
+      "wordCount": 5899,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: A Turn of the Screw",
+      "wordCount": 6254,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Esther’s Narrative",
+      "wordCount": 6201,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Chesney Wold",
+      "wordCount": 6767,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Jarndyce and Jarndyce",
+      "wordCount": 7722,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: A Struggle",
+      "wordCount": 4275,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Attorney and Client",
+      "wordCount": 6316,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 40,
+      "title": "XL: National and Domestic",
+      "wordCount": 4582,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLI: In Mr. Tulkinghorn’s Room",
+      "wordCount": 3450,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "XLII: In Mr. Tulkinghorn’s Chambers",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Esther’s Narrative",
+      "wordCount": 6327,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Letter and the Answer",
+      "wordCount": 3102,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 45,
+      "title": "XLV: In Trust",
+      "wordCount": 5386,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Stop Him!",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Jo’s Will",
+      "wordCount": 5785,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Closing In",
+      "wordCount": 6322,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Dutiful Friendship",
+      "wordCount": 5481,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 50,
+      "title": "L: Esther’s Narrative",
+      "wordCount": 4099,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 51,
+      "title": "LI: Enlightened",
+      "wordCount": 4645,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 52,
+      "title": "LII: Obstinacy",
+      "wordCount": 4483,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 53,
+      "title": "LIII: The Track",
+      "wordCount": 4445,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 54,
+      "title": "LIV: Springing a Mine",
+      "wordCount": 8532,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 55,
+      "title": "LV: Flight",
+      "wordCount": 6458,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 56,
+      "title": "LVI: Pursuit",
+      "wordCount": 3234,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 57,
+      "title": "LVII: Esther’s Narrative",
+      "wordCount": 7477,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 58,
+      "title": "LVIII: A Wintry Day and Night",
+      "wordCount": 5671,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 59,
+      "title": "LIX: Esther’s Narrative",
+      "wordCount": 5354,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 60,
+      "title": "LX: Perspective",
+      "wordCount": 5221,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 61,
+      "title": "LXI: A Discovery",
+      "wordCount": 4271,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 62,
+      "title": "LXII: Another Discovery",
+      "wordCount": 3612,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Steel and Iron",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 64,
+      "title": "LXIV: Esther’s Narrative",
+      "wordCount": 4459,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 65,
+      "title": "LXV: Beginning the World",
+      "wordCount": 2964,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Down in Lincolnshire",
+      "wordCount": 1721,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 67,
+      "title": "LXVII: The Close of Esther’s Narrative",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    }
+  ]
+}

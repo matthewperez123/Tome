@@ -1,0 +1,304 @@
+{
+  "bookId": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "chapterCount": 49,
+  "totalWordCount": 136567,
+  "totalMinutes": 553,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 185,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Book the First: Recalled to Life",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: The Period",
+      "wordCount": 1006,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "II: The Mail",
+      "wordCount": 2027,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: The Night Shadows",
+      "wordCount": 1621,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "IV: The Preparation",
+      "wordCount": 4422,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "V: The Wine-Shop",
+      "wordCount": 4174,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VI: The Shoemaker",
+      "wordCount": 4144,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "Book the Second: The Golden Thread",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: Five Years Later",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "II: A Sight",
+      "wordCount": 2390,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "III: A Disappointment",
+      "wordCount": 4877,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "IV: Congratulatory",
+      "wordCount": 2253,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "V: The Jackal",
+      "wordCount": 2138,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "VI: Hundreds of People",
+      "wordCount": 4590,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "VII: Monseigneur in Town",
+      "wordCount": 3334,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "VIII: Monseigneur in the Country",
+      "wordCount": 1853,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "IX: The Gorgon’s Head",
+      "wordCount": 4083,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "X: Two Promises",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XI: A Companion Picture",
+      "wordCount": 1405,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XII: The Fellow of Delicacy",
+      "wordCount": 2581,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "XIII: The Fellow of No Delicacy",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XIV: The Honest Tradesman",
+      "wordCount": 3897,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XV: Knitting",
+      "wordCount": 4227,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 24,
+      "title": "XVI: Still Knitting",
+      "wordCount": 3881,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XVII: One Night",
+      "wordCount": 1917,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XVIII: Nine Days",
+      "wordCount": 2418,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XIX: An Opinion",
+      "wordCount": 2793,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XX: A Plea",
+      "wordCount": 1348,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XXI: Echoing Footsteps",
+      "wordCount": 4270,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXII: The Sea Still Rises",
+      "wordCount": 2041,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXIII: Fire Rises",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXIV: Drawn to the Loadstone Rock",
+      "wordCount": 4426,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 33,
+      "title": "Book the Third: The Track of a Storm",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "I: In Secret",
+      "wordCount": 4240,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 35,
+      "title": "II: The Grindstone",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "III: The Shadow",
+      "wordCount": 1730,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "IV: Calm in Storm",
+      "wordCount": 2143,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "V: The Wood-Sawyer",
+      "wordCount": 2285,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 39,
+      "title": "VI: Triumph",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "VII: A Knock at the Door",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "VIII: A Hand at Cards",
+      "wordCount": 4687,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 42,
+      "title": "IX: The Game Made",
+      "wordCount": 4656,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 43,
+      "title": "X: The Substance of the Shadow",
+      "wordCount": 5842,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 44,
+      "title": "XI: Dusk",
+      "wordCount": 1459,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 45,
+      "title": "XII: Darkness",
+      "wordCount": 3207,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XIII: Fifty-Two",
+      "wordCount": 4415,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "XIV: The Knitting Done",
+      "wordCount": 4641,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 48,
+      "title": "XV: The Footsteps Die Out Forever",
+      "wordCount": 2234,
+      "estimatedMinutes": 9
+    }
+  ]
+}

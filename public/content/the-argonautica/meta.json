@@ -1,0 +1,40 @@
+{
+  "bookId": "the-argonautica",
+  "title": "The Argonautica",
+  "author": "Apollonius of Rhodes",
+  "chapterCount": 5,
+  "totalWordCount": 71102,
+  "totalMinutes": 283,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 16070,
+      "estimatedMinutes": 64
+    },
+    {
+      "index": 1,
+      "title": "Book II",
+      "wordCount": 15041,
+      "estimatedMinutes": 60
+    },
+    {
+      "index": 2,
+      "title": "Book III",
+      "wordCount": 16756,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 3,
+      "title": "Book IV",
+      "wordCount": 20868,
+      "estimatedMinutes": 83
+    },
+    {
+      "index": 4,
+      "title": "The Translator’s Epilogue",
+      "wordCount": 2367,
+      "estimatedMinutes": 9
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "bookId": "the-american-senator",
+  "title": "The American Senator",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 208819,
+  "totalMinutes": 838,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 592,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Dillsborough",
+      "wordCount": 2794,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II: The Morton Family",
+      "wordCount": 2619,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: The Masters Family",
+      "wordCount": 2539,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: The Dillsborough Club",
+      "wordCount": 2129,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "V: Reginald Morton",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI: Not in Love",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII: The Walk Home",
+      "wordCount": 1919,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Paragon’s Party at Bragton",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX: The Old Kennels",
+      "wordCount": 2718,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X: Goarly’s Revenge",
+      "wordCount": 2849,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI: From Impington Gorse",
+      "wordCount": 2729,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: Arabella Trefoil",
+      "wordCount": 2661,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII: At Bragton",
+      "wordCount": 2456,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Dillsborough Feud",
+      "wordCount": 2666,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XV: A Fit Companion—For Me and My Sisters",
+      "wordCount": 1982,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVI: Mr. Gotobed’s Philanthropy",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII: Lord Rufford’s Invitation",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Attorney’s Family Is Disturbed",
+      "wordCount": 2681,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIX: “Who Valued the Geese?”",
+      "wordCount": 2750,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XX: There Are Convenances",
+      "wordCount": 2101,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXI: The First Evening at Rufford Hall",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXII: Jemima",
+      "wordCount": 2632,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Poor Caneback",
+      "wordCount": 2298,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Ball",
+      "wordCount": 2747,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Last Morning at Rufford Hall",
+      "wordCount": 2629,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Give Me Six Months",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVII: “Wonderful Bird!”",
+      "wordCount": 2834,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Mounser Green",
+      "wordCount": 1937,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Senator’s Letter",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "XXX: At Cheltenham",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Rufford Correspondence",
+      "wordCount": 2838,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: “It Is a Long Way”",
+      "wordCount": 2653,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Beginning of Persecution",
+      "wordCount": 2664,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mary’s Letter",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Chowton Farm for Sale",
+      "wordCount": 2391,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Mistletoe",
+      "wordCount": 2436,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: How Things Were Arranged",
+      "wordCount": 1969,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: “You Are So Severe”",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: The Day at Peltry",
+      "wordCount": 3061,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 40,
+      "title": "XL: Lord Rufford Wants to See a Horse",
+      "wordCount": 2867,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Senator Is Badly Treated",
+      "wordCount": 2945,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLII: Mr. Mainwaring’s Little Dinner",
+      "wordCount": 2380,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Persecution",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "XLIV: “Particularly Proud of You”",
+      "wordCount": 2757,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "XLV: Lord Rufford Makes Up His Mind",
+      "wordCount": 2763,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 46,
+      "title": "XLVI: It Cannot Be Arranged",
+      "wordCount": 2233,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "XLVII: “But There Is Some One”",
+      "wordCount": 2659,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: The Dinner at the Bush",
+      "wordCount": 2716,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Miss Trefoil’s Decision",
+      "wordCount": 2670,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "L: “In These Days One Can’t Make a Man Marry”",
+      "wordCount": 2633,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "LI: The Senator’s Second Letter",
+      "wordCount": 3840,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 52,
+      "title": "LII: Providence Interferes",
+      "wordCount": 1808,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 53,
+      "title": "LIII: Lady Ushant at Bragton",
+      "wordCount": 2191,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 54,
+      "title": "LIV: Arabella Again at Bragton",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 55,
+      "title": "LV: “I Have Told Him Everything”",
+      "wordCount": 2563,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 56,
+      "title": "LVI: “Now What Have You Got to Say?”",
+      "wordCount": 2828,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "LVII: Mrs. Morton Returns",
+      "wordCount": 2983,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Two Old Ladies",
+      "wordCount": 2887,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 59,
+      "title": "LIX: The Last Effort",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 60,
+      "title": "LX: Again at Mistletoe",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "LXI: The Success of Lady Augustus",
+      "wordCount": 2574,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 62,
+      "title": "LXII: “We Shall Kill Each Other”",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Changes at Bragton",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Will",
+      "wordCount": 2763,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 65,
+      "title": "LXV: The New Minister",
+      "wordCount": 2028,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 66,
+      "title": "LXVI: “I Must Go”",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 67,
+      "title": "LXVII: In the Park",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: Lord Rufford’s Model Farm",
+      "wordCount": 2560,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 69,
+      "title": "LXIX: Scrobby’s Trial",
+      "wordCount": 2155,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 70,
+      "title": "LXX: At Last",
+      "wordCount": 2706,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 71,
+      "title": "LXXI: “My Own, Own Husband”",
+      "wordCount": 2667,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 72,
+      "title": "LXXII: “Bid Him Be a Man”",
+      "wordCount": 2706,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: “Is It Tanti?”",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: Benedict",
+      "wordCount": 2154,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 75,
+      "title": "LXXV: Arabella’s Success",
+      "wordCount": 2688,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: The Wedding",
+      "wordCount": 2655,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: The Senator’s Lecture.—No. I",
+      "wordCount": 2827,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Senator’s Lecture.—No. II",
+      "wordCount": 2729,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: The Last Days of Mary Masters",
+      "wordCount": 2754,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 80,
+      "title": "LXXX: Conclusion",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    }
+  ]
+}

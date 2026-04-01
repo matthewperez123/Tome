@@ -1,0 +1,448 @@
+{
+  "bookId": "little-dorrit",
+  "title": "Little Dorrit",
+  "author": "Charles Dickens",
+  "chapterCount": 73,
+  "totalWordCount": 339384,
+  "totalMinutes": 1363,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface to the 1857 Edition",
+      "wordCount": 693,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Book I: Poverty",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Sun and Shadow",
+      "wordCount": 5580,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "II: Fellow Travellers",
+      "wordCount": 5336,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "III: Home",
+      "wordCount": 5464,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "IV: Mrs. Flintwinch Has a Dream",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V: Family Affairs",
+      "wordCount": 4764,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 7,
+      "title": "VI: The Father of the Marshalsea",
+      "wordCount": 4318,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VII: The Child of the Marshalsea",
+      "wordCount": 4406,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Lock",
+      "wordCount": 4627,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX: Little Mother",
+      "wordCount": 5675,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "X: Containing the Whole Science of Government",
+      "wordCount": 8064,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 12,
+      "title": "XI: Let Loose",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XII: Bleeding Heart Yard",
+      "wordCount": 3824,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIII: Patriarchal",
+      "wordCount": 9513,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 15,
+      "title": "XIV: Little Dorrit’s Party",
+      "wordCount": 5013,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "XV: Mrs. Flintwinch Has Another Dream",
+      "wordCount": 3730,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVI: Nobody’s Weakness",
+      "wordCount": 5800,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVII: Nobody’s Rival",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Little Dorrit’s Lover",
+      "wordCount": 4103,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Father of the Marshalsea in Two or Three Relations",
+      "wordCount": 4776,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 21,
+      "title": "XX: Moving in Society",
+      "wordCount": 5837,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "XXI: Mr. Merdle’s Complaint",
+      "wordCount": 3522,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXII: A Puzzle",
+      "wordCount": 3768,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Machinery in Motion",
+      "wordCount": 6720,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Fortune-Telling",
+      "wordCount": 6744,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 26,
+      "title": "XXV: Conspirators and Others",
+      "wordCount": 4216,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Nobody’s State of Mind",
+      "wordCount": 5286,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Five-and-Twenty",
+      "wordCount": 5170,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Nobody’s Disappearance",
+      "wordCount": 3161,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Mrs. Flintwinch Goes on Dreaming",
+      "wordCount": 3254,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "XXX: The Word of a Gentleman",
+      "wordCount": 6435,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 32,
+      "title": "XXXI: Spirit",
+      "wordCount": 6484,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 33,
+      "title": "XXXII: More Fortune-Telling",
+      "wordCount": 3806,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Mrs. Merdle’s Complaint",
+      "wordCount": 4146,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: A Shoal of Barnacles",
+      "wordCount": 4032,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 36,
+      "title": "XXXV: What Was Behind Mr. Pancks on Little Dorrit’s Hand",
+      "wordCount": 5626,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: The Marshalsea Becomes an Orphan",
+      "wordCount": 3034,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 38,
+      "title": "Book II: Riches",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "I: Fellow Travellers",
+      "wordCount": 6408,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 40,
+      "title": "II: Mrs. General",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "III: On the Road",
+      "wordCount": 6645,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 42,
+      "title": "IV: A Letter from Little Dorrit",
+      "wordCount": 1644,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 43,
+      "title": "V: Something Wrong Somewhere",
+      "wordCount": 6327,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 44,
+      "title": "VI: Something Right Somewhere",
+      "wordCount": 6208,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 45,
+      "title": "VII: Mostly, Prunes and Prism",
+      "wordCount": 4707,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 46,
+      "title": "VIII: The Dowager Mrs. Gowan Is Reminded That “It Never Does”",
+      "wordCount": 4863,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 47,
+      "title": "IX: Appearance and Disappearance",
+      "wordCount": 6578,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 48,
+      "title": "X: The Dreams of Mrs. Flintwinch Thicken",
+      "wordCount": 3085,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "XI: A Letter from Little Dorrit",
+      "wordCount": 2625,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "XII: In Which a Great Patriotic Conference Is Holden",
+      "wordCount": 6275,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 51,
+      "title": "XIII: The Progress of an Epidemic",
+      "wordCount": 6218,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 52,
+      "title": "XIV: Taking Advice",
+      "wordCount": 4457,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 53,
+      "title": "XV: No Just Cause or Impediment Why These Two Persons Should Not Be Joined Together",
+      "wordCount": 6770,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 54,
+      "title": "XVI: Getting On",
+      "wordCount": 2886,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 55,
+      "title": "XVII: Missing",
+      "wordCount": 4153,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 56,
+      "title": "XVIII: A Castle in the Air",
+      "wordCount": 2768,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 57,
+      "title": "XIX: The Storming of the Castle in the Air",
+      "wordCount": 6502,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 58,
+      "title": "XX: Introduces the Next",
+      "wordCount": 4177,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 59,
+      "title": "XXI: The History of a Self-Tormentor",
+      "wordCount": 4070,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 60,
+      "title": "XXII: Who Passes by This Road So Late?",
+      "wordCount": 2714,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 61,
+      "title": "XXIII: Mistress Affery Makes a Conditional Promise, Respecting Her Dreams",
+      "wordCount": 5269,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 62,
+      "title": "XXIV: The Evening of a Long Day",
+      "wordCount": 4128,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 63,
+      "title": "XXV: The Chief Butler Resigns the Seals of Office",
+      "wordCount": 3868,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 64,
+      "title": "XXVI: Reaping the Whirlwind",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "XXVII: The Pupil of the Marshalsea",
+      "wordCount": 6122,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 66,
+      "title": "XXVIII: An Appearance in the Marshalsea",
+      "wordCount": 7432,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 67,
+      "title": "XXIX: A Plea in the Marshalsea",
+      "wordCount": 3898,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 68,
+      "title": "XXX: Closing In",
+      "wordCount": 10462,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 69,
+      "title": "XXXI: Closed",
+      "wordCount": 3934,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 70,
+      "title": "XXXII: Going",
+      "wordCount": 3141,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 71,
+      "title": "XXXIII: Going!",
+      "wordCount": 4482,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 72,
+      "title": "XXXIV: Gone",
+      "wordCount": 4996,
+      "estimatedMinutes": 20
+    }
+  ]
+}

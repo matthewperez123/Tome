@@ -1,0 +1,226 @@
+{
+  "bookId": "iola-leroy",
+  "title": "Iola Leroy: Or, Shadows Uplifted",
+  "author": "Frances Ellen Watkins Harper",
+  "chapterCount": 36,
+  "totalWordCount": 74590,
+  "totalMinutes": 293,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 328,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 816,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "I: Mystery of Market Speech and Prayer-Meeting",
+      "wordCount": 2116,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "II: Contraband of War",
+      "wordCount": 2576,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "III: Uncle Daniel’s Story",
+      "wordCount": 2445,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "IV: Arrival of the Union Army",
+      "wordCount": 1299,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "V: The Release of Iola Leroy",
+      "wordCount": 1521,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VI: Robert Johnson’s Promotion and Religion",
+      "wordCount": 2074,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VII: Tom Anderson’s Death",
+      "wordCount": 1599,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Mystified Doctor",
+      "wordCount": 1357,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 10,
+      "title": "IX: Eugene Leroy and Alfred Lorraine",
+      "wordCount": 3288,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X: Shadows in the Home",
+      "wordCount": 3556,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XI: The Plague and the Law",
+      "wordCount": 2985,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XII: Schoolgirl Notions",
+      "wordCount": 3248,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIII: A Rejected Suitor",
+      "wordCount": 2990,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XIV: Harry Leroy",
+      "wordCount": 2314,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XV: Robert and His Company",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVI: After the Battle",
+      "wordCount": 1103,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XVII: Flames in the Schoolroom",
+      "wordCount": 1109,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Searching for Lost Ones",
+      "wordCount": 4705,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XIX: Striking Contrasts",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XX: A Revelation",
+      "wordCount": 3537,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXI: A Home for Mother",
+      "wordCount": 604,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 23,
+      "title": "XXII: Further Lifting of the Veil",
+      "wordCount": 1869,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Delightful Reunions",
+      "wordCount": 1743,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Northern Experience",
+      "wordCount": 2202,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXV: An Old Friend",
+      "wordCount": 2104,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Open Questions",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Diverging Paths",
+      "wordCount": 1804,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Dr. Latrobe’s Mistake",
+      "wordCount": 897,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Visitors from the South",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXX: Friends in Council",
+      "wordCount": 3993,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXI: Dawning Affections",
+      "wordCount": 1328,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 33,
+      "title": "XXXII: Wooing and Wedding",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Conclusion",
+      "wordCount": 1728,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "Note",
+      "wordCount": 261,
+      "estimatedMinutes": 1
+    }
+  ]
+}

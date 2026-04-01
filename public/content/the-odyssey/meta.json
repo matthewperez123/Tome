@@ -1,0 +1,160 @@
+{
+  "bookId": "the-odyssey",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "chapterCount": 25,
+  "totalWordCount": 118709,
+  "totalMinutes": 474,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Book I: Visit of Pallas to Telemachus",
+      "wordCount": 4260,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "Book II: Departure of Telemachus from Ithaca",
+      "wordCount": 4217,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "Book III: Interview of Telemachus with Nestor",
+      "wordCount": 4969,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "Book IV: Conference of Telemachus and Menelaus",
+      "wordCount": 8377,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 5,
+      "title": "Book V: Departure of Ulysses from Calypso",
+      "wordCount": 4680,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "Book VI: Ulysses Discovered by Nausicaä",
+      "wordCount": 3264,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "Book VII: Reception of Ulysses by Alcinoüs",
+      "wordCount": 3216,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "Book VIII: Festivals in Honor of Ulysses",
+      "wordCount": 5579,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "Book IX: The Ciconians, Lotus-Eaters, and Cyclops",
+      "wordCount": 5420,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 10,
+      "title": "Book X: Aeolus, the Lestrigonians, and Circè",
+      "wordCount": 5583,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "Book XI: Visit of Ulysses to the Land of the Dead",
+      "wordCount": 6293,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 12,
+      "title": "Book XII: The Sirens, Scylla, and Charybdis",
+      "wordCount": 4538,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "Book XIII: Arrival of Ulysses at Ithaca",
+      "wordCount": 4368,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "Book XIV: Meeting of Ulysses and Eumaeus",
+      "wordCount": 5253,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "Book XV: Return of Telemachus",
+      "wordCount": 5407,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "Book XVI: Ulysses Discovering Himself to Telemachus",
+      "wordCount": 4533,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "Book XVII: Return of Ulysses to His Palace",
+      "wordCount": 5818,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "Book XVIII: Combat of Ulysses and Irus",
+      "wordCount": 4189,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "Book XIX: Ulysses Recognized by Eurycleia",
+      "wordCount": 5795,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 20,
+      "title": "Book XX: The Last Banquet of the Suitors",
+      "wordCount": 3803,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "Book XXI: The Bending of the Bow of Ulysses",
+      "wordCount": 4295,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "Book XXII: Death of the Suitors",
+      "wordCount": 4805,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 23,
+      "title": "Book XXIII: Ulysses and Penelope After the Slaughter",
+      "wordCount": 3616,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "Book XXIV: Conclusion",
+      "wordCount": 5227,
+      "estimatedMinutes": 21
+    }
+  ]
+}

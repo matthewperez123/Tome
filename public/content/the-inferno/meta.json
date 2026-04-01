@@ -1,0 +1,112 @@
+{
+  "bookId": "the-inferno",
+  "title": "The Inferno",
+  "author": "August Strindberg",
+  "chapterCount": 17,
+  "totalWordCount": 45997,
+  "totalMinutes": 187,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1175,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I: The Hand of the Invisible",
+      "wordCount": 3517,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: St. Louis Leads Me to Orfila",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "III: Paradise Regained",
+      "wordCount": 703,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "IV: The Fall and Paradise Lost",
+      "wordCount": 1185,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "V: Purgatory",
+      "wordCount": 12375,
+      "estimatedMinutes": 50
+    },
+    {
+      "index": 6,
+      "title": "VI: Hell",
+      "wordCount": 6932,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 7,
+      "title": "VII: Beatrice",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: Swedenborg",
+      "wordCount": 4046,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX: Extracts from the Diary of a Damned Soul",
+      "wordCount": 3461,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X: The Eternal Has Spoken",
+      "wordCount": 1003,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XI: Hell Let Loose",
+      "wordCount": 2162,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: Pilgrimage and Penance",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Deliverer",
+      "wordCount": 1263,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XIV: Tribulations",
+      "wordCount": 1422,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XV: Whither?",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "Epilogue",
+      "wordCount": 432,
+      "estimatedMinutes": 2
+    }
+  ]
+}

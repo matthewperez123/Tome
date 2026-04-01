@@ -1,0 +1,148 @@
+{
+  "bookId": "the-missing-chums",
+  "title": "The Missing Chums",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 23,
+  "totalWordCount": 42277,
+  "totalMinutes": 169,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Three Strangers",
+      "wordCount": 1770,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "II: Quick Thinking",
+      "wordCount": 2031,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: A Shady Trio",
+      "wordCount": 2054,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: The Send-Off",
+      "wordCount": 1555,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V: No Word from the Chums",
+      "wordCount": 1727,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: Missing",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Wreckage",
+      "wordCount": 1612,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Strange Letter",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: Blacksnake Island",
+      "wordCount": 2116,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "X: The Boy on the Deck",
+      "wordCount": 1788,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: The Island",
+      "wordCount": 1813,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: Into the Cave",
+      "wordCount": 2448,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Four Men",
+      "wordCount": 1743,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Storm",
+      "wordCount": 1671,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: A Startling Announcement",
+      "wordCount": 1880,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Alarm",
+      "wordCount": 1445,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: Capture",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Back to the Cave",
+      "wordCount": 1963,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIX: Separated",
+      "wordCount": 1800,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XX: Seizing the Boats",
+      "wordCount": 1832,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: At the Island",
+      "wordCount": 2145,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Chase",
+      "wordCount": 1572,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Home Again",
+      "wordCount": 1924,
+      "estimatedMinutes": 8
+    }
+  ]
+}

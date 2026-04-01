@@ -1,0 +1,82 @@
+{
+  "bookId": "the-pursuit-of-god",
+  "title": "The Pursuit of God",
+  "author": "A. W. Tozer",
+  "chapterCount": 12,
+  "totalWordCount": 28967,
+  "totalMinutes": 117,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 389,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 820,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "I: Following Hard After God",
+      "wordCount": 2421,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "II: The Blessedness of Possessing Nothing",
+      "wordCount": 2669,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "III: Removing the Veil",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV: Apprehending God",
+      "wordCount": 2616,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "V: The Universal Presence",
+      "wordCount": 2779,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VI: The Speaking Voice",
+      "wordCount": 2651,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VII: The Gaze of the Soul",
+      "wordCount": 3380,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "VIII: Restoring the Creator-Creature Relation",
+      "wordCount": 2495,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "IX: Meekness and Rest",
+      "wordCount": 2007,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: The Sacrament of Living",
+      "wordCount": 2898,
+      "estimatedMinutes": 12
+    }
+  ]
+}

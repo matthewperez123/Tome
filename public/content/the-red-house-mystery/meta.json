@@ -1,0 +1,142 @@
+{
+  "bookId": "the-red-house-mystery",
+  "title": "The Red House Mystery",
+  "author": "A. A. Milne",
+  "chapterCount": 22,
+  "totalWordCount": 60757,
+  "totalMinutes": 245,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Mrs. Stevens Is Frightened",
+      "wordCount": 2438,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 1,
+      "title": "II: Mr. Gillingham Gets Out at the Wrong Station",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: Two Men and a Body",
+      "wordCount": 2743,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV: The Brother from Australia",
+      "wordCount": 2655,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "V: Mr. Gillingham Chooses a New Profession",
+      "wordCount": 2902,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI: Outside or Inside?",
+      "wordCount": 2400,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: Portrait of a Gentleman",
+      "wordCount": 2387,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII: “Do You Follow Me, Watson?”",
+      "wordCount": 3216,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: Possibilities of a Croquet Set",
+      "wordCount": 3060,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: Mr. Gillingham Talks Nonsense",
+      "wordCount": 2671,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI: The Reverend Theodore Ussher",
+      "wordCount": 2463,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: A Shadow on the Wall",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Open Window",
+      "wordCount": 2682,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: Mr. Beverley Qualifies for the Stage",
+      "wordCount": 2536,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XV: Mrs. Norbury Confides in Dear Mr. Gillingham",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI: Getting Ready for the Night",
+      "wordCount": 2979,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XVII: Mr. Beverley Takes the Water",
+      "wordCount": 4461,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Guesswork",
+      "wordCount": 2304,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Inquest",
+      "wordCount": 3102,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XX: Mr. Beverley Is Tactful",
+      "wordCount": 1824,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: Cayley’s Apology",
+      "wordCount": 3887,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXII: Mr. Beverley Moves On",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "bookId": "orley-farm",
+  "title": "Orley Farm",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 310065,
+  "totalMinutes": 1238,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 347,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Commencement of the Great Orley Farm Case",
+      "wordCount": 4450,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II: Lady Mason and Her Son",
+      "wordCount": 5332,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "III: The Cleeve",
+      "wordCount": 3041,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: The Perils of Youth",
+      "wordCount": 2783,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Sir Peregrine Makes a Second Promise",
+      "wordCount": 2460,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI: The Commercial Room, Bull Inn, Leeds",
+      "wordCount": 5237,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII: The Masons of Groby Park",
+      "wordCount": 4927,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VIII: Mrs. Mason’s Hot Luncheon",
+      "wordCount": 2249,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "IX: A Convivial Meeting",
+      "wordCount": 4347,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "X: Mr., Mrs., and Miss Furnival",
+      "wordCount": 3230,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: Mrs. Furnival at Home",
+      "wordCount": 3932,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 12,
+      "title": "XII: Mr. Furnival’s Chambers",
+      "wordCount": 3727,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: Guilty, or Not Guilty",
+      "wordCount": 3901,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIV: Dinner at the Cleeve",
+      "wordCount": 4041,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XV: A Morning Call at Mount Pleasant Villa",
+      "wordCount": 3614,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: Mr. Dockwrath in Bedford Row",
+      "wordCount": 3670,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVII: Von Bauhr",
+      "wordCount": 3864,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The English von Bauhr",
+      "wordCount": 2833,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Staveley Family",
+      "wordCount": 5244,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 20,
+      "title": "XX: Mr. Dockwrath in His Own Office",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: Christmas in Harley Street",
+      "wordCount": 3999,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XXII: Christmas at Noningsby",
+      "wordCount": 5358,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Christmas at Groby Park",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Christmas in Great St. Helens",
+      "wordCount": 3024,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXV: Mr. Furnival Again at His Chambers",
+      "wordCount": 3947,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Why Should I Not?",
+      "wordCount": 4472,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Commerce",
+      "wordCount": 2863,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Monkton Grange",
+      "wordCount": 4267,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Breaking Covert",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXX: Another Fall",
+      "wordCount": 3875,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Footsteps in the Corridor",
+      "wordCount": 2772,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: What Bridget Bolster Had to Say",
+      "wordCount": 5235,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Angel of Light",
+      "wordCount": 3864,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mr. Furnival Looks for Assistance",
+      "wordCount": 2897,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Love Was Still the Lord of All",
+      "wordCount": 5296,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: What the Young Men Thought About It",
+      "wordCount": 3481,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Peregrine’s Eloquence",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Oh, Indeed!",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Why Should He Go?",
+      "wordCount": 5996,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 40,
+      "title": "XL: I Call It Awful",
+      "wordCount": 2773,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XLI: How Can I Save Him?",
+      "wordCount": 4010,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XLII: John Kenneby Goes to Hamworth",
+      "wordCount": 3303,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "XLIII: John Kenneby’s Courtship",
+      "wordCount": 3360,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Showing How Lady Mason Could Be Very Noble",
+      "wordCount": 5019,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 45,
+      "title": "XLV: Showing How Mrs. Orme Could Be Very Weak Minded",
+      "wordCount": 4836,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 46,
+      "title": "XLVI: A Woman’s Idea of Friendship",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The Gem of the Four Families",
+      "wordCount": 3235,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: The Angel of Light Under a Cloud",
+      "wordCount": 4411,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Mrs. Furnival Can’t Put Up with It",
+      "wordCount": 3597,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 50,
+      "title": "L: It Is Quite Impossible",
+      "wordCount": 5415,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 51,
+      "title": "LI: Mrs. Furnival’s Journey to Hamworth",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 52,
+      "title": "LII: Showing How Things Went on at Noningsby",
+      "wordCount": 3256,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 53,
+      "title": "LIII: Lady Mason Returns Home",
+      "wordCount": 4725,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 54,
+      "title": "LIV: Telling All That Happened Beneath the Lamppost",
+      "wordCount": 3875,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 55,
+      "title": "LV: What Took Place in Harley Street",
+      "wordCount": 3647,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 56,
+      "title": "LVI: How Sir Peregrine Did Business with Mr. Round",
+      "wordCount": 3510,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 57,
+      "title": "LVII: The Loves and Hopes of Albert Fitzallen",
+      "wordCount": 3472,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Miss Staveley Declines to Eat Minced Veal",
+      "wordCount": 4784,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 59,
+      "title": "LIX: No Surrender",
+      "wordCount": 3599,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 60,
+      "title": "LX: What Rebekah Did for Her Son",
+      "wordCount": 3893,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 61,
+      "title": "LXI: The State of Public Opinion",
+      "wordCount": 3781,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "LXII: What the Four Lawyers Thought About It",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 63,
+      "title": "LXIII: The Evening Before the Trial",
+      "wordCount": 4547,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The First Journey to Alston",
+      "wordCount": 3851,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 65,
+      "title": "LXV: Felix Graham Returns to Noningsby",
+      "wordCount": 4552,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Showing How Miss Furnival Treated Her Lovers",
+      "wordCount": 3634,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 67,
+      "title": "LXVII: Mr. Moulder Backs His Opinion",
+      "wordCount": 2862,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: The First Day of the Trial",
+      "wordCount": 4359,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 69,
+      "title": "LXIX: The Two Judges",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 70,
+      "title": "LXX: How Am I to Bear It?",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Showing How John Kenneby and Bridget Bolster Bore Themselves in Court",
+      "wordCount": 4715,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Mr. Furnival’s Speech",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Mrs. Orme Tells the Story",
+      "wordCount": 4576,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: Young Lochinvar",
+      "wordCount": 3342,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 75,
+      "title": "LXXV: The Last Day",
+      "wordCount": 4371,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: I Love Her Still",
+      "wordCount": 3486,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: John Kenneby’s Doom",
+      "wordCount": 3327,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Last of the Lawyers",
+      "wordCount": 4537,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: Farewell",
+      "wordCount": 4426,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 80,
+      "title": "LXXX: Showing How Affairs Settled Themselves at Noningsby",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bookId": "the-memoirs-of-sherlock-holmes",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 12,
+  "totalWordCount": 96002,
+  "totalMinutes": 385,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Silver Blaze",
+      "wordCount": 9580,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 1,
+      "title": "The Cardboard Box",
+      "wordCount": 8669,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 2,
+      "title": "The Yellow Face",
+      "wordCount": 7537,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 3,
+      "title": "The Stockbroker’s Clerk",
+      "wordCount": 6858,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "The Gloria Scott",
+      "wordCount": 7986,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 5,
+      "title": "The Musgrave Ritual",
+      "wordCount": 7675,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "The Reigate Puzzle",
+      "wordCount": 7201,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "The Crooked Man",
+      "wordCount": 7138,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 8,
+      "title": "The Resident Patient",
+      "wordCount": 6474,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 9,
+      "title": "The Greek Interpreter",
+      "wordCount": 7057,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 10,
+      "title": "The Naval Treaty",
+      "wordCount": 12644,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 11,
+      "title": "The Final Problem",
+      "wordCount": 7183,
+      "estimatedMinutes": 29
+    }
+  ]
+}

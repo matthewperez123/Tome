@@ -1,0 +1,160 @@
+{
+  "bookId": "the-house-on-the-cliff",
+  "title": "The House on the Cliff",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 25,
+  "totalWordCount": 40716,
+  "totalMinutes": 162,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Haunted House",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II: The Storm",
+      "wordCount": 1764,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: Empty Tool Boxes",
+      "wordCount": 1702,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: The Chase in the Bay",
+      "wordCount": 1617,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V: The Rescue",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: Snackley",
+      "wordCount": 1876,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Bound and Gagged",
+      "wordCount": 1339,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Stolen Witness",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: The Strange Message",
+      "wordCount": 1576,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The Vain Search",
+      "wordCount": 2256,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "XI: The Cap on the Peg",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XII: Pointed Questions",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII: A Plan of Attack",
+      "wordCount": 1482,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: Private Property",
+      "wordCount": 1593,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XV: Smugglers",
+      "wordCount": 1943,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Secret Passage",
+      "wordCount": 1548,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Chamber in the Cliff",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: A Startling Discovery",
+      "wordCount": 1275,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX: Captured",
+      "wordCount": 1923,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: Dire Threats",
+      "wordCount": 1270,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XXI: Quick Work",
+      "wordCount": 1539,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXII: Into the Haunted House",
+      "wordCount": 1629,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Rescue",
+      "wordCount": 1483,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Roundup",
+      "wordCount": 1278,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Mystery Explained",
+      "wordCount": 1107,
+      "estimatedMinutes": 4
+    }
+  ]
+}

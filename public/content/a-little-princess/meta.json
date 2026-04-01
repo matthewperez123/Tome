@@ -1,0 +1,130 @@
+{
+  "bookId": "a-little-princess",
+  "title": "A Little Princess: Being the Whole Story of Sara Crewe, Now Told for the First Time",
+  "author": "Frances Hodgson Burnett",
+  "chapterCount": 20,
+  "totalWordCount": 67429,
+  "totalMinutes": 270,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Whole of the Story",
+      "wordCount": 554,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Sara",
+      "wordCount": 3529,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: A French Lesson",
+      "wordCount": 1939,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: Ermengarde",
+      "wordCount": 2400,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: Lottie",
+      "wordCount": 2861,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Becky",
+      "wordCount": 3377,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: The Diamond-Mines",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: The Diamond-Mines Again",
+      "wordCount": 6228,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 8,
+      "title": "VIII: In the Attic",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX: Melchisedec",
+      "wordCount": 3777,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "X: The Indian Gentleman",
+      "wordCount": 4097,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI: Ram Dass",
+      "wordCount": 3117,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: The Other Side of the Wall",
+      "wordCount": 2710,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII: One of the Populace",
+      "wordCount": 3320,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: What Melchisedec Heard and Saw",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV: The Magic",
+      "wordCount": 7658,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Visitor",
+      "wordCount": 5107,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVII: “It Is the Child!”",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVIII: “I Tried Not to Be”",
+      "wordCount": 3704,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XIX: “Anne”",
+      "wordCount": 2280,
+      "estimatedMinutes": 9
+    }
+  ]
+}

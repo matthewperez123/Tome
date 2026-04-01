@@ -1,0 +1,412 @@
+{
+  "bookId": "the-theory-of-moral-sentiments",
+  "title": "The Theory of Moral Sentiments",
+  "author": "Adam Smith",
+  "chapterCount": 67,
+  "totalWordCount": 161449,
+  "totalMinutes": 655,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Advertisement to the Sixth Edition",
+      "wordCount": 434,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Part I: Of the Propriety of Action",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Section I: Of the Sense of Propriety",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Of Sympathy",
+      "wordCount": 2289,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "II: Of the Pleasure of Mutual Sympathy",
+      "wordCount": 1328,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "III: Of the Manner in Which We Judge of the Propriety or Impropriety of the Affections of Other Men, by Their Concord or Dissonance with Our Own",
+      "wordCount": 1409,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "IV: The Same Subject Continued",
+      "wordCount": 2098,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "V: Of the Amiable and Respectable Virtues",
+      "wordCount": 1437,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "Section II: Of the Degrees of the Different Passions Which Are Consistent with Propriety",
+      "wordCount": 277,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: Of the Passions Which Take Their Origin from the Body",
+      "wordCount": 1759,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "II: Of Those Passions Which Take Their Origin from a Particular Turn or Habit of the Imagination",
+      "wordCount": 1375,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "III: Of the Unsocial Passions",
+      "wordCount": 2334,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "IV: Of the Social Passions",
+      "wordCount": 900,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "V: Of the Selfish Passions",
+      "wordCount": 1424,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "Section III: Of the Effects of Prosperity and Adversity Upon the Judgment of Mankind with Regard to the Propriety of Action; and Why It Is More Easy to Obtain Their Approbation in the One State Than in the Other",
+      "wordCount": 39,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "I: That Though Our Sympathy with Sorrow Is Generally a More Lively Sensation Than Our Sympathy with Joy, It Commonly Falls Much More Short of the Violence of What Is Naturally Felt by the Person Principally Concerned",
+      "wordCount": 2837,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "II: Of the Origin of Ambition, and of the Distinction of Ranks",
+      "wordCount": 4727,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "III: Of the Corruption of Our Moral Sentiments, Which Is Occasioned by This Disposition to Admire the Rich and the Great, and to Despise or Neglect Persons of Poor and Mean Condition",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "Part II: Of Merit and Demerit; or, of the Objects of Reward and Punishment",
+      "wordCount": 14,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "Section I: Of the Sense of Merit and Demerit",
+      "wordCount": 237,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "I: That Whatever Appears to Be the Proper Object of Gratitude, Appears to Deserve Reward; and That, in the Same Manner, Whatever Appears to Be the Proper Object of Resentment, Appears to Deserve Punishment",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "II: Of the Proper Objects of Gratitude and Resentment",
+      "wordCount": 1011,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "III: That Where There Is No Approbation of the Conduct of the Person Who Confers the Benefit, There Is Little Sympathy with the Gratitude of Him Who Receives It: And That, on the Contrary, Where There Is No Disapprobation of the Motives of the Person Who Does the Mischief, There Is No Sort of Sympathy with the Resentment of Him Who Suffers It",
+      "wordCount": 830,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "IV: Recapitulation of the Foregoing Chapters",
+      "wordCount": 552,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 24,
+      "title": "V: The Analysis of the Sense of Merit and Demerit",
+      "wordCount": 951,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "Section II: Of Justice and Beneficence",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "I: Comparison of Those Two Virtues",
+      "wordCount": 1921,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "II: Of the Sense of Justice, of Remorse, and of the Consciousness of Merit",
+      "wordCount": 1571,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "III: Of the Utility of This Constitution of Nature",
+      "wordCount": 2964,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 29,
+      "title": "Section III: Of the Influence of Fortune Upon the Sentiments of Mankind, with Regard to the Merit or Demerit of Their Actions",
+      "wordCount": 622,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "I: Of the Causes of This Influence of Fortune",
+      "wordCount": 1610,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "II: Of the Extent of This Influence of Fortune",
+      "wordCount": 3811,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "III: Of the Final Cause of This Irregularity of Sentiments",
+      "wordCount": 1686,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "Part III: Of the Foundation of Our Judgments Concerning Our Own Sentiments and Conduct, and of the Sense of Duty",
+      "wordCount": 20,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "I: Of the Principle of Self-Approbation and of Self-Disapprobation",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "II: Of the Love of Praise, and of That of Praiseworthiness; and of the Dread of Blame, and of That of Blameworthiness",
+      "wordCount": 8267,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 36,
+      "title": "III: Of the Influence and Authority of Conscience",
+      "wordCount": 9949,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 37,
+      "title": "IV: Of the Nature of Self-Deceit, and of the Origin and Use of General Rules",
+      "wordCount": 2394,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 38,
+      "title": "V: Of the Influence and Authority of the General Rules of Morality, and That They Are Justly Regarded as the Laws of the Deity",
+      "wordCount": 4550,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 39,
+      "title": "VI: In What Cases the Sense of Duty Ought to Be the Sole Principle of Our Conduct; and in What Cases It Ought to Concur with Other Motives",
+      "wordCount": 3826,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "Part IV: Of the Effect of Utility Upon the Sentiment of Approbation",
+      "wordCount": 12,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "I: Of the Beauty Which the Appearance of Utility Bestows Upon All the Productions of Art, and of the Extensive Influence of This Species of Beauty",
+      "wordCount": 3838,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 42,
+      "title": "II: Of the Beauty Which the Appearance of Utility Bestows Upon the Characters and the Actions of Men; and How Far the Perception of This Beauty May Be Regarded as One of the Original Principles of Approbation",
+      "wordCount": 2969,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 43,
+      "title": "Part V: Of the Influence of Custom and Fashion Upon the Sentiments of Moral Approbation and Disapprobation",
+      "wordCount": 17,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "I: Of the Influence of Custom and Fashion Upon Our Notions of Beauty and Deformity",
+      "wordCount": 2836,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "II: Of the Influence of Custom and Fashion Upon Moral Sentiments",
+      "wordCount": 5343,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 46,
+      "title": "Part VI: Of the Character of Virtue",
+      "wordCount": 42,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 47,
+      "title": "Section I: Of the Character of the Individual, So Far as It Affects His Own Happiness; or of Prudence",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 48,
+      "title": "Section II: Of the Character of the Individual, So Far as It Can Affect the Happiness of Other People",
+      "wordCount": 415,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 49,
+      "title": "I: Of the Order in Which Individuals Are Recommended by Nature to Our Care and Attention",
+      "wordCount": 4113,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 50,
+      "title": "II: Of the Order in Which Societies Are by Nature Recommended to Our Beneficence",
+      "wordCount": 3310,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "III: Of Universal Benevolence",
+      "wordCount": 1151,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 52,
+      "title": "Section III: Of Self-Command",
+      "wordCount": 11713,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 53,
+      "title": "Conclusion of the Sixth Part",
+      "wordCount": 1247,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 54,
+      "title": "Part VII: Of Systems of Moral Philosophy",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 55,
+      "title": "Section I: Of the Questions Which Ought to Be Examined in a Theory of Moral Sentiments",
+      "wordCount": 504,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 56,
+      "title": "Section II: Of the Different Accounts Which Have Been Given of the Nature of Virtue",
+      "wordCount": 355,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 57,
+      "title": "I: Of Those Systems Which Make Virtue Consist in Propriety",
+      "wordCount": 11858,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 58,
+      "title": "II: Of Those Systems Which Make Virtue Consist in Prudence",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 59,
+      "title": "III: Of Those Systems Which Make Virtue Consist in Benevolence",
+      "wordCount": 2721,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 60,
+      "title": "IV: Of Licentious Systems",
+      "wordCount": 3927,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 61,
+      "title": "Section III: Of the Different Systems Which Have Been Formed Concerning the Principle of Approbation",
+      "wordCount": 307,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 62,
+      "title": "I: Of Those Systems Which Deduce the Principle of Approbation from Self-Love",
+      "wordCount": 1181,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 63,
+      "title": "II: Of Those Systems Which Make Reason the Principle of Approbation",
+      "wordCount": 1501,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 64,
+      "title": "III: Of Those Systems Which Make Sentiment the Principle of Approbation",
+      "wordCount": 2941,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 65,
+      "title": "Section IV: Of the Manner in Which Different Authors Have Treated of the Practical Rules of Morality",
+      "wordCount": 7291,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 66,
+      "title": "Considerations Concerning the First Formation of Languages, etc., etc.",
+      "wordCount": 10401,
+      "estimatedMinutes": 42
+    }
+  ]
+}

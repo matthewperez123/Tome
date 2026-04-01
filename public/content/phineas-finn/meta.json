@@ -1,0 +1,472 @@
+{
+  "bookId": "phineas-finn",
+  "title": "Phineas Finn: The Irish Member",
+  "author": "Anthony Trollope",
+  "chapterCount": 77,
+  "totalWordCount": 263521,
+  "totalMinutes": 1057,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 376,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Phineas Finn Proposes to Stand for Loughshane",
+      "wordCount": 4291,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "II: Phineas Finn Is Elected for Loughshane",
+      "wordCount": 3735,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: Phineas Finn Takes His Seat",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV: Lady Laura Standish",
+      "wordCount": 2239,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "V: Mr. and Mrs. Low",
+      "wordCount": 4198,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: Lord Brentford’s Dinner",
+      "wordCount": 4223,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: Mr. and Mrs. Bunce",
+      "wordCount": 4357,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII: The News About Mr. Mildmay and Sir Everard",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: The New Government",
+      "wordCount": 2908,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X: Violet Effingham",
+      "wordCount": 3540,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI: Lord Chiltern",
+      "wordCount": 3024,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: Autumnal Prospects",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: Saulsby Wood",
+      "wordCount": 2157,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV: Loughlinter",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "XV: Donald Bean’s Pony",
+      "wordCount": 4438,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVI: Phineas Finn Returns to Killaloe",
+      "wordCount": 2364,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVII: Phineas Finn Returns to London",
+      "wordCount": 4033,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Mr. Turnbull",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XIX: Lord Chiltern Rides His Horse Bonebreaker",
+      "wordCount": 4192,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XX: The Debate on the Ballot",
+      "wordCount": 4325,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXI: “Do Be Punctual”",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXII: Lady Baldock at Home",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Sunday in Grosvenor Place",
+      "wordCount": 2042,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Willingford Bull",
+      "wordCount": 4852,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "XXV: Mr. Turnbull’s Carriage Stops the Way",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: “The First Speech”",
+      "wordCount": 4261,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Phineas Discussed",
+      "wordCount": 3201,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Second Reading Is Carried",
+      "wordCount": 3420,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXIX: A Cabinet Meeting",
+      "wordCount": 3294,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX: Mr. Kennedy’s Luck",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Finn for Loughton",
+      "wordCount": 4427,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Lady Laura Kennedy’s Headache",
+      "wordCount": 5648,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Mr. Slide’s Grievance",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Was He Honest?",
+      "wordCount": 2445,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Mr. Monk Upon Reform",
+      "wordCount": 4235,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Phineas Finn Makes Progress",
+      "wordCount": 3496,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: A Rough Encounter",
+      "wordCount": 3197,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Duel",
+      "wordCount": 3155,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Lady Laura Is Told",
+      "wordCount": 4412,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 40,
+      "title": "XL: Madame Max Goesler",
+      "wordCount": 3259,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "XLI: Lord Fawn",
+      "wordCount": 2115,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 42,
+      "title": "XLII: Lady Baldock Does Not Send a Card to Phineas Finn",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Promotion",
+      "wordCount": 2225,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Phineas and His Friends",
+      "wordCount": 4872,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 45,
+      "title": "XLV: Miss Effingham’s Four Lovers",
+      "wordCount": 2187,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Mousetrap",
+      "wordCount": 1748,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Mr. Mildmay’s Bill",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: “The Duke”",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "XLIX: The Duellists Meet",
+      "wordCount": 3220,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 50,
+      "title": "L: Again Successful",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "LI: Troubles at Loughlinter",
+      "wordCount": 4490,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 52,
+      "title": "LII: The First Blow",
+      "wordCount": 3156,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 53,
+      "title": "LIII: Showing How Phineas Bore the Blow",
+      "wordCount": 5288,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 54,
+      "title": "LIV: Consolation",
+      "wordCount": 2115,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "LV: Lord Chiltern at Saulsby",
+      "wordCount": 4393,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 56,
+      "title": "LVI: What the People in Marylebone Thought",
+      "wordCount": 3397,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 57,
+      "title": "LVII: The Top Brick of the Chimney",
+      "wordCount": 3250,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Rara Avis in Terris",
+      "wordCount": 3305,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 59,
+      "title": "LIX: The Earl’s Wrath",
+      "wordCount": 4426,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 60,
+      "title": "LX: Madame Goesler’s Politics",
+      "wordCount": 3504,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 61,
+      "title": "LXI: Another Duel",
+      "wordCount": 2243,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 62,
+      "title": "LXII: The Letter That Was Sent to Brighton",
+      "wordCount": 4339,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Showing How the Duke Stood His Ground",
+      "wordCount": 4488,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Horns",
+      "wordCount": 4660,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 65,
+      "title": "LXV: The Cabinet Minister at Killaloe",
+      "wordCount": 3376,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Victrix",
+      "wordCount": 3243,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 67,
+      "title": "LXVII: Job’s Comforters",
+      "wordCount": 3474,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: The Joint Attack",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 69,
+      "title": "LXIX: The Temptress",
+      "wordCount": 4637,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 70,
+      "title": "LXX: The Prime Minister’s House",
+      "wordCount": 2254,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Comparing Notes",
+      "wordCount": 2698,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Madame Goesler’s Generosity",
+      "wordCount": 3751,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Amantium Irae",
+      "wordCount": 2251,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: The Beginning of the End",
+      "wordCount": 3241,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 75,
+      "title": "LXXV: P.P.C.",
+      "wordCount": 5081,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: Conclusion",
+      "wordCount": 2368,
+      "estimatedMinutes": 9
+    }
+  ]
+}

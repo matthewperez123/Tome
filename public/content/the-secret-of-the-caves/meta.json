@@ -1,0 +1,160 @@
+{
+  "bookId": "the-secret-of-the-caves",
+  "title": "The Secret of the Caves",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 25,
+  "totalWordCount": 39982,
+  "totalMinutes": 159,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Overboard",
+      "wordCount": 1529,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: The Rescue",
+      "wordCount": 1494,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "III: Miss Todd",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: Concerning Todham Todd",
+      "wordCount": 1647,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V: Plans for a Trip",
+      "wordCount": 1729,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: The Missing Motorcycle",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VII: Carl Schaum",
+      "wordCount": 1707,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: Strange Doings",
+      "wordCount": 1752,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: The Storm",
+      "wordCount": 1507,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The Cave",
+      "wordCount": 1417,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: Footsteps in the Night",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XII: A Disappearance",
+      "wordCount": 1361,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XIII: Stolen Supplies",
+      "wordCount": 1260,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIV: Captain Royal",
+      "wordCount": 1652,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: The Old Sailor",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XVI: “Go Away!”",
+      "wordCount": 1352,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Man on the Shore",
+      "wordCount": 1369,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Prisoner",
+      "wordCount": 2057,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XIX: Clippings",
+      "wordCount": 2046,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: The Shotgun",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: Over the Cliff",
+      "wordCount": 1502,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXII: In Swirling Waters",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Back to Bayport",
+      "wordCount": 1968,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV: At the Hospital",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Last of Captain Royal",
+      "wordCount": 1581,
+      "estimatedMinutes": 6
+    }
+  ]
+}

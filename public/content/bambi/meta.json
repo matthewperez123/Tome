@@ -1,0 +1,160 @@
+{
+  "bookId": "bambi",
+  "title": "Bambi: A Life in the Woods",
+  "author": "Felix Salten",
+  "chapterCount": 25,
+  "totalWordCount": 40749,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 780,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2347,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2896,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 1970,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1951,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 654,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2895,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3573,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2250,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 981,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 997,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 977,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1244,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2087,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1740,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1252,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1122,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 1292,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 544,
+      "estimatedMinutes": 2
+    }
+  ]
+}

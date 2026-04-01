@@ -1,0 +1,220 @@
+{
+  "bookId": "the-revolt-of-the-angels",
+  "title": "The Revolt of the Angels",
+  "author": "Anatole France",
+  "chapterCount": 35,
+  "totalWordCount": 72601,
+  "totalMinutes": 292,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1516,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2047,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 699,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2511,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 931,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 1869,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2140,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 913,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2545,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 1899,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2222,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3346,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 3909,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1705,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 3026,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 3109,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 2393,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 1591,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 708,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 2048,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 1067,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 1965,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 2266,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 1711,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 3426,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 2611,
+      "estimatedMinutes": 10
+    }
+  ]
+}

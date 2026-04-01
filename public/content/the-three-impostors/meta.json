@@ -1,0 +1,70 @@
+{
+  "bookId": "the-three-impostors",
+  "title": "The Three Impostors: The Transmutations",
+  "author": "Arthur Machen",
+  "chapterCount": 10,
+  "totalWordCount": 59246,
+  "totalMinutes": 238,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 441,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 1171,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "Adventure of the Gold Tiberius",
+      "wordCount": 3069,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "The Encounter of the Pavement",
+      "wordCount": 8623,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 4,
+      "title": "Adventure of the Missing Brother",
+      "wordCount": 19995,
+      "estimatedMinutes": 80
+    },
+    {
+      "index": 5,
+      "title": "Incident of the Private Bar",
+      "wordCount": 4207,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "The Decorative Imagination",
+      "wordCount": 2964,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "The Recluse of Bayswater",
+      "wordCount": 9425,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 8,
+      "title": "Strange Occurrence in Clerkenwell",
+      "wordCount": 7700,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 9,
+      "title": "Adventure of the Deserted Residence",
+      "wordCount": 1651,
+      "estimatedMinutes": 7
+    }
+  ]
+}

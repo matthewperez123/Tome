@@ -1,0 +1,250 @@
+{
+  "bookId": "melmoth-the-wanderer",
+  "title": "Melmoth the Wanderer",
+  "author": "Charles Robert Maturin",
+  "chapterCount": 40,
+  "totalWordCount": 240274,
+  "totalMinutes": 962,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 383,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 6380,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3192,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 14008,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3001,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 29464,
+      "estimatedMinutes": 118
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 20511,
+      "estimatedMinutes": 82
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 4211,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 6297,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 9759,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 4627,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 8288,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 7472,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 5694,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3507,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 6185,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 6187,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2005,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 11807,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 5234,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 4077,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 3352,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 4462,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 1649,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 3553,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 3989,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 11087,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 29,
+      "title": "XXIX",
+      "wordCount": 4250,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXX",
+      "wordCount": 16287,
+      "estimatedMinutes": 65
+    },
+    {
+      "index": 31,
+      "title": "XXXI",
+      "wordCount": 1332,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 32,
+      "title": "XXXII",
+      "wordCount": 4579,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 33,
+      "title": "XXXIII",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "XXXIV",
+      "wordCount": 4114,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 35,
+      "title": "XXXV",
+      "wordCount": 3409,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXVI",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVII",
+      "wordCount": 2133,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII",
+      "wordCount": 2384,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XXXIX",
+      "wordCount": 1080,
+      "estimatedMinutes": 4
+    }
+  ]
+}

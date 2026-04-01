@@ -1,0 +1,232 @@
+{
+  "bookId": "the-old-man-in-the-corner",
+  "title": "The Old Man in the Corner",
+  "author": "Baroness Orczy",
+  "chapterCount": 37,
+  "totalWordCount": 70977,
+  "totalMinutes": 284,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 437,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Fenchurch Street Mystery",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: A Millionaire in the Dock",
+      "wordCount": 3405,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: His Deduction",
+      "wordCount": 912,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 4,
+      "title": "IV: The Robbery in Phillimore Terrace",
+      "wordCount": 1975,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V: A Night’s Adventure",
+      "wordCount": 2719,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI: All He Knew",
+      "wordCount": 1140,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VII: The York Mystery",
+      "wordCount": 1741,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Capital Charge",
+      "wordCount": 3695,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: A Brokenhearted Woman",
+      "wordCount": 1112,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "X: The Mysterious Death on the Underground Railway",
+      "wordCount": 3723,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI: Mr. Errington",
+      "wordCount": 2900,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XII: The Liverpool Mystery",
+      "wordCount": 2796,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Cunning Rascal",
+      "wordCount": 1995,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Edinburgh Mystery",
+      "wordCount": 1345,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XV: A Terrible Plight",
+      "wordCount": 1746,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI: “Non Proven”",
+      "wordCount": 1553,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVII: Undeniable Facts",
+      "wordCount": 1066,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Theft at the English Provident Bank",
+      "wordCount": 2450,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 19,
+      "title": "XIX: Conflicting Evidence",
+      "wordCount": 1232,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XX: An Alibi",
+      "wordCount": 2035,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Dublin Mystery",
+      "wordCount": 1063,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XXII: Forgery",
+      "wordCount": 2578,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXIII: A Memorable Day",
+      "wordCount": 1981,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIV: An Unparalleled Outrage",
+      "wordCount": 988,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "XV: The Prisoner",
+      "wordCount": 3549,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XVI: A Sensation",
+      "wordCount": 706,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Two Blackguards",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Regent’s Park Murder",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Motive",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXX: Friends",
+      "wordCount": 1173,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The de Genneville Peerage",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXII: A High-Bred Gentleman",
+      "wordCount": 1942,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Living and the Dead",
+      "wordCount": 2107,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: The Mysterious Death in Percy Street",
+      "wordCount": 1238,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Suicide or Murder?",
+      "wordCount": 4187,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: The End",
+      "wordCount": 506,
+      "estimatedMinutes": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "voodoo-planet",
+  "title": "Voodoo Planet",
+  "author": "Andre Norton",
+  "chapterCount": 9,
+  "totalWordCount": 23962,
+  "totalMinutes": 95,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 495,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3010,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2891,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3017,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2831,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2915,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2868,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3118,
+      "estimatedMinutes": 12
+    }
+  ]
+}

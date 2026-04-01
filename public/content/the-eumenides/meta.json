@@ -1,0 +1,28 @@
+{
+  "bookId": "the-eumenides",
+  "title": "The Eumenides",
+  "author": "Aeschylus",
+  "chapterCount": 3,
+  "totalWordCount": 12066,
+  "totalMinutes": 50,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 25,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Eumenides",
+      "wordCount": 9401,
+      "estimatedMinutes": 38
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "bookId": "the-secret-adversary",
+  "title": "The Secret Adversary",
+  "author": "Agatha Christie",
+  "chapterCount": 29,
+  "totalWordCount": 75967,
+  "totalMinutes": 302,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 539,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Young Adventurers, Ltd.",
+      "wordCount": 2604,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "II: Mr. Whittington’s Offer",
+      "wordCount": 2412,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: A Set Back",
+      "wordCount": 1741,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: Who Is Jane Finn?",
+      "wordCount": 2843,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: Mr. Julius P. Hersheimmer",
+      "wordCount": 1827,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: A Plan of Campaign",
+      "wordCount": 1948,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VII: The House in Soho",
+      "wordCount": 1951,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Adventures of Tommy",
+      "wordCount": 3046,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX: Tuppence Enters Domestic Service",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X: Enter Sir James Peel Edgerton",
+      "wordCount": 2107,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: Julius Tells a Story",
+      "wordCount": 3280,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII: A Friend in Need",
+      "wordCount": 5236,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Vigil",
+      "wordCount": 2892,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: A Consultation",
+      "wordCount": 2012,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XV: Tuppence Receives a Proposal",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVI: Further Adventures of Tommy",
+      "wordCount": 2618,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVII: Annette",
+      "wordCount": 4871,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Telegram",
+      "wordCount": 4156,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: Jane Finn",
+      "wordCount": 3229,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XX: Too Late",
+      "wordCount": 1846,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXI: Tommy Makes a Discovery",
+      "wordCount": 1723,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXII: In Downing Street",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIII: A Race Against Time",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Julius Takes a Hand",
+      "wordCount": 3209,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXV: Jane’s Story",
+      "wordCount": 4898,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Mr. Brown",
+      "wordCount": 1870,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A Supper Party at the Savoy",
+      "wordCount": 3429,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: And After",
+      "wordCount": 1067,
+      "estimatedMinutes": 4
+    }
+  ]
+}

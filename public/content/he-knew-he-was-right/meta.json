@@ -1,0 +1,610 @@
+{
+  "bookId": "he-knew-he-was-right",
+  "title": "He Knew He Was Right",
+  "author": "Anthony Trollope",
+  "chapterCount": 100,
+  "totalWordCount": 342168,
+  "totalMinutes": 1372,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 301,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Showing How Wrath Began",
+      "wordCount": 3863,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: Colonel Osborne",
+      "wordCount": 3265,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: Lady Milborough’s Dinner Party",
+      "wordCount": 3569,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: Hugh Stanbury",
+      "wordCount": 3386,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: Showing How the Quarrel Progressed",
+      "wordCount": 2958,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI: Showing How Reconciliation Was Made",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VII: Miss Jemima Stanbury, of Exeter",
+      "wordCount": 4259,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII: “I Know It Will Do”",
+      "wordCount": 3112,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX: Showing How the Quarrel Progressed Again",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Hard Words",
+      "wordCount": 2189,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XI: Lady Milborough as Ambassador",
+      "wordCount": 4702,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Miss Stanbury’s Generosity",
+      "wordCount": 3716,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Honourable Mr. Glascock",
+      "wordCount": 5233,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Clock House at Nuncombe Putney",
+      "wordCount": 3539,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: What They Said About It in the Close",
+      "wordCount": 1965,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XVI: Dartmoor",
+      "wordCount": 3263,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII: A Gentleman Comes to Nuncombe Putney",
+      "wordCount": 3341,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Stanbury Correspondence",
+      "wordCount": 3877,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XIX: Bozzle, the Ex-Policeman",
+      "wordCount": 4127,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XX: Showing How Colonel Osborne Went to Cockchaffington",
+      "wordCount": 3180,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: Showing How Colonel Osborne Went to Nuncombe Putney",
+      "wordCount": 3148,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXII: Showing How Miss Stanbury Behaved to Her Two Nieces",
+      "wordCount": 4171,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Colonel Osborne and Mr. Bozzle Return to London",
+      "wordCount": 3263,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Niddon Park",
+      "wordCount": 3250,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXV: Hugh Stanbury Smokes His Pipe",
+      "wordCount": 4066,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: A Third Party Is So Objectionable",
+      "wordCount": 3216,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Mr. Trevelyan’s Letter to His Wife",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Great Tribulation",
+      "wordCount": 3188,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Mr. and Mrs. Outhouse",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXX: Dorothy Makes Up Her Mind",
+      "wordCount": 4409,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Mr. Brooke Burgess",
+      "wordCount": 4222,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The “Full Moon” at St. Diddulph’s",
+      "wordCount": 3228,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Hugh Stanbury Smokes Another Pipe",
+      "wordCount": 3201,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Priscilla’s Wisdom",
+      "wordCount": 2203,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Mr. Gibson’s Good Fortune",
+      "wordCount": 5412,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Miss Stanbury’s Wrath",
+      "wordCount": 2843,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Mont Cenis",
+      "wordCount": 4286,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Verdict of the Jury—“Mad, My Lord”",
+      "wordCount": 2050,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Miss Nora Rowley Is Maltreated",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XL: “C. G.”",
+      "wordCount": 1852,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 41,
+      "title": "XLI: Showing What Took Place at St. Diddulph’s",
+      "wordCount": 4265,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLII: Miss Stanbury and Mr. Gibson Become Two",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Laburnum Cottage",
+      "wordCount": 3085,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Brooke Burgess Takes Leave of Exeter",
+      "wordCount": 4205,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 45,
+      "title": "XLV: Trevelyan at Venice",
+      "wordCount": 3457,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The American Minister",
+      "wordCount": 3135,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 47,
+      "title": "XLVII: About Fishing, and Navigation, and Headdresses",
+      "wordCount": 4934,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Mr. Gibson Is Punished",
+      "wordCount": 3267,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Mr. Brooke Burgess After Supper",
+      "wordCount": 2560,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 50,
+      "title": "L: Camilla Triumphant",
+      "wordCount": 3191,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "LI: Showing What Happened During Miss Stanbury’s Illness",
+      "wordCount": 5666,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 52,
+      "title": "LII: Mr. Outhouse Complains That It’s Hard",
+      "wordCount": 1949,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 53,
+      "title": "LIII: Hugh Stanbury Is Shown to Be No Conjuror",
+      "wordCount": 3354,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 54,
+      "title": "LIV: Mr. Gibson’s Threat",
+      "wordCount": 3300,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 55,
+      "title": "LV: The Republican Browning",
+      "wordCount": 4113,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 56,
+      "title": "LVI: Withered Grass",
+      "wordCount": 3681,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 57,
+      "title": "LVII: Dorothy’s Fate",
+      "wordCount": 4289,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Dorothy at Home",
+      "wordCount": 2646,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 59,
+      "title": "LIX: Mr. Bozzle at Home",
+      "wordCount": 2282,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 60,
+      "title": "LX: Another Struggle",
+      "wordCount": 5510,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 61,
+      "title": "LXI: Parker’s Hotel, Mowbray Street",
+      "wordCount": 3158,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 62,
+      "title": "LXII: Lady Rowley Makes an Attempt",
+      "wordCount": 4167,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Sir Marmaduke at Home",
+      "wordCount": 4315,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 64,
+      "title": "LXIV: Sir Marmaduke at His Club",
+      "wordCount": 2258,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "LXV: Mysterious Agencies",
+      "wordCount": 4126,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Of a Quarter of Lamb",
+      "wordCount": 2006,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 67,
+      "title": "LXVII: River’s Cottage",
+      "wordCount": 4398,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: Major Magruder’s Committee",
+      "wordCount": 2178,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 69,
+      "title": "LXIX: Sir Marmaduke at Willesden",
+      "wordCount": 2257,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 70,
+      "title": "LXX: Showing What Nora Rowley Thought About Carriages",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Showing What Hugh Stanbury Thought About the Duty of Man",
+      "wordCount": 2937,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 72,
+      "title": "LXXII: The Delivery of the Lamb",
+      "wordCount": 3388,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Dorothy Returns to Exeter",
+      "wordCount": 3728,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: The Lioness Aroused",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 75,
+      "title": "LXXV: The Rowleys Go Over the Alps",
+      "wordCount": 3742,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: “We Shall Be So Poor”",
+      "wordCount": 3114,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: The Future Lady Peterborough",
+      "wordCount": 3866,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: Casalunga",
+      "wordCount": 4573,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: “I Can Sleep on the Boards”",
+      "wordCount": 2440,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 80,
+      "title": "LXXX: “Will They Despise Him?”",
+      "wordCount": 3881,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 81,
+      "title": "LXXXI: Mr. Glascock Is Master",
+      "wordCount": 4393,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 82,
+      "title": "LXXXII: Mrs. French’s Carving Knife",
+      "wordCount": 3099,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 83,
+      "title": "LXXXIII: Bella Victrix",
+      "wordCount": 3015,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 84,
+      "title": "LXXXIV: Self-Sacrifice",
+      "wordCount": 2296,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 85,
+      "title": "LXXXV: The Baths of Lucca",
+      "wordCount": 3828,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 86,
+      "title": "LXXXVI: Mr. Glascock as Nurse",
+      "wordCount": 4688,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 87,
+      "title": "LXXXVII: Mr. Glascock’s Marriage Completed",
+      "wordCount": 4227,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 88,
+      "title": "LXXXVIII: Cropper and Burgess",
+      "wordCount": 4444,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 89,
+      "title": "LXXXIX: “I Wouldn’t Do It, if I Was You”",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 90,
+      "title": "XC: Lady Rowley Conquered",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 91,
+      "title": "XCI: Four O’Clock in the Morning",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 92,
+      "title": "XCII: Trevelyan Discourses on Life",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 93,
+      "title": "XCIII: “Say That You Forgive Me”",
+      "wordCount": 4367,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 94,
+      "title": "XCIV: A Real Christian",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 95,
+      "title": "XCV: Trevelyan Back in England",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 96,
+      "title": "XCVI: Monkhams",
+      "wordCount": 3259,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 97,
+      "title": "XCVII: Mrs. Brooke Burgess",
+      "wordCount": 3184,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 98,
+      "title": "XCVIII: Acquitted",
+      "wordCount": 3546,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 99,
+      "title": "XCIX: Conclusion",
+      "wordCount": 1012,
+      "estimatedMinutes": 4
+    }
+  ]
+}

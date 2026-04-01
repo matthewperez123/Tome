@@ -1,0 +1,58 @@
+{
+  "bookId": "the-autobiography-of-calvin-coolidge",
+  "title": "The Autobiography of Calvin Coolidge",
+  "author": "Calvin Coolidge",
+  "chapterCount": 8,
+  "totalWordCount": 44627,
+  "totalMinutes": 180,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Scenes of My Childhood",
+      "wordCount": 6157,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 2,
+      "title": "II: Seeking My Education",
+      "wordCount": 8585,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 3,
+      "title": "III: The Law and Politics",
+      "wordCount": 10897,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 4,
+      "title": "IV: In National Politics",
+      "wordCount": 5473,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V: On Entering and Leaving the Presidency",
+      "wordCount": 3998,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: Some of the Duties of the President",
+      "wordCount": 7955,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 7,
+      "title": "VII: Why I Did Not Choose to Run",
+      "wordCount": 1562,
+      "estimatedMinutes": 6
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "bookId": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "chapterCount": 117,
+  "totalWordCount": 462561,
+  "totalMinutes": 1853,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Marseilles—The Arrival",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II: Father and Son",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: The Catalans",
+      "wordCount": 3898,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV: Conspiracy",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: The Marriage Feast",
+      "wordCount": 5532,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "VI: The Deputy Procureur du Roi",
+      "wordCount": 4212,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VII: The Examination",
+      "wordCount": 3492,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Château d’If",
+      "wordCount": 3184,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: The Evening of the Betrothal",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X: The King’s Closet at the Tuileries",
+      "wordCount": 2815,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI: The Corsican Ogre",
+      "wordCount": 2921,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XII: Father and Son",
+      "wordCount": 2553,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Hundred Days",
+      "wordCount": 2468,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Two Prisoners",
+      "wordCount": 3124,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV: Number 34 and Number 27",
+      "wordCount": 5376,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "XVI: A Learned Italian",
+      "wordCount": 4181,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Abbé’s Chamber",
+      "wordCount": 7748,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Treasure",
+      "wordCount": 4662,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Third Attack",
+      "wordCount": 3932,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX: The Cemetery of the Château d’If",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Island of Tiboulen",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Smugglers",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Island of Monte Cristo",
+      "wordCount": 3029,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Secret Cave",
+      "wordCount": 3172,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Unknown",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Pont du Gard Inn",
+      "wordCount": 5542,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Story",
+      "wordCount": 5138,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Prison Register",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XXIX: The House of Morrel & Son",
+      "wordCount": 4326,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Fifth of September",
+      "wordCount": 5642,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Italy: Sinbad the Sailor",
+      "wordCount": 8630,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Waking",
+      "wordCount": 2270,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Roman Bandits",
+      "wordCount": 11082,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: The Colosseum",
+      "wordCount": 10812,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 34,
+      "title": "XXXV: La Mazzolata",
+      "wordCount": 5321,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: The Carnival at Rome",
+      "wordCount": 6370,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: The Catacombs of Saint Sebastian",
+      "wordCount": 5956,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: The Rendezvous",
+      "wordCount": 3090,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: The Guests",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XL: The Breakfast",
+      "wordCount": 8314,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 40,
+      "title": "XLI: The Presentation",
+      "wordCount": 5076,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 41,
+      "title": "XLII: Monsieur Bertuccio",
+      "wordCount": 1594,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XLIII: The House at Auteuil",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 43,
+      "title": "XLIV: The Vendetta",
+      "wordCount": 8466,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 44,
+      "title": "XLV: The Rain of Blood",
+      "wordCount": 5376,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 45,
+      "title": "XLVI: Unlimited Credit",
+      "wordCount": 5081,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 46,
+      "title": "XLVII: The Dappled Grays",
+      "wordCount": 5114,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: Ideology",
+      "wordCount": 4546,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 48,
+      "title": "XLIX: Haydée",
+      "wordCount": 1905,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "L: The Morrel Family",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 50,
+      "title": "LI: Pyramus and Thisbe",
+      "wordCount": 4922,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 51,
+      "title": "LII: Toxicology",
+      "wordCount": 6323,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 52,
+      "title": "LIII: Robert le Diable",
+      "wordCount": 6152,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 53,
+      "title": "LIV: A Flurry in Stocks",
+      "wordCount": 4095,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 54,
+      "title": "LV: Major Cavalcanti",
+      "wordCount": 3560,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 55,
+      "title": "LVI: Andrea Cavalcanti",
+      "wordCount": 4380,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 56,
+      "title": "LVII: In the Lucern Patch",
+      "wordCount": 4418,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 57,
+      "title": "LVIII: M. Noirtier de Villefort",
+      "wordCount": 3293,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 58,
+      "title": "LIX: The Will",
+      "wordCount": 3042,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 59,
+      "title": "LX: The Telegraph",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 60,
+      "title": "LXI: How a Gardener May Get Rid of the Dormice That Eat His Peaches",
+      "wordCount": 3056,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 61,
+      "title": "LXII: Ghosts",
+      "wordCount": 2894,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 62,
+      "title": "LXIII: The Dinner",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 63,
+      "title": "LXIV: The Beggar",
+      "wordCount": 3057,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 64,
+      "title": "LXV: A Conjugal Scene",
+      "wordCount": 3601,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 65,
+      "title": "LXVI: Matrimonial Projects",
+      "wordCount": 3289,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 66,
+      "title": "LXVII: The Office of the King’s Attorney",
+      "wordCount": 4263,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 67,
+      "title": "LXVIII: A Summer Ball",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 68,
+      "title": "LXIX: The Inquiry",
+      "wordCount": 3108,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 69,
+      "title": "LXX: The Ball",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 70,
+      "title": "LXXI: Bread and Salt",
+      "wordCount": 1330,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 71,
+      "title": "LXXII: Madame de Saint-Méran",
+      "wordCount": 4173,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 72,
+      "title": "LXXIII: The Promise",
+      "wordCount": 9242,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 73,
+      "title": "LXXIV: The Villefort Family Vault",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 74,
+      "title": "LXXV: A Signed Statement",
+      "wordCount": 3779,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 75,
+      "title": "LXXVI: Progress of Cavalcanti the Younger",
+      "wordCount": 3403,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 76,
+      "title": "LXXVII: Haydée",
+      "wordCount": 8097,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 77,
+      "title": "LXXVIII: We Hear from Yanina",
+      "wordCount": 7259,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 78,
+      "title": "LXXIX: The Lemonade",
+      "wordCount": 4026,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 79,
+      "title": "LXXX: The Accusation",
+      "wordCount": 2019,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 80,
+      "title": "LXXXI: The Room of the Retired Baker",
+      "wordCount": 5667,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 81,
+      "title": "LXXXII: The Burglary",
+      "wordCount": 4490,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 82,
+      "title": "LXXXIII: The Hand of God",
+      "wordCount": 2014,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "LXXXIV: Beauchamp",
+      "wordCount": 2102,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 84,
+      "title": "LXXXV: The Journey",
+      "wordCount": 3430,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 85,
+      "title": "LXXXVI: The Trial",
+      "wordCount": 4533,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 86,
+      "title": "LXXXVII: The Challenge",
+      "wordCount": 2239,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 87,
+      "title": "LXXXVIII: The Insult",
+      "wordCount": 3265,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 88,
+      "title": "LXXXIX: The Night",
+      "wordCount": 3002,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 89,
+      "title": "XC: The Meeting",
+      "wordCount": 4117,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 90,
+      "title": "XCI: Mother and Son",
+      "wordCount": 2236,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 91,
+      "title": "XCII: The Suicide",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 92,
+      "title": "XCIII: Valentine",
+      "wordCount": 2554,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 93,
+      "title": "XCIV: Maximilian’s Avowal",
+      "wordCount": 3903,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 94,
+      "title": "XCV: Father and Daughter",
+      "wordCount": 3275,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 95,
+      "title": "XCVI: The Contract",
+      "wordCount": 3711,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 96,
+      "title": "XCVII: The Departure for Belgium",
+      "wordCount": 2189,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 97,
+      "title": "XCVIII: The Bell and Bottle Tavern",
+      "wordCount": 4427,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 98,
+      "title": "XCIX: The Law",
+      "wordCount": 3433,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 99,
+      "title": "C: The Apparition",
+      "wordCount": 2439,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 100,
+      "title": "CI: Locusta",
+      "wordCount": 1925,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 101,
+      "title": "CII: Valentine",
+      "wordCount": 1997,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 102,
+      "title": "CIII: Maximilian",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 103,
+      "title": "CIV: Danglars’ Signature",
+      "wordCount": 3540,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 104,
+      "title": "CV: The Cemetery of Père-Lachaise",
+      "wordCount": 4499,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 105,
+      "title": "CVI: Dividing the Proceeds",
+      "wordCount": 5308,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 106,
+      "title": "CVII: The Lions’ Den",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 107,
+      "title": "CVIII: The Judge",
+      "wordCount": 3427,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 108,
+      "title": "CIX: The Assizes",
+      "wordCount": 1981,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 109,
+      "title": "CX: The Indictment",
+      "wordCount": 2577,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 110,
+      "title": "CXI: Expiation",
+      "wordCount": 3074,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 111,
+      "title": "CXII: The Departure",
+      "wordCount": 5202,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 112,
+      "title": "CXIII: The Past",
+      "wordCount": 4234,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 113,
+      "title": "CXIV: Peppino",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 114,
+      "title": "CXV: Luigi Vampa’s Bill of Fare",
+      "wordCount": 2162,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 115,
+      "title": "CXVI: The Pardon",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 116,
+      "title": "CXVII: The Fifth of October",
+      "wordCount": 4922,
+      "estimatedMinutes": 20
+    }
+  ]
+}

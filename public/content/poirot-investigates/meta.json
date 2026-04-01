@@ -1,0 +1,76 @@
+{
+  "bookId": "poirot-investigates",
+  "title": "Poirot Investigates",
+  "author": "Agatha Christie",
+  "chapterCount": 11,
+  "totalWordCount": 53063,
+  "totalMinutes": 211,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "The Adventure of the Western Star",
+      "wordCount": 7357,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 1,
+      "title": "The Tragedy at Marsdon Manor",
+      "wordCount": 4492,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "The Adventure of the Cheap Flat",
+      "wordCount": 4759,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "The Mystery of Hunter’s Lodge",
+      "wordCount": 4524,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "The Million Dollar Bond Robbery",
+      "wordCount": 3351,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "The Adventure of the Egyptian Tomb",
+      "wordCount": 5075,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "The Jewel Robbery at the Grand Metropolitan",
+      "wordCount": 5039,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "The Kidnapped Prime Minister",
+      "wordCount": 6418,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "The Disappearance of Mr. Davenheim",
+      "wordCount": 5021,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "The Adventure of the Italian Nobleman",
+      "wordCount": 3789,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "The Case of the Missing Will",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    }
+  ]
+}

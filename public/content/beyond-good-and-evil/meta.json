@@ -1,0 +1,76 @@
+{
+  "bookId": "beyond-good-and-evil",
+  "title": "Beyond Good and Evil: Prelude to a Philosophy of the Future",
+  "author": "Friedrich Nietzsche",
+  "chapterCount": 11,
+  "totalWordCount": 63877,
+  "totalMinutes": 254,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 708,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: Prejudices of Philosophers",
+      "wordCount": 7558,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 2,
+      "title": "II: The Free Spirit",
+      "wordCount": 6803,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 3,
+      "title": "III: The Religious Mood",
+      "wordCount": 5601,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "IV: Apophthegms and Interludes",
+      "wordCount": 2600,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: The Natural History of Morals",
+      "wordCount": 7178,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "VI: We Scholars",
+      "wordCount": 6451,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 7,
+      "title": "VII: Our Virtues",
+      "wordCount": 7988,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 8,
+      "title": "VIII: Peoples and Countries",
+      "wordCount": 7853,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 9,
+      "title": "IX: What Is Noble?",
+      "wordCount": 10570,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 10,
+      "title": "From the Heights",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    }
+  ]
+}

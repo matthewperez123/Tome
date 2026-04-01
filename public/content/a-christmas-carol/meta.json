@@ -1,0 +1,46 @@
+{
+  "bookId": "a-christmas-carol",
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "chapterCount": 6,
+  "totalWordCount": 28641,
+  "totalMinutes": 115,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 54,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Stave I: Marley’s Ghost",
+      "wordCount": 6466,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "Stave II: The First of the Three Spirits",
+      "wordCount": 6184,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 3,
+      "title": "Stave III: The Second of the Three Spirits",
+      "wordCount": 8253,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 4,
+      "title": "Stave IV: The Last of the Spirits",
+      "wordCount": 5368,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Stave V: The End of It",
+      "wordCount": 2316,
+      "estimatedMinutes": 9
+    }
+  ]
+}

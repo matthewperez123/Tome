@@ -1,0 +1,118 @@
+{
+  "bookId": "the-first-sir-percy",
+  "title": "The First Sir Percy",
+  "author": "Baroness Orczy",
+  "chapterCount": 18,
+  "totalWordCount": 92402,
+  "totalMinutes": 368,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 451,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: A Night on the Veluwe",
+      "wordCount": 8799,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 2,
+      "title": "II: The Double Wedding",
+      "wordCount": 9617,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 3,
+      "title": "III: The Great Interruption",
+      "wordCount": 7751,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "IV: Adder’s Fork",
+      "wordCount": 3646,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V: A Race for Life",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI: A Nest of Scorpions",
+      "wordCount": 7176,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "VII: A Subtle Traitor",
+      "wordCount": 3351,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Devil’s-Writ",
+      "wordCount": 5280,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "IX: Mala Fides",
+      "wordCount": 6111,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "X: A Prince of Darkness",
+      "wordCount": 6914,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 11,
+      "title": "XI: The Danger-Spoke",
+      "wordCount": 4206,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XII: Tears, Sighs, Hearts",
+      "wordCount": 3318,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Stygian Creek",
+      "wordCount": 3316,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: Treachery",
+      "wordCount": 10752,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 15,
+      "title": "XV: The Molen on the Veluwe",
+      "wordCount": 6965,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Final Issue",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Only World",
+      "wordCount": 540,
+      "estimatedMinutes": 2
+    }
+  ]
+}

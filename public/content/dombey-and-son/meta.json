@@ -1,0 +1,394 @@
+{
+  "bookId": "dombey-and-son",
+  "title": "Dombey and Son",
+  "author": "Charles Dickens",
+  "chapterCount": 64,
+  "totalWordCount": 351890,
+  "totalMinutes": 1408,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface of 1848",
+      "wordCount": 113,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface of 1867",
+      "wordCount": 328,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Dombey and Son",
+      "wordCount": 4079,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "II: In Which Timely Provision Is Made for an Emergency That Will Sometimes Arise in the Best-Regulated Families",
+      "wordCount": 3906,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "III: In Which Mr. Dombey, as a Man and a Father, Is Seen at the Head of the Home-Department",
+      "wordCount": 4339,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "IV: In Which Some More First Appearances Are Made on the Stage of These Adventures",
+      "wordCount": 4898,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "V: Paul’s Progress and Christening",
+      "wordCount": 7138,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "VI: Paul’s Second Deprivation",
+      "wordCount": 8463,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 8,
+      "title": "VII: A Bird’s-Eye Glimpse of Miss Tox’s Dwelling-Place: Also of the State of Miss Tox’s Affections",
+      "wordCount": 2179,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VIII: Paul’s Further Progress, Growth and Character",
+      "wordCount": 8344,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 10,
+      "title": "IX: In Which the Wooden Midshipman Gets Into Trouble",
+      "wordCount": 5423,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "X: Containing the Sequel of the Midshipman’s Disaster",
+      "wordCount": 4763,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XI: Paul’s Introduction to a New Scene",
+      "wordCount": 5863,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "XII: Paul’s Education",
+      "wordCount": 7373,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 14,
+      "title": "XIII: Shipping Intelligence and Office Business",
+      "wordCount": 4859,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XIV: Paul Grows More and More Old-Fashioned, and Goes Home for the Holidays",
+      "wordCount": 10226,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 16,
+      "title": "XV: Amazing Artfulness of Captain Cuttle, and a New Pursuit for Walter Gay",
+      "wordCount": 6240,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 17,
+      "title": "XVI: What the Waves Were Always Saying",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVII: Captain Cuttle Does a Little Business for the Young People",
+      "wordCount": 4503,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Father and Daughter",
+      "wordCount": 7876,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 20,
+      "title": "XIX: Walter Goes Away",
+      "wordCount": 5405,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 21,
+      "title": "XX: Mr. Dombey Goes Upon a Journey",
+      "wordCount": 5939,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "XXI: New Faces",
+      "wordCount": 4204,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXII: A Trifle of Management by Mr. Carker the Manager",
+      "wordCount": 8048,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Florence Solitary, and the Midshipman Mysterious",
+      "wordCount": 9286,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Study of a Loving Heart",
+      "wordCount": 4699,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 26,
+      "title": "XXV: Strange News of Uncle Sol",
+      "wordCount": 3816,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Shadows of the Past and Future",
+      "wordCount": 6358,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Deeper Shadows",
+      "wordCount": 7061,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Alterations",
+      "wordCount": 4272,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXIX: The Opening of the Eyes of Mrs. Chick",
+      "wordCount": 4912,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 31,
+      "title": "XXX: The Interval Before the Marriage",
+      "wordCount": 6235,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Wedding",
+      "wordCount": 6879,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Wooden Midshipman Goes to Pieces",
+      "wordCount": 7441,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Contrasts",
+      "wordCount": 5368,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: Another Mother and Daughter",
+      "wordCount": 4887,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 36,
+      "title": "XXXV: The Happy Pair",
+      "wordCount": 5062,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: Housewarming",
+      "wordCount": 4919,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: More Warnings Than One",
+      "wordCount": 4485,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: Miss Tox Improves an Old Acquaintance",
+      "wordCount": 3774,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: Further Adventures of Captain Edward Cuttle, Mariner",
+      "wordCount": 7193,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 41,
+      "title": "XL: Domestic Relations",
+      "wordCount": 6728,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 42,
+      "title": "XLI: New Voices in the Waves",
+      "wordCount": 4415,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 43,
+      "title": "XLII: Confidential and Accidental",
+      "wordCount": 6461,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 44,
+      "title": "XLIII: The Watches of the Night",
+      "wordCount": 3714,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 45,
+      "title": "XLIV: A Separation",
+      "wordCount": 4273,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 46,
+      "title": "XLV: The Trusty Agent",
+      "wordCount": 3361,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 47,
+      "title": "XLVI: Recognizant and Reflective",
+      "wordCount": 5312,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 48,
+      "title": "XLVII: The Thunderbolt",
+      "wordCount": 8554,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: The Flight of Florence",
+      "wordCount": 4761,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 50,
+      "title": "XLIX: The Midshipman Makes a Discovery",
+      "wordCount": 7336,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 51,
+      "title": "L: Mr. Toots’s Complaint",
+      "wordCount": 7316,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 52,
+      "title": "LI: Mr. Dombey and the World",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 53,
+      "title": "LII: Secret Intelligence",
+      "wordCount": 6106,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 54,
+      "title": "LIII: More Intelligence",
+      "wordCount": 6748,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 55,
+      "title": "LIV: The Fugitives",
+      "wordCount": 4673,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 56,
+      "title": "LV: Rob the Grinder Loses His Place",
+      "wordCount": 5109,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 57,
+      "title": "LVI: Several People Delighted, and the Game Chicken Disgusted",
+      "wordCount": 9520,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 58,
+      "title": "LVII: Another Wedding",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 59,
+      "title": "LVIII: After a Lapse",
+      "wordCount": 6377,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 60,
+      "title": "LIX: Retribution",
+      "wordCount": 8250,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 61,
+      "title": "LX: Chiefly Matrimonial",
+      "wordCount": 5005,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 62,
+      "title": "LXI: Relenting",
+      "wordCount": 5401,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 63,
+      "title": "LXII: Final",
+      "wordCount": 2281,
+      "estimatedMinutes": 9
+    }
+  ]
+}

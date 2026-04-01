@@ -1,0 +1,346 @@
+{
+  "bookId": "poetry",
+  "title": "Poetry",
+  "author": "C. S. Lewis",
+  "chapterCount": 56,
+  "totalWordCount": 26754,
+  "totalMinutes": 119,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 419,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Spirits in Bondage",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 204,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Part I: The Prison House",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "I: Satan Speaks",
+      "wordCount": 106,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "II: French Nocturne",
+      "wordCount": 170,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "III: The Satyr",
+      "wordCount": 138,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "IV: Victory",
+      "wordCount": 194,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "V: Irish Nocturne",
+      "wordCount": 220,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "VI: Spooks",
+      "wordCount": 135,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "VII: Apology",
+      "wordCount": 170,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "VIII: Ode for New Year’s Day",
+      "wordCount": 530,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 12,
+      "title": "IX: Night",
+      "wordCount": 253,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "X: To Sleep",
+      "wordCount": 177,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XI: In Prison",
+      "wordCount": 143,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XII: De Profundis",
+      "wordCount": 311,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "XIII: Satan Speaks",
+      "wordCount": 214,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "XIV: The Witch",
+      "wordCount": 308,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "XV: Dungeon Grates",
+      "wordCount": 314,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 19,
+      "title": "XVI: The Philosopher",
+      "wordCount": 341,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 20,
+      "title": "XVII: The Ocean Strand",
+      "wordCount": 232,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "XVIII: Noon",
+      "wordCount": 142,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "XIX: Milton Read Again",
+      "wordCount": 158,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "XX: Sonnet",
+      "wordCount": 115,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 24,
+      "title": "XXI: The Autumn Morning",
+      "wordCount": 160,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "Part II: Hesitation",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 26,
+      "title": "XXII: L’Apprenti Sorcier",
+      "wordCount": 299,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "XXIII: Alexandrines",
+      "wordCount": 138,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "XXIV: In Praise of Solid People",
+      "wordCount": 346,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 29,
+      "title": "Part III: The Escape",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "XXV: Song of the Pilgrims",
+      "wordCount": 551,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "XXVI: Song",
+      "wordCount": 153,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "XXVII: The Ass",
+      "wordCount": 254,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 33,
+      "title": "XXVIII: Ballade Mystique",
+      "wordCount": 189,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "XXIX: Night",
+      "wordCount": 184,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 35,
+      "title": "XXX: Oxford",
+      "wordCount": 155,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "XXXI: Hymn (For Boy’s Voices)",
+      "wordCount": 171,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 37,
+      "title": "XXXII: “Our Daily Bread”",
+      "wordCount": 152,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "XXXIII: How He Saw Angus the God",
+      "wordCount": 319,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "XXXIV: The Roads",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "XXXV: Hesperus",
+      "wordCount": 195,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 41,
+      "title": "XXXVI: The Star Bath",
+      "wordCount": 158,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 42,
+      "title": "XXXVII: Tu Ne Quæsieris",
+      "wordCount": 203,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "XXXVIII: Lullaby",
+      "wordCount": 170,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 44,
+      "title": "XXXIX: World’s Desire",
+      "wordCount": 313,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 45,
+      "title": "XL: Death in Battle",
+      "wordCount": 185,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 46,
+      "title": "Dymer",
+      "wordCount": 1,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 47,
+      "title": "Canto I",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "Canto II",
+      "wordCount": 1927,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "Canto III",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "Canto IV",
+      "wordCount": 2064,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 51,
+      "title": "Canto V",
+      "wordCount": 1858,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 52,
+      "title": "Canto VI",
+      "wordCount": 2132,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 53,
+      "title": "Canto VII",
+      "wordCount": 1918,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 54,
+      "title": "Canto VIII",
+      "wordCount": 1545,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 55,
+      "title": "Canto IX",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    }
+  ]
+}

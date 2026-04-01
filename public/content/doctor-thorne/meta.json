@@ -1,0 +1,298 @@
+{
+  "bookId": "doctor-thorne",
+  "title": "Doctor Thorne",
+  "author": "Anthony Trollope",
+  "chapterCount": 48,
+  "totalWordCount": 218273,
+  "totalMinutes": 872,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 611,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Greshams of Greshamsbury",
+      "wordCount": 6412,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 2,
+      "title": "II: Long, Long Ago",
+      "wordCount": 4627,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "III: Dr. Thorne",
+      "wordCount": 5862,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "IV: Lessons from Courcy Castle",
+      "wordCount": 7722,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 5,
+      "title": "V: Frank Gresham’s First Speech",
+      "wordCount": 4150,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: Frank Gresham’s Early Loves",
+      "wordCount": 4362,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: The Doctor’s Garden",
+      "wordCount": 4140,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 8,
+      "title": "VIII: Matrimonial Prospects",
+      "wordCount": 5599,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "IX: Sir Roger Scatcherd",
+      "wordCount": 4018,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: Sir Roger’s Will",
+      "wordCount": 4320,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: The Doctor Drinks His Tea",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII: When Greek Meets Greek, Then Comes the Tug of War",
+      "wordCount": 4672,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Two Uncles",
+      "wordCount": 3832,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV: Sentence of Exile",
+      "wordCount": 6071,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "XV: Courcy",
+      "wordCount": 3329,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVI: Miss Dunstable",
+      "wordCount": 3983,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Election",
+      "wordCount": 6129,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Rivals",
+      "wordCount": 5901,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Duke of Omnium",
+      "wordCount": 3667,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "XX: The Proposal",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: Mr. Moffat Falls Into Trouble",
+      "wordCount": 5514,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 22,
+      "title": "XXII: Sir Roger Is Unseated",
+      "wordCount": 3553,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Retrospective",
+      "wordCount": 3846,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Louis Scatcherd",
+      "wordCount": 5056,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 25,
+      "title": "XXV: Sir Roger Dies",
+      "wordCount": 5949,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 26,
+      "title": "XXVI: War",
+      "wordCount": 4061,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Miss Thorne Goes on a Visit",
+      "wordCount": 5071,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Doctor Hears Something to His Advantage",
+      "wordCount": 4473,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Donkey Ride",
+      "wordCount": 5890,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 30,
+      "title": "XXX: Post Prandial",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Small End of the Wedge",
+      "wordCount": 4009,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Mr. Oriel",
+      "wordCount": 3346,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: A Morning Visit",
+      "wordCount": 4378,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: A Barouche and Four Arrives at Greshamsbury",
+      "wordCount": 7112,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Sir Louis Goes Out to Dinner",
+      "wordCount": 3558,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Will He Come Again?",
+      "wordCount": 3271,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Sir Louis Leaves Greshamsbury",
+      "wordCount": 3737,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: De Courcy Precepts and de Courcy Practice",
+      "wordCount": 5834,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: What the World Says About Blood",
+      "wordCount": 3964,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 40,
+      "title": "XL: The Two Doctors Change Patients",
+      "wordCount": 3619,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XLI: Doctor Thorne Won’t Interfere",
+      "wordCount": 3981,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XLII: What Can You Give in Return?",
+      "wordCount": 5291,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Race of Scatcherd Becomes Extinct",
+      "wordCount": 4083,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Saturday Evening and Sunday Morning",
+      "wordCount": 5164,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 45,
+      "title": "XLV: Law Business in London",
+      "wordCount": 3981,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Our Pet Fox Finds a Tail",
+      "wordCount": 4669,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 47,
+      "title": "XLVII: How the Bride Was Received, and Who Were Asked to the Wedding",
+      "wordCount": 6043,
+      "estimatedMinutes": 24
+    }
+  ]
+}

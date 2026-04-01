@@ -1,0 +1,34 @@
+{
+  "bookId": "short-fiction",
+  "title": "Short Fiction",
+  "author": "Andre Norton",
+  "chapterCount": 4,
+  "totalWordCount": 24315,
+  "totalMinutes": 98,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 418,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "The People of the Crater",
+      "wordCount": 15378,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 2,
+      "title": "The Gifts of Asti",
+      "wordCount": 5770,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "All Cats Are Gray",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    }
+  ]
+}

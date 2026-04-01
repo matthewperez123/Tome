@@ -1,0 +1,334 @@
+{
+  "bookId": "barchester-towers",
+  "title": "Barchester Towers",
+  "author": "Anthony Trollope",
+  "chapterCount": 54,
+  "totalWordCount": 199232,
+  "totalMinutes": 796,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: Who Will Be the New Bishop?",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: Hiram’s Hospital According to Act of Parliament",
+      "wordCount": 2622,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III: Dr. and Mrs. Proudie",
+      "wordCount": 2567,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: The Bishop’s Chaplain",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: A Morning Visit",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI: War",
+      "wordCount": 4527,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VII: The Dean and Chapter Take Counsel",
+      "wordCount": 2348,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Ex-Warden Rejoices in His Probable Return to the Hospital",
+      "wordCount": 2734,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: The Stanhope Family",
+      "wordCount": 5001,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X: Mrs. Proudie’s Reception—Commenced",
+      "wordCount": 3875,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI: Mrs. Proudie’s Reception—Concluded",
+      "wordCount": 5014,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "XII: Slope Versus Harding",
+      "wordCount": 2623,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Rubbish Cart",
+      "wordCount": 3273,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: The New Champion",
+      "wordCount": 2809,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XV: The Widow’s Suitors",
+      "wordCount": 4164,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVI: Baby Worship",
+      "wordCount": 4637,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVII: Who Shall Be Cock of the Walk?",
+      "wordCount": 2861,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Widow’s Persecution",
+      "wordCount": 3079,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: Barchester by Moonlight",
+      "wordCount": 4121,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XX: Mr. Arabin",
+      "wordCount": 5012,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "XXI: St. Ewold’s Parsonage",
+      "wordCount": 4265,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Thornes of Ullathorne",
+      "wordCount": 5395,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Mr. Arabin Reads Himself in at St. Ewold’s",
+      "wordCount": 3436,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Mr. Slope Manages Matters Very Cleverly at Puddingdale",
+      "wordCount": 4356,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 25,
+      "title": "XXV: Fourteen Arguments in Favour of Mr. Quiverful’s Claims",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Mrs. Proudie Wrestles and Gets a Fall",
+      "wordCount": 4092,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A Love Scene",
+      "wordCount": 5834,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Mrs. Bold Is Entertained by Dr. and Mrs. Grantly at Plumstead",
+      "wordCount": 5633,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 29,
+      "title": "XXIX: A Serious Interview",
+      "wordCount": 3334,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX: Another Love Scene",
+      "wordCount": 5128,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Bishop’s Library",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXXII: A New Candidate for Ecclesiastical Honours",
+      "wordCount": 5771,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Mrs. Proudie Victrix",
+      "wordCount": 4205,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Oxford—The Master and Tutor of Lazarus",
+      "wordCount": 3421,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Miss Thorne’s Fête Champêtre",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Ullathorne Sports—Act I",
+      "wordCount": 4493,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Signora Neroni, the Countess de Courcy, and Mrs. Proudie Meet Each Other at Ullathorne",
+      "wordCount": 4204,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Bishop Sits Down to Breakfast, and the Dean Dies",
+      "wordCount": 4738,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: The Lookalofts and the Greenacres",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 40,
+      "title": "XL: Ullathorne Sports—Act II",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XLI: Mrs. Bold Confides Her Sorrow to Her Friend Miss Stanhope",
+      "wordCount": 3034,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLII: Ullathorne Sports—Act III",
+      "wordCount": 5481,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Mr. and Mrs. Quiverful Are Made Happy. Mr. Slope Is Encouraged by the Press",
+      "wordCount": 5146,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Mrs. Bold at Home",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Stanhopes at Home",
+      "wordCount": 3805,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Mr. Slope’s Parting Interview with the Signora",
+      "wordCount": 3146,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The Dean Elect",
+      "wordCount": 3346,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Miss Thorne Shows Her Talent at Matchmaking",
+      "wordCount": 4134,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 49,
+      "title": "XLIX: The Beelzebub Colt",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 50,
+      "title": "L: The Archdeacon Is Satisfied with the State of Affairs",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "LI: Mr. Slope Bids Farewell to the Palace and Its Inhabitants",
+      "wordCount": 2585,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "LII: The New Dean Takes Possession of the Deanery, and the New Warden of the Hospital",
+      "wordCount": 3009,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 53,
+      "title": "LIII: Conclusion",
+      "wordCount": 1662,
+      "estimatedMinutes": 7
+    }
+  ]
+}

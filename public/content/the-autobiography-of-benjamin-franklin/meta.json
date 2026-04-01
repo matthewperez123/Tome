@@ -1,0 +1,130 @@
+{
+  "bookId": "the-autobiography-of-benjamin-franklin",
+  "title": "The Autobiography of Benjamin Franklin",
+  "author": "Benjamin Franklin",
+  "chapterCount": 20,
+  "totalWordCount": 64605,
+  "totalMinutes": 258,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "I: Ancestry and Early Youth in Boston",
+      "wordCount": 3463,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: Beginning Life as a Printer",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: Arrival in Philadelphia",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV: First Visit to Boston",
+      "wordCount": 2938,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V: Early Friends in Philadelphia",
+      "wordCount": 1443,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VI: First Visit to London",
+      "wordCount": 4518,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VII: Beginning Business in Philadelphia",
+      "wordCount": 5468,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "VIII: Business Success and First Public Service",
+      "wordCount": 3933,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX: Plan for Attaining Moral Perfection",
+      "wordCount": 4262,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 10,
+      "title": "X: Poor Richard’s Almanac and Other Activities",
+      "wordCount": 2944,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI: Interest in Public Affairs",
+      "wordCount": 2537,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XII: Defense of the Province",
+      "wordCount": 3137,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: Public Services and Duties (1749–1753)",
+      "wordCount": 4867,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XIV: Albany Plan of Union",
+      "wordCount": 793,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "XV: Quarrels with the Proprietary Governors",
+      "wordCount": 1159,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI: Braddock’s Expedition",
+      "wordCount": 4109,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVII: Franklin’s Defense of the Frontier",
+      "wordCount": 3073,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Scientific Experiments",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX: Agent of Pennsylvania in London",
+      "wordCount": 5518,
+      "estimatedMinutes": 22
+    }
+  ]
+}

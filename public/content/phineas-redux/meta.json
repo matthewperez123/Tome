@@ -1,0 +1,496 @@
+{
+  "bookId": "phineas-redux",
+  "title": "Phineas Redux",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 261678,
+  "totalMinutes": 1044,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 411,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Temptation",
+      "wordCount": 4536,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 2,
+      "title": "II: Harrington Hall",
+      "wordCount": 4205,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: Gerard Maule",
+      "wordCount": 1752,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: Tankerville",
+      "wordCount": 2408,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: Mr. Daubeny’s Great Move",
+      "wordCount": 4568,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VI: Phineas and His Old Friends",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Coming Home from Hunting",
+      "wordCount": 2663,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Address",
+      "wordCount": 2661,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: The Debate",
+      "wordCount": 1831,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "X: The Deserted Husband",
+      "wordCount": 4406,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: The Truant Wife",
+      "wordCount": 2670,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: Königstein",
+      "wordCount": 4393,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIII: “I Have Got the Seat”",
+      "wordCount": 3266,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: Trumpeton Wood",
+      "wordCount": 2884,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XV: “How Well You Knew!”",
+      "wordCount": 1826,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI: Copperhouse Cross and Broughton Spinnies",
+      "wordCount": 4987,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVII: Madame Goesler’s Story",
+      "wordCount": 2181,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Spooner of Spoon Hall",
+      "wordCount": 3072,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 19,
+      "title": "XIX: Something Out of the Way",
+      "wordCount": 3339,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "XX: Phineas Again in London",
+      "wordCount": 4330,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 21,
+      "title": "XXI: Mr. Maule, Senior",
+      "wordCount": 4309,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXII: “Purity of Morals, Finn”",
+      "wordCount": 3352,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Macpherson’s Hotel",
+      "wordCount": 3328,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Madame Goesler Is Sent For",
+      "wordCount": 2107,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXV: “I Would Do It Now”",
+      "wordCount": 3274,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Duke’s Will",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVII: An Editor’s Wrath",
+      "wordCount": 3110,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The First Thunderbolt",
+      "wordCount": 4433,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Spooner Correspondence",
+      "wordCount": 3292,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX: Regrets",
+      "wordCount": 3334,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Duke and Duchess in Town",
+      "wordCount": 1999,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The World Becomes Cold",
+      "wordCount": 4349,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Two Gladiators",
+      "wordCount": 4675,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: The Universe",
+      "wordCount": 3477,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Political Venom",
+      "wordCount": 2592,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Seventy-Two",
+      "wordCount": 2600,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Conspiracy",
+      "wordCount": 4363,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Once Again in Portman Square",
+      "wordCount": 2621,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Cagliostro",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 40,
+      "title": "XL: The Prime Minister Is Hard Pressed",
+      "wordCount": 3466,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XLI: “I Hope I’m Not Distrusted”",
+      "wordCount": 2621,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 42,
+      "title": "XLII: Boulogne",
+      "wordCount": 3877,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Second Thunderbolt",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Browborough Trial",
+      "wordCount": 4015,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "XLV: Some Passages in the Life of Mr. Emilius",
+      "wordCount": 3322,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Quarrel",
+      "wordCount": 3725,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "XLVII: What Came of the Quarrel",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Mr. Maule’s Attempt",
+      "wordCount": 3097,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Showing What Mrs. Bunce Said to the Policeman",
+      "wordCount": 3348,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 50,
+      "title": "L: What the Lords and Commons Said About the Murder",
+      "wordCount": 2169,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 51,
+      "title": "LI: “You Think It Shameful”",
+      "wordCount": 3296,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 52,
+      "title": "LII: Mr. Kennedy’s Will",
+      "wordCount": 4165,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "LIII: None but the Brave Deserve the Fair",
+      "wordCount": 4278,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 54,
+      "title": "LIV: The Duchess Takes Counsel",
+      "wordCount": 3211,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 55,
+      "title": "LV: Phineas in Prison",
+      "wordCount": 3520,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 56,
+      "title": "LVI: The Meager Family",
+      "wordCount": 1860,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 57,
+      "title": "LVII: The Beginning of the Search for the Key and the Coat",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Two Dukes",
+      "wordCount": 2938,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 59,
+      "title": "LIX: Mrs. Bonteen",
+      "wordCount": 3235,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 60,
+      "title": "LX: Two Days Before the Trial",
+      "wordCount": 4499,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 61,
+      "title": "LXI: The Beginning of the Trial",
+      "wordCount": 3724,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "LXII: Lord Fawn’s Evidence",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Mr. Chaffanbrass for the Defence",
+      "wordCount": 3370,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 64,
+      "title": "LXIV: Confusion in the Court",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 65,
+      "title": "LXV: “I Hate Her!”",
+      "wordCount": 2120,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 66,
+      "title": "LXVI: The Foreign Bludgeon",
+      "wordCount": 2215,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 67,
+      "title": "LXVII: The Verdict",
+      "wordCount": 5688,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: Phineas After the Trial",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 69,
+      "title": "LXIX: The Duke’s First Cousin",
+      "wordCount": 4041,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 70,
+      "title": "LXX: “I Will Not Go to Loughlinter”",
+      "wordCount": 4698,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Phineas Finn Is Reelected",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 72,
+      "title": "LXXII: The End of the Story of Mr. Emilius and Lady Eustace",
+      "wordCount": 2071,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Phineas Finn Returns to His Duties",
+      "wordCount": 2725,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: At Matching",
+      "wordCount": 3782,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 75,
+      "title": "LXXV: The Trumpeton Feud Is Settled",
+      "wordCount": 2229,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: Madame Goesler’s Legacy",
+      "wordCount": 4282,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: Phineas Finn’s Success",
+      "wordCount": 4407,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Last Visit to Saulsby",
+      "wordCount": 3665,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: At Last—At Last",
+      "wordCount": 2598,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 80,
+      "title": "LXXX: Conclusion",
+      "wordCount": 1224,
+      "estimatedMinutes": 5
+    }
+  ]
+}

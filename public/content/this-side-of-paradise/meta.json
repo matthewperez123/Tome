@@ -1,0 +1,82 @@
+{
+  "bookId": "this-side-of-paradise",
+  "title": "This Side of Paradise",
+  "author": "F. Scott Fitzgerald",
+  "chapterCount": 12,
+  "totalWordCount": 81720,
+  "totalMinutes": 329,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I: The Romantic Egotist",
+      "wordCount": 5,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Amory, Son of Beatrice",
+      "wordCount": 10265,
+      "estimatedMinutes": 41
+    },
+    {
+      "index": 2,
+      "title": "II: Spires and Gargoyles",
+      "wordCount": 16383,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 3,
+      "title": "III: The Egotist Considers",
+      "wordCount": 8974,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 4,
+      "title": "IV: Narcissus Off Duty",
+      "wordCount": 10477,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 5,
+      "title": "Interlude: May, 1917–February, 1919",
+      "wordCount": 2058,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "Book II: The Education of a Personage",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "I: The Débutante",
+      "wordCount": 8131,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 8,
+      "title": "II: Experiments in Convalescence",
+      "wordCount": 6843,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "III: Young Irony",
+      "wordCount": 6423,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 10,
+      "title": "IV: The Supercilious Sacrifice",
+      "wordCount": 3115,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "V: The Egotist Becomes a Personage",
+      "wordCount": 9039,
+      "estimatedMinutes": 36
+    }
+  ]
+}

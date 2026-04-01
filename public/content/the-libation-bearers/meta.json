@@ -1,0 +1,28 @@
+{
+  "bookId": "the-libation-bearers",
+  "title": "The Libation Bearers",
+  "author": "Aeschylus",
+  "chapterCount": 3,
+  "totalWordCount": 11462,
+  "totalMinutes": 46,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 64,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "The Libation Bearers",
+      "wordCount": 9824,
+      "estimatedMinutes": 39
+    }
+  ]
+}

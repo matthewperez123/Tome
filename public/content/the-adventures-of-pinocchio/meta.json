@@ -1,0 +1,226 @@
+{
+  "bookId": "the-adventures-of-pinocchio",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "chapterCount": 36,
+  "totalWordCount": 41619,
+  "totalMinutes": 166,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Piece of Wood That Laughed and Cried Like a Child",
+      "wordCount": 600,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "II: Master Cherry Gives the Wood Away",
+      "wordCount": 648,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "III: Geppetto Names His Puppet Pinocchio",
+      "wordCount": 1072,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "IV: The Talking Cricket Scolds Pinocchio",
+      "wordCount": 600,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "V: The Flying Egg",
+      "wordCount": 658,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 5,
+      "title": "VI: Pinocchio’s Feet Burn to Cinders",
+      "wordCount": 396,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "VII: Geppetto Gives His Own Breakfast to Pinocchio",
+      "wordCount": 984,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "VIII: Geppetto Makes Pinocchio New Feet",
+      "wordCount": 708,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "IX: Pinocchio Goes to See a Puppet Show",
+      "wordCount": 719,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "X: The Puppets Recognize Their Brother Pinocchio",
+      "wordCount": 633,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 10,
+      "title": "XI: Fire-Eater Sneezes and Pardons Pinocchio",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "XII: Pinocchio Receives a Present of Five Gold Pieces",
+      "wordCount": 1254,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Inn of the Red Crawfish",
+      "wordCount": 929,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XIV: Pinocchio Falls Amongst Assassins",
+      "wordCount": 1006,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XV: The Assassins Hang Pinocchio to the Big Oak",
+      "wordCount": 754,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Beautiful Child Rescues the Puppet",
+      "wordCount": 925,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XVII: Pinocchio Will Not Take His Medicine",
+      "wordCount": 1419,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Pinocchio Again Meets the Fox and the Cat",
+      "wordCount": 1365,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX: Pinocchio Is Robbed of His Money",
+      "wordCount": 1016,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XX: Pinocchio Starts Back to the Fairy’s House",
+      "wordCount": 798,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XXI: Pinocchio Acts as Watch Dog",
+      "wordCount": 699,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 21,
+      "title": "XXII: Pinocchio Discovers the Robbers",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Pinocchio Flies to the Seashore",
+      "wordCount": 1413,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Pinocchio Finds the Fairy Again",
+      "wordCount": 1743,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXV: Pinocchio Promises the Fairy to Be Good",
+      "wordCount": 821,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Terrible Dog Fish",
+      "wordCount": 766,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Pinocchio Is Arrested by the Gendarmes",
+      "wordCount": 1559,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Pinocchio Escapes Being Fried Like a Fish",
+      "wordCount": 1395,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXIX: He Returns to the Fairy’s House",
+      "wordCount": 1973,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXX: The “Land of Boobies”",
+      "wordCount": 1237,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Pinocchio Enjoys Five Months of Happiness",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Pinocchio Turns Into a Donkey",
+      "wordCount": 1495,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Pinocchio Is Trained for the Circus",
+      "wordCount": 2295,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Pinocchio Is Swallowed by the Dog Fish",
+      "wordCount": 2070,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXV: A Happy Surprise for Pinocchio",
+      "wordCount": 1501,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Pinocchio at Last Ceases to Be a Puppet and Becomes a Boy",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    }
+  ]
+}

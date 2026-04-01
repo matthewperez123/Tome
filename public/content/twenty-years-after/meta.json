@@ -1,0 +1,550 @@
+{
+  "bookId": "twenty-years-after",
+  "title": "Twenty Years After",
+  "author": "Alexandre Dumas",
+  "chapterCount": 90,
+  "totalWordCount": 242420,
+  "totalMinutes": 970,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Ghost of Cardinal Richelieu",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "II: A Nightly Patrol",
+      "wordCount": 3003,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III: Dead Animosities",
+      "wordCount": 4864,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "IV: Anne of Austria at the Age of Forty-Six",
+      "wordCount": 3179,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Gascon and the Italian",
+      "wordCount": 1686,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: D’Artagnan in His Fortieth Year",
+      "wordCount": 4608,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VII: Touches Upon the Strange Effects a Half-Pistole May Have Upon a Beadle and a Chorister",
+      "wordCount": 2146,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VIII: How d’Artagnan, on Going to a Distance to Discover Aramis, Discovers His Old Friend on Horseback Behind His Own Planchet",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "IX: The Abbé d’Herblay",
+      "wordCount": 5861,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 9,
+      "title": "X: Monsieur Porthos du Vallon de Bracieux de Pierrefonds",
+      "wordCount": 2003,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "XI: How d’Artagnan, in Discovering the Retreat of Porthos, Perceives That Wealth Does Not Necessarily Produce Happiness",
+      "wordCount": 2668,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII: In Which It Is Shown That if Porthos Was Discontented with His Condition, Mousqueton Was Completely Satisfied with His",
+      "wordCount": 1749,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII: Two Angelic Faces",
+      "wordCount": 2377,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Castle of Bragelonne",
+      "wordCount": 2106,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XV: Athos as a Diplomatist",
+      "wordCount": 3047,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Duc de Beaufort",
+      "wordCount": 1822,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: Describes How the Duc de Beaufort Amused His Leisure Hours in the Donjon of Vincennes",
+      "wordCount": 2790,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Grimaud Begins His Functions",
+      "wordCount": 3186,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIX: In Which the Contents of the Pâtés Made by the Successor of Father Marteau Are Described",
+      "wordCount": 2841,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XX: One of Marie Michon’s Adventures",
+      "wordCount": 3962,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Abbé Scarron",
+      "wordCount": 3556,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 21,
+      "title": "XXII: Saint Denis",
+      "wordCount": 2486,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXIII: One of the Forty Methods of Escape of the Duc de Beaufort",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Timely Arrival of d’Artagnan in Paris",
+      "wordCount": 2398,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: An Adventure on the High Road",
+      "wordCount": 1815,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Rencontre",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Four Old Friends Prepare to Meet Again",
+      "wordCount": 2624,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Place Royale",
+      "wordCount": 1884,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 28,
+      "title": "XXIX: The Ferry Across the Oise",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXX: Skirmishing",
+      "wordCount": 2170,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Monk",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "XXXII: The Absolution",
+      "wordCount": 1903,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Grimaud Speaks",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: On the Eve of Battle",
+      "wordCount": 3682,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXV: A Dinner in the Old Style",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: A Letter from Charles the First",
+      "wordCount": 1727,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: Cromwell’s Letter",
+      "wordCount": 2399,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Henrietta Maria and Mazarin",
+      "wordCount": 1972,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: How, Sometimes, the Unhappy Mistake Chance for Providence",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XL: Uncle and Nephew",
+      "wordCount": 1463,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XLI: Paternal Affection",
+      "wordCount": 2731,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XLII: Another Queen in Want of Help",
+      "wordCount": 3875,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 42,
+      "title": "XLIII: In Which It Is Proved That First Impulses Are Oftentimes the Best",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XLIV: Te Deum for the Victory of Lens",
+      "wordCount": 5444,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 44,
+      "title": "XLV: The Beggar of St. Eustache",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XLVI: The Tower of St. Jacques de la Boucherie",
+      "wordCount": 1926,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLVII: The Riot",
+      "wordCount": 2583,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: The Riot Becomes a Revolution",
+      "wordCount": 4024,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 48,
+      "title": "XLIX: Misfortune Refreshes the Memory",
+      "wordCount": 2104,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "L: The Interview",
+      "wordCount": 2111,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "LI: The Flight",
+      "wordCount": 3490,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 51,
+      "title": "LII: The Carriage of Monsieur le Coadjuteur",
+      "wordCount": 4489,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 52,
+      "title": "LIII: How d’Artagnan and Porthos Earned by Selling Straw, the One Two Hundred and Nineteen, and the Other Two Hundred and Fifteen Louis d’Or",
+      "wordCount": 2848,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 53,
+      "title": "LIV: In Which We Hear Tidings of Aramis",
+      "wordCount": 3253,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 54,
+      "title": "LV: The Scotchman",
+      "wordCount": 2773,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 55,
+      "title": "LVI: The Avenger",
+      "wordCount": 2760,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 56,
+      "title": "LVII: Oliver Cromwell",
+      "wordCount": 1524,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 57,
+      "title": "LVIII: Jésus Seigneur",
+      "wordCount": 4333,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 58,
+      "title": "LIX: In Which It Is Shown That Under the Most Trying Circumstances Noble Natures Never Lose Their Courage, nor Good Stomachs Their Appetites",
+      "wordCount": 2650,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 59,
+      "title": "LX: Respect to Fallen Majesty",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 60,
+      "title": "LXI: D’Artagnan Hits on a Plan",
+      "wordCount": 4973,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 61,
+      "title": "LXII: London",
+      "wordCount": 1801,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 62,
+      "title": "LXIII: The Trial",
+      "wordCount": 2781,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 63,
+      "title": "LXIV: Whitehall",
+      "wordCount": 2783,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 64,
+      "title": "LXV: The Workmen",
+      "wordCount": 2129,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "LXVI: Remember!",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 66,
+      "title": "LXVII: The Man in the Mask",
+      "wordCount": 2435,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 67,
+      "title": "LXVIII: Cromwell’s House",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 68,
+      "title": "LXIX: Conversational",
+      "wordCount": 2262,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 69,
+      "title": "LXX: The Skiff Lightning",
+      "wordCount": 2991,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 70,
+      "title": "LXXI: Port Wine",
+      "wordCount": 2489,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 71,
+      "title": "LXXII: End of the Port Wine Mystery",
+      "wordCount": 1341,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 72,
+      "title": "LXXIII: Fatality",
+      "wordCount": 2183,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 73,
+      "title": "LXXIV: How Mousqueton, After Being Very Nearly Roasted, Had a Narrow Escape of Being Eaten",
+      "wordCount": 2141,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 74,
+      "title": "LXXV: The Return",
+      "wordCount": 1998,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 75,
+      "title": "LXXVI: The Ambassadors",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 76,
+      "title": "LXXVII: The Three Lieutenants of the Generalissimo",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 77,
+      "title": "LXXVIII: The Battle of Charenton",
+      "wordCount": 2535,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 78,
+      "title": "LXXIX: The Road to Picardy",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 79,
+      "title": "LXXX: The Gratitude of Anne of Austria",
+      "wordCount": 1557,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 80,
+      "title": "LXXXI: Cardinal Mazarin as King",
+      "wordCount": 1530,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 81,
+      "title": "LXXXII: Precautions",
+      "wordCount": 1783,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 82,
+      "title": "LXXXIII: Strength and Sagacity",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 83,
+      "title": "LXXXIV: Strength and Sagacity—Continued",
+      "wordCount": 2711,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 84,
+      "title": "LXXXV: The Oubliettes of Cardinal Mazarin",
+      "wordCount": 1327,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 85,
+      "title": "LXXXVI: Conferences",
+      "wordCount": 1749,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 86,
+      "title": "LXXXVII: In Which We Begin to Think That Porthos Will Be at Last a Baron, and d’Artagnan a Captain",
+      "wordCount": 2693,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 87,
+      "title": "LXXXVIII: Shows How with Threat and Pen More Is Effected Than by the Sword",
+      "wordCount": 4796,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 88,
+      "title": "LXXXIX: In Which It Is Shown That It Is Sometimes More Difficult for Kings to Return to the Capitals of Their Kingdoms, Than to Make an Exit",
+      "wordCount": 3442,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 89,
+      "title": "XC: Conclusion",
+      "wordCount": 734,
+      "estimatedMinutes": 3
+    }
+  ]
+}

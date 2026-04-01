@@ -1,0 +1,328 @@
+{
+  "bookId": "oliver-twist",
+  "title": "Oliver Twist: Or, the Parish Boy’s Progress",
+  "author": "Charles Dickens",
+  "chapterCount": 53,
+  "totalWordCount": 157935,
+  "totalMinutes": 629,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Treats of the Place Where Oliver Twist Was Born and of the Circumstances Attending His Birth",
+      "wordCount": 1118,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "II: Treats of Oliver Twist’s Growth, Education, and Board",
+      "wordCount": 3941,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 2,
+      "title": "III: Relates How Oliver Twist Was Very Near Getting a Place Which Would Not Have Been a Sinecure",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "IV: Oliver, Being Offered Another Place, Makes His First Entry Into Public Life",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: Oliver Mingles with New Associates. Going to a Funeral for the First Time, He Forms an Unfavourable Notion of His Master’s Business",
+      "wordCount": 4031,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "VI: Oliver, Being Goaded by the Taunts of Noah, Rouses Into Action, and Rather Astonishes Him",
+      "wordCount": 1723,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: Oliver Continues Refractory",
+      "wordCount": 2325,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VIII: Oliver Walks to London. He Encounters on the Road a Strange Sort of Young Gentleman",
+      "wordCount": 3228,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: Containing Further Particulars Concerning the Pleasant Old Gentleman, and His Hopeful Pupils",
+      "wordCount": 2327,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X: Oliver Becomes Better Acquainted with the Characters of His New Associates; and Purchases Experience at a High Price. Being a Short, but Very Important Chapter, in This History",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: Treats of Mr. Fang the Police Magistrate; and Furnishes a Slight Specimen of His Mode of Administering Justice",
+      "wordCount": 2616,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: In Which Oliver Is Taken Better Care of Than He Ever Was Before. And in Which the Narrative Reverts to the Merry Old Gentleman and His Youthful Friends",
+      "wordCount": 3415,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII: Some New Acquaintances Are Introduced to the Intelligent Reader, Connected with Whom Various Pleasant Matters Are Related, Appertaining to This History",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV: Comprising Further Particulars of Oliver’s Stay at Mr. Brownlow’s, with the Remarkable Prediction Which One Mr. Grimwig Uttered Concerning Him, When He Went Out on an Errand",
+      "wordCount": 3964,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XV: Showing How Very Fond of Oliver Twist the Merry Old Jew and Miss Nancy Were",
+      "wordCount": 2356,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XVI: Relates What Became of Oliver Twist, After He Had Been Claimed by Nancy",
+      "wordCount": 3521,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVII: Oliver’s Destiny Continuing Unpropitious, Brings a Great Man to London to Injure His Reputation",
+      "wordCount": 3203,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVIII: How Oliver Passed His Time in the Improving Society of His Reputable Friends",
+      "wordCount": 2987,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XIX: In Which a Notable Plan Is Discussed and Determined On",
+      "wordCount": 3405,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: Wherein Oliver Is Delivered Over to Mr. William Sikes",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Expedition",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Burglary",
+      "wordCount": 2469,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Which Contains the Substance of a Pleasant Conversation Between Mr. Bumble and a Lady; and Shows That Even a Beadle May Be Susceptible on Some Points",
+      "wordCount": 2713,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Treats on a Very Poor Subject. But Is a Short One, and May Be Found of Importance in This History",
+      "wordCount": 1992,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV: Wherein This History Reverts to Mr. Fagin and Company",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXVI: In Which a Mysterious Character Appears Upon the Scene; and Many Things, Inseparable from This History, Are Done and Performed",
+      "wordCount": 4504,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Atones for the Unpoliteness of a Former Chapter; Which Deserted a Lady, Most Unceremoniously",
+      "wordCount": 2491,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Looks After Oliver, and Proceeds with His Adventures",
+      "wordCount": 3431,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Has an Introductory Account of the Inmates of the House, to Which Oliver Resorted",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXX: Relates What Oliver’s New Visitors Thought of Him",
+      "wordCount": 2344,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Involves a Critical Position",
+      "wordCount": 3946,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Of the Happy Life Oliver Began to Lead with His Kind Friends",
+      "wordCount": 3353,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Wherein the Happiness of Oliver and His Friends Experiences a Sudden Check",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Contains Some Introductory Particulars Relative to a Young Gentleman Who Now Arrives Upon the Scene; and a New Adventure Which Happened to Oliver",
+      "wordCount": 3715,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Containing the Unsatisfactory Result of Oliver’s Adventure; and a Conversation of Some Importance Between Harry Maylie and Rose",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: Is a Very Short One, and May Appear of No Great Importance in Its Place, but It Should Be Read Notwithstanding, as a Sequel to the Last, and a Key to One That Will Follow When Its Time Arrives",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "XXXVII: In Which the Reader May Perceive a Contrast, Not Uncommon in Matrimonial Cases",
+      "wordCount": 3595,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 37,
+      "title": "XXXVIII: Containing an Account of What Passed Between Mr. and Mrs. Bumble, and Mr. Monks, at Their Nocturnal Interview",
+      "wordCount": 3584,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 38,
+      "title": "XXXIX: Introduces Some Respectable Characters with Whom the Reader Is Already Acquainted, and Shows How Monks and the Jew Laid Their Worthy Heads Together",
+      "wordCount": 5243,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 39,
+      "title": "XL: A Strange Interview, Which Is a Sequel to the Last Chapter",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "XLI: Containing Fresh Discoveries, and Showing That Surprises, Like Misfortunes, Seldom Come Alone",
+      "wordCount": 3588,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 41,
+      "title": "XLII: An Old Acquaintance of Oliver’s, Exhibiting Decided Marks of Genius, Becomes a Public Character in the Metropolis",
+      "wordCount": 3693,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 42,
+      "title": "XLIII: Wherein Is Shown How the Artful Dodger Got Into Trouble",
+      "wordCount": 3760,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "XLIV: The Time Arrives for Nancy to Redeem Her Pledge to Rose Maylie. She Fails",
+      "wordCount": 2387,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XLV: Noah Claypole Is Employed by Fagin on a Secret Mission",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 45,
+      "title": "XLVI: The Appointment Kept",
+      "wordCount": 3572,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "XLVII: Fatal Consequences",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 47,
+      "title": "XLVIII: The Flight of Sikes",
+      "wordCount": 3430,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 48,
+      "title": "XLIX: Monks and Mr. Brownlow at Length Meet. Their Conversation, and the Intelligence That Interrupts It",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 49,
+      "title": "L: The Pursuit and Escape",
+      "wordCount": 4237,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 50,
+      "title": "LI: Affording an Explanation of More Mysteries Than One, and Comprehending a Proposal of Marriage with No Word of Settlement or Pin-Money",
+      "wordCount": 4833,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 51,
+      "title": "LII: Fagin’s Last Night Alive",
+      "wordCount": 3315,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 52,
+      "title": "LIII: And Last",
+      "wordCount": 1555,
+      "estimatedMinutes": 6
+    }
+  ]
+}

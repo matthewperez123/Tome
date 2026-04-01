@@ -1,0 +1,220 @@
+{
+  "bookId": "the-magnificent-ambersons",
+  "title": "The Magnificent Ambersons",
+  "author": "Booth Tarkington",
+  "chapterCount": 35,
+  "totalWordCount": 100893,
+  "totalMinutes": 406,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3970,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3303,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2240,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3083,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3235,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2946,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 1824,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 1684,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 2842,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 4265,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2147,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 4098,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2261,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 1987,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2919,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 2991,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1688,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 2130,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 3887,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 2345,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 4680,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 1543,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 3890,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 4455,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 3103,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 1683,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXIV",
+      "wordCount": 3643,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 34,
+      "title": "XXXV",
+      "wordCount": 4650,
+      "estimatedMinutes": 19
+    }
+  ]
+}

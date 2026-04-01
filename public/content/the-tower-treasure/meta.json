@@ -1,0 +1,154 @@
+{
+  "bookId": "the-tower-treasure",
+  "title": "The Tower Treasure",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 24,
+  "totalWordCount": 41340,
+  "totalMinutes": 166,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Speed Demon",
+      "wordCount": 1552,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: The Stolen Roadster",
+      "wordCount": 1739,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: Traces of the Thief",
+      "wordCount": 1471,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "IV: The Holdup",
+      "wordCount": 1324,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "V: Chet’s Auto Horn",
+      "wordCount": 2427,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Tire Tracks",
+      "wordCount": 1665,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: The Mansion Robbery",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Arrest",
+      "wordCount": 1269,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "IX: Red Hair",
+      "wordCount": 1566,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: An Important Discovery",
+      "wordCount": 2101,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "XI: Mr. Hardy Investigates",
+      "wordCount": 1908,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: Days of Waiting",
+      "wordCount": 1987,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII: In Poor Quarters",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: Red Jackley",
+      "wordCount": 2478,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XV: The Chief Gets a Bomb",
+      "wordCount": 1934,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: A Confession",
+      "wordCount": 1519,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Search of the Tower",
+      "wordCount": 1797,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The New Tower",
+      "wordCount": 1523,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Mystery Deepens",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: The Flash in the Tower",
+      "wordCount": 1847,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: A New Idea",
+      "wordCount": 1625,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Search",
+      "wordCount": 1587,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Adelia Applegate’s Compliment",
+      "wordCount": 1422,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Last of the Tower Case",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    }
+  ]
+}

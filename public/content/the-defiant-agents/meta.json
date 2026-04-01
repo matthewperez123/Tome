@@ -1,0 +1,124 @@
+{
+  "bookId": "the-defiant-agents",
+  "title": "The Defiant Agents",
+  "author": "Andre Norton",
+  "chapterCount": 19,
+  "totalWordCount": 58527,
+  "totalMinutes": 235,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 419,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3258,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3469,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3189,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3476,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3034,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3459,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3160,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3198,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3249,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3133,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 3408,
+      "estimatedMinutes": 14
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "bookId": "the-scarlet-pimpernel",
+  "title": "The Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "chapterCount": 31,
+  "totalWordCount": 85274,
+  "totalMinutes": 340,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Paris: September, 1792",
+      "wordCount": 2757,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II: Dover: The Fisherman’s Rest",
+      "wordCount": 3131,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "III: The Refugees",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "IV: The League of the Scarlet Pimpernel",
+      "wordCount": 2542,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V: Marguerite",
+      "wordCount": 1755,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: An Exquisite of ’92",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII: The Secret Orchard",
+      "wordCount": 2026,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Accredited Agent",
+      "wordCount": 3767,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: The Outrage",
+      "wordCount": 2185,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X: In the Opera Box",
+      "wordCount": 4885,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "XI: Lord Grenville’s Ball",
+      "wordCount": 2024,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: The Scrap of Paper",
+      "wordCount": 2860,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII: Either—Or?",
+      "wordCount": 807,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XIV: One O’Clock Precisely!",
+      "wordCount": 2653,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV: Doubt",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: Richmond",
+      "wordCount": 4933,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 16,
+      "title": "XVII: Farewell",
+      "wordCount": 2411,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Mysterious Device",
+      "wordCount": 1557,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Scarlet Pimpernel",
+      "wordCount": 3167,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 19,
+      "title": "XX: The Friend",
+      "wordCount": 2341,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XXI: Suspense",
+      "wordCount": 2725,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: Calais",
+      "wordCount": 3255,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Hope",
+      "wordCount": 2339,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Deathtrap",
+      "wordCount": 2318,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Eagle and the Fox",
+      "wordCount": 2818,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The Jew",
+      "wordCount": 3057,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVII: On the Track",
+      "wordCount": 2598,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Père Blanchard’s Hut",
+      "wordCount": 3183,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Trapped",
+      "wordCount": 1545,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXX: The Schooner",
+      "wordCount": 4241,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Escape",
+      "wordCount": 3827,
+      "estimatedMinutes": 15
+    }
+  ]
+}

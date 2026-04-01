@@ -1,0 +1,82 @@
+{
+  "bookId": "roads-to-freedom",
+  "title": "Roads to Freedom: Socialism, Anarchism, and Syndicalism",
+  "author": "Bertrand Russell",
+  "chapterCount": 12,
+  "totalWordCount": 50856,
+  "totalMinutes": 207,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 161,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 2662,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "Part I: Historical",
+      "wordCount": 3,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Marx and Socialist Doctrine",
+      "wordCount": 6960,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 4,
+      "title": "II: Bakunin and Anarchism",
+      "wordCount": 5200,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "III: The Syndicalist Revolt",
+      "wordCount": 6446,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "Part II: Problems of the Future",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "IV: Work and Pay",
+      "wordCount": 5526,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "V: Government and Law",
+      "wordCount": 6282,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "VI: International Relations",
+      "wordCount": 5891,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "VII: Science and Art Under Socialism",
+      "wordCount": 5158,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 11,
+      "title": "VIII: The World as It Could Be Made",
+      "wordCount": 6561,
+      "estimatedMinutes": 26
+    }
+  ]
+}

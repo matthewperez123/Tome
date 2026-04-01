@@ -1,0 +1,124 @@
+{
+  "bookId": "key-out-of-time",
+  "title": "Key Out of Time",
+  "author": "Andre Norton",
+  "chapterCount": 19,
+  "totalWordCount": 57707,
+  "totalMinutes": 229,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 382,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Lotus World",
+      "wordCount": 3236,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: Lair of Mano-Nui",
+      "wordCount": 3338,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III: The Ancient Mariners",
+      "wordCount": 3080,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: Storm Menace",
+      "wordCount": 2940,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V: Time Wrecked",
+      "wordCount": 3104,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 6,
+      "title": "VI: Loketh the Useless",
+      "wordCount": 2643,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII: Witches’ Meat",
+      "wordCount": 3076,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Free Rovers",
+      "wordCount": 3300,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: Battle Test",
+      "wordCount": 3269,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Death at Kyn Add",
+      "wordCount": 3082,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI: Weapon from the Depths",
+      "wordCount": 3143,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII: Baldies",
+      "wordCount": 3288,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Sea Gate of the Foanna",
+      "wordCount": 3224,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Foanna",
+      "wordCount": 3058,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XV: Return to the Battle",
+      "wordCount": 3225,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Opening of the Great Door",
+      "wordCount": 3090,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: Shades Against Shadow",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII: World in Doubt?",
+      "wordCount": 4107,
+      "estimatedMinutes": 16
+    }
+  ]
+}

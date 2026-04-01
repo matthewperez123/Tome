@@ -1,0 +1,142 @@
+{
+  "bookId": "the-sun-also-rises",
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "chapterCount": 22,
+  "totalWordCount": 67755,
+  "totalMinutes": 274,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1351,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1512,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2820,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2914,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3380,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3540,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 3028,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2291,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 4341,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 2560,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 3951,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 5878,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 5307,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 4741,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 4880,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 6170,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 20,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 21,
+      "title": "XIX",
+      "wordCount": 6324,
+      "estimatedMinutes": 25
+    }
+  ]
+}

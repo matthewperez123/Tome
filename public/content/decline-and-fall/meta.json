@@ -1,0 +1,196 @@
+{
+  "bookId": "decline-and-fall",
+  "title": "Decline and Fall",
+  "author": "Evelyn Waugh",
+  "chapterCount": 31,
+  "totalWordCount": 60201,
+  "totalMinutes": 243,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prelude",
+      "wordCount": 1768,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: Vocation",
+      "wordCount": 1408,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II: Llanabba Castle",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "III: Captain Grimes",
+      "wordCount": 1669,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "IV: Mr. Prendergast",
+      "wordCount": 1107,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "V: Discipline",
+      "wordCount": 1871,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VI: Conduct",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VII: Philbrick",
+      "wordCount": 3899,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Sports",
+      "wordCount": 4787,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "IX: The Sports—Continued",
+      "wordCount": 2065,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: Post Mortem",
+      "wordCount": 1464,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XI: Philbrick—Continued",
+      "wordCount": 1548,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XII: The Agony of Captain Grimes",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Passing of a Public School Man",
+      "wordCount": 2859,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 16,
+      "title": "I: King’s Thursday",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "II: Interlude in Belgravia",
+      "wordCount": 562,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "III: Pervigilium Veneris",
+      "wordCount": 4417,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "IV: Resurrection",
+      "wordCount": 1637,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "V: The Latin-American Entertainment Co. Ltd.",
+      "wordCount": 1182,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "VI: A Hitch in the Wedding Preparations",
+      "wordCount": 3110,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "I: Stone Walls Do Not a Prison Make",
+      "wordCount": 3743,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "II: The Lucas-Dockery Experiments",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "III: The Death of a Modern Churchman",
+      "wordCount": 2471,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "IV: Nor Iron Bars a Cage",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 27,
+      "title": "V: The Passing of a Public School Man",
+      "wordCount": 1040,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "VI: The Passing of Paul Pennyfeather",
+      "wordCount": 1645,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "VII: Resurrection",
+      "wordCount": 2098,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 30,
+      "title": "Epilogue",
+      "wordCount": 819,
+      "estimatedMinutes": 3
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "bookId": "black-beauty",
+  "title": "Black Beauty: The Autobiography of a Horse",
+  "author": "Anna Sewell",
+  "chapterCount": 53,
+  "totalWordCount": 59755,
+  "totalMinutes": 243,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: My Early Home",
+      "wordCount": 782,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "II: The Hunt",
+      "wordCount": 1021,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "III: My Breaking In",
+      "wordCount": 1452,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "IV: Birtwick Park",
+      "wordCount": 982,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "V: A Fair Start",
+      "wordCount": 1244,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI: Liberty",
+      "wordCount": 563,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VII: Ginger",
+      "wordCount": 1581,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII: Ginger’s Story Continued",
+      "wordCount": 1303,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "IX: Merrylegs",
+      "wordCount": 992,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "X: A Talk in the Orchard",
+      "wordCount": 1943,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: Plain Speaking",
+      "wordCount": 1057,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XII: A Stormy Day",
+      "wordCount": 1155,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Devil’s Trade Mark",
+      "wordCount": 1005,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIV: James Howard",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XV: The Old Hostler",
+      "wordCount": 996,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Fire",
+      "wordCount": 1338,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "XVII: John Manly’s Talk",
+      "wordCount": 1282,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Going for the Doctor",
+      "wordCount": 1322,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX: Only Ignorance",
+      "wordCount": 760,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XX: Joe Green",
+      "wordCount": 913,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Parting",
+      "wordCount": 920,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 23,
+      "title": "XXII: Earlshall",
+      "wordCount": 1350,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXIII: A Strike for Liberty",
+      "wordCount": 1112,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Lady Anne, or a Runaway Horse",
+      "wordCount": 2040,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXV: Reuben Smith",
+      "wordCount": 1216,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 27,
+      "title": "XXVI: How It Ended",
+      "wordCount": 931,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Ruined and Going Downhill",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: A Job Horse and His Drivers",
+      "wordCount": 1213,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Cockneys",
+      "wordCount": 2188,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXX: A Thief",
+      "wordCount": 843,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "XXXI: A Humbug",
+      "wordCount": 953,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "XXXII: A Horse Fair",
+      "wordCount": 1165,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: A London Cab Horse",
+      "wordCount": 1344,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: An Old War Horse",
+      "wordCount": 1676,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 37,
+      "title": "XXXV: Jerry Barker",
+      "wordCount": 1873,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 38,
+      "title": "XXXVI: The Sunday Cab",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 39,
+      "title": "XXXVII: The Golden Rule",
+      "wordCount": 1155,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 40,
+      "title": "XXXVIII: Dolly and a Real Gentleman",
+      "wordCount": 1328,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 41,
+      "title": "XXXIX: Seedy Sam",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 42,
+      "title": "XL: Poor Ginger",
+      "wordCount": 722,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 43,
+      "title": "XLI: The Butcher",
+      "wordCount": 1013,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 44,
+      "title": "XLII: The Election",
+      "wordCount": 555,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 45,
+      "title": "XLIII: A Friend in Need",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 46,
+      "title": "XLIV: Old Captain and His Successor",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XLV: Jerry’s New Year",
+      "wordCount": 1948,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 49,
+      "title": "XLVI: Jakes and the Lady",
+      "wordCount": 1214,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 50,
+      "title": "XLVII: Hard Times",
+      "wordCount": 1459,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 51,
+      "title": "XLVIII: Farmer Thoroughgood and His Grandson Willie",
+      "wordCount": 1240,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 52,
+      "title": "XLIX: My Last Home",
+      "wordCount": 1061,
+      "estimatedMinutes": 4
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "bookId": "a-farewell-to-arms",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "chapterCount": 46,
+  "totalWordCount": 88706,
+  "totalMinutes": 360,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 599,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1455,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1436,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1667,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1706,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2754,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 1079,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 4935,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1530,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1513,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 2198,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 1147,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 1306,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 1554,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 2892,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 1640,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 2353,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 1019,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 1106,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "XXV",
+      "wordCount": 3780,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVI",
+      "wordCount": 781,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "XXVII",
+      "wordCount": 4054,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "XXVIII",
+      "wordCount": 2691,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXIX",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXX",
+      "wordCount": 5443,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 33,
+      "title": "XXXI",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 34,
+      "title": "XXXII",
+      "wordCount": 771,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "XXXIII",
+      "wordCount": 1469,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 37,
+      "title": "XXXIV",
+      "wordCount": 2658,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXV",
+      "wordCount": 2851,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXVI",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 40,
+      "title": "XXXVII",
+      "wordCount": 4551,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "Book V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 42,
+      "title": "XXXVIII",
+      "wordCount": 3522,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 43,
+      "title": "XXXIX",
+      "wordCount": 849,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "XL",
+      "wordCount": 1620,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 45,
+      "title": "XLI",
+      "wordCount": 6471,
+      "estimatedMinutes": 26
+    }
+  ]
+}

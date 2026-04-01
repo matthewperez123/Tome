@@ -1,0 +1,250 @@
+{
+  "bookId": "the-nibelungenlied",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "chapterCount": 40,
+  "totalWordCount": 98731,
+  "totalMinutes": 398,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Preface",
+      "wordCount": 1633,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Adventure I: Kriemhilda",
+      "wordCount": 775,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "Adventure II: Siegfried",
+      "wordCount": 985,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "Adventure III: How Siegfried Came to Worms",
+      "wordCount": 3908,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "Adventure IV: How Siegfried Fought the Saxons",
+      "wordCount": 5162,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Adventure V: How Siegfried First Saw Kriemhilda",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "Adventure VI: How Gunther Went to Iceland After Brunhilda",
+      "wordCount": 2653,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "Adventure VII: How Gunther Won Brunhilda",
+      "wordCount": 3821,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "Adventure VIII: How Siegfried Went to Fetch the Nibelungs",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "Adventure IX: How Siegfried Was Sent to Worms",
+      "wordCount": 2051,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "Adventure X: How Brunhilda Was Received at Worms",
+      "wordCount": 4616,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "Adventure XI: How Siegfried Went Home with His Wife",
+      "wordCount": 1383,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "Adventure XII: How Gunther Bade Siegfried to the Festival",
+      "wordCount": 2214,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "Adventure XIII: How They Journeyed to the Festival",
+      "wordCount": 1431,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "Adventure XIV: How the Queens Railed at One Another",
+      "wordCount": 2572,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "Adventure XV: How Siegfried Was Betrayed",
+      "wordCount": 1627,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "Adventure XVI: How Siegfried Was Slain",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "Adventure XVII: How Kriemhilda Mourn’d for Her Husband, and How He Was Buried",
+      "wordCount": 2923,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "Adventure XVIII: How Siegmund Went Back to His Own Land",
+      "wordCount": 1150,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "Adventure XIX: How the Nibelung Hoard Was Brought to Worms",
+      "wordCount": 1716,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "Adventure XX: How King Etzel Sent to Burgundy After Kriemhilda",
+      "wordCount": 5917,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 21,
+      "title": "Adventure XXI: How Kriemhilda Went to the Huns",
+      "wordCount": 1798,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "Adventure XXII: How Etzel Espoused Kriemhilda",
+      "wordCount": 1985,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "Adventure XXIII: How Kriemhilda Thought to Avenge Her Injury",
+      "wordCount": 1450,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "Adventure XXIV: How Werbel and Schwemmel Did Their Errand",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "Adventure XXV: How the Lords All Went to the Huns",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 26,
+      "title": "Adventure XXVI: How Gelfrat Was Slain by Dankwart",
+      "wordCount": 2613,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "Adventure XXVII: How They Came to Bechelaren",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "Adventure XXVIII: How the Burgundians Came to Etzel’s Stronghold",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "Adventure XXIX: How He Stood Not Up Before Her",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "Adventure XXX: How They Kept Watch and Ward",
+      "wordCount": 1252,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 31,
+      "title": "Adventure XXXI: How They Went to Church",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "Adventure XXXII: How Bloedelin Was Slain",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 33,
+      "title": "Adventure XXXIII: How the Burgundians Fought with the Huns",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "Adventure XXXIV: How They Cast Forth the Dead",
+      "wordCount": 780,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "Adventure XXXV: How Iring Was Slain",
+      "wordCount": 2147,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "Adventure XXXVI: How the Queen Bade That the Hall Be Set on Fire",
+      "wordCount": 2218,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "Adventure XXXVII: How the Margrave Rüdeger Was Slain",
+      "wordCount": 4052,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "Adventure XXXVIII: How Lord Dietrich’s Warriors All Were Slain",
+      "wordCount": 3575,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 39,
+      "title": "Adventure XXXIX: How Gunther and Hagen and Kriemhilda Were Slain",
+      "wordCount": 2268,
+      "estimatedMinutes": 9
+    }
+  ]
+}

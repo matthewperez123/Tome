@@ -1,0 +1,160 @@
+{
+  "bookId": "alice-adams",
+  "title": "Alice Adams",
+  "author": "Booth Tarkington",
+  "chapterCount": 25,
+  "totalWordCount": 85436,
+  "totalMinutes": 342,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 2067,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 2376,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3087,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 4625,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3256,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2709,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3081,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2840,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 4059,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 5635,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2754,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3857,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 3588,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3415,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 3061,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 3407,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 3596,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 4213,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 4678,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 3595,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 3939,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2336,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 3202,
+      "estimatedMinutes": 13
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "bookId": "framley-parsonage",
+  "title": "Framley Parsonage",
+  "author": "Anthony Trollope",
+  "chapterCount": 49,
+  "totalWordCount": 209549,
+  "totalMinutes": 838,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 352,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: “Omnes Omnia Bona Dicere”",
+      "wordCount": 3686,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: The Framley Set, and the Chaldicotes Set",
+      "wordCount": 4337,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: Chaldicotes",
+      "wordCount": 4911,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "IV: A Matter of Conscience",
+      "wordCount": 3819,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V: Amantium Irae Amoris Integratio",
+      "wordCount": 5585,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VI: Mr. Harold Smith’s Lecture",
+      "wordCount": 3951,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VII: Sunday Morning",
+      "wordCount": 3254,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Gatherum Castle",
+      "wordCount": 6922,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 9,
+      "title": "IX: The Vicar’s Return",
+      "wordCount": 3364,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Lucy Robarts",
+      "wordCount": 4649,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 11,
+      "title": "XI: Griselda Grantly",
+      "wordCount": 5751,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "XII: The Little Bill",
+      "wordCount": 3189,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: Delicate Hints",
+      "wordCount": 4364,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV: Mr. Crawley of Hogglestock",
+      "wordCount": 4853,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XV: Lady Lufton’s Ambassador",
+      "wordCount": 3697,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVI: Mrs. Podgens’ Baby",
+      "wordCount": 4963,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVII: Mrs. Proudie’s Conversazione",
+      "wordCount": 4342,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The New Minister’s Patronage",
+      "wordCount": 3572,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XIX: Money Dealings",
+      "wordCount": 5382,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 20,
+      "title": "XX: Harold Smith in the Cabinet",
+      "wordCount": 3930,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXI: Why Puck, the Pony, Was Beaten",
+      "wordCount": 3929,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 22,
+      "title": "XXII: Hogglestock Parsonage",
+      "wordCount": 3025,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The Triumph of the Giants",
+      "wordCount": 4690,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Magna Est Veritas",
+      "wordCount": 5535,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXV: Non-Impulsive",
+      "wordCount": 3959,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Impulsive",
+      "wordCount": 5288,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 27,
+      "title": "XXVII: South Audley Street",
+      "wordCount": 3674,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Dr. Thorne",
+      "wordCount": 3139,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Miss Dunstable at Home",
+      "wordCount": 7673,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 30,
+      "title": "XXX: The Grantly Triumph",
+      "wordCount": 1978,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Salmon Fishing in Norway",
+      "wordCount": 6528,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 32,
+      "title": "XXXII: The Goat and Compasses",
+      "wordCount": 3312,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Consolation",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Lady Lufton Is Taken by Surprise",
+      "wordCount": 4091,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 35,
+      "title": "XXXV: The Story of King Cophetua",
+      "wordCount": 4440,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Kidnapping at Hogglestock",
+      "wordCount": 4342,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Mr. Sowerby Without Company",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Is There Cause or Just Impediment?",
+      "wordCount": 4461,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: How to Write a Love Letter",
+      "wordCount": 4470,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 40,
+      "title": "XL: Internecine",
+      "wordCount": 4407,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 41,
+      "title": "XLI: Don Quixote",
+      "wordCount": 4333,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLII: Touching Pitch",
+      "wordCount": 4199,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Is She Not Insignificant?",
+      "wordCount": 4544,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Philistines at the Parsonage",
+      "wordCount": 4479,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 45,
+      "title": "XLV: Palace Blessings",
+      "wordCount": 3782,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Lady Lufton’s Request",
+      "wordCount": 5143,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Nemesis",
+      "wordCount": 3617,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: How They Were All Married, Had Two Children, and Lived Happy Ever After",
+      "wordCount": 4325,
+      "estimatedMinutes": 17
+    }
+  ]
+}

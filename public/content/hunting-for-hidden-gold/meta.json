@@ -1,0 +1,154 @@
+{
+  "bookId": "hunting-for-hidden-gold",
+  "title": "Hunting for Hidden Gold",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 24,
+  "totalWordCount": 42355,
+  "totalMinutes": 167,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: In the Storm",
+      "wordCount": 1995,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II: A Call for Help",
+      "wordCount": 1578,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "III: Jadbury Wilson",
+      "wordCount": 1736,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: A Tale of the West",
+      "wordCount": 2255,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "V: Con Riley Under Fire",
+      "wordCount": 1861,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: A Message from Montana",
+      "wordCount": 1762,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: In the Windy City",
+      "wordCount": 1756,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Second Stranger",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: The Escape",
+      "wordCount": 1369,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 9,
+      "title": "X: On Guard",
+      "wordCount": 1566,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: Fenton Hardy’s Story",
+      "wordCount": 2094,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: The Cave-in",
+      "wordCount": 2045,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XIII: In the Depths of the Earth",
+      "wordCount": 1901,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV: Attacked by the Outlaws",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: The Trap",
+      "wordCount": 1995,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: Information",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Outlaw’s Notebook",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Blizzard",
+      "wordCount": 1680,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Lone Tree",
+      "wordCount": 1589,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XX: Down the Shaft",
+      "wordCount": 1512,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI: Underground",
+      "wordCount": 1777,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: Black Pepper",
+      "wordCount": 1296,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Capture",
+      "wordCount": 1926,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Bart Dawson Explains",
+      "wordCount": 1111,
+      "estimatedMinutes": 4
+    }
+  ]
+}

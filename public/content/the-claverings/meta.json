@@ -1,0 +1,304 @@
+{
+  "bookId": "the-claverings",
+  "title": "The Claverings",
+  "author": "Anthony Trollope",
+  "chapterCount": 49,
+  "totalWordCount": 208456,
+  "totalMinutes": 836,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1176,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "I: Julia Brabazon",
+      "wordCount": 3112,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II: Harry Clavering Chooses His Profession",
+      "wordCount": 5403,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "III: Lord Ongar",
+      "wordCount": 4197,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "IV: Florence Burton",
+      "wordCount": 4370,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "V: Lady Ongar’s Return",
+      "wordCount": 4551,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VI: The Rev. Samuel Saul",
+      "wordCount": 4166,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: Some Scenes in the Life of a Countess",
+      "wordCount": 4815,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: The House in Onslow Crescent",
+      "wordCount": 4252,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 9,
+      "title": "IX: Too Prudent by Half",
+      "wordCount": 4096,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "X: Florence Burton at the Rectory",
+      "wordCount": 4305,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: Sir Hugh and His Brother Archie",
+      "wordCount": 5322,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 12,
+      "title": "XII: Lady Ongar Takes Possession",
+      "wordCount": 3289,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Visitor Calls at Ongar Park",
+      "wordCount": 3220,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XIV: Count Pateroff and His Sister",
+      "wordCount": 4277,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XV: An Evening in Bolton Street",
+      "wordCount": 5486,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Rivals",
+      "wordCount": 4553,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVII: “Let Her Know That You’re There”",
+      "wordCount": 3969,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Captain Clavering Makes His First Attempt",
+      "wordCount": 4642,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Blue Posts",
+      "wordCount": 4403,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XX: Desolation",
+      "wordCount": 4444,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 21,
+      "title": "XXI: Yes; Wrong;—Certainly Wrong",
+      "wordCount": 4192,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Day of the Funeral",
+      "wordCount": 4389,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Cumberly Lane Without the Mud",
+      "wordCount": 3244,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Russian Spy",
+      "wordCount": 5379,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXV: “What Would Men Say of You?”",
+      "wordCount": 4327,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Man Who Dusted His Boots with His Handkerchief",
+      "wordCount": 3886,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Freshwater Gate",
+      "wordCount": 4851,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: What Cecilia Burton Did for Her Sister-in-Law",
+      "wordCount": 5120,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "XXIX: How Damon Parted from Pythias",
+      "wordCount": 3141,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX: Doodles in Mount Street",
+      "wordCount": 4475,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Harry Clavering’s Confession",
+      "wordCount": 3738,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Florence Burton Packs Up a Packet",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Showing Why Harry Clavering Was Wanted at the Rectory",
+      "wordCount": 4762,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mr. Saul’s Abode",
+      "wordCount": 4141,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Parting",
+      "wordCount": 4560,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Captain Clavering Makes His Last Attempt",
+      "wordCount": 3964,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: What Lady Ongar Thought About It",
+      "wordCount": 4486,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: How to Dispose of a Wife",
+      "wordCount": 3220,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Farewell to Doodles",
+      "wordCount": 5256,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 40,
+      "title": "XL: Showing How Mrs. Burton Fought Her Battle",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Sheep Returns to the Fold",
+      "wordCount": 4342,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLII: Restitution",
+      "wordCount": 4687,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Lady Ongar’s Revenge",
+      "wordCount": 3719,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Showing What Happened Off Heligoland",
+      "wordCount": 5523,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 45,
+      "title": "XLV: Is She Mad?",
+      "wordCount": 3940,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Madame Gordeloup Retires from British Diplomacy",
+      "wordCount": 4429,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Showing How Things Settled Themselves at the Rectory",
+      "wordCount": 4946,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Conclusion",
+      "wordCount": 3505,
+      "estimatedMinutes": 14
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "bookId": "star-hunter",
+  "title": "Star Hunter",
+  "author": "Andre Norton",
+  "chapterCount": 14,
+  "totalWordCount": 34363,
+  "totalMinutes": 137,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2675,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2801,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 2712,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 2264,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2385,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2507,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2585,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 2882,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2851,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 2589,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 2822,
+      "estimatedMinutes": 11
+    }
+  ]
+}

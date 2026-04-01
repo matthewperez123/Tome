@@ -1,0 +1,160 @@
+{
+  "bookId": "agnes-grey",
+  "title": "Agnes Grey",
+  "author": "Anne Brontë",
+  "chapterCount": 25,
+  "totalWordCount": 68427,
+  "totalMinutes": 275,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Parsonage",
+      "wordCount": 4425,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II: First Lessons in the Art of Instruction",
+      "wordCount": 2719,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: A Few More Lessons",
+      "wordCount": 4241,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: The Grandmamma",
+      "wordCount": 3174,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Uncle",
+      "wordCount": 2330,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: The Parsonage Again",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Horton Lodge",
+      "wordCount": 5654,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VIII: The “Coming Out”",
+      "wordCount": 891,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 8,
+      "title": "IX: The Ball",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The Church",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: The Cottagers",
+      "wordCount": 5641,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 11,
+      "title": "XII: The Shower",
+      "wordCount": 1458,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Primroses",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Rector",
+      "wordCount": 5016,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XV: The Walk",
+      "wordCount": 2507,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Substitution",
+      "wordCount": 1347,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVII: Confessions",
+      "wordCount": 3813,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Mirth and Mourning",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Letter",
+      "wordCount": 1184,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX: The Farewell",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI: The School",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Visit",
+      "wordCount": 2931,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Park",
+      "wordCount": 1444,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Sands",
+      "wordCount": 2177,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXV: Conclusion",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    }
+  ]
+}

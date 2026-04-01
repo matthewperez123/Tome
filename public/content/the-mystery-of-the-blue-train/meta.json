@@ -1,0 +1,226 @@
+{
+  "bookId": "the-mystery-of-the-blue-train",
+  "title": "The Mystery of the Blue Train",
+  "author": "Agatha Christie",
+  "chapterCount": 36,
+  "totalWordCount": 70614,
+  "totalMinutes": 282,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Man with the White Hair",
+      "wordCount": 1383,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: M. le Marquis",
+      "wordCount": 1241,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "III: Heart of Fire",
+      "wordCount": 1262,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "IV: In Curzon Street",
+      "wordCount": 1880,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V: A Useful Gentleman",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "VI: Mirelle",
+      "wordCount": 1755,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: Letters",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 7,
+      "title": "VIII: Lady Tamplin Writes a Letter",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX: An Offer Refused",
+      "wordCount": 1611,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: On the Blue Train",
+      "wordCount": 3466,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "XI: Murder",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: At the Villa Marguerite",
+      "wordCount": 2249,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XIII: Van Aldin Gets a Telegram",
+      "wordCount": 1296,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIV: Ada Mason’s Story",
+      "wordCount": 1505,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XV: The Comte de la Roche",
+      "wordCount": 1941,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: Poirot Discusses the Case",
+      "wordCount": 1814,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: An Aristocratic Gentleman",
+      "wordCount": 2444,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Derek Lunches",
+      "wordCount": 881,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 18,
+      "title": "XIX: An Unexpected Visitor",
+      "wordCount": 2113,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: Katherine Makes a Friend",
+      "wordCount": 1737,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: At the Tennis",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXII: M. Papopolous Breakfasts",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: A New Theory",
+      "wordCount": 1067,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Poirot Gives Advice",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXV: Defiance",
+      "wordCount": 1850,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Warning",
+      "wordCount": 2327,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Interview with Mirelle",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Poirot Plays the Squirrel",
+      "wordCount": 2899,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXIX: A Letter from Home",
+      "wordCount": 2779,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 29,
+      "title": "XXX: Miss Viner Gives Judgment",
+      "wordCount": 2406,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Mr. Aarons Lunches",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Katherine and Poirot Compare Notes",
+      "wordCount": 1503,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: A New Theory",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: The Blue Train Again",
+      "wordCount": 1370,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "XXXV: Explanations",
+      "wordCount": 3177,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 35,
+      "title": "XXXVI: By the Sea",
+      "wordCount": 551,
+      "estimatedMinutes": 2
+    }
+  ]
+}

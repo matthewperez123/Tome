@@ -1,0 +1,172 @@
+{
+  "bookId": "the-secret-garden",
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "chapterCount": 27,
+  "totalWordCount": 80991,
+  "totalMinutes": 325,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: There Is No One Left",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "II: Mistress Mary Quite Contrary",
+      "wordCount": 2706,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: Across the Moor",
+      "wordCount": 1468,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "IV: Martha",
+      "wordCount": 5313,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V: The Cry in the Corridor",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI: “There Was Some One Crying—There Was!”",
+      "wordCount": 2276,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: The Key of the Garden",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Robin Who Showed the Way",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "IX: The Strangest House Anyone Ever Lived In",
+      "wordCount": 3118,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "X: Dickon",
+      "wordCount": 3755,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: The Nest of the Missel Thrush",
+      "wordCount": 2465,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "XII: “Might I Have a Bit of Earth?”",
+      "wordCount": 2599,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: “I Am Colin”",
+      "wordCount": 4217,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 13,
+      "title": "XIV: A Young Rajah",
+      "wordCount": 3706,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XV: Nest Building",
+      "wordCount": 3919,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI: “I Won’t!” Said Mary",
+      "wordCount": 2381,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "XVII: A Tantrum",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVIII: “Tha’ Munnot Waste No Time”",
+      "wordCount": 2227,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XIX: “It Has Come!”",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: “I Shall Live Forever—and Ever—and Ever!”",
+      "wordCount": 2552,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XXI: Ben Weatherstaff",
+      "wordCount": 3277,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXII: When the Sun Went Down",
+      "wordCount": 1632,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Magic",
+      "wordCount": 4039,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 23,
+      "title": "XXIV: “Let Them Laugh”",
+      "wordCount": 3942,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Curtain",
+      "wordCount": 2408,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXVI: “It’s Mother!”",
+      "wordCount": 3077,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVII: In the Garden",
+      "wordCount": 5167,
+      "estimatedMinutes": 21
+    }
+  ]
+}

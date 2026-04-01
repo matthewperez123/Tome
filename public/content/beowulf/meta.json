@@ -1,0 +1,280 @@
+{
+  "bookId": "beowulf",
+  "title": "Beowulf",
+  "author": "Anonymous",
+  "chapterCount": 45,
+  "totalWordCount": 26162,
+  "totalMinutes": 105,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "The Story",
+      "wordCount": 715,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "I: The Life and Death of Scyld",
+      "wordCount": 452,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "II: Scyld’s Successors—Hrothgar’s Great Mead-Hall",
+      "wordCount": 479,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "III: Grendel the Murderer",
+      "wordCount": 556,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 5,
+      "title": "IV: Beowulf Goes to Hrothgar’s Assistance",
+      "wordCount": 527,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "V: The Geats Reach Heorot",
+      "wordCount": 479,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VI: Beowulf Introduces Himself at the Palace",
+      "wordCount": 405,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 8,
+      "title": "VII: Hrothgar and Beowulf",
+      "wordCount": 662,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "VIII: Hrothgar and Beowulf—Continued",
+      "wordCount": 339,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "IX: Unferth Taunts Beowulf",
+      "wordCount": 485,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "X: Beowulf Silences Unferth—Glee Is High",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "XI: All Sleep Save One",
+      "wordCount": 398,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 13,
+      "title": "XII: Grendel and Beowulf",
+      "wordCount": 645,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 14,
+      "title": "XIII: Grendel Is Vanquished",
+      "wordCount": 357,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "XIV: Rejoicing of the Danes",
+      "wordCount": 700,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV: Hrothgar’s Gratitude",
+      "wordCount": 515,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 17,
+      "title": "XVI: Hrothgar Lavishes Gifts Upon His Deliverer",
+      "wordCount": 439,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "XVII: Banquet (Continued)—The Scop’s Song of Finn and Hnaef",
+      "wordCount": 590,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Finn Episode (Continued)—The Banquet Continues",
+      "wordCount": 542,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 20,
+      "title": "XIX: Beowulf Receives Further Honor",
+      "wordCount": 450,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XX: The Mother of Grendel",
+      "wordCount": 560,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 22,
+      "title": "XXI: Hrothgar’s Account of the Monsters",
+      "wordCount": 469,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 23,
+      "title": "XXII: Beowulf Seeks Grendel’s Mother",
+      "wordCount": 674,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Beowulf’s Fight with Grendel’s Mother",
+      "wordCount": 653,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "XXIV: Beowulf Is Double-Conqueror",
+      "wordCount": 705,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XXV: Beowulf Brings His Trophies—Hrothgar’s Gratitude",
+      "wordCount": 763,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Hrothgar Moralizes—Rest After Labor",
+      "wordCount": 537,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Sorrow at Parting",
+      "wordCount": 548,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: The Homeward Journey—The Two Queens",
+      "wordCount": 560,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Beowulf and Higelac",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 31,
+      "title": "XXX: Beowulf Narrates His Adventures to Higelac",
+      "wordCount": 856,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 32,
+      "title": "XXXI: Gift-Giving Is Mutual",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Hoard and the Dragon",
+      "wordCount": 685,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Brave Though Aged—Reminiscences",
+      "wordCount": 606,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: Beowulf Seeks the Dragon—Beowulf’s Reminiscences",
+      "wordCount": 522,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 36,
+      "title": "XXXV: Reminiscences (Continued)—Beowulf’s Last Battle",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: Wiglaf the Trusty—Beowulf Is Deserted by Friends and by Sword",
+      "wordCount": 706,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: The Fatal Struggle—Beowulf’s Last Moments",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: Wiglaf Plunders the Dragon’s Den—Beowulf’s Death",
+      "wordCount": 543,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: The Dead Foes—Wiglaf’s Bitter Taunts",
+      "wordCount": 547,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 41,
+      "title": "XL: The Messenger of Death",
+      "wordCount": 394,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 42,
+      "title": "XLI: The Messenger’s Retrospect",
+      "wordCount": 910,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 43,
+      "title": "XLII: Wiglaf’s Sad Story—The Hoard Carried Off",
+      "wordCount": 628,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 44,
+      "title": "XLIII: The Burning of Beowulf",
+      "wordCount": 313,
+      "estimatedMinutes": 1
+    }
+  ]
+}

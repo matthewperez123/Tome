@@ -1,0 +1,424 @@
+{
+  "bookId": "the-three-musketeers",
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "chapterCount": 69,
+  "totalWordCount": 229967,
+  "totalMinutes": 922,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Author’s Preface",
+      "wordCount": 751,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "I: The Three Presents of d’Artagnan the Elder",
+      "wordCount": 5719,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "II: The Antechamber of M. de Tréville",
+      "wordCount": 3931,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "III: The Audience",
+      "wordCount": 4240,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "IV: The Shoulder of Athos, the Baldric of Porthos and the Handkerchief of Aramis",
+      "wordCount": 2911,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V: The Kings’s Musketeers and the Cardinal’s Guards",
+      "wordCount": 3648,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VI: His Majesty King Louis XIII",
+      "wordCount": 7019,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 7,
+      "title": "VII: The Housekeeping of the Musketeers",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Concerning a Court Intrigue",
+      "wordCount": 2762,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: d’Artagnan Shows Himself",
+      "wordCount": 2597,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "X: A Mousetrap in the Seventeenth Century",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: In Which the Plot Thickens",
+      "wordCount": 6000,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "XII: George Villiers, Duke of Buckingham",
+      "wordCount": 3103,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII: Monsieur Bonacieux",
+      "wordCount": 2936,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Man of Meung",
+      "wordCount": 3251,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV: Men of the Robe and Men of the Sword",
+      "wordCount": 2783,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: In Which M. Séguier, Keeper of the Seals, Looks More Than Once for the Bell, in Order to Ring It, as He Did Before",
+      "wordCount": 4141,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "XVII: Bonacieux at Home",
+      "wordCount": 4460,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Lover and Husband",
+      "wordCount": 2152,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XIX: Plan of Campaign",
+      "wordCount": 2776,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XX: The Journey",
+      "wordCount": 3960,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXI: The Comtesse de Winter",
+      "wordCount": 3465,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Ballet of La Merlaison",
+      "wordCount": 2554,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "XXIII: The Rendezvous",
+      "wordCount": 3557,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Pavillion",
+      "wordCount": 3633,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXV: Porthos",
+      "wordCount": 6666,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Aramis and His Thesis",
+      "wordCount": 5709,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Wife of Athos",
+      "wordCount": 6674,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Return",
+      "wordCount": 4652,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Hunting for the Equipments",
+      "wordCount": 2893,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXX: Milady",
+      "wordCount": 2651,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "XXXI: English and French",
+      "wordCount": 2634,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: A Procurator’s Dinner",
+      "wordCount": 3249,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Soubrette and Mistress",
+      "wordCount": 3170,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: In Which the Equipment of Aramis and Porthos Is Treated Of",
+      "wordCount": 2849,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 35,
+      "title": "XXXV: All Cats Are Grey in the Dark",
+      "wordCount": 2502,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Dream of Vengeance",
+      "wordCount": 2307,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Milady’s Secret",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: How, Without Incommoding Himself, Athos Procures His Equipment",
+      "wordCount": 3059,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: A Vision",
+      "wordCount": 3050,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 40,
+      "title": "XL: A Terrible Vision",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XLI: The Seige of La Rochelle",
+      "wordCount": 4564,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 42,
+      "title": "XLII: The Anjou Wine",
+      "wordCount": 2493,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The Sign of the Red Dovecot",
+      "wordCount": 2786,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Utility of Stovepipes",
+      "wordCount": 2796,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 45,
+      "title": "XLV: A Conjugal Scene",
+      "wordCount": 2057,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Bastion of Saint-Gervais",
+      "wordCount": 2260,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The Council of the Musketeers",
+      "wordCount": 5410,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: A Family Affair",
+      "wordCount": 4924,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Fatality",
+      "wordCount": 2810,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 50,
+      "title": "L: Chat Between Brother and Sister",
+      "wordCount": 2774,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "LI: Officer",
+      "wordCount": 3911,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 52,
+      "title": "LII: Captivity: The First Day",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 53,
+      "title": "LIII: Captivity: The Second Day",
+      "wordCount": 2513,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 54,
+      "title": "LIV: Captivity: The Third Day",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 55,
+      "title": "LV: Captivity: The Fourth Day",
+      "wordCount": 3003,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 56,
+      "title": "LVI: Captivity: The Fifth Day",
+      "wordCount": 5454,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 57,
+      "title": "LVII: Means for Classical Tragedy",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Escape",
+      "wordCount": 2745,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 59,
+      "title": "LIX: What Took Place at Portsmouth August 23, 1628",
+      "wordCount": 3533,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 60,
+      "title": "LX: In France",
+      "wordCount": 1931,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "LXI: The Carmelite Convent at Béthune",
+      "wordCount": 4283,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 62,
+      "title": "LXII: Two Varieties of Demons",
+      "wordCount": 1492,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "LXIII: The Drop of Water",
+      "wordCount": 4614,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Man in the Red Cloak",
+      "wordCount": 2002,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 65,
+      "title": "LXV: Judgment",
+      "wordCount": 2566,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Execution",
+      "wordCount": 1534,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 67,
+      "title": "LXVII: Conclusion",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 68,
+      "title": "Epilogue",
+      "wordCount": 447,
+      "estimatedMinutes": 2
+    }
+  ]
+}

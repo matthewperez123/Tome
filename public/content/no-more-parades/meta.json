@@ -1,0 +1,82 @@
+{
+  "bookId": "no-more-parades",
+  "title": "No More Parades",
+  "author": "Ford Madox Ford",
+  "chapterCount": 12,
+  "totalWordCount": 89101,
+  "totalMinutes": 361,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "To William Bird",
+      "wordCount": 1265,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 9149,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 11912,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 6674,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 9925,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 6,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "I",
+      "wordCount": 7936,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 8,
+      "title": "II",
+      "wordCount": 20295,
+      "estimatedMinutes": 81
+    },
+    {
+      "index": 9,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "I",
+      "wordCount": 7668,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 11,
+      "title": "II",
+      "wordCount": 14271,
+      "estimatedMinutes": 57
+    }
+  ]
+}

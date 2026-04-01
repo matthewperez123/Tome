@@ -1,0 +1,220 @@
+{
+  "bookId": "gudrun",
+  "title": "Gudrun",
+  "author": "Anonymous",
+  "chapterCount": 35,
+  "totalWordCount": 79671,
+  "totalMinutes": 321,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 999,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 1,
+      "title": "Names of Persons",
+      "wordCount": 154,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Names of Places",
+      "wordCount": 395,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "Tale I: How Hagen Was Carried Off by the Griffin",
+      "wordCount": 3067,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "Tale II: How Hagen Slew the Griffin",
+      "wordCount": 2238,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "Tale III: How Hagen Sailed to His Home",
+      "wordCount": 1757,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "Tale IV: How Hagen Was Met by His Father and Mother",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "Tale V: How Wâ-te Was Sent to Ireland as a Suitor",
+      "wordCount": 7815,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 8,
+      "title": "Tale VI: How Sweetly Horant Sang",
+      "wordCount": 3209,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "Tale VII: How the Maidens Came to See the Ship, and Were Carried to Hettel’s Kingdom",
+      "wordCount": 2146,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 10,
+      "title": "Tale VIII: How Hagen Followed His Daughter",
+      "wordCount": 3405,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "Tale IX: How Gudrun Was Sought by Siegfried",
+      "wordCount": 1076,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "Tale X: How Hartmut Sent to Woo Gudrun",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "Tale XI: How Herwic Sent to Seek Gudrun and How Hartmut Came Himself",
+      "wordCount": 602,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 14,
+      "title": "Tale XII: How Herwic Made War on Hettel, and How Gudrun Was Betrothed to Him",
+      "wordCount": 1735,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "Tale XIII: How Siegfried Made War Against Herwic",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 16,
+      "title": "Tale XIV: How Hettel Sent Tidings from Herwic’s Land",
+      "wordCount": 1266,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 17,
+      "title": "Tale XV: How Hartmut Carried Away Gudrun",
+      "wordCount": 2593,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "Tale XVI: How Hilda Sent to Hettel and Herwic to Ask Their Help Against Hartmut",
+      "wordCount": 1708,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "Tale XVII: How Hettel Came to the Wulpensand in Search of His Daughter",
+      "wordCount": 1459,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "Tale XVIII: How Ludwig Slew Hettel, and Stole Away in the Night",
+      "wordCount": 1772,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "Tale XIX: How the Hegelings Went Home to Their Own Land",
+      "wordCount": 1444,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "Tale XX: How Hartmut Went Home to Normandy",
+      "wordCount": 4143,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "Tale XXI: How Gudrun Must Wash Clothes on the Beach",
+      "wordCount": 1374,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "Tale XXII: How Hilda Made War to Bring Back Her Daughter",
+      "wordCount": 3192,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "Tale XXIII: How Hilda’s Warriors Landed in Sight of Hartmut’s Kingdom",
+      "wordCount": 1046,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "Tale XXIV: How Their Coming Was Made Known to Gudrun",
+      "wordCount": 1917,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "Tale XXV: How Herwic and Ortwin Found Gudrun",
+      "wordCount": 5939,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 28,
+      "title": "Tale XXVI: How the Hegelings Landed Near Ludwig’s Castle",
+      "wordCount": 1405,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "Tale XXVII: How Ludwig and Hartmut Met the Hegelings",
+      "wordCount": 3309,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "Tale XXVIII: How Herwic Slew Ludwig",
+      "wordCount": 2430,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "Tale XXIX: How Hartmut Was Taken Prisoner",
+      "wordCount": 3040,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "Tale XXX: How Gudrun Was Brought Home to Hilda",
+      "wordCount": 4876,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 33,
+      "title": "Tale XXXI: How the Four Kings Were Wedded in Hilda’s Land",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 34,
+      "title": "Tale XXXII: How They All Went to Their Homes",
+      "wordCount": 437,
+      "estimatedMinutes": 2
+    }
+  ]
+}

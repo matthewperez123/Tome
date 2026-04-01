@@ -1,0 +1,214 @@
+{
+  "bookId": "the-seven-dials-mystery",
+  "title": "The Seven Dials Mystery",
+  "author": "Agatha Christie",
+  "chapterCount": 34,
+  "totalWordCount": 65974,
+  "totalMinutes": 265,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: On Early Rising",
+      "wordCount": 3129,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II: Concerning Alarm Clocks",
+      "wordCount": 1551,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 2,
+      "title": "III: The Joke That Failed",
+      "wordCount": 2608,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "IV: A Letter",
+      "wordCount": 2089,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V: The Man in the Road",
+      "wordCount": 1656,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: Seven Dials Again",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "VII: Bundle Pays a Call",
+      "wordCount": 1356,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII: Visitors for Jimmy",
+      "wordCount": 1791,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: Plans",
+      "wordCount": 2132,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X: Bundle Visits Scotland Yard",
+      "wordCount": 1575,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: Dinner with Bill",
+      "wordCount": 2066,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: Inquiries at Chimneys",
+      "wordCount": 2790,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Seven Dials Club",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Meeting of the Seven Dials",
+      "wordCount": 2056,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XV: The Inquest",
+      "wordCount": 1915,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: The House Party at the Abbey",
+      "wordCount": 2163,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII: After Dinner",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Jimmy’s Adventures",
+      "wordCount": 1303,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XIX: Bundle’s Adventures",
+      "wordCount": 1460,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XX: Loraine’s Adventures",
+      "wordCount": 1633,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Recovery of the Formula",
+      "wordCount": 2214,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Countess Radzky’s Story",
+      "wordCount": 2588,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Superintendent Battle in Charge",
+      "wordCount": 2192,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Bundle Wonders",
+      "wordCount": 1933,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 24,
+      "title": "XXV: Jimmy Lays His Plans",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Mainly About Golf",
+      "wordCount": 1226,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Nocturnal Adventure",
+      "wordCount": 1549,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: Suspicions",
+      "wordCount": 1833,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Singular Behaviour of George Lomax",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXX: An Urgent Summons",
+      "wordCount": 2311,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXXI: The Seven Dials",
+      "wordCount": 1643,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXII: Bundle Is Dumbfounded",
+      "wordCount": 999,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Battle Explains",
+      "wordCount": 3470,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXIV: Lord Caterham Approves",
+      "wordCount": 437,
+      "estimatedMinutes": 2
+    }
+  ]
+}

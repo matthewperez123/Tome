@@ -1,0 +1,40 @@
+{
+  "bookId": "three-sisters",
+  "title": "Three Sisters",
+  "author": "Anton Chekhov",
+  "chapterCount": 5,
+  "totalWordCount": 21725,
+  "totalMinutes": 87,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Dramatis Personae",
+      "wordCount": 93,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Act I",
+      "wordCount": 5992,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "Act II",
+      "wordCount": 5577,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "Act III",
+      "wordCount": 4690,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 4,
+      "title": "Act IV",
+      "wordCount": 5373,
+      "estimatedMinutes": 21
+    }
+  ]
+}

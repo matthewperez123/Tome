@@ -1,0 +1,232 @@
+{
+  "bookId": "the-man-in-the-brown-suit",
+  "title": "The Man in the Brown Suit",
+  "author": "Agatha Christie",
+  "chapterCount": 37,
+  "totalWordCount": 75733,
+  "totalMinutes": 305,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Prologue",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1727,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 1861,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1763,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1615,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 1920,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1275,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 2009,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3271,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 1423,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 2189,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1877,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 1904,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 2287,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1681,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 2920,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 1637,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 2332,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 2319,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 1607,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 3745,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 2394,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 1619,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXIX",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXX",
+      "wordCount": 1564,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 31,
+      "title": "XXXI",
+      "wordCount": 1693,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXXII",
+      "wordCount": 3705,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXIII",
+      "wordCount": 2134,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXXIV",
+      "wordCount": 1175,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 35,
+      "title": "XXXV",
+      "wordCount": 1109,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "XXXVI",
+      "wordCount": 1016,
+      "estimatedMinutes": 4
+    }
+  ]
+}

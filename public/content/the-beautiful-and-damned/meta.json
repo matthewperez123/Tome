@@ -1,0 +1,82 @@
+{
+  "bookId": "the-beautiful-and-damned",
+  "title": "The Beautiful and Damned",
+  "author": "F. Scott Fitzgerald",
+  "chapterCount": 12,
+  "totalWordCount": 125046,
+  "totalMinutes": 505,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Anthony Patch",
+      "wordCount": 7684,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 2,
+      "title": "II: Portrait of a Siren",
+      "wordCount": 11752,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 3,
+      "title": "III: The Connoisseur of Kisses",
+      "wordCount": 15726,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 4,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I: The Radiant Hour",
+      "wordCount": 16732,
+      "estimatedMinutes": 67
+    },
+    {
+      "index": 6,
+      "title": "II: Symposium",
+      "wordCount": 20379,
+      "estimatedMinutes": 82
+    },
+    {
+      "index": 7,
+      "title": "III: The Broken Lute",
+      "wordCount": 13284,
+      "estimatedMinutes": 53
+    },
+    {
+      "index": 8,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: A Matter of Civilization",
+      "wordCount": 13396,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 10,
+      "title": "II: A Matter of Aesthetics",
+      "wordCount": 13410,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 11,
+      "title": "III: No Matter!",
+      "wordCount": 12677,
+      "estimatedMinutes": 51
+    }
+  ]
+}

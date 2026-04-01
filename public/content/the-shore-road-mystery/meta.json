@@ -1,0 +1,148 @@
+{
+  "bookId": "the-shore-road-mystery",
+  "title": "The Shore Road Mystery",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 23,
+  "totalWordCount": 39519,
+  "totalMinutes": 162,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Stolen Cars",
+      "wordCount": 1512,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: Circumstantial Evidence",
+      "wordCount": 1918,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III: Under Suspicion",
+      "wordCount": 1448,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "IV: Out on Bail",
+      "wordCount": 1712,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V: More Thieving",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: On the Shore Road",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VII: Gus Montrose",
+      "wordCount": 1885,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Missing Truck",
+      "wordCount": 1900,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "IX: Following Clues",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The Great Discovery",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: Fish",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XII: The New Car",
+      "wordCount": 1507,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII: In the Locker",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: Montrose Again",
+      "wordCount": 1629,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: The Suspect",
+      "wordCount": 1862,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: Kidnaped",
+      "wordCount": 2331,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Cave",
+      "wordCount": 1487,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Auto Thieves",
+      "wordCount": 1687,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: Captured",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: Tables Turned",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XXI: At the Farmhouse",
+      "wordCount": 1913,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Roundup",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Mystery Solved",
+      "wordCount": 1585,
+      "estimatedMinutes": 6
+    }
+  ]
+}

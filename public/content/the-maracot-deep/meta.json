@@ -1,0 +1,52 @@
+{
+  "bookId": "the-maracot-deep",
+  "title": "The Maracot Deep",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 7,
+  "totalWordCount": 41145,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 6953,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 6985,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 4044,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5093,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 5622,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 5932,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 6516,
+      "estimatedMinutes": 26
+    }
+  ]
+}

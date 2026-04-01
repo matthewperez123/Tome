@@ -1,0 +1,172 @@
+{
+  "bookId": "the-murder-of-roger-ackroyd",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie",
+  "chapterCount": 27,
+  "totalWordCount": 70382,
+  "totalMinutes": 281,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Dr. Sheppard at the Breakfast Table",
+      "wordCount": 1436,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: Who’s Who in King’s Abbot",
+      "wordCount": 2388,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: The Man Who Grew Vegetable Marrows",
+      "wordCount": 3296,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "IV: Dinner at Fernly",
+      "wordCount": 4591,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "V: Murder",
+      "wordCount": 3506,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI: The Tunisian Dagger",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "VII: I Learn My Neighbour’s Profession",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII: Inspector Raglan Is Confident",
+      "wordCount": 3052,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX: The Goldfish Pond",
+      "wordCount": 2573,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "X: The Parlour Maid",
+      "wordCount": 3995,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "XI: Poirot Pays a Call",
+      "wordCount": 2115,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XII: Round the Table",
+      "wordCount": 2535,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Goose Quill",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 13,
+      "title": "XIV: Mrs. Ackroyd",
+      "wordCount": 3180,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "XV: Geoffrey Raymond",
+      "wordCount": 2556,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 15,
+      "title": "XVI: An Evening at Mah Jong",
+      "wordCount": 2717,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVII: Parker",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Charles Kent",
+      "wordCount": 1734,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: Flora Ackroyd",
+      "wordCount": 2784,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XX: Miss Russell",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Paragraph in the Paper",
+      "wordCount": 2068,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: Ursula’s Story",
+      "wordCount": 2237,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Poirot’s Little Reunion",
+      "wordCount": 3547,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Ralph Paton’s Story",
+      "wordCount": 1176,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Whole Truth",
+      "wordCount": 2195,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 25,
+      "title": "XXVI: And Nothing but the Truth",
+      "wordCount": 1069,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Apologia",
+      "wordCount": 882,
+      "estimatedMinutes": 4
+    }
+  ]
+}

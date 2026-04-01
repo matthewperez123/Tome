@@ -1,0 +1,28 @@
+{
+  "bookId": "the-divine-comedy",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "chapterCount": 3,
+  "totalWordCount": 113815,
+  "totalMinutes": 455,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Inferno",
+      "wordCount": 38062,
+      "estimatedMinutes": 152
+    },
+    {
+      "index": 1,
+      "title": "Purgatorio",
+      "wordCount": 38203,
+      "estimatedMinutes": 153
+    },
+    {
+      "index": 2,
+      "title": "Paradiso",
+      "wordCount": 37550,
+      "estimatedMinutes": 150
+    }
+  ]
+}

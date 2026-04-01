@@ -1,0 +1,520 @@
+{
+  "bookId": "thus-spake-zarathustra",
+  "title": "Thus Spake Zarathustra: A Book for All and None",
+  "author": "Friedrich Nietzsche",
+  "chapterCount": 85,
+  "totalWordCount": 91671,
+  "totalMinutes": 367,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Zarathustra’s Discourses",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Zarathustra’s Prologue",
+      "wordCount": 4790,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "I: The Three Metamorphoses",
+      "wordCount": 687,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 3,
+      "title": "II: The Academic Chairs of Virtue",
+      "wordCount": 827,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 4,
+      "title": "III: Backworldsmen",
+      "wordCount": 981,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "IV: The Despisers of the Body",
+      "wordCount": 606,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "V: Joys and Passions",
+      "wordCount": 557,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "VI: The Pale Criminal",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "VII: Reading and Writing",
+      "wordCount": 535,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Tree on the Hill",
+      "wordCount": 898,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 10,
+      "title": "IX: The Preachers of Death",
+      "wordCount": 561,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 11,
+      "title": "X: War and Warriors",
+      "wordCount": 594,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 12,
+      "title": "XI: The New Idol",
+      "wordCount": 833,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 13,
+      "title": "XII: The Flies in the Marketplace",
+      "wordCount": 961,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 14,
+      "title": "XIII: Chastity",
+      "wordCount": 381,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Friend",
+      "wordCount": 647,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "XV: The Thousand and One Goals",
+      "wordCount": 748,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 17,
+      "title": "XVI: Neighbour-Love",
+      "wordCount": 519,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Way of the Creating One",
+      "wordCount": 874,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Old and Young Women",
+      "wordCount": 639,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Bite of the Adder",
+      "wordCount": 532,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 21,
+      "title": "XX: Child and Marriage",
+      "wordCount": 641,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 22,
+      "title": "XXI: Voluntary Death",
+      "wordCount": 872,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Bestowing Virtue",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "Part II",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "XXIII: The Child with the Mirror",
+      "wordCount": 822,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XXIV: In the Happy Isles",
+      "wordCount": 818,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 27,
+      "title": "XXV: The Pitiful",
+      "wordCount": 874,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXVI: The Priests",
+      "wordCount": 788,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 29,
+      "title": "XXVII: The Virtuous",
+      "wordCount": 995,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: The Rabble",
+      "wordCount": 840,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 31,
+      "title": "XXIX: The Tarantulas",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 32,
+      "title": "XXX: The Famous Wise Ones",
+      "wordCount": 905,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 33,
+      "title": "XXXI: The Night-Song",
+      "wordCount": 607,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 34,
+      "title": "XXXII: The Dance-Song",
+      "wordCount": 781,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: The Grave-Song",
+      "wordCount": 1007,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: Self-Surpassing",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "XXXV: The Sublime Ones",
+      "wordCount": 772,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 38,
+      "title": "XXXVI: The Land of Culture",
+      "wordCount": 778,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "XXXVII: Immaculate Perception",
+      "wordCount": 906,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 40,
+      "title": "XXXVIII: Scholars",
+      "wordCount": 657,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XXXIX: Poets",
+      "wordCount": 963,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 42,
+      "title": "XL: Great Events",
+      "wordCount": 1230,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 43,
+      "title": "XLI: The Soothsayer",
+      "wordCount": 1166,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XLII: Redemption",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 45,
+      "title": "XLIII: Manly Prudence",
+      "wordCount": 917,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 46,
+      "title": "XLIV: The Stillest Hour",
+      "wordCount": 986,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 47,
+      "title": "Part III",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 48,
+      "title": "XLV: The Wanderer",
+      "wordCount": 1009,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 49,
+      "title": "XLVI: The Vision and the Enigma",
+      "wordCount": 1582,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 50,
+      "title": "XLVII: Involuntary Bliss",
+      "wordCount": 1110,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 51,
+      "title": "XLVIII: Before Sunrise",
+      "wordCount": 976,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "XLIX: The Bedwarfing Virtue",
+      "wordCount": 1722,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 53,
+      "title": "L: On the Olive-Mount",
+      "wordCount": 956,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 54,
+      "title": "LI: On Passing-By",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 55,
+      "title": "LII: The Apostates",
+      "wordCount": 1250,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 56,
+      "title": "LIII: The Return Home",
+      "wordCount": 1091,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 57,
+      "title": "LIV: The Three Evil Things",
+      "wordCount": 1410,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 58,
+      "title": "LV: The Spirit of Gravity",
+      "wordCount": 1257,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 59,
+      "title": "LVI: Old and New Tables",
+      "wordCount": 5503,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 60,
+      "title": "LVII: The Convalescent",
+      "wordCount": 2029,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "LVIII: The Great Longing",
+      "wordCount": 853,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 62,
+      "title": "LIX: The Second Dance-Song",
+      "wordCount": 926,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 63,
+      "title": "LX: The Seven Seals",
+      "wordCount": 1043,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 64,
+      "title": "Part IV",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 65,
+      "title": "LXI: The Honey Sacrifice",
+      "wordCount": 1180,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 66,
+      "title": "LXII: The Cry of Distress",
+      "wordCount": 1148,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 67,
+      "title": "LXIII: Talk with the Kings",
+      "wordCount": 1260,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 68,
+      "title": "LXIV: The Leech",
+      "wordCount": 1094,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 69,
+      "title": "LXV: The Magician",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 70,
+      "title": "LXVI: Out of Service",
+      "wordCount": 1466,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 71,
+      "title": "LXVII: The Ugliest Man",
+      "wordCount": 1606,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 72,
+      "title": "LXVIII: The Voluntary Beggar",
+      "wordCount": 1320,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 73,
+      "title": "LXIX: The Shadow",
+      "wordCount": 1099,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 74,
+      "title": "LXX: Noontide",
+      "wordCount": 948,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 75,
+      "title": "LXXI: The Greeting",
+      "wordCount": 1847,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 76,
+      "title": "LXXII: The Supper",
+      "wordCount": 681,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 77,
+      "title": "LXXIII: The Higher Man",
+      "wordCount": 2866,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 78,
+      "title": "LXXIV: The Song of Melancholy",
+      "wordCount": 979,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 79,
+      "title": "LXXV: Science",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 80,
+      "title": "LXXVI: Among Daughters of the Desert",
+      "wordCount": 1117,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "LXXVII: The Awakening",
+      "wordCount": 1038,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 82,
+      "title": "LXXVIII: The Ass-Festival",
+      "wordCount": 1082,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 83,
+      "title": "LXXIX: The Drunken Song",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 84,
+      "title": "LXXX: The Sign",
+      "wordCount": 1049,
+      "estimatedMinutes": 4
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "bookId": "i-will-repay",
+  "title": "I Will Repay",
+  "author": "Baroness Orczy",
+  "chapterCount": 32,
+  "totalWordCount": 64379,
+  "totalMinutes": 256,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 477,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Prologue",
+      "wordCount": 6055,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "I: Paris: 1793",
+      "wordCount": 2784,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "II: Citizen-Deputy",
+      "wordCount": 1955,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "III: Hospitality",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "IV: The Faithful House-Dog",
+      "wordCount": 757,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 6,
+      "title": "V: A Day in the Woods",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VI: The Scarlet Pimpernel",
+      "wordCount": 2058,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VII: A Warning",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 9,
+      "title": "VIII: Anne Mie",
+      "wordCount": 1967,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX: Jealousy",
+      "wordCount": 746,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "X: Denunciation",
+      "wordCount": 2097,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XI: “Vengeance Is Mine”",
+      "wordCount": 3018,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XII: The Sword of Damocles",
+      "wordCount": 3994,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII: Tangled Meshes",
+      "wordCount": 1399,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 15,
+      "title": "XIV: A Happy Moment",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XV: Detected",
+      "wordCount": 2567,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVI: Under Arrest",
+      "wordCount": 1685,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVII: Atonement",
+      "wordCount": 1363,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVIII: In the Luxembourg Prison",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 20,
+      "title": "XIX: Complexities",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XX: The Cheval Borgne",
+      "wordCount": 2394,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 22,
+      "title": "XXI: A Jacobin Orator",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Close of Day",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXIII: Justice",
+      "wordCount": 1461,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Trial of Juliette",
+      "wordCount": 1915,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXV: The Defence",
+      "wordCount": 3060,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVI: Sentence of Death",
+      "wordCount": 808,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXVII: The Fructidor Riots",
+      "wordCount": 1817,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: The Unexpected",
+      "wordCount": 2312,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Père Lachaise",
+      "wordCount": 2542,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXX: Conclusion",
+      "wordCount": 1097,
+      "estimatedMinutes": 4
+    }
+  ]
+}

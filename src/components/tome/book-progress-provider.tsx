@@ -4,6 +4,7 @@ import { createContext, useContext, useState, useCallback, useEffect } from "rea
 import {
   BookProgress,
   ChapterQuizResult,
+  QuizDifficulty,
   getBookProgress,
   saveBookProgress,
   createBookProgress,
@@ -16,8 +17,8 @@ import {
 interface BookProgressContextValue {
   // Get progress for a specific book (null if never opened)
   getProgress: (bookId: string) => BookProgress | null
-  // Initialize progress for a book with a chosen mode
-  startBook: (bookId: string, mode: 'guided' | 'free') => BookProgress
+  // Initialize progress for a book with a chosen mode and difficulty
+  startBook: (bookId: string, mode: 'guided' | 'free', difficulty?: QuizDifficulty) => BookProgress
   // Mark a chapter complete and save XP
   completeChapter: (bookId: string, chapterIndex: number, xpEarned: number) => void
   // Save a quiz result
@@ -48,14 +49,18 @@ export function BookProgressProvider({ children }: { children: React.ReactNode }
     return allProgress[bookId] ?? null
   }, [allProgress])
 
-  const startBook = useCallback((bookId: string, mode: 'guided' | 'free') => {
+  const startBook = useCallback((
+    bookId: string,
+    mode: 'guided' | 'free',
+    difficulty: QuizDifficulty = 'Apprentice'
+  ) => {
     const existing = allProgress[bookId]
     if (existing) {
-      const updated = { ...existing, readingMode: mode }
+      const updated = { ...existing, readingMode: mode, difficulty }
       updateProgress(updated)
       return updated
     }
-    const fresh = createBookProgress(bookId, mode)
+    const fresh = createBookProgress(bookId, mode, difficulty)
     updateProgress(fresh)
     return fresh
   }, [allProgress, updateProgress])

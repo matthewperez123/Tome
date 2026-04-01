@@ -20,7 +20,12 @@ import { useParams, useRouter } from "next/navigation"
 import { AnimatePresence, motion } from "framer-motion"
 import { MessageSquare, BookCheck } from "lucide-react"
 import { toast } from "sonner"
-import { supabase, type Book } from "@/lib/supabase"
+import { supabase } from "@/lib/supabase"
+import type { Book } from "@/lib/supabase"
+import { getBook, getChapters } from "@/lib/content"
+import type { TomeBook } from "@/data/books"
+import type { TomeChapter } from "@/data/chapters"
+import type { QuizDifficulty } from "@/lib/book-progress"
 import { springs } from "@/lib/design-tokens"
 import { getCoverParams } from "@/components/tome/book-cover"
 import { Particles } from "@/components/ui/particles"
@@ -71,8 +76,9 @@ export default function ReaderPage() {
   const bookId  = params.bookId as string
 
   // ── Core state ──
-  const [book, setBook]               = useState<Book | null>(null)
-  const [chapters, setChapters]       = useState<Chapter[]>([])
+  const [book, setBook]               = useState<TomeBook | Book | null>(null)
+  const [chapters, setChapters]       = useState<(TomeChapter | Chapter)[]>([])
+  const [chapterHTML, setChapterHTML] = useState<string>(PLACEHOLDER_HTML)
   const [loading, setLoading]         = useState(true)
   const [currentChapter, setCurrentChapter] = useState(0)
   const [sidebarOpen, setSidebarOpen] = useState(true)
@@ -107,29 +113,68 @@ export default function ReaderPage() {
   // Effects
   // ────────────────────────────────────────────────────
 
-  // Fetch book and chapters
+  // Load book and chapter list — static data first, Supabase fallback
   useEffect(() => {
-    async function fetchBook() {
-      const [bookRes, chaptersRes] = await Promise.all([
+    const staticBook    = getBook(bookId)
+    const staticChapters = getChapters(bookId)
+
+    if (staticBook) {
+      setBook(staticBook)
+      if (staticChapters.length > 0) setChapters(staticChapters)
+      setLoading(false)
+    } else {
+      // Supabase fallback for books not yet in static data layer
+      Promise.all([
         supabase.from("books").select("*").eq("id", bookId).single(),
         supabase.from("chapters").select("id,title,order,content_html").eq("book_id", bookId).order("order"),
-      ])
-      if (bookRes.data) setBook(bookRes.data as Book)
-      if (chaptersRes.data && chaptersRes.data.length > 0) {
-        setChapters(chaptersRes.data as Chapter[])
-      }
-      setLoading(false)
-
-      const existingProgress = getProgress(bookId)
-      if (!existingProgress) {
-        setShowModeModal(true)
-      } else {
-        setCurrentChapter(existingProgress.currentChapterIndex)
-      }
+      ]).then(([bookRes, chaptersRes]) => {
+        if (bookRes.data) setBook(bookRes.data as Book)
+        if (chaptersRes.data?.length) setChapters(chaptersRes.data as Chapter[])
+        setLoading(false)
+      })
     }
-    fetchBook()
+
+    const existingProgress = getProgress(bookId)
+    if (!existingProgress) setShowModeModal(true)
+    else setCurrentChapter(existingProgress.currentChapterIndex)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bookId])
+
+  // Load chapter HTML on demand — static file first, Supabase fallback
+  useEffect(() => {
+    setChapterHTML(PLACEHOLDER_HTML)
+    let cancelled = false
+    async function loadHTML() {
+      // 1. Try static content file
+      try {
+        const res = await fetch(`/content/${bookId}/ch-${currentChapter}.json`)
+        if (res.ok) {
+          const data = await res.json()
+          if (!cancelled && data.html) { setChapterHTML(data.html); return }
+        }
+      } catch { /* fall through */ }
+
+      // 2. Try inline content_html from cached chapter (Supabase chapter already in state)
+      const cached = chapters[currentChapter] as Chapter | undefined
+      if (cached?.content_html) {
+        if (!cancelled) setChapterHTML(cached.content_html)
+        return
+      }
+
+      // 3. Supabase fetch as last resort
+      try {
+        const { data } = await supabase
+          .from("chapters").select("content_html")
+          .eq("book_id", bookId).order("order")
+        if (!cancelled) setChapterHTML(data?.[currentChapter]?.content_html ?? PLACEHOLDER_HTML)
+      } catch {
+        if (!cancelled) setChapterHTML(PLACEHOLDER_HTML)
+      }
+    }
+    loadHTML()
+    return () => { cancelled = true }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [bookId, currentChapter])
 
   // Auto-save scroll progress every 30s
   useEffect(() => {
@@ -252,8 +297,7 @@ export default function ReaderPage() {
         ? (containerDims.w - SPREAD_SPINE) / 2 - PAGE_PADDING_H
         : containerDims.w - PAGE_PADDING_H
 
-      const chapterData = chapters[currentChapter]
-      const html = chapterData?.content_html ?? PLACEHOLDER_HTML
+      const html = chapterHTML
 
       const computed = await paginateHTML({
         html,
@@ -317,8 +361,8 @@ export default function ReaderPage() {
     }
   }, [bookId, getProgress, viewMode])
 
-  const handleModeSelect = useCallback((mode: "guided" | "free") => {
-    startBook(bookId, mode)
+  const handleModeSelect = useCallback((mode: "guided" | "free", difficulty?: QuizDifficulty) => {
+    startBook(bookId, mode, difficulty ?? 'Apprentice')
     setShowModeModal(false)
   }, [bookId, startBook])
 
@@ -335,7 +379,7 @@ export default function ReaderPage() {
   const handleQuizPass = useCallback((xpEarned: number, _coinsEarned: number) => {
     const totalCount    = chapters.length || 1
     const isLastChapter = currentChapter === totalCount - 1
-    const chapterData   = chapters[currentChapter] ?? { id: "0", title: "Chapter 1", order: 1, content_html: "" }
+    const chapterData   = (chapters[currentChapter] ?? { id: `ch-${currentChapter}`, title: "Chapter 1" }) as { id: string; title: string }
 
     dispatchEconomy({ type: "chapter_complete" })
     if (isLastChapter) dispatchEconomy({ type: "book_complete" })
@@ -376,20 +420,25 @@ export default function ReaderPage() {
   // Derived values
   // ────────────────────────────────────────────────────
 
-  const coverParams          = getCoverParams(book)
+  const coverParams          = getCoverParams(book as Parameters<typeof getCoverParams>[0])
   const totalChapters        = chapters.length || 1
-  const chapter              = chapters[currentChapter] ?? { id: "0", title: "Chapter 1", order: 1, content_html: PLACEHOLDER_HTML }
+  const chapter              = (chapters[currentChapter] ?? { id: "0", title: "Chapter 1" }) as { id: string; title: string }
   const genreColor           = coverParams.primaryColor
   const t                    = themeStyles[theme]
+  // reading_time_minutes (Supabase) or derive from wordCount (TomeBook)
+  const totalReadingMinutes  = ('reading_time_minutes' in (book ?? {}))
+    ? ((book as Book).reading_time_minutes ?? 60)
+    : Math.round(((book as TomeBook).wordCount ?? 15000) / 250)
   const readingTimeRemaining = Math.round(
-    ((totalChapters - currentChapter - 1) / totalChapters) * (book.reading_time_minutes ?? 60)
+    ((totalChapters - currentChapter - 1) / totalChapters) * totalReadingMinutes
   )
 
   const progress               = getProgress(bookId)
   const readingMode            = progress?.readingMode ?? "guided"
+  const quizDifficulty         = progress?.difficulty ?? 'Apprentice'
   const lockedChapterIndices   = chapters.map((_, i) => (progress && isChapterLocked(progress, i) ? i : -1)).filter(i => i >= 0)
   const completedChapterIndices = progress?.completedChapterIndices ?? []
-  const quizQuestions          = getQuestionsForChapter(book.title, currentChapter)
+  const quizQuestions          = getQuestionsForChapter(book.title, currentChapter, quizDifficulty)
 
   // Progress bar fraction (sub-chapter granularity in paginated modes)
   const progressFraction = viewMode === "scroll"
@@ -417,7 +466,7 @@ export default function ReaderPage() {
       {/* Quiz Overlay */}
       {book && (
         <ChapterQuizOverlay
-          book={book}
+          book={book as Book}
           chapterTitle={chapter.title}
           chapterIndex={currentChapter}
           questions={quizQuestions}
@@ -549,7 +598,7 @@ export default function ReaderPage() {
                         color:      theme === "dark" ? "#E8DCC8E6" : "rgba(0,0,0,0.85)",
                       }}
                       data-reader-text
-                      dangerouslySetInnerHTML={{ __html: chapter.content_html ?? PLACEHOLDER_HTML }}
+                      dangerouslySetInnerHTML={{ __html: chapterHTML }}
                     />
 
                     {/* Finish Chapter CTA */}

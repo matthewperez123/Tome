@@ -1,0 +1,160 @@
+{
+  "bookId": "the-iliad",
+  "title": "The Iliad",
+  "author": "Homer",
+  "chapterCount": 25,
+  "totalWordCount": 154715,
+  "totalMinutes": 618,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 3461,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 1,
+      "title": "Book I: The Contention of Achilles and Agamemnon",
+      "wordCount": 6012,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 2,
+      "title": "Book II: The Trial of the Army, and Catalogue of the Forces",
+      "wordCount": 8302,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 3,
+      "title": "Book III: Single Combat of Menelaus and Paris",
+      "wordCount": 4356,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "Book IV: The Breaking of the Truce, and the First Battle",
+      "wordCount": 5345,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 5,
+      "title": "Book V: The Exploits of Diomed",
+      "wordCount": 8808,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 6,
+      "title": "Book VI: Interviews Between Glaucus and Diomed, and Hector and Andromache",
+      "wordCount": 5170,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "Book VII: The Combat of Hector and Ajax",
+      "wordCount": 4671,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "Book VIII: The Second Battle",
+      "wordCount": 5398,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "Book IX: The Embassy to Achilles",
+      "wordCount": 6867,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 10,
+      "title": "Book X: The Night-Adventure of Diomed and Ulysses",
+      "wordCount": 5391,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 11,
+      "title": "Book XI: The Third Battle, and Exploits of Agamemnon",
+      "wordCount": 8081,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 12,
+      "title": "Book XII: The Battle at the Grecian Wall",
+      "wordCount": 4418,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "Book XIII: The Continuation of the Fourth Battle",
+      "wordCount": 8092,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 14,
+      "title": "Book XIV: The Fraud Practised on Jupiter by Juno",
+      "wordCount": 4969,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 15,
+      "title": "Book XV: The Fifth Battle at the Ships",
+      "wordCount": 7379,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 16,
+      "title": "Book XVI: The Sixth Battle—Death of Patroclus",
+      "wordCount": 8324,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 17,
+      "title": "Book XVII: The Seventh Battle",
+      "wordCount": 7076,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 18,
+      "title": "Book XVIII: The Grief of Achilles for the Death of Patroclus",
+      "wordCount": 5955,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "Book XIX: The Reconciliation of Achilles and Agamemnon",
+      "wordCount": 4049,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "Book XX: The Battle of the Gods",
+      "wordCount": 4976,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "Book XXI: The Battle in the River Scamander",
+      "wordCount": 5929,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "Book XXII: The Death of Hector",
+      "wordCount": 5091,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 23,
+      "title": "Book XXIII: The Funeral of Patroclus",
+      "wordCount": 8556,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 24,
+      "title": "Book XXIV: The Body of Hector Recovered",
+      "wordCount": 8039,
+      "estimatedMinutes": 32
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bookId": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 15,
+  "totalWordCount": 59289,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Mr. Sherlock Holmes",
+      "wordCount": 2266,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "II: The Curse of the Baskervilles",
+      "wordCount": 3857,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "III: The Problem",
+      "wordCount": 2907,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "IV: Sir Henry Baskerville",
+      "wordCount": 4073,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "V: Three Broken Threads",
+      "wordCount": 3427,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI: Baskerville Hall",
+      "wordCount": 3493,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VII: The Stapletons of Merripit House",
+      "wordCount": 4975,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VIII: First Report of Dr. Watson",
+      "wordCount": 2766,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "IX: Second Report of Dr. Watson",
+      "wordCount": 6660,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 9,
+      "title": "X: Extract from the Diary of Dr. Watson",
+      "wordCount": 3680,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: The Man on the Tor",
+      "wordCount": 4587,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XII: Death on the Moor",
+      "wordCount": 4874,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XIII: Fixing the Nets",
+      "wordCount": 3455,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Hound of the Baskervilles",
+      "wordCount": 4182,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: A Retrospection",
+      "wordCount": 4087,
+      "estimatedMinutes": 16
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "bookId": "el-dorado",
+  "title": "El Dorado",
+  "author": "Baroness Orczy",
+  "chapterCount": 54,
+  "totalWordCount": 124006,
+  "totalMinutes": 499,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 479,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Foreword",
+      "wordCount": 929,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: In the Théâtre National",
+      "wordCount": 2527,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "II: Widely Divergent Aims",
+      "wordCount": 4117,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 5,
+      "title": "III: The Demon Chance",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "IV: Mademoiselle Lange",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "V: The Temple Prison",
+      "wordCount": 2935,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VI: The Committee’s Agent",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "VII: The Most Precious Life in Europe",
+      "wordCount": 3228,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "VIII: Arcades Ambo",
+      "wordCount": 1940,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "IX: What Love Can Do",
+      "wordCount": 4165,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "X: Shadows",
+      "wordCount": 2579,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XI: The League of the Scarlet Pimpernel",
+      "wordCount": 4865,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 14,
+      "title": "XII: What Love Is",
+      "wordCount": 3018,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XIII: Then Everything Was Dark",
+      "wordCount": 2114,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "XIV: The Chief",
+      "wordCount": 2028,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XV: The Gate of La Villette",
+      "wordCount": 1678,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XVI: The Weary Search",
+      "wordCount": 4497,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 19,
+      "title": "XVII: Chauvelin",
+      "wordCount": 2046,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Removal",
+      "wordCount": 1632,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XIX: It Is About the Dauphin",
+      "wordCount": 1963,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XX: The Certificate of Safety",
+      "wordCount": 1346,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXI: Back to Paris",
+      "wordCount": 4258,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 24,
+      "title": "XXII: Of That There Could Be No Question",
+      "wordCount": 3710,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 25,
+      "title": "XXIII: The Overwhelming Odds",
+      "wordCount": 693,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "XXIV: The News",
+      "wordCount": 3593,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXV: Paris Once More",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXVI: The Bitterest Foe",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXVII: In the Conciergerie",
+      "wordCount": 2077,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 31,
+      "title": "XXVIII: The Caged Lion",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXIX: For the Sake of That Helpless Innocent",
+      "wordCount": 4507,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 33,
+      "title": "XXX: Afterwards",
+      "wordCount": 2182,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 34,
+      "title": "XXXI: An Interlude",
+      "wordCount": 954,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 35,
+      "title": "XXXII: Sisters",
+      "wordCount": 3123,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 36,
+      "title": "XXXIII: Little Mother",
+      "wordCount": 1121,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "XXXIV: The Letter",
+      "wordCount": 1379,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 38,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 39,
+      "title": "XXXV: The Last Phase",
+      "wordCount": 4336,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 40,
+      "title": "XXXVI: Submission",
+      "wordCount": 2638,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XXXVII: Chauvelin’s Advice",
+      "wordCount": 1454,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "XXXVIII: Capitulation",
+      "wordCount": 2890,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 43,
+      "title": "XXXIX: Kill Him!",
+      "wordCount": 2436,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XL: God Help Us All",
+      "wordCount": 798,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XLI: When Hope Was Dead",
+      "wordCount": 2479,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 46,
+      "title": "XLII: The Guardhouse of the Rue Ste. Anne",
+      "wordCount": 2669,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "XLIII: The Dreary Journey",
+      "wordCount": 1627,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 48,
+      "title": "XLIV: The Halt at Crècy",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 49,
+      "title": "XLV: The Forest of Boulogne",
+      "wordCount": 2096,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 50,
+      "title": "XLVI: Others in the Park",
+      "wordCount": 2490,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 51,
+      "title": "XLVII: The Chapel of the Holy Sepulchre",
+      "wordCount": 2553,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "XLVIII: The Waning Moon",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 53,
+      "title": "XLIX: The Land of Eldorado",
+      "wordCount": 1156,
+      "estimatedMinutes": 5
+    }
+  ]
+}

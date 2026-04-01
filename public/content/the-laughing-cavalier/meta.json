@@ -1,0 +1,298 @@
+{
+  "bookId": "the-laughing-cavalier",
+  "title": "The Laughing Cavalier",
+  "author": "Baroness Orczy",
+  "chapterCount": 48,
+  "totalWordCount": 129036,
+  "totalMinutes": 515,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 352,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "An Apology",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "The Prologue",
+      "wordCount": 5307,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "I: New Year’s Eve",
+      "wordCount": 2289,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "II: The Fracas by the Postern Gate",
+      "wordCount": 3477,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "III: An Interlude",
+      "wordCount": 2275,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 6,
+      "title": "IV: Watch-Night",
+      "wordCount": 4183,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "V: Brother and Sister",
+      "wordCount": 2782,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VI: The Counsels of Prudence",
+      "wordCount": 1396,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "VII: Three Philosophers and Their Friends",
+      "wordCount": 5262,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "VIII: The Lodgings Which Were Paid For",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "IX: The Painter of Pictures",
+      "wordCount": 1610,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "X: The Laughing Cavalier",
+      "wordCount": 3583,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XI: The Bargain",
+      "wordCount": 1692,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XII: The Portrait",
+      "wordCount": 2335,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "XIII: The Spanish Wench",
+      "wordCount": 2984,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 16,
+      "title": "XIV: After Evensong",
+      "wordCount": 1750,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XV: The Halt at Bennebrock",
+      "wordCount": 1364,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 18,
+      "title": "XVI: Leyden",
+      "wordCount": 2240,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XVII: An Understanding",
+      "wordCount": 3377,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XVIII: The Start",
+      "wordCount": 927,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 21,
+      "title": "XIX: In the Kingdom of the Night",
+      "wordCount": 1084,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 22,
+      "title": "XX: Back Again in Haarlem",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 23,
+      "title": "XXI: A Grief-Stricken Father",
+      "wordCount": 1546,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXII: A Double Pledge",
+      "wordCount": 3006,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXIII: A Spy from the Camp",
+      "wordCount": 2713,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXIV: The Birth of Hate",
+      "wordCount": 4848,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 27,
+      "title": "XXV: An Arrant Knave",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 28,
+      "title": "XXVI: Back to Houdekerk",
+      "wordCount": 2412,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXVII: Thence to Rotterdam",
+      "wordCount": 2270,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 30,
+      "title": "XXVIII: Check",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXIX: Check Again",
+      "wordCount": 1628,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 32,
+      "title": "XXX: A Nocturne",
+      "wordCount": 6506,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 33,
+      "title": "XXXI: The Molens",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXII: A Run Through the Night",
+      "wordCount": 2430,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 35,
+      "title": "XXXIII: The Captive Lion",
+      "wordCount": 2647,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 36,
+      "title": "XXXIV: Protestations",
+      "wordCount": 2913,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 37,
+      "title": "XXXV: The Witness for the Defence",
+      "wordCount": 5034,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 38,
+      "title": "XXXVI: Brother Philosophers",
+      "wordCount": 3153,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XXXVII: Dawn",
+      "wordCount": 2186,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 40,
+      "title": "XXXVIII: The Hour",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "XXXIX: “Sauve Qui Peut”",
+      "wordCount": 2261,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 42,
+      "title": "XL: The Loser Pays",
+      "wordCount": 4115,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XLI: “Vengeance Is Mine”",
+      "wordCount": 1365,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 44,
+      "title": "XLII: The Fight in the Doorway",
+      "wordCount": 6464,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 45,
+      "title": "XLIII: Leyden Once More",
+      "wordCount": 2970,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 46,
+      "title": "XLIV: Blake of Blakeney",
+      "wordCount": 1535,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 47,
+      "title": "XLV: The End",
+      "wordCount": 907,
+      "estimatedMinutes": 4
+    }
+  ]
+}

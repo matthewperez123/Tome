@@ -1,0 +1,406 @@
+{
+  "bookId": "david-copperfield",
+  "title": "David Copperfield",
+  "author": "Charles Dickens",
+  "chapterCount": 66,
+  "totalWordCount": 357159,
+  "totalMinutes": 1430,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface to the 1850 Edition",
+      "wordCount": 274,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface to the Charles Dickens Edition",
+      "wordCount": 298,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: I Am Born",
+      "wordCount": 4580,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "II: I Observe",
+      "wordCount": 6180,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 4,
+      "title": "III: I Have a Change",
+      "wordCount": 6375,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 5,
+      "title": "IV: I Fall Into Disgrace",
+      "wordCount": 7894,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 6,
+      "title": "V: I Am Sent Away from Home",
+      "wordCount": 7608,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 7,
+      "title": "VI: I Enlarge My Circle of Acquaintance",
+      "wordCount": 3044,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VII: My “First Half” at Salem House",
+      "wordCount": 7423,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "VIII: My Holidays. Especially One Happy Afternoon",
+      "wordCount": 6042,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "IX: I Have a Memorable Birthday",
+      "wordCount": 4940,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "X: I Become Neglected, and Am Provided For",
+      "wordCount": 8330,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 12,
+      "title": "XI: I Begin Life on My Own Account, and Don’t Like It",
+      "wordCount": 6942,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 13,
+      "title": "XII: Liking Life on My Own Account No Better, I Form a Great Resolution",
+      "wordCount": 3955,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Sequel of My Resolution",
+      "wordCount": 8477,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 15,
+      "title": "XIV: My Aunt Makes Up Her Mind About Me",
+      "wordCount": 6384,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 16,
+      "title": "XV: I Make Another Beginning",
+      "wordCount": 3998,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 17,
+      "title": "XVI: I Am a New Boy in More Senses Than One",
+      "wordCount": 8957,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 18,
+      "title": "XVII: Somebody Turns Up",
+      "wordCount": 7131,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 19,
+      "title": "XVIII: A Retrospect",
+      "wordCount": 3101,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "XIX: I Look About Me, and Make a Discovery",
+      "wordCount": 6777,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 21,
+      "title": "XX: Steerforth’s Home",
+      "wordCount": 3645,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 22,
+      "title": "XXI: Little Em’ly",
+      "wordCount": 8178,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 23,
+      "title": "XXII: Some Old Scenes, and Some New People",
+      "wordCount": 9169,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 24,
+      "title": "XXIII: I Corroborate Mr. Dick, and Choose a Profession",
+      "wordCount": 6000,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 25,
+      "title": "XXIV: My First Dissipation",
+      "wordCount": 3518,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "XXV: Good and Bad Angels",
+      "wordCount": 8134,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 27,
+      "title": "XXVI: I Fall Into Captivity",
+      "wordCount": 6500,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 28,
+      "title": "XXVII: Tommy Traddles",
+      "wordCount": 3855,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: Mr. Micawber’s Gauntlet",
+      "wordCount": 7837,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 30,
+      "title": "XXIX: I Visit Steerforth at His Home, Again",
+      "wordCount": 3039,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXX: A Loss",
+      "wordCount": 3299,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXI: A Greater Loss",
+      "wordCount": 3756,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Beginning of a Long Journey",
+      "wordCount": 7903,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: Blissful",
+      "wordCount": 6970,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: My Aunt Astonishes Me",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 36,
+      "title": "XXXV: Depression",
+      "wordCount": 8436,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: Enthusiasm",
+      "wordCount": 6873,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: A Little Cold Water",
+      "wordCount": 3306,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: A Dissolution of Partnership",
+      "wordCount": 6797,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: Wickfield and Heep",
+      "wordCount": 7818,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 41,
+      "title": "XL: The Wanderer",
+      "wordCount": 3718,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 42,
+      "title": "XLI: Dora’s Aunts",
+      "wordCount": 6374,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 43,
+      "title": "XLII: Mischief",
+      "wordCount": 8262,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 44,
+      "title": "XLIII: Another Retrospect",
+      "wordCount": 3328,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 45,
+      "title": "XLIV: Our Housekeeping",
+      "wordCount": 6253,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 46,
+      "title": "XLV: Mr. Dick Fulfils My Aunt’s Predictions",
+      "wordCount": 6283,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 47,
+      "title": "XLVI: Intelligence",
+      "wordCount": 5485,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 48,
+      "title": "XLVII: Martha",
+      "wordCount": 4543,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: Domestic",
+      "wordCount": 4675,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 50,
+      "title": "XLIX: I Am Involved in Mystery",
+      "wordCount": 4766,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 51,
+      "title": "L: Mr. Peggotty’s Dream Comes True",
+      "wordCount": 4149,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 52,
+      "title": "LI: The Beginning of a Longer Journey",
+      "wordCount": 7432,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 53,
+      "title": "LII: I Assist at an Explosion",
+      "wordCount": 9480,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 54,
+      "title": "LIII: Another Retrospect",
+      "wordCount": 1985,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 55,
+      "title": "LIV: Mr. Micawber’s Transactions",
+      "wordCount": 5896,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 56,
+      "title": "LV: Tempest",
+      "wordCount": 5039,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 57,
+      "title": "LVI: The New Wound, and the Old",
+      "wordCount": 2509,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 58,
+      "title": "LVII: The Emigrants",
+      "wordCount": 4235,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 59,
+      "title": "LVIII: Absence",
+      "wordCount": 2736,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 60,
+      "title": "LIX: Return",
+      "wordCount": 6532,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 61,
+      "title": "LX: Agnes",
+      "wordCount": 3516,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 62,
+      "title": "LXI: I Am Shown Two Interesting Penitents",
+      "wordCount": 4808,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 63,
+      "title": "LXII: A Light Shines on My Way",
+      "wordCount": 3351,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 64,
+      "title": "LXIII: A Visitor",
+      "wordCount": 3017,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 65,
+      "title": "LXIV: A Last Retrospect",
+      "wordCount": 1625,
+      "estimatedMinutes": 7
+    }
+  ]
+}

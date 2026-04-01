@@ -1,0 +1,196 @@
+{
+  "bookId": "rachel-ray",
+  "title": "Rachel Ray",
+  "author": "Anthony Trollope",
+  "chapterCount": 31,
+  "totalWordCount": 143523,
+  "totalMinutes": 577,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 268,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The Ray Family",
+      "wordCount": 4930,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "II: The Young Man from the Brewery",
+      "wordCount": 3714,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: The Arm in the Clouds",
+      "wordCount": 6507,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "IV: What Shall Be Done About It?",
+      "wordCount": 4502,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 5,
+      "title": "V: Mr. Comfort Gives His Advice",
+      "wordCount": 4632,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VI: Preparations for Mrs. Tappitt’s Party",
+      "wordCount": 5108,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: An Account of Mrs. Tappitt’s Ball—Commenced",
+      "wordCount": 4887,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VIII: An Account of Mrs. Tappitt’s Ball—Concluded",
+      "wordCount": 5048,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "IX: Mr. Prong at Home",
+      "wordCount": 4711,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 10,
+      "title": "X: Luke Rowan Declares His Plans as to the Brewery",
+      "wordCount": 4379,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: Luke Rowan Takes His Tea Quite Like a Steady Young Man",
+      "wordCount": 4706,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Rachel Ray Thinks “She Does Like Him”",
+      "wordCount": 4429,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIII: Mr. Tappitt in His Countinghouse",
+      "wordCount": 5103,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "XIV: Luke Rowan Pays a Second Visit to Bragg’s End",
+      "wordCount": 5242,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 15,
+      "title": "XV: Maternal Eloquence",
+      "wordCount": 4649,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVI: Rachel Ray’s First Love-Letter",
+      "wordCount": 3095,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: Electioneering",
+      "wordCount": 5649,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Dr. Harford",
+      "wordCount": 4733,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XIX: Mr. Comfort Calls at the Cottage",
+      "wordCount": 4844,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 20,
+      "title": "XX: Showing What Rachel Ray Thought When She Sat on the Stile, and How She Wrote Her Letter Afterwards",
+      "wordCount": 5644,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 21,
+      "title": "XXI: Mrs. Ray Goes to Exeter, and Meets a Friend",
+      "wordCount": 5626,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 22,
+      "title": "XXII: Domestic Politics at the Brewery",
+      "wordCount": 4770,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Mrs. Ray’s Penitence",
+      "wordCount": 5432,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 24,
+      "title": "XXIV: The Election at Baslehurst",
+      "wordCount": 5464,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXV: The Baslehurst Gazette",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Cornbury Grange",
+      "wordCount": 4742,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 27,
+      "title": "XXVII: In Which the Question of the Brewery Is Settled",
+      "wordCount": 6127,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: What Took Place at Bragg’s End Farm",
+      "wordCount": 5026,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Mrs. Prime Reads Her Recantation",
+      "wordCount": 3909,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 30,
+      "title": "XXX: Conclusion",
+      "wordCount": 2830,
+      "estimatedMinutes": 11
+    }
+  ]
+}

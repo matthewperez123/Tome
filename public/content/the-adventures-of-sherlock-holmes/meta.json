@@ -1,0 +1,82 @@
+{
+  "bookId": "the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 12,
+  "totalWordCount": 104953,
+  "totalMinutes": 419,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A Scandal in Bohemia",
+      "wordCount": 8558,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 1,
+      "title": "The Redheaded League",
+      "wordCount": 9175,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 2,
+      "title": "A Case of Identity",
+      "wordCount": 7003,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 3,
+      "title": "The Boscombe Valley Mystery",
+      "wordCount": 9649,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 4,
+      "title": "The Five Orange Pips",
+      "wordCount": 7372,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 5,
+      "title": "The Man with the Twisted Lip",
+      "wordCount": 9227,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 6,
+      "title": "The Adventure of the Blue Carbuncle",
+      "wordCount": 7871,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 7,
+      "title": "The Adventure of the Speckled Band",
+      "wordCount": 9830,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 8,
+      "title": "The Adventure of the Engineer’s Thumb",
+      "wordCount": 8354,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 9,
+      "title": "The Adventure of the Noble Bachelor",
+      "wordCount": 8159,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 10,
+      "title": "The Adventure of the Beryl Coronet",
+      "wordCount": 9739,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 11,
+      "title": "The Adventure of the Copper Beeches",
+      "wordCount": 10016,
+      "estimatedMinutes": 40
+    }
+  ]
+}

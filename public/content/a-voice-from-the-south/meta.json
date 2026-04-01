@@ -1,0 +1,76 @@
+{
+  "bookId": "a-voice-from-the-south",
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "chapterCount": 11,
+  "totalWordCount": 60271,
+  "totalMinutes": 243,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Our Raison d’Être",
+      "wordCount": 469,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Soprano Obligato",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Womanhood a Vital Element in the Regeneration and Progress of a Race",
+      "wordCount": 7824,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 3,
+      "title": "The Higher Education of Women",
+      "wordCount": 6686,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 4,
+      "title": "“Woman Versus the Indian”",
+      "wordCount": 9522,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 5,
+      "title": "The Status of Woman in America",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "Tutti ad Libitum",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 7,
+      "title": "Has America a Race Problem; If So, How Can It Best Be Solved?",
+      "wordCount": 5113,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "One Phase of American Literature",
+      "wordCount": 10952,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 9,
+      "title": "What Are We Worth?",
+      "wordCount": 12252,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 10,
+      "title": "The Gain from a Belief",
+      "wordCount": 3755,
+      "estimatedMinutes": 15
+    }
+  ]
+}

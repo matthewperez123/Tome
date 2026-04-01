@@ -1,0 +1,208 @@
+{
+  "bookId": "the-turmoil",
+  "title": "The Turmoil",
+  "author": "Booth Tarkington",
+  "chapterCount": 33,
+  "totalWordCount": 91063,
+  "totalMinutes": 365,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 1222,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1873,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2852,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 3106,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2462,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 3345,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 2455,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2936,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 3984,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 4376,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3044,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2680,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 3109,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2016,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 1588,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 4412,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2519,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2192,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2199,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 4038,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 2229,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 3441,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 2764,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 1818,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 2416,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 3003,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 3401,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2387,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 2624,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXXII",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 32,
+      "title": "XXXIII",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bookId": "practical-mysticism",
+  "title": "Practical Mysticism: A Little Book for Normal People",
+  "author": "Evelyn Underhill",
+  "chapterCount": 12,
+  "totalWordCount": 33195,
+  "totalMinutes": 134,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 398,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 1289,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: What Is Mysticism?",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "II: The World of Reality",
+      "wordCount": 2963,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "III: The Preparation of the Mystic",
+      "wordCount": 3177,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "IV: Meditation and Recollection",
+      "wordCount": 1825,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V: Self Adjustment",
+      "wordCount": 3396,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VI: Love and Will",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "VII: The First Form of Contemplation",
+      "wordCount": 3207,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Second Form of Contemplation",
+      "wordCount": 3959,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 10,
+      "title": "IX: The Third Form of Contemplation",
+      "wordCount": 4085,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "X: The Mystical Life",
+      "wordCount": 4144,
+      "estimatedMinutes": 17
+    }
+  ]
+}

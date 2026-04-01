@@ -1,0 +1,94 @@
+{
+  "bookId": "a-man-could-stand-up",
+  "title": "A Man Could Stand Up—",
+  "author": "Ford Madox Ford",
+  "chapterCount": 14,
+  "totalWordCount": 70793,
+  "totalMinutes": 285,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 4833,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5778,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5236,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I",
+      "wordCount": 9083,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "II",
+      "wordCount": 6403,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 7,
+      "title": "III",
+      "wordCount": 5745,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 8,
+      "title": "IV",
+      "wordCount": 5604,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "V",
+      "wordCount": 8280,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 10,
+      "title": "VI",
+      "wordCount": 7590,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 11,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 12,
+      "title": "I",
+      "wordCount": 8469,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 13,
+      "title": "II",
+      "wordCount": 3766,
+      "estimatedMinutes": 15
+    }
+  ]
+}

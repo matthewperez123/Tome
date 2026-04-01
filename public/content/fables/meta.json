@@ -1,0 +1,22 @@
+{
+  "bookId": "fables",
+  "title": "Fables",
+  "author": "Aesop",
+  "chapterCount": 2,
+  "totalWordCount": 38856,
+  "totalMinutes": 155,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1567,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "Chapter 2",
+      "wordCount": 37289,
+      "estimatedMinutes": 149
+    }
+  ]
+}

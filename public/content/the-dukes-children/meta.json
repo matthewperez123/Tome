@@ -1,0 +1,496 @@
+{
+  "bookId": "the-dukes-children",
+  "title": "The Duke’s Children",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 224158,
+  "totalMinutes": 897,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 491,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: When the Duchess Was Dead",
+      "wordCount": 3127,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: Lady Mary Palliser",
+      "wordCount": 3690,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: Francis Oliphant Tregear",
+      "wordCount": 2500,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: Park Lane",
+      "wordCount": 2758,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 5,
+      "title": "V: “It Is Impossible”",
+      "wordCount": 3946,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: Major Tifto",
+      "wordCount": 2929,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VII: Conservative Convictions",
+      "wordCount": 2749,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "VIII: “He Is a Gentleman”",
+      "wordCount": 2856,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: “In Medias Res”",
+      "wordCount": 3251,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: “Why Not Like Romeo if I Feel Like Romeo?”",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XI: “Cruel”",
+      "wordCount": 2689,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: At Richmond",
+      "wordCount": 2969,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Duke’s Injustice",
+      "wordCount": 1385,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XIV: The New Member for Silverbridge",
+      "wordCount": 3508,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: The Duke Receives a Letter—and Writes One",
+      "wordCount": 3399,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: “Poor Boy”",
+      "wordCount": 2222,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Derby",
+      "wordCount": 3309,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: One of the Results of the Derby",
+      "wordCount": 2656,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 19,
+      "title": "XIX: “No; My Lord, I Do Not”",
+      "wordCount": 2545,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XX: “Then He Will Come Again”",
+      "wordCount": 2821,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXI: Sir Timothy Beeswax",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXII: The Duke in His Study",
+      "wordCount": 3831,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Frank Tregear Wants a Friend",
+      "wordCount": 2392,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXIV: “She Must Be Made to Obey”",
+      "wordCount": 2680,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 25,
+      "title": "XXV: A Family Breakfast-Table",
+      "wordCount": 2824,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Dinner at the Beargarden",
+      "wordCount": 4086,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Major Tifto and the Duke",
+      "wordCount": 1773,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Mrs. Montacute Jones’s Garden-Party",
+      "wordCount": 3126,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Lovers Meet",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 30,
+      "title": "XXX: What Came of the Meeting",
+      "wordCount": 2583,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Miss Boncassen’s River-Party. No. 1",
+      "wordCount": 3000,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Miss Boncassen’s River-Party. No. 2",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Langham Hotel",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Lord Popplecourt",
+      "wordCount": 2202,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXV: “Don’t You Think—?”",
+      "wordCount": 3278,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Tallyho Lodge",
+      "wordCount": 1943,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Grex",
+      "wordCount": 2686,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Crummie-Toddie",
+      "wordCount": 2481,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Killancodlem",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 40,
+      "title": "XL: “And Then!”",
+      "wordCount": 3156,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "XLI: Ischl",
+      "wordCount": 3336,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "XLII: Again at Killancodlem",
+      "wordCount": 2846,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 43,
+      "title": "XLIII: What Happened at Doncaster",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 44,
+      "title": "XLIV: How It Was Done",
+      "wordCount": 2462,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 45,
+      "title": "XLV: “There Shall Not Be Another Word About It”",
+      "wordCount": 3215,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Lady Mary’s Dream",
+      "wordCount": 2815,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Miss Boncassen’s Idea of Heaven",
+      "wordCount": 2665,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: The Party at Custins Is Broken Up",
+      "wordCount": 2291,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XLIX: The Major’s Fate",
+      "wordCount": 1744,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 50,
+      "title": "L: The Duke’s Arguments",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 51,
+      "title": "LI: The Duke’s Guests",
+      "wordCount": 2124,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 52,
+      "title": "LII: Miss Boncassen Tells the Truth",
+      "wordCount": 3581,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 53,
+      "title": "LIII: “Then I Am as Proud as a Queen”",
+      "wordCount": 3440,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 54,
+      "title": "LIV: “I Don’t Think She Is a Snake”",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 55,
+      "title": "LV: Polpenno",
+      "wordCount": 3319,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 56,
+      "title": "LVI: The News Is Sent to Matching",
+      "wordCount": 1817,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 57,
+      "title": "LVII: The Meeting at The Bobtailed Fox",
+      "wordCount": 2389,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Major Is Deposed",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 59,
+      "title": "LIX: No One Can Tell What May Come to Pass",
+      "wordCount": 4696,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 60,
+      "title": "LX: Lord Gerald in Further Trouble",
+      "wordCount": 1910,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "LXI: “Bone of My Bone”",
+      "wordCount": 3495,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 62,
+      "title": "LXII: The Brake Country",
+      "wordCount": 3574,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 63,
+      "title": "LXIII: “I’ve Seen ’Em Like That Before”",
+      "wordCount": 2498,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "LXIV: “I Believe Him to Be a Worthy Young Man”",
+      "wordCount": 2049,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 65,
+      "title": "LXV: “Do You Ever Think What Money Is?”",
+      "wordCount": 2593,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 66,
+      "title": "LXVI: The Three Attacks",
+      "wordCount": 3144,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 67,
+      "title": "LXVII: “He Is Such a Beast”",
+      "wordCount": 1994,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: Brook Street",
+      "wordCount": 3312,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 69,
+      "title": "LXIX: “Pert Poppet!”",
+      "wordCount": 2338,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 70,
+      "title": "LXX: “Love May Be a Great Misfortune”",
+      "wordCount": 2419,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 71,
+      "title": "LXXI: “What Am I to Say, Sir?”",
+      "wordCount": 3084,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Carlton Terrace",
+      "wordCount": 3123,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: “I Have Never Loved You”",
+      "wordCount": 2786,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: “Let Us Drink a Glass of Wine Together”",
+      "wordCount": 3340,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 75,
+      "title": "LXXV: The Major’s Story",
+      "wordCount": 2161,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: On Deportment",
+      "wordCount": 2330,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: “Mabel, Goodbye”",
+      "wordCount": 4954,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Duke Returns to Office",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: The First Wedding",
+      "wordCount": 2390,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 80,
+      "title": "LXXX: The Second Wedding",
+      "wordCount": 1052,
+      "estimatedMinutes": 4
+    }
+  ]
+}

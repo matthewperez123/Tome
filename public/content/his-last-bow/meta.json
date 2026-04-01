@@ -1,0 +1,58 @@
+{
+  "bookId": "his-last-bow",
+  "title": "His Last Bow: Some Reminiscences of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 8,
+  "totalWordCount": 59206,
+  "totalMinutes": 237,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 137,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "The Adventure of Wisteria Lodge",
+      "wordCount": 11411,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 2,
+      "title": "The Adventure of the Red Circle",
+      "wordCount": 7363,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 3,
+      "title": "The Adventure of the Bruce-Partington Plans",
+      "wordCount": 10698,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 4,
+      "title": "The Adventure of the Dying Detective",
+      "wordCount": 5803,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "The Disappearance of Lady Frances Carfax",
+      "wordCount": 7702,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 6,
+      "title": "The Adventure of the Devil’s Foot",
+      "wordCount": 10009,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 7,
+      "title": "His Last Bow",
+      "wordCount": 6083,
+      "estimatedMinutes": 24
+    }
+  ]
+}

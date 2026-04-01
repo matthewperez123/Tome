@@ -1,0 +1,166 @@
+{
+  "bookId": "hadrian-the-seventh",
+  "title": "Hadrian the Seventh: A Romance",
+  "author": "Frederick Rolfe",
+  "chapterCount": 26,
+  "totalWordCount": 124151,
+  "totalMinutes": 498,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 96,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Prooimion",
+      "wordCount": 19252,
+      "estimatedMinutes": 77
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 607,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 4548,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 3726,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 4509,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 4414,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 4878,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 4934,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "VIII",
+      "wordCount": 4503,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "IX",
+      "wordCount": 2030,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X",
+      "wordCount": 5887,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 12,
+      "title": "XI",
+      "wordCount": 10846,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 13,
+      "title": "XII",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIII",
+      "wordCount": 6949,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 15,
+      "title": "XIV",
+      "wordCount": 3978,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XV",
+      "wordCount": 6013,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 17,
+      "title": "XVI",
+      "wordCount": 2819,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XVII",
+      "wordCount": 3842,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XVIII",
+      "wordCount": 1679,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XIX",
+      "wordCount": 5481,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 21,
+      "title": "XX",
+      "wordCount": 4610,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "XXI",
+      "wordCount": 2723,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXII",
+      "wordCount": 9050,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 24,
+      "title": "XXIII",
+      "wordCount": 1682,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXIV",
+      "wordCount": 2898,
+      "estimatedMinutes": 12
+    }
+  ]
+}

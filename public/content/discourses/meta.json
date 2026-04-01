@@ -1,0 +1,46 @@
+{
+  "bookId": "discourses",
+  "title": "Discourses",
+  "author": "Epictetus",
+  "chapterCount": 6,
+  "totalWordCount": 121722,
+  "totalMinutes": 487,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 1844,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 284,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Book I",
+      "wordCount": 27879,
+      "estimatedMinutes": 112
+    },
+    {
+      "index": 3,
+      "title": "Book II",
+      "wordCount": 30825,
+      "estimatedMinutes": 123
+    },
+    {
+      "index": 4,
+      "title": "Book III",
+      "wordCount": 32726,
+      "estimatedMinutes": 131
+    },
+    {
+      "index": 5,
+      "title": "Book IV",
+      "wordCount": 28164,
+      "estimatedMinutes": 113
+    }
+  ]
+}

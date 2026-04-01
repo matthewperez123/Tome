@@ -1,0 +1,124 @@
+{
+  "bookId": "up-from-slavery",
+  "title": "Up from Slavery: An Autobiography",
+  "author": "Booker T. Washington",
+  "chapterCount": 19,
+  "totalWordCount": 76483,
+  "totalMinutes": 307,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 196,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Introduction",
+      "wordCount": 2885,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "I: A Slave Among Slaves",
+      "wordCount": 5198,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "II: Boyhood Days",
+      "wordCount": 4361,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "III: The Struggle for an Education",
+      "wordCount": 5023,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 5,
+      "title": "IV: Helping Others",
+      "wordCount": 3904,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "V: The Reconstruction Period",
+      "wordCount": 2648,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VI: Black Race and Red Race",
+      "wordCount": 3218,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VII: Early Days at Tuskegee",
+      "wordCount": 2726,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "VIII: Teaching School in a Stable and a Henhouse",
+      "wordCount": 3478,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "IX: Anxious Days and Sleepless Nights",
+      "wordCount": 3357,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "X: A Harder Task Than Making Bricks Without Straw",
+      "wordCount": 3456,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XI: Making Their Beds Before They Could Lie on Them",
+      "wordCount": 3179,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "XII: Raising Money",
+      "wordCount": 4374,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIII: Two Thousand Miles for a Five-Minute Speech",
+      "wordCount": 4724,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 15,
+      "title": "XIV: The Atlanta Exposition Address",
+      "wordCount": 4702,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XV: The Secret of Success in Public Speaking",
+      "wordCount": 7037,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 17,
+      "title": "XVI: Europe",
+      "wordCount": 5743,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 18,
+      "title": "XVII: Last Words",
+      "wordCount": 6274,
+      "estimatedMinutes": 25
+    }
+  ]
+}

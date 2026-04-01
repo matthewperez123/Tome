@@ -1,0 +1,616 @@
+{
+  "bookId": "the-way-we-live-now",
+  "title": "The Way We Live Now",
+  "author": "Anthony Trollope",
+  "chapterCount": 101,
+  "totalWordCount": 352863,
+  "totalMinutes": 1420,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 443,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Three Editors",
+      "wordCount": 3703,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: The Carbury Family",
+      "wordCount": 3872,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "III: The Beargarden",
+      "wordCount": 2934,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 4,
+      "title": "IV: Madame Melmotte’s Ball",
+      "wordCount": 5435,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V: After the Ball",
+      "wordCount": 1342,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI: Roger Carbury and Paul Montague",
+      "wordCount": 4281,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: Mentor",
+      "wordCount": 3437,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VIII: Lovesick",
+      "wordCount": 2803,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "IX: The Great Railway to Vera Cruz",
+      "wordCount": 3181,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Mr. Fisker’s Success",
+      "wordCount": 4232,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 11,
+      "title": "XI: Lady Carbury at Home",
+      "wordCount": 4802,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Sir Felix in His Mother’s House",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Longestaffes",
+      "wordCount": 3804,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV: Carbury Manor",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV: “You Should Remember That I Am His Mother.”",
+      "wordCount": 3710,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Bishop and the Priest",
+      "wordCount": 4741,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVII: Marie Melmotte Hears a Love Tale",
+      "wordCount": 4355,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Ruby Ruggles Hears a Love Tale",
+      "wordCount": 2214,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XIX: Hetta Carbury Hears a Love Tale",
+      "wordCount": 4375,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "XX: Lady Pomona’s Dinner Party",
+      "wordCount": 2241,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXI: Everybody Goes to Them",
+      "wordCount": 4639,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 22,
+      "title": "XXII: Lord Nidderdale’s Morality",
+      "wordCount": 2812,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIII: “Yes;—I’m a Baronet.”",
+      "wordCount": 3925,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Miles Grendall’s Triumph",
+      "wordCount": 3267,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 25,
+      "title": "XXV: In Grosvenor Square",
+      "wordCount": 2465,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Mrs. Hurtle",
+      "wordCount": 4604,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Mrs. Hurtle Goes to the Play",
+      "wordCount": 4420,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Dolly Longestaffe Goes Into the City",
+      "wordCount": 2147,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Miss Melmotte’s Courage",
+      "wordCount": 3016,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 30,
+      "title": "XXX: Mr. Melmotte’s Promise",
+      "wordCount": 3634,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Mr. Broune Has Made Up His Mind",
+      "wordCount": 3466,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Lady Monogram",
+      "wordCount": 3257,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: John Crumb",
+      "wordCount": 4718,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Ruby Ruggles Obeys Her Grandfather",
+      "wordCount": 2224,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Melmotte’s Glory",
+      "wordCount": 4007,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Mr. Broune’s Perils",
+      "wordCount": 2242,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: The Boardroom",
+      "wordCount": 4767,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Paul Montague’s Troubles",
+      "wordCount": 3446,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: “I Do Love Him.”",
+      "wordCount": 4876,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 40,
+      "title": "XL: “Unanimity Is the Very Soul of These Things.”",
+      "wordCount": 2168,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "XLI: All Prepared",
+      "wordCount": 2131,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 42,
+      "title": "XLII: “Can You Be Ready in Ten Minutes?”",
+      "wordCount": 4002,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 43,
+      "title": "XLIII: The City Road",
+      "wordCount": 4744,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Coming Election",
+      "wordCount": 3580,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XLV: Mr. Melmotte Is Pressed for Time",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Roger Carbury and His Two Friends",
+      "wordCount": 3685,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Mrs. Hurtle at Lowestoft",
+      "wordCount": 4888,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Ruby a Prisoner",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Sir Felix Makes Himself Ready",
+      "wordCount": 3384,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 50,
+      "title": "L: The Journey to Liverpool",
+      "wordCount": 3598,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 51,
+      "title": "LI: Which Shall It Be?",
+      "wordCount": 3648,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 52,
+      "title": "LII: The Results of Love and Wine",
+      "wordCount": 3138,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 53,
+      "title": "LIII: A Day in the City",
+      "wordCount": 4085,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 54,
+      "title": "LIV: The India Office",
+      "wordCount": 4459,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 55,
+      "title": "LV: Clerical Charities",
+      "wordCount": 2211,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 56,
+      "title": "LVI: Father Barham Visits London",
+      "wordCount": 3483,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 57,
+      "title": "LVII: Lord Nidderdale Tries His Hand Again",
+      "wordCount": 3475,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 58,
+      "title": "LVIII: Mr. Squercum Is Employed",
+      "wordCount": 3639,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 59,
+      "title": "LIX: The Dinner",
+      "wordCount": 3479,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 60,
+      "title": "LX: Miss Longestaffe’s Lover",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 61,
+      "title": "LXI: Lady Monogram Prepares for the Party",
+      "wordCount": 1977,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 62,
+      "title": "LXII: The Party",
+      "wordCount": 5059,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Mr. Melmotte on the Day of the Election",
+      "wordCount": 3441,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Election",
+      "wordCount": 4029,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 65,
+      "title": "LXV: Miss Longestaffe Writes Home",
+      "wordCount": 3050,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 66,
+      "title": "LXVI: “So Shall Be My Enmity.”",
+      "wordCount": 3424,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 67,
+      "title": "LXVII: Sir Felix Protects His Sister",
+      "wordCount": 3047,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: Miss Melmotte Declares Her Purpose",
+      "wordCount": 2977,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 69,
+      "title": "LXIX: Melmotte in Parliament",
+      "wordCount": 4625,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 70,
+      "title": "LXX: Sir Felix Meddles with Many Matters",
+      "wordCount": 3407,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 71,
+      "title": "LXXI: John Crumb Falls Into Trouble",
+      "wordCount": 3374,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 72,
+      "title": "LXXII: “Ask Himself.”",
+      "wordCount": 4335,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Marie’s Fortune",
+      "wordCount": 2894,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: Melmotte Makes a Friend",
+      "wordCount": 3502,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 75,
+      "title": "LXXV: In Bruton Street",
+      "wordCount": 3586,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: Hetta and Her Lover",
+      "wordCount": 3906,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: Another Scene in Bruton Street",
+      "wordCount": 3717,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: Miss Longestaffe Again at Caversham",
+      "wordCount": 2927,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: The Brehgert Correspondence",
+      "wordCount": 4557,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 80,
+      "title": "LXXX: Ruby Prepares for Service",
+      "wordCount": 2799,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 81,
+      "title": "LXXXI: Mr. Cohenlupe Leaves London",
+      "wordCount": 4476,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 82,
+      "title": "LXXXII: Marie’s Perseverance",
+      "wordCount": 3880,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 83,
+      "title": "LXXXIII: Melmotte Again at the House",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 84,
+      "title": "LXXXIV: Paul Montague’s Vindication",
+      "wordCount": 3570,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 85,
+      "title": "LXXXV: Breakfast in Berkeley Square",
+      "wordCount": 2775,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 86,
+      "title": "LXXXVI: The Meeting in Bruton Street",
+      "wordCount": 3515,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 87,
+      "title": "LXXXVII: Down at Carbury",
+      "wordCount": 3533,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 88,
+      "title": "LXXXVIII: The Inquest",
+      "wordCount": 3152,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 89,
+      "title": "LXXXIX: “The Wheel of Fortune.”",
+      "wordCount": 4327,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 90,
+      "title": "XC: Hetta’s Sorrow",
+      "wordCount": 2905,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 91,
+      "title": "XCI: The Rivals",
+      "wordCount": 3913,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 92,
+      "title": "XCII: Hamilton K. Fisker Again",
+      "wordCount": 3544,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 93,
+      "title": "XCIII: A True Lover",
+      "wordCount": 3518,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 94,
+      "title": "XCIV: John Crumb’s Victory",
+      "wordCount": 3380,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 95,
+      "title": "XCV: The Longestaffe Marriages",
+      "wordCount": 3204,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 96,
+      "title": "XCVI: Where “The Wild Asses Quench Their Thirst”",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 97,
+      "title": "XCVII: Mrs. Hurtle’s Fate",
+      "wordCount": 3777,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 98,
+      "title": "XCVIII: Marie Melmotte’s Fate",
+      "wordCount": 3333,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 99,
+      "title": "XCIX: Lady Carbury and Mr. Broune",
+      "wordCount": 3409,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 100,
+      "title": "C: Down in Suffolk",
+      "wordCount": 3378,
+      "estimatedMinutes": 14
+    }
+  ]
+}

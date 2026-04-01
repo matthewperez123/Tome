@@ -1,0 +1,220 @@
+{
+  "bookId": "the-triumph-of-the-scarlet-pimpernel",
+  "title": "The Triumph of the Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "chapterCount": 35,
+  "totalWordCount": 91554,
+  "totalMinutes": 366,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 501,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: “The Everlasting Stars Look Down, Like Glistening Eyes Bright with Immortal Pity, Over the Lot of Man.”",
+      "wordCount": 1108,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II: Feet of Clay",
+      "wordCount": 4855,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "III: The Fellowship of Grief",
+      "wordCount": 2723,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 4,
+      "title": "IV: One Dram of Joy Must Have a Pound of Care",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: Rascality Rejoices",
+      "wordCount": 3974,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: One Crowded Hour of Glorious Life",
+      "wordCount": 2876,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VII: Two Interludes",
+      "wordCount": 2144,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Beautiful Spaniard",
+      "wordCount": 3252,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: A Hideous, Fearful Hour",
+      "wordCount": 3173,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: The Grim Idol That the World Adores",
+      "wordCount": 3919,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XI: Strange Happenings",
+      "wordCount": 1982,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII: Chauvelin",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Fisherman’s Rest",
+      "wordCount": 2528,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Castaway",
+      "wordCount": 979,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XV: The Nest",
+      "wordCount": 4667,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Lover of Sport",
+      "wordCount": 3535,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: Reunion",
+      "wordCount": 2477,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Night and Morning",
+      "wordCount": 1684,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: A Rencontre",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XX: Departure",
+      "wordCount": 2727,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XXI: Memories",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 22,
+      "title": "XXII: Waiting",
+      "wordCount": 1601,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Mice and Men",
+      "wordCount": 2828,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "XXIV: By Order of the State",
+      "wordCount": 3536,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 25,
+      "title": "XXV: Four Days",
+      "wordCount": 3931,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: A Dream",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Terror or Ambition",
+      "wordCount": 1406,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: In the Meanwhile",
+      "wordCount": 1301,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "XXIX: The Close of the Second Day",
+      "wordCount": 2587,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: When the Storm Burst",
+      "wordCount": 1819,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Our Lady of Pity",
+      "wordCount": 2684,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Grey Dawn",
+      "wordCount": 2086,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Cataclysm",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: The Whirlwind",
+      "wordCount": 5530,
+      "estimatedMinutes": 22
+    }
+  ]
+}

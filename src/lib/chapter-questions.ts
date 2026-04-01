@@ -2,15 +2,19 @@
 // Tome Chapter Question Bank
 // ─────────────────────────────────────────────
 
-export type QuestionType = 'multiple_choice' | 'true_false' | 'passage_id'
+export type QuestionType = 'multiple_choice' | 'true_false' | 'passage_id' | 'fill_blank' | 'theme_analysis' | 'ordering'
+export type QuizDifficulty = 'Apprentice' | 'Scholar' | 'Master'
 
 export interface ChapterQuestion {
   id: string
   type: QuestionType
   text: string
+  difficulty: QuizDifficulty  // Apprentice = 5 XP, Scholar = 10 XP, Master = 15 XP
+  xpReward: number
   options?: string[]        // for multiple_choice and passage_id
   correctIndex?: number     // 0-based index into options[] for MC/passage_id
   correctBool?: boolean     // for true_false
+  correctText?: string      // for fill_blank
   explanation: string
 }
 
@@ -22,6 +26,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'What is the immediate cause of the quarrel between Achilles and Agamemnon in Book 1?',
         options: [
           'Agamemnon refuses to return Chryseis to her father, a priest of Apollo',
@@ -36,6 +42,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Apollo sends a plague upon the Greek army because Agamemnon dishonored his priest by refusing to accept ransom for Chryseis.',
         correctBool: true,
         explanation:
@@ -44,6 +52,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'After Achilles withdraws from battle, his mother Thetis asks Zeus to grant what favor?',
         options: [
           'That Achilles be made immortal and invulnerable',
@@ -58,6 +68,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The opening word of the Iliad — "Sing, O goddess, the anger of Achilles" — establishes what as the epic\'s central theme?',
         options: [
           'The glory of war and the inevitable triumph of Greece',
@@ -74,6 +86,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 2, Zeus sends a deceptive dream to Agamemnon suggesting he should do what?',
         options: [
           'Make peace with Achilles immediately',
@@ -88,6 +102,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Agamemnon tests his troops by suggesting they sail home, the Greeks immediately and enthusiastically rush to the ships, demonstrating their eagerness to abandon the war.',
         correctBool: true,
         explanation:
@@ -96,6 +112,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Thersites, who speaks out against Agamemnon in the assembly, is significant because he represents what social group?',
         options: [
           'The Trojan perspective on the war',
@@ -110,6 +128,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-1-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The lengthy Catalogue of Ships in Book 2 serves primarily what narrative purpose?',
         options: [
           'To show that Achilles\' absence removes the entire Greek force from battle',
@@ -126,6 +146,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 3, Paris and Menelaus agree to single combat to settle the war. What is the agreed outcome if Menelaus wins?',
         options: [
           'Paris must fight Achilles next',
@@ -140,6 +162,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Helen feels no remorse or conflict about her role in causing the Trojan War; she fully embraces life with Paris and despises Menelaus.',
         correctBool: false,
         explanation:
@@ -148,6 +172,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The scene on the walls of Troy where Helen identifies Greek heroes for King Priam is known as what?',
         options: [
           'The Teichoscopia, or "viewing from the walls"',
@@ -162,6 +188,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-2-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Aphrodite rescues Paris from the duel and deposits him in his bedroom, what does this moment reveal about the gods\' relationship to the war?',
         options: [
           'The gods are impartial arbiters who enforce the agreed terms of combat',
@@ -178,6 +206,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 4, which god pressures Zeus to allow the truce to be broken, restarting the war after Paris and Menelaus\'s inconclusive duel?',
         options: [
           'Apollo, wanting to protect Troy',
@@ -192,6 +222,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The wounding of Menelaus by Pandarus is portrayed as entirely Pandarus\'s own initiative, driven by greed for gifts from Paris.',
         correctBool: false,
         explanation:
@@ -200,6 +232,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Agamemnon\'s review of the troops before battle in Book 4 shows his leadership style through which contrasting moments?',
         options: [
           'He praises Odysseus warmly but sharply rebukes Diomedes, showing favoritism',
@@ -216,6 +250,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Book 5 is largely the Aristeia (heroic rampage) of which Greek warrior, who even wounds two Olympian gods?',
         options: [
           'Ajax the Greater',
@@ -230,6 +266,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Diomedes is given the rare ability to distinguish gods from mortals on the battlefield, which allows him to avoid attacking disguised Olympians.',
         correctBool: false,
         explanation:
@@ -238,6 +276,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-4-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Aphrodite is wounded by Diomedes and retreats to Olympus, how does Zeus respond?',
         options: [
           'He is furious and threatens to remove Diomedes\' divine protection',
@@ -252,6 +292,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'iliad-4-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Sarpedon\'s speech to Glaucus in Book 5 — "So now let us go forward and win glory for ourselves, or yield it to others" — encapsulates what central heroic value of the poem?',
         options: [
           'Kleos (glory won through great deeds) justifies the privileges of the warrior aristocracy',
@@ -271,6 +313,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At the opening of the Odyssey, why has Odysseus not yet returned home to Ithaca ten years after the fall of Troy?',
         options: [
           'He chose to stay in Troy to help rebuild the city',
@@ -285,6 +329,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Athena\'s primary concern at the opening of the Odyssey is the plight of Telemachus, not Odysseus himself.',
         correctBool: false,
         explanation:
@@ -293,6 +339,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The suitors occupy Odysseus\'s palace and court Penelope. What specific wrong, beyond eating his food and courting his wife, do they commit that most outrages the poem\'s sense of justice?',
         options: [
           'They have plotted to murder Telemachus',
@@ -307,6 +355,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Zeus opens the Odyssey\'s council by using Aegisthus as an example. What point is he making?',
         options: [
           'That mortals suffer because of divine hostility, not their own choices',
@@ -323,6 +373,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'What does Athena (as Mentes) advise Telemachus to do at the start of the Telemachy (Books 1–4)?',
         options: [
           'Challenge the leading suitor to single combat',
@@ -337,6 +389,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Penelope\'s stratagem of weaving and unraveling Laertes\' shroud successfully delays the suitors for nearly three years.',
         correctBool: true,
         explanation:
@@ -345,6 +399,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Telemachus calls an assembly in Book 2, what is the reaction of the leading suitor Antinous?',
         options: [
           'He agrees to leave the palace if Penelope makes a choice within a year',
@@ -359,6 +415,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-1-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 2, the omen of two eagles fighting over the assembly is interpreted by the seer Halitherses as meaning what?',
         options: [
           'A great sea storm will destroy the suitors\' ships',
@@ -375,6 +433,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 3, Telemachus visits Nestor at Pylos. What primary virtue does Nestor embody in the poem?',
         options: [
           'Martial ferocity and physical strength',
@@ -389,6 +449,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Nestor is able to give Telemachus direct, recent news about Odysseus\'s whereabouts.',
         correctBool: false,
         explanation:
@@ -397,6 +459,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The story of Agamemnon\'s murder by Aegisthus and Clytemnestra, which Nestor tells Telemachus, functions as what kind of narrative device?',
         options: [
           'A direct parallel warning Telemachus of danger from his own mother',
@@ -413,6 +477,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At Sparta, Menelaus tells Telemachus how he learned Odysseus\'s fate. How did he get this information?',
         options: [
           'From a Trojan prisoner who had traded with Calypso\'s island',
@@ -427,6 +493,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Helen\'s role in Book 4 is purely passive and mournful; she says nothing and merely weeps at the mention of Odysseus.',
         correctBool: false,
         explanation:
@@ -435,6 +503,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 4, the suitors discover Telemachus has sailed away and hatch a plan. What do they decide to do?',
         options: [
           'Leave the palace and return to their own estates until Penelope chooses',
@@ -451,6 +521,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Book 5, when Hermes delivers Zeus\'s command to release Odysseus, how does Calypso respond initially?',
         options: [
           'She obeys immediately and cheerfully, relieved to be rid of the obligation',
@@ -465,6 +537,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Calypso offers Odysseus immortality if he stays with her, he accepts her offer before reconsidering when the ship is ready.',
         correctBool: false,
         explanation:
@@ -473,6 +547,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'odyssey-4-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Odysseus builds a raft to leave Calypso\'s island. What does the detailed description of his raft-building emphasize about his character?',
         options: [
           'His dependence on divine assistance for even basic survival tasks',
@@ -492,6 +568,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Canto I of the Inferno, Dante finds himself lost in a dark wood. What do most commentators interpret the dark wood to symbolize?',
         options: [
           'The forest surrounding Florence, where Dante was physically lost during his exile',
@@ -506,6 +584,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The three beasts Dante encounters at the foot of the sunlit hill in Canto I represent sins he personally has committed.',
         correctBool: false,
         explanation:
@@ -514,6 +594,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Virgil appears as Dante\'s guide through Hell and Purgatory. What is Virgil\'s primary limitation as a guide?',
         options: [
           'He can only speak Latin, so he cannot communicate with the souls of medieval sinners',
@@ -528,6 +610,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Virgil tells Dante in Canto II that he was sent to help him by a lady in Heaven. Who is this lady, and why does it matter?',
         options: [
           'The Virgin Mary, showing that Dante\'s journey has the highest possible divine sanction',
@@ -544,6 +628,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Canto III bears the famous inscription "Abandon all hope, ye who enter here." What else does the Gate of Hell\'s inscription say that reveals how Dante views Hell\'s creation?',
         options: [
           'That Hell was created before the universe, as sin is older than creation',
@@ -558,6 +644,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The souls in Limbo (Canto IV) suffer active torment — wailing and fire — because they rejected Christ.',
         correctBool: false,
         explanation:
@@ -566,6 +654,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Limbo, Dante meets Homer, Horace, Ovid, and Lucan. How does Homer greet Dante, and what is the significance of this scene?',
         options: [
           'Homer rebukes Dante for writing in Italian rather than the universal language of Latin',
@@ -580,6 +670,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-1-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Why does Dante place Francesca da Rimini and Paolo in the second circle (lust) rather than in a lower, more severe circle of Hell?',
         options: [
           'Because they sinned only once and immediately regretted it',
@@ -596,6 +688,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'In Cantos V–VII, Dante encounters sinners of lust, gluttony, and avarice/prodigality. What structural principle governs the punishments in Hell?',
         options: [
           'Punishments are assigned by lot with no relationship to the sin committed',
@@ -610,6 +704,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Plutus, guardian of the fourth circle, speaks intelligibly to Dante and demands a toll before allowing passage.',
         correctBool: false,
         explanation:
@@ -618,6 +714,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Dante cannot recognize any of the souls in the fourth circle (avarice/prodigality) as individuals. What does this inability to recognize them imply?',
         options: [
           'Dante is too frightened to look at them closely',
@@ -634,6 +732,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The river Styx in Canto VIII surrounds what part of Hell, and what do the souls do in its swamp?',
         options: [
           'It encircles Dis, the lower city of Hell; souls of the wrathful fight on the surface while the sullen gurgle beneath',
@@ -648,6 +748,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Dante feels sympathy and compassion for Filippo Argenti, the soul who grabs the boat in the Styx, and asks Virgil to help him.',
         correctBool: false,
         explanation:
@@ -656,6 +758,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The city of Dis marks a major structural boundary in Hell. What distinguishes the sins punished inside Dis from those in the upper circles?',
         options: [
           'Inside Dis, sins are punished by fire rather than water or wind',
@@ -672,6 +776,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'An angel opens the gates of Dis after the demons refuse to let Dante and Virgil pass. What does the angel\'s effortless arrival suggest about the journey\'s authority?',
         options: [
           'That Dante possesses magical powers strong enough to summon angels at will',
@@ -686,6 +792,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The heretics in Canto X are punished in burning tombs that will be sealed shut forever after the Last Judgment.',
         correctBool: true,
         explanation:
@@ -694,6 +802,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'inferno-4-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Farinata degli Uberti in Canto X can predict the future but cannot know the present. What irony does this create for the souls in Hell?',
         options: [
           'They can foresee their own eventual release from Hell but cannot enjoy the present moment',
@@ -713,6 +823,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The ghost of King Hamlet appears in Act 1 and reveals the truth of his death. What does he claim happened to him?',
         options: [
           'He was bitten by a serpent while sleeping in his garden, as officially reported',
@@ -727,6 +839,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Hamlet greets the news of his father\'s ghost with immediate, uncomplicated belief and resolution to act at once.',
         correctBool: false,
         explanation:
@@ -735,6 +849,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Before the ghost appears, Hamlet\'s first soliloquy ("O, that this too, too solid flesh") reveals the primary source of his initial despair. What is it?',
         options: [
           'Grief over his father\'s death and his inability to avenge it',
@@ -749,6 +865,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Claudius\'s opening speech in Act 1, Scene 2 — balancing mourning and celebration — is a masterpiece of rhetoric. What does it reveal about his political ability?',
         options: [
           'He is an incoherent speaker whose guilt makes him contradict himself publicly',
@@ -765,6 +883,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Polonius gives Laertes a famous string of maxims as Laertes departs for France. What is the dramatic irony of this scene?',
         options: [
           'Polonius himself violates nearly every piece of advice he gives his son',
@@ -779,6 +899,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Polonius instructs Ophelia to stop seeing Hamlet because he is genuinely convinced Hamlet is dangerously unstable and poses a physical risk to her.',
         correctBool: false,
         explanation:
@@ -787,6 +909,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Hamlet\'s "To be, or not to be" soliloquy raises a central philosophical question. What specifically is Hamlet debating?',
         options: [
           'Whether to confess his knowledge of his father\'s murder to Gertrude',
@@ -801,6 +925,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-1-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Hamlet\'s instruction to the players to "hold the mirror up to nature" articulates what theory of dramatic art?',
         options: [
           'That plays should flatter their audiences with an idealized image of human greatness',
@@ -817,6 +943,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The "play within a play" (The Mousetrap) confirms Hamlet\'s suspicions. How does Claudius react, and what does this prove or fail to prove?',
         options: [
           'Claudius laughs at the play, proving his innocence, which sends Hamlet into deeper doubt',
@@ -831,6 +959,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'When Hamlet finds Claudius praying in Act 3 and chooses not to kill him, his reasoning is that killing a man in prayer would send him to Heaven rather than Hell.',
         correctBool: true,
         explanation:
@@ -839,6 +969,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Hamlet accidentally kills Polonius, mistaking him for Claudius hiding behind the arras. What are the major consequences of this accident for the play\'s final acts?',
         options: [
           'It gives Claudius the pretext to send Hamlet to England and arrange his execution',
@@ -855,6 +987,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Ophelia\'s mad scenes (Act 4) are powerful partly because of the songs she sings. What do the content of her songs suggest about what has most damaged her?',
         options: [
           'Her fear of Hamlet\'s madness, which she attributes to dark spirits',
@@ -869,6 +1003,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Laertes immediately accepts Claudius\'s account of Hamlet\'s guilt in Polonius\'s death without any apparent skepticism.',
         correctBool: true,
         explanation:
@@ -877,6 +1013,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Hamlet returns from the sea voyage having discovered Claudius\'s plot to have him killed in England. What does his return and his behavior in Act 5 (especially at Ophelia\'s grave) suggest has changed in him?',
         options: [
           'He has become cold and calculating, focused purely on revenge with no emotional investment',
@@ -893,6 +1031,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At the final duel, four characters die. What does the sequence of deaths — Gertrude, Laertes, Claudius, Hamlet — reveal about the play\'s moral accounting?',
         options: [
           'All deaths are equally accidental, showing fate is random and moral distinctions are meaningless',
@@ -907,6 +1047,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Horatio survives the final scene, and Hamlet\'s dying request is for Horatio to remain alive and tell Hamlet\'s story to the world.',
         correctBool: true,
         explanation:
@@ -915,6 +1057,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'hamlet-4-3',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: '"The rest is silence." Why are these Hamlet\'s last words particularly resonant given the play\'s central preoccupations?',
         options: [
           'They confirm Hamlet\'s belief in an afterlife of peaceful quiet, contrasting the ghost\'s tormented state',
@@ -934,6 +1078,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The famous opening line of Pride and Prejudice — "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife" — is best understood as what?',
         options: [
           'A sincere statement of Austen\'s belief in the natural pairing of wealth and marriage',
@@ -948,6 +1094,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Mr. Bennet is portrayed as an entirely sympathetic and responsible father who is simply overwhelmed by his wife\'s silliness.',
         correctBool: false,
         explanation:
@@ -956,6 +1104,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Bingley\'s arrival at Netherfield Park sets the plot in motion. How does his first interaction with the Bennet family proceed at the Meryton ball?',
         options: [
           'He dances exclusively with Jane, immediately declaring a preference that shocks the neighborhood',
@@ -970,6 +1120,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Darcy\'s famous remark that Elizabeth is "tolerable, but not handsome enough to tempt me" shapes Elizabeth\'s initial feelings toward him. What does Austen suggest about first impressions through this exchange?',
         options: [
           'That first impressions are reliable guides to character and Elizabeth is right to distrust Darcy',
@@ -986,6 +1138,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Mr. Collins visits Longbourn with a specific purpose. What is his intention, and what has prompted it?',
         options: [
           'He comes to apologize for the entail that will deprive the Bennet daughters of their home',
@@ -1000,6 +1154,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Charlotte Lucas accepts Mr. Collins\'s proposal because she is in love with him.',
         correctBool: false,
         explanation:
@@ -1008,6 +1164,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Wickham\'s account of his history with Darcy is received enthusiastically by Elizabeth and the neighborhood. What rhetorical technique makes his story so persuasive?',
         options: [
           'He produces documents proving his claims against Darcy',
@@ -1024,6 +1182,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Darcy\'s first proposal to Elizabeth is remarkable in the history of literary proposals. What makes it so unusual?',
         options: [
           'It is delivered in a letter rather than face-to-face, showing Darcy\'s cowardice',
@@ -1038,6 +1198,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Elizabeth\'s refusal of Darcy\'s first proposal is based solely on the false information she received from Wickham about Darcy\'s treatment of him.',
         correctBool: false,
         explanation:
@@ -1046,6 +1208,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Darcy\'s letter after the failed proposal is a turning point for Elizabeth. What does it change in her understanding?',
         options: [
           'She learns that Darcy and Wickham were actually close friends who had a minor financial dispute',
@@ -1062,6 +1226,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Lydia\'s elopement with Wickham has consequences beyond her own life. What does it threaten for her sisters?',
         options: [
           'It threatens to expose Jane\'s secret correspondence with Bingley',
@@ -1076,6 +1242,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Mrs. Bennet is pleased and excited by Lydia\'s marriage to Wickham, apparently unaware that the situation is deeply scandalous.',
         correctBool: true,
         explanation:
@@ -1084,6 +1252,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Lady Catherine de Bourgh visits Longbourn to demand that Elizabeth promise not to marry Darcy. How does Elizabeth respond?',
         options: [
           'She promises nothing, refusing to be bullied into a denial, and says she will act according to her own happiness',
@@ -1100,6 +1270,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Darcy\'s second proposal succeeds. What has changed in him since the first proposal that makes him a more deserving suitor?',
         options: [
           'He has acquired more money, making the Bennet family connection less of a social liability',
@@ -1114,6 +1286,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At the end of the novel, Jane and Bingley marry first, before Elizabeth and Darcy.',
         correctBool: true,
         explanation:
@@ -1122,6 +1296,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'pride-4-3',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The novel ends with Elizabeth and Darcy\'s happy marriage, but what does Austen suggest about the Bennet family situation that prevents an entirely uncomplicated ending?',
         options: [
           'Kitty and Mary remain unmarried and their prospects are described as bleak',
@@ -1141,6 +1317,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-0-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At the beginning of Crime and Punishment, Raskolnikov is preoccupied with a "theory." What does this theory hold?',
         options: [
           'That poverty justifies theft as a form of redistributive justice',
@@ -1155,6 +1333,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-0-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov kills Alyona Ivanovna, the pawnbroker, because he urgently needs money and knows she has a large sum at home.',
         correctBool: false,
         explanation:
@@ -1163,6 +1343,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-0-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov kills not just the pawnbroker but also her half-sister Lizaveta. Why is Lizaveta\'s murder particularly significant?',
         options: [
           'Lizaveta was a police informant who would have identified Raskolnikov',
@@ -1177,6 +1359,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-0-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov has a dream before the murder in which he watches a crowd of drunken peasants beat an old mare to death. What does this dream reveal about his psychological state?',
         options: [
           'It reveals his suppressed desire to commit violence and his need to overcome squeamishness',
@@ -1193,6 +1377,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-1-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'After the murder, Raskolnikov falls into a prolonged feverish illness. What does this illness primarily represent?',
         options: [
           'Physical infection contracted from the crime scene',
@@ -1207,6 +1393,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-1-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Razumikhin, Raskolnikov\'s friend, abandons him when he discovers Raskolnikov is in a disturbed state after the murder.',
         correctBool: false,
         explanation:
@@ -1215,6 +1403,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-1-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Porfiry Petrovich, the investigating magistrate, conducts his interrogations of Raskolnikov in an unusual way. What is his technique?',
         options: [
           'He uses formal procedures, presenting hard evidence and demanding direct answers',
@@ -1229,6 +1419,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-1-4',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov reads a published article he wrote before the murder about "extraordinary men." How does Porfiry use this article?',
         options: [
           'He uses it as a legal exhibit demonstrating premeditated intent to commit murder',
@@ -1245,6 +1437,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-2-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Sonya Marmeladova has become a prostitute. How does Dostoevsky present her relationship to this fact?',
         options: [
           'As someone degraded and spiritually broken by her circumstances, representing the corruption of the poor',
@@ -1259,6 +1453,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-2-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov confesses the murder to Sonya largely because he wants her to report him to the police.',
         correctBool: false,
         explanation:
@@ -1267,6 +1463,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-2-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'What passage does Sonya read to Raskolnikov from the Bible, and why is this choice significant?',
         options: [
           'The Sermon on the Mount, because Raskolnikov needs to hear the core of Christian moral teaching',
@@ -1283,6 +1481,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-3-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Svidrigailov, who pursues Dunya and has a sinister history, functions in the novel as what kind of figure in relation to Raskolnikov?',
         options: [
           'A red herring who draws police attention away from Raskolnikov by committing crimes of his own',
@@ -1297,6 +1497,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-3-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Svidrigailov ultimately uses his money to do several acts of genuine charity before killing himself.',
         correctBool: true,
         explanation:
@@ -1305,6 +1507,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-3-3',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'Raskolnikov\'s mother and sister Dunya arrive in Petersburg. What does Raskolnikov\'s treatment of them during this period reveal about his psychology?',
         options: [
           'He is warm and attentive, concealing his guilt by focusing on their needs',
@@ -1321,6 +1525,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-4-1',
         type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'What finally causes Raskolnikov to go to the police station and confess?',
         options: [
           'Porfiry presents him with irrefutable physical evidence, leaving confession as his only option',
@@ -1335,6 +1541,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-4-2',
         type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'At the moment of his confession, Raskolnikov has fully repented and accepted Christian faith.',
         correctBool: false,
         explanation:
@@ -1343,6 +1551,8 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
       {
         id: 'crime-4-3',
         type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
         text: 'The Epilogue of Crime and Punishment, set in Siberia, has been called both essential and anticlimactic. What does it accomplish that the main narrative cannot?',
         options: [
           'It describes the political reforms that make Raskolnikov\'s punishment less severe than expected',
@@ -1364,6 +1574,8 @@ const FALLBACK_QUESTIONS: ChapterQuestion[] = [
   {
     id: 'fallback-1',
     type: 'true_false',
+        difficulty: 'Apprentice',
+        xpReward: 5,
     text: 'Close reading requires attending to specific word choices, structural patterns, and narrative perspective — not just summarizing events.',
     correctBool: true,
     explanation:
@@ -1372,6 +1584,8 @@ const FALLBACK_QUESTIONS: ChapterQuestion[] = [
   {
     id: 'fallback-2',
     type: 'multiple_choice',
+        difficulty: 'Apprentice',
+        xpReward: 5,
     text: 'When a literary critic analyzes a character\'s motivation, they primarily look at which of the following?',
     options: [
       'The author\'s biography and personal experiences',
@@ -1386,6 +1600,8 @@ const FALLBACK_QUESTIONS: ChapterQuestion[] = [
   {
     id: 'fallback-3',
     type: 'passage_id',
+        difficulty: 'Apprentice',
+        xpReward: 5,
     text: 'When a narrator describes events from inside one character\'s thoughts and feelings but uses the third person ("he," "she"), this technique is called:',
     options: [
       'First-person omniscient narration',
@@ -1403,7 +1619,8 @@ const FALLBACK_QUESTIONS: ChapterQuestion[] = [
 
 export function getQuestionsForChapter(
   bookTitle: string,
-  chapterIndex: number
+  chapterIndex: number,
+  difficulty: QuizDifficulty = 'Apprentice'
 ): ChapterQuestion[] {
   const title = bookTitle.toLowerCase()
 
@@ -1430,9 +1647,11 @@ export function getQuestionsForChapter(
   if (bankKey !== null) {
     const bookBank = QUESTION_BANK[bankKey]
     if (bookBank) {
-      const chapterQuestions = bookBank[chapterIndex]
-      if (chapterQuestions && chapterQuestions.length > 0) {
-        return chapterQuestions
+      const allChapterQs = bookBank[chapterIndex]
+      if (allChapterQs && allChapterQs.length > 0) {
+        // Filter by difficulty; if no questions at that level, fall back to Apprentice
+        const byDifficulty = allChapterQs.filter(q => q.difficulty === difficulty)
+        return byDifficulty.length > 0 ? byDifficulty : allChapterQs.filter(q => q.difficulty === 'Apprentice')
       }
     }
   }

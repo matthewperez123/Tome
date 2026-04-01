@@ -1,0 +1,292 @@
+{
+  "bookId": "crime-and-punishment",
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "chapterCount": 47,
+  "totalWordCount": 205987,
+  "totalMinutes": 827,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Translator’s Preface",
+      "wordCount": 793,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I",
+      "wordCount": 3365,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "II",
+      "wordCount": 7405,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "III",
+      "wordCount": 5555,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "IV",
+      "wordCount": 5140,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 6,
+      "title": "V",
+      "wordCount": 4233,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VI",
+      "wordCount": 5070,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VII",
+      "wordCount": 4922,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "I",
+      "wordCount": 6789,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 11,
+      "title": "II",
+      "wordCount": 4219,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 12,
+      "title": "III",
+      "wordCount": 5324,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 13,
+      "title": "IV",
+      "wordCount": 4138,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "V",
+      "wordCount": 4024,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "VI",
+      "wordCount": 7601,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 16,
+      "title": "VII",
+      "wordCount": 7031,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 17,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I",
+      "wordCount": 5197,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 19,
+      "title": "II",
+      "wordCount": 4503,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 20,
+      "title": "III",
+      "wordCount": 5090,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 21,
+      "title": "IV",
+      "wordCount": 4268,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 22,
+      "title": "V",
+      "wordCount": 7100,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 23,
+      "title": "VI",
+      "wordCount": 4334,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 24,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "I",
+      "wordCount": 4977,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 26,
+      "title": "II",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 27,
+      "title": "III",
+      "wordCount": 3072,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "IV",
+      "wordCount": 6188,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 29,
+      "title": "V",
+      "wordCount": 7079,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 30,
+      "title": "VI",
+      "wordCount": 2771,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 31,
+      "title": "Part V",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "I",
+      "wordCount": 6213,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 33,
+      "title": "II",
+      "wordCount": 4963,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 34,
+      "title": "III",
+      "wordCount": 5588,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 35,
+      "title": "IV",
+      "wordCount": 6699,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 36,
+      "title": "V",
+      "wordCount": 5129,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 37,
+      "title": "Part VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I",
+      "wordCount": 3844,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 39,
+      "title": "II",
+      "wordCount": 5594,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 40,
+      "title": "III",
+      "wordCount": 3822,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 41,
+      "title": "IV",
+      "wordCount": 4443,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 42,
+      "title": "V",
+      "wordCount": 5588,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 43,
+      "title": "VI",
+      "wordCount": 5434,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 44,
+      "title": "VII",
+      "wordCount": 3603,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "VIII",
+      "wordCount": 3960,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 46,
+      "title": "Epilogue",
+      "wordCount": 6346,
+      "estimatedMinutes": 25
+    }
+  ]
+}

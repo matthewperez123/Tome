@@ -1,0 +1,190 @@
+{
+  "bookId": "the-red-room",
+  "title": "The Red Room",
+  "author": "August Strindberg",
+  "chapterCount": 30,
+  "totalWordCount": 99435,
+  "totalMinutes": 398,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: A Bird’s-Eye View of Stockholm",
+      "wordCount": 4474,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II: Between Brothers",
+      "wordCount": 2823,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: The Artists’ Colony",
+      "wordCount": 4351,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "IV: Master and Dogs",
+      "wordCount": 6582,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 4,
+      "title": "V: At the Publisher’s",
+      "wordCount": 3412,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "VI: The Red Room",
+      "wordCount": 5064,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 6,
+      "title": "VII: The Imitation of Christ",
+      "wordCount": 1955,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "VIII: Poor Mother Country",
+      "wordCount": 3856,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "IX: Bills of Exchange",
+      "wordCount": 1728,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 9,
+      "title": "X: The Newspaper Syndicate “Grey Bonnet”",
+      "wordCount": 3671,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "XI: Happy People",
+      "wordCount": 3553,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XII: Marine Insurance Society “Triton”",
+      "wordCount": 3121,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII: Divine Ordinance",
+      "wordCount": 3034,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIV: Absinthe",
+      "wordCount": 4125,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XV: The Theatrical Company “Phoenix”",
+      "wordCount": 3909,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI: In the White Mountains",
+      "wordCount": 4460,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 16,
+      "title": "XVII: Natura …",
+      "wordCount": 909,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Nihilism",
+      "wordCount": 3438,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XIX: From Churchyard to Public-House",
+      "wordCount": 4084,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 19,
+      "title": "XX: On the Altar",
+      "wordCount": 1525,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 20,
+      "title": "XXI: A Soul Overboard",
+      "wordCount": 2014,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XXII: Hard Times",
+      "wordCount": 2162,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Audiences",
+      "wordCount": 1929,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV: On Sweden",
+      "wordCount": 5787,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 24,
+      "title": "XXV: Checkmate",
+      "wordCount": 5413,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 25,
+      "title": "XXVI: Correspondence",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 26,
+      "title": "XXVII: Recovery",
+      "wordCount": 1488,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: From Beyond the Grave",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Revue",
+      "wordCount": 3295,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XXX: Epilogue",
+      "wordCount": 1420,
+      "estimatedMinutes": 6
+    }
+  ]
+}

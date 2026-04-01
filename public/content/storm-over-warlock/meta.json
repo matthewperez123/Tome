@@ -1,0 +1,124 @@
+{
+  "bookId": "storm-over-warlock",
+  "title": "Storm Over Warlock",
+  "author": "Andre Norton",
+  "chapterCount": 19,
+  "totalWordCount": 62454,
+  "totalMinutes": 250,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 338,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Disaster",
+      "wordCount": 3373,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "II: Death of a Ship",
+      "wordCount": 3489,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: To Close Ranks",
+      "wordCount": 3133,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "IV: Sortie",
+      "wordCount": 3527,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: Pursuit",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: The Hound",
+      "wordCount": 3358,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: Unwelcome Guide",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VIII: Utgard",
+      "wordCount": 3325,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: One Alone",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X: A Trap for a Trapper",
+      "wordCount": 3819,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI: The Witch",
+      "wordCount": 3657,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "XII: The Veil of Illusion",
+      "wordCount": 3455,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "XIII: He Who Dreams …",
+      "wordCount": 3448,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Escape",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: Dragon Slayer",
+      "wordCount": 3376,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI: Third Prisoner",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: Throg Justice",
+      "wordCount": 3287,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Storm’s Ending",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    }
+  ]
+}

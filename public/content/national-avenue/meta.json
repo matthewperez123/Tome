@@ -1,0 +1,196 @@
+{
+  "bookId": "national-avenue",
+  "title": "National Avenue",
+  "author": "Booth Tarkington",
+  "chapterCount": 31,
+  "totalWordCount": 100309,
+  "totalMinutes": 401,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 4571,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 3615,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2798,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5254,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 3764,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 5438,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 3668,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 5475,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 3200,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 3330,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 3527,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 2458,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 2757,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 4036,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 3441,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 4544,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 2817,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 3722,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 2541,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 3637,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 21,
+      "title": "XXII",
+      "wordCount": 1998,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXIII",
+      "wordCount": 2156,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIV",
+      "wordCount": 3208,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 24,
+      "title": "XXV",
+      "wordCount": 2423,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXVI",
+      "wordCount": 2975,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 26,
+      "title": "XXVII",
+      "wordCount": 2865,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 27,
+      "title": "XXVIII",
+      "wordCount": 777,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "XXIX",
+      "wordCount": 2257,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 29,
+      "title": "XXX",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXXI",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    }
+  ]
+}

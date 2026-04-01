@@ -1,0 +1,388 @@
+{
+  "bookId": "the-golden-ass",
+  "title": "The Golden Ass",
+  "author": "Apuleius",
+  "chapterCount": 63,
+  "totalWordCount": 85558,
+  "totalMinutes": 356,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 6023,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "Epistle Dedicatory",
+      "wordCount": 676,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 2,
+      "title": "To the Reader",
+      "wordCount": 1062,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 3,
+      "title": "The Preface of the Author to His Son, Faustinus",
+      "wordCount": 189,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 4,
+      "title": "Book I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "I",
+      "wordCount": 476,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 6,
+      "title": "II",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 7,
+      "title": "III",
+      "wordCount": 573,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 8,
+      "title": "IV",
+      "wordCount": 631,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "V",
+      "wordCount": 2413,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "VI",
+      "wordCount": 802,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 11,
+      "title": "VII",
+      "wordCount": 823,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 12,
+      "title": "Book II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 13,
+      "title": "VIII",
+      "wordCount": 1549,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "IX",
+      "wordCount": 947,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "X",
+      "wordCount": 1461,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 16,
+      "title": "XI",
+      "wordCount": 3482,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "Book III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "XII",
+      "wordCount": 453,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 19,
+      "title": "XIII",
+      "wordCount": 1076,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XIV",
+      "wordCount": 1167,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 21,
+      "title": "XV",
+      "wordCount": 1505,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XVI",
+      "wordCount": 748,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 23,
+      "title": "XVII",
+      "wordCount": 1228,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 24,
+      "title": "Book IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 25,
+      "title": "XVIII",
+      "wordCount": 744,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 26,
+      "title": "XIX",
+      "wordCount": 2333,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 27,
+      "title": "XX",
+      "wordCount": 1479,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XXI",
+      "wordCount": 1162,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 29,
+      "title": "The Marriage of Cupid and Psyche",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "XXII",
+      "wordCount": 12648,
+      "estimatedMinutes": 51
+    },
+    {
+      "index": 31,
+      "title": "Book VI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 32,
+      "title": "XXIII",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "Book VII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 34,
+      "title": "XXIV",
+      "wordCount": 1946,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 35,
+      "title": "XXV",
+      "wordCount": 404,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 36,
+      "title": "XXVI",
+      "wordCount": 523,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 37,
+      "title": "XXVII",
+      "wordCount": 958,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 38,
+      "title": "XXVIII",
+      "wordCount": 712,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 39,
+      "title": "XXIX",
+      "wordCount": 655,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 40,
+      "title": "XXX",
+      "wordCount": 633,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 41,
+      "title": "XXXI",
+      "wordCount": 575,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 42,
+      "title": "Book VIII",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 43,
+      "title": "XXXII",
+      "wordCount": 2815,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 44,
+      "title": "XXXIII",
+      "wordCount": 820,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 45,
+      "title": "XXXIV",
+      "wordCount": 524,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 46,
+      "title": "XXXV",
+      "wordCount": 290,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 47,
+      "title": "XXXVI",
+      "wordCount": 1943,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 48,
+      "title": "Book IX",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 49,
+      "title": "XXXVII",
+      "wordCount": 802,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 50,
+      "title": "XXXVIII",
+      "wordCount": 644,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 51,
+      "title": "XXXIX",
+      "wordCount": 1244,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 52,
+      "title": "XL",
+      "wordCount": 572,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 53,
+      "title": "XLI",
+      "wordCount": 2904,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 54,
+      "title": "XLII",
+      "wordCount": 1706,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 55,
+      "title": "XLIII",
+      "wordCount": 948,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 56,
+      "title": "Book X",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 57,
+      "title": "XLIV",
+      "wordCount": 3058,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 58,
+      "title": "XLV",
+      "wordCount": 1384,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 59,
+      "title": "XLVI",
+      "wordCount": 4140,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 60,
+      "title": "Book XI",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 61,
+      "title": "XLVII",
+      "wordCount": 3749,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 62,
+      "title": "XLVIII",
+      "wordCount": 3227,
+      "estimatedMinutes": 13
+    }
+  ]
+}

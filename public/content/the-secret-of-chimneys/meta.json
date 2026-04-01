@@ -1,0 +1,196 @@
+{
+  "bookId": "the-secret-of-chimneys",
+  "title": "The Secret of Chimneys",
+  "author": "Agatha Christie",
+  "chapterCount": 31,
+  "totalWordCount": 75057,
+  "totalMinutes": 303,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Anthony Cade Signs On",
+      "wordCount": 2681,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 1,
+      "title": "II: A Lady in Distress",
+      "wordCount": 2381,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 2,
+      "title": "III: Anxiety in High Places",
+      "wordCount": 2022,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "IV: Introducing a Very Charming Lady",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V: First Night in London",
+      "wordCount": 3715,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "VI: The Gentle Art of Blackmail",
+      "wordCount": 3213,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII: Mr. McGrath Refuses an Invitation",
+      "wordCount": 2627,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VIII: A Dead Man",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX: Anthony Disposes of a Body",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X: Chimneys",
+      "wordCount": 3064,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "XI: Superintendent Battle Arrives",
+      "wordCount": 1523,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 11,
+      "title": "XII: Anthony Tells His Story",
+      "wordCount": 2928,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XIII: The American Visitor",
+      "wordCount": 1429,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: Mainly Political and Financial",
+      "wordCount": 2295,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: The French Stranger",
+      "wordCount": 3693,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 15,
+      "title": "XVI: Tea in the Schoolroom",
+      "wordCount": 3293,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 16,
+      "title": "XVII: A Midnight Adventure",
+      "wordCount": 2574,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Second Midnight Adventure",
+      "wordCount": 3149,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XIX: Secret History",
+      "wordCount": 3401,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XX: Battle and Anthony Confer",
+      "wordCount": 1811,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: Mr. Isaacstein’s Suitcase",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 21,
+      "title": "XX: The Red Signal",
+      "wordCount": 3544,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXIII: Encounter in the Rose Garden",
+      "wordCount": 2631,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The House at Dover",
+      "wordCount": 2128,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 24,
+      "title": "XXV: Tuesday Night at Chimneys",
+      "wordCount": 2417,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "XXVI: The 13th of October",
+      "wordCount": 1386,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The 13th of October (Continued.)",
+      "wordCount": 2969,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: King Victor",
+      "wordCount": 1243,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 28,
+      "title": "XXIX: Further Explanations",
+      "wordCount": 1387,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXX: Anthony Signs on for a New Job",
+      "wordCount": 2023,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Sundry Details",
+      "wordCount": 581,
+      "estimatedMinutes": 2
+    }
+  ]
+}

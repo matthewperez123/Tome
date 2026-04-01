@@ -1,0 +1,496 @@
+{
+  "bookId": "the-eustace-diamonds",
+  "title": "The Eustace Diamonds",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 271372,
+  "totalMinutes": 1089,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1570,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I: Lizzie Greystock",
+      "wordCount": 3395,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: Lady Eustace",
+      "wordCount": 3430,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: Lucy Morris",
+      "wordCount": 3495,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV: Frank Greystock",
+      "wordCount": 3320,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V: The Eustace Necklace",
+      "wordCount": 4701,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 6,
+      "title": "VI: Lady Linlithgow’s Mission",
+      "wordCount": 3100,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 7,
+      "title": "VII: Mr. Burke’s Speeches",
+      "wordCount": 3625,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Conquering Hero Comes",
+      "wordCount": 2386,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 9,
+      "title": "IX: Showing What the Miss Fawns Said, and What Mrs. Hittaway Thought",
+      "wordCount": 4575,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X: Lizzie and Her Lover",
+      "wordCount": 4609,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 11,
+      "title": "XI: Lord Fawn at His Office",
+      "wordCount": 2258,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 12,
+      "title": "XII: “I Only Thought of It”",
+      "wordCount": 2441,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XIII: Showing What Frank Greystock Did",
+      "wordCount": 3700,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "XIV: “Doan’t Thou Marry for Munny”",
+      "wordCount": 3551,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: “I’ll Give You a Hundred Guinea Brooch”",
+      "wordCount": 4154,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 16,
+      "title": "XVI: Certainly an Heirloom",
+      "wordCount": 2927,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Diamonds Are Seen in Public",
+      "wordCount": 3247,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: “And I Have Nothing to Give”",
+      "wordCount": 4166,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: “As My Brother”",
+      "wordCount": 4124,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XX: The Diamonds Become Troublesome",
+      "wordCount": 2170,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXI: “Ianthe’s Soul”",
+      "wordCount": 4416,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 22,
+      "title": "XXII: Lady Eustace Procures a Pony for the Use of Her Cousin",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Frank Greystock’s First Visit to Portray",
+      "wordCount": 3909,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Showing What Frank Greystock Thought About Marriage",
+      "wordCount": 2917,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 25,
+      "title": "XXV: Mr. Dove’s Opinion",
+      "wordCount": 2358,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Mr. Gowran Is Very Funny",
+      "wordCount": 4267,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 27,
+      "title": "XXVII: Lucy Morris Misbehaves",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Mr. Dove in His Chambers",
+      "wordCount": 4308,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 29,
+      "title": "XXIX: “I Had Better Go Away”",
+      "wordCount": 3286,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 30,
+      "title": "XXX: Mr. Greystock’s Troubles",
+      "wordCount": 3439,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Frank Greystock’s Second Visit to Portray",
+      "wordCount": 4572,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Mr. and Mrs. Hittaway in Scotland",
+      "wordCount": 2262,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: “It Won’t Be True”",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Lady Linlithgow at Home",
+      "wordCount": 2995,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Too Bad for Sympathy",
+      "wordCount": 3689,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Lizzie’s Guests",
+      "wordCount": 3113,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Lizzie’s First Day",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Nappie’s Grey Horse",
+      "wordCount": 5753,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Sir Griffin Takes an Unfair Advantage",
+      "wordCount": 1758,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 40,
+      "title": "XL: “You Are Not Angry?”",
+      "wordCount": 1524,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 41,
+      "title": "XLI: “Likewise the Bears in Couples Agree”",
+      "wordCount": 3462,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 42,
+      "title": "XLII: Sunday Morning",
+      "wordCount": 2123,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Life at Portray",
+      "wordCount": 3698,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 44,
+      "title": "XLIV: A Midnight Adventure",
+      "wordCount": 3904,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 45,
+      "title": "XLV: The Journey to London",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 46,
+      "title": "XLVI: Lucy Morris in Brook Street",
+      "wordCount": 4429,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Matching Priory",
+      "wordCount": 3394,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Lizzie’s Condition",
+      "wordCount": 2248,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Bunfit and Gager",
+      "wordCount": 3442,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 50,
+      "title": "L: In Hertford Street",
+      "wordCount": 3397,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 51,
+      "title": "LI: Confidence",
+      "wordCount": 2142,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 52,
+      "title": "LII: Mrs. Carbuncle Goes to the Theatre",
+      "wordCount": 4323,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "LIII: Lizzie’s Sickroom",
+      "wordCount": 4332,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 54,
+      "title": "LIV: “I Suppose I May Say a Word”",
+      "wordCount": 3462,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 55,
+      "title": "LV: Quints or Semitenths",
+      "wordCount": 1663,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 56,
+      "title": "LVI: Job’s Comforters",
+      "wordCount": 3775,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 57,
+      "title": "LVII: Humpty Dumpty",
+      "wordCount": 4016,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Fiddle with One String",
+      "wordCount": 1637,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 59,
+      "title": "LIX: Mr. Gowran Up in London",
+      "wordCount": 3473,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 60,
+      "title": "LX: “Let It Be as Though It Had Never Been”",
+      "wordCount": 4462,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 61,
+      "title": "LXI: Lizzie’s Great Friend",
+      "wordCount": 5815,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 62,
+      "title": "LXII: “You Know Where My Heart Is”",
+      "wordCount": 2759,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 63,
+      "title": "LXIII: The Corsair Is Afraid",
+      "wordCount": 2862,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 64,
+      "title": "LXIV: Lizzie’s Last Scheme",
+      "wordCount": 2195,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "LXV: Tribute",
+      "wordCount": 3363,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 66,
+      "title": "LXVI: The Aspirations of Mr. Emilius",
+      "wordCount": 3460,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 67,
+      "title": "LXVII: The Eye of the Public",
+      "wordCount": 3313,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: The Major",
+      "wordCount": 3567,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 69,
+      "title": "LXIX: “I Cannot Do It”",
+      "wordCount": 4474,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 70,
+      "title": "LXX: Alas!",
+      "wordCount": 2193,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Lizzie Is Threatened with the Treadmill",
+      "wordCount": 4004,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Lizzie Triumphs",
+      "wordCount": 2795,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: Lizzie’s Last Lover",
+      "wordCount": 4691,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: Lizzie at the Police-Court",
+      "wordCount": 2346,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 75,
+      "title": "LXXV: Lord George Gives His Reasons",
+      "wordCount": 2195,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: Lizzie Returns to Scotland",
+      "wordCount": 4603,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: The Story of Lucy Morris Is Concluded",
+      "wordCount": 3534,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Trial",
+      "wordCount": 3402,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: Once More at Portray",
+      "wordCount": 3465,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 80,
+      "title": "LXXX: What Was Said About It All at Matching",
+      "wordCount": 1942,
+      "estimatedMinutes": 8
+    }
+  ]
+}

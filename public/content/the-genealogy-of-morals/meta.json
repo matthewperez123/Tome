@@ -1,0 +1,40 @@
+{
+  "bookId": "the-genealogy-of-morals",
+  "title": "The Genealogy of Morals: A Polemic",
+  "author": "Friedrich Nietzsche",
+  "chapterCount": 5,
+  "totalWordCount": 52973,
+  "totalMinutes": 212,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Note",
+      "wordCount": 105,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 3075,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "First Essay",
+      "wordCount": 10940,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 3,
+      "title": "Second Essay",
+      "wordCount": 14762,
+      "estimatedMinutes": 59
+    },
+    {
+      "index": 4,
+      "title": "Third Essay",
+      "wordCount": 24091,
+      "estimatedMinutes": 96
+    }
+  ]
+}

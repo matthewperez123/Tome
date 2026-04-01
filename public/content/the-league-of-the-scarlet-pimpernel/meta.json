@@ -1,0 +1,82 @@
+{
+  "bookId": "the-league-of-the-scarlet-pimpernel",
+  "title": "The League of the Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "chapterCount": 12,
+  "totalWordCount": 76159,
+  "totalMinutes": 305,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 366,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "Sir Percy Explains",
+      "wordCount": 15957,
+      "estimatedMinutes": 64
+    },
+    {
+      "index": 2,
+      "title": "A Question of Passports",
+      "wordCount": 3778,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 3,
+      "title": "Two Good Patriots",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "The Old Scarecrow",
+      "wordCount": 6298,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 5,
+      "title": "A Fine Bit of Work",
+      "wordCount": 6401,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "How Jean Pierre Met the Scarlet Pimpernel",
+      "wordCount": 7331,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 7,
+      "title": "Out of the Jaws of Death",
+      "wordCount": 2647,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 8,
+      "title": "The Traitor",
+      "wordCount": 4937,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 9,
+      "title": "The Cabaret de la Liberté",
+      "wordCount": 9068,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 10,
+      "title": "“Needs Must—”",
+      "wordCount": 8422,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 11,
+      "title": "A Battle of Wits",
+      "wordCount": 9260,
+      "estimatedMinutes": 37
+    }
+  ]
+}

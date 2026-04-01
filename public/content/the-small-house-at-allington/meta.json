@@ -1,0 +1,376 @@
+{
+  "bookId": "the-small-house-at-allington",
+  "title": "The Small House at Allington",
+  "author": "Anthony Trollope",
+  "chapterCount": 61,
+  "totalWordCount": 257988,
+  "totalMinutes": 1030,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 414,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Squire of Allington",
+      "wordCount": 3521,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II: The Two Pearls of Allington",
+      "wordCount": 4798,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 3,
+      "title": "III: The Widow Dale of Allington",
+      "wordCount": 4467,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 4,
+      "title": "IV: Mrs. Roper’s Boardinghouse",
+      "wordCount": 4198,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "V: About L. D.",
+      "wordCount": 3168,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VI: Beautiful Days",
+      "wordCount": 5278,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 7,
+      "title": "VII: The Beginning of Troubles",
+      "wordCount": 5082,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 8,
+      "title": "VIII: It Cannot Be",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 9,
+      "title": "IX: Mrs. Dale’s Little Party",
+      "wordCount": 5312,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 10,
+      "title": "X: Mrs. Lupex and Amelia Roper",
+      "wordCount": 3763,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 11,
+      "title": "XI: Social Life",
+      "wordCount": 2836,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: Lilian Dale Becomes a Butterfly",
+      "wordCount": 6437,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Visit to Guestwick",
+      "wordCount": 4306,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV: John Eames Takes a Walk",
+      "wordCount": 3068,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XV: The Last Day",
+      "wordCount": 5201,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XVI: Mr. Crosbie Meets an Old Clergyman on His Way to Courcy Castle",
+      "wordCount": 2654,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 17,
+      "title": "XVII: Courcy Castle",
+      "wordCount": 6158,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Lily Dale’s First Love-Letter",
+      "wordCount": 3581,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Squire Makes a Visit to the Small House",
+      "wordCount": 4121,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 20,
+      "title": "XX: Dr. Crofts",
+      "wordCount": 3204,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: John Eames Encounters Two Adventures, and Displays Great Courage in Both",
+      "wordCount": 5549,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 22,
+      "title": "XXII: Lord De Guest at Home",
+      "wordCount": 3602,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Mr. Plantagenet Palliser",
+      "wordCount": 7537,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 24,
+      "title": "XXIV: A Mother-in-Law and a Father-in-Law",
+      "wordCount": 2088,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXV: Adolphus Crosbie Spends an Evening at His Club",
+      "wordCount": 4204,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Lord De Courcy in the Bosom of His Family",
+      "wordCount": 3828,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "XXVII: “On My Honour, I Do Not Understand It.”",
+      "wordCount": 4661,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: The Board",
+      "wordCount": 4669,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 29,
+      "title": "XXIX: John Eames Returns to Burton Crescent",
+      "wordCount": 3757,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 30,
+      "title": "XXX: Is It from Him?",
+      "wordCount": 4617,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 31,
+      "title": "XXXI: The Wounded Fawn",
+      "wordCount": 3961,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Pawkins’s in Jermyn Street",
+      "wordCount": 3843,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: “The Time Will Come.”",
+      "wordCount": 4696,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: The Combat",
+      "wordCount": 3227,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Vae Victis",
+      "wordCount": 4797,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: “See, the Conquering Hero Comes.”",
+      "wordCount": 4846,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: An Old Man’s Complaint",
+      "wordCount": 3122,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Doctor Crofts Is Called In",
+      "wordCount": 4645,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Dr. Crofts Is Turned Out",
+      "wordCount": 4931,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 40,
+      "title": "XL: Preparations for the Wedding",
+      "wordCount": 5934,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 41,
+      "title": "XLI: Domestic Troubles",
+      "wordCount": 3337,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "XLII: Lily’s Bedside",
+      "wordCount": 3567,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Fie, Fie!",
+      "wordCount": 4704,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 44,
+      "title": "XLIV: Valentine’s Day at Allington",
+      "wordCount": 3430,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XLV: Valentine’s Day in London",
+      "wordCount": 4858,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 46,
+      "title": "XLVI: John Eames at His Office",
+      "wordCount": 5039,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 47,
+      "title": "XLVII: The New Private Secretary",
+      "wordCount": 3493,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Nemesis",
+      "wordCount": 4614,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Preparations for Going",
+      "wordCount": 4370,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 50,
+      "title": "L: Mrs. Dale Is Thankful for a Good Thing",
+      "wordCount": 3196,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "LI: John Eames Does Things Which He Ought Not to Have Done",
+      "wordCount": 5505,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 52,
+      "title": "LII: The First Visit to the Guestwick Bridge",
+      "wordCount": 4379,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 53,
+      "title": "LIII: Loquitur Hopkins",
+      "wordCount": 3862,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 54,
+      "title": "LIV: The Second Visit to the Guestwick Bridge",
+      "wordCount": 4853,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 55,
+      "title": "LV: Not Very Fie Fie After All",
+      "wordCount": 5655,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 56,
+      "title": "LVI: Showing How Mr. Crosbie Became Again a Happy Man",
+      "wordCount": 3528,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 57,
+      "title": "LVII: Lilian Dale Vanquishes Her Mother",
+      "wordCount": 3930,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Fate of the Small House",
+      "wordCount": 3929,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 59,
+      "title": "LIX: John Eames Becomes a Man",
+      "wordCount": 4144,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 60,
+      "title": "LX: Conclusion",
+      "wordCount": 4321,
+      "estimatedMinutes": 17
+    }
+  ]
+}

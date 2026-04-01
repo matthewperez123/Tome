@@ -1,0 +1,184 @@
+{
+  "bookId": "dracula",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "chapterCount": 29,
+  "totalWordCount": 161304,
+  "totalMinutes": 643,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 76,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 5760,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5523,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 5737,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 5867,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3572,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 5698,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 5598,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 6281,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 5909,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 5974,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 5101,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 7297,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 6624,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 6486,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 5836,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 4596,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 5601,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 6996,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 5691,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 5944,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 6246,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 5489,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 5719,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 6321,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 6245,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 7155,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 7613,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 28,
+      "title": "Note",
+      "wordCount": 349,
+      "estimatedMinutes": 1
+    }
+  ]
+}

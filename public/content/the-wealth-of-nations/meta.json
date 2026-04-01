@@ -1,0 +1,262 @@
+{
+  "bookId": "the-wealth-of-nations",
+  "title": "The Wealth of Nations",
+  "author": "Adam Smith",
+  "chapterCount": 42,
+  "totalWordCount": 394761,
+  "totalMinutes": 1585,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Editor’s Introduction",
+      "wordCount": 13478,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 1,
+      "title": "Introduction and Plan of the Work",
+      "wordCount": 1080,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "Book I",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "I: Of the Division of Labour",
+      "wordCount": 3499,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "II: Of the Principle Which Gives Occasion to the Division of Labour",
+      "wordCount": 1583,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "III: That the Division of Labour Is Limited by the Extent of the Market",
+      "wordCount": 1867,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "IV: Of the Origin and Use of Money",
+      "wordCount": 2671,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "V: Of the Real and Nominal Price of Commodities, or of Their Price in Labour, and Their Price in Money",
+      "wordCount": 7203,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 8,
+      "title": "VI: Of the Component Parts of the Price of Commodities",
+      "wordCount": 3009,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "VII: Of the Natural and Market Price of Commodities",
+      "wordCount": 3701,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 10,
+      "title": "VIII: Of the Wages of Labour",
+      "wordCount": 9450,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 11,
+      "title": "IX: Of the Profits of Stock",
+      "wordCount": 4535,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "X: Of Wages and Profit in the Different Employments of Labour and Stock",
+      "wordCount": 18438,
+      "estimatedMinutes": 74
+    },
+    {
+      "index": 13,
+      "title": "XI: Of the Rent of Land",
+      "wordCount": 47815,
+      "estimatedMinutes": 191
+    },
+    {
+      "index": 14,
+      "title": "Book II",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 15,
+      "title": "Introduction",
+      "wordCount": 871,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "I: Of the Division of Stock",
+      "wordCount": 3137,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "II: Of Money Considered as a Particular Branch of the General Stock of the Society, or of the Expense of Maintaining the National Capital",
+      "wordCount": 19442,
+      "estimatedMinutes": 78
+    },
+    {
+      "index": 18,
+      "title": "III: Of the Accumulation of Capital, or of Productive and Unproductive Labour",
+      "wordCount": 7986,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 19,
+      "title": "IV: Of Stock Lent at Interest",
+      "wordCount": 3630,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 20,
+      "title": "V: Of the Different Employment of Capitals",
+      "wordCount": 6607,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 21,
+      "title": "Book III",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 22,
+      "title": "I: Of the Natural Progress of Opulence",
+      "wordCount": 1979,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "II: Of the Discouragement of Agriculture in the Ancient State of Europe After the Fall of the Roman Empire",
+      "wordCount": 4750,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 24,
+      "title": "III: Of the Rise and Progress of Cities and Towns, After the Fall of the Roman Empire",
+      "wordCount": 4391,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 25,
+      "title": "IV: How the Commerce of the Towns Contributed to the Improvement of the Country",
+      "wordCount": 5306,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 26,
+      "title": "Book IV",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 27,
+      "title": "Introduction",
+      "wordCount": 151,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 28,
+      "title": "I: Of the Principle of the Commercial or Mercantile System",
+      "wordCount": 9409,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 29,
+      "title": "II: Of Restraints Upon the Importation from Foreign Countries of Such Goods as Can Be Produced at Home",
+      "wordCount": 8363,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 30,
+      "title": "III: Of the Extraordinary Restraints Upon the Importation of Goods of Almost All Kinds, from Those Countries with Which the Balance Is Supposed to Be Disadvantageous",
+      "wordCount": 11104,
+      "estimatedMinutes": 44
+    },
+    {
+      "index": 31,
+      "title": "IV: Of Drawbacks",
+      "wordCount": 2135,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "V: Of Bounties",
+      "wordCount": 16480,
+      "estimatedMinutes": 66
+    },
+    {
+      "index": 33,
+      "title": "VI: Of Treaties of Commerce",
+      "wordCount": 4946,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 34,
+      "title": "VII: Of Colonies",
+      "wordCount": 36687,
+      "estimatedMinutes": 147
+    },
+    {
+      "index": 35,
+      "title": "VIII: Conclusion of the Mercantile System",
+      "wordCount": 8491,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 36,
+      "title": "IX: Of the Agricultural Systems, or of Those Systems of Political Œconomy, Which Represent the Produce of Land as Either the Sole or the Principal Source of the Revenue and Wealth of Every Country",
+      "wordCount": 10866,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 37,
+      "title": "Book V",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 38,
+      "title": "I: Of the Expenses of the Sovereign or Commonwealth",
+      "wordCount": 51013,
+      "estimatedMinutes": 204
+    },
+    {
+      "index": 39,
+      "title": "II: Of the Sources of the General or Public Revenue of the Society",
+      "wordCount": 39666,
+      "estimatedMinutes": 159
+    },
+    {
+      "index": 40,
+      "title": "III: Of Public Debts",
+      "wordCount": 18305,
+      "estimatedMinutes": 73
+    },
+    {
+      "index": 41,
+      "title": "Appendix",
+      "wordCount": 717,
+      "estimatedMinutes": 3
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "bookId": "the-federalist-papers",
+  "title": "The Federalist Papers",
+  "author": "Alexander Hamilton & John Jay & James Madison",
+  "chapterCount": 87,
+  "totalWordCount": 193840,
+  "totalMinutes": 776,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 4381,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 1,
+      "title": "The Text of the Federalist",
+      "wordCount": 1145,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "I: General Introduction",
+      "wordCount": 1597,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "II: Concerning Dangers from Foreign Force and Influence",
+      "wordCount": 1675,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "III: The Same Subject Continued (Concerning Dangers from Foreign Force and Influence)",
+      "wordCount": 1453,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "IV: The Same Subject Continued (Concerning Dangers from Foreign Force and Influence)",
+      "wordCount": 1642,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 6,
+      "title": "V: The Same Subject Continued (Concerning Dangers from Foreign Force and Influence)",
+      "wordCount": 1351,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VI: Concerning Dangers from Dissensions Between the States",
+      "wordCount": 1975,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VII: The Same Subject Continued (Concerning Dangers from Dissensions Between the States)",
+      "wordCount": 2264,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "VIII: The Consequences of Hostilities Between the States",
+      "wordCount": 1996,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "IX: The Union as a Safeguard Against Domestic Faction and Insurrection",
+      "wordCount": 1990,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "X: The Same Subject Continued (The Union as a Safeguard Against Domestic Faction and Insurrection)",
+      "wordCount": 3005,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 12,
+      "title": "XI: The Utility of the Union in Respect to Commercial Relations and a Navy",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 13,
+      "title": "XII: The Utility of the Union in Respect to Revenue",
+      "wordCount": 2153,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XIII: Advantage of the Union in Respect to Economy in Government",
+      "wordCount": 968,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 15,
+      "title": "XIV: Objections to the Proposed Constitution from Extent of Territory Answered",
+      "wordCount": 2129,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XV: The Insufficiency of the Present Confederation to Preserve the Union",
+      "wordCount": 3088,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the Union)",
+      "wordCount": 2045,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the Union)",
+      "wordCount": 1573,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the Union)",
+      "wordCount": 2096,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XIX: The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the Union)",
+      "wordCount": 2029,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 21,
+      "title": "XX: The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the Union)",
+      "wordCount": 1524,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXI: Other Defects of the Present Confederation",
+      "wordCount": 2000,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXII: The Same Subject Continued (Other Defects of the Present Confederation)",
+      "wordCount": 3491,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 24,
+      "title": "XXIII: The Necessity of a Government as Energetic as the One Proposed to the Preservation of the Union",
+      "wordCount": 1813,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 25,
+      "title": "XXIV: The Powers Necessary to the Common Defense Further Considered",
+      "wordCount": 1829,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 26,
+      "title": "XXV: The Same Subject Continued (The Powers Necessary to the Common Defense Further Considered)",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 27,
+      "title": "XXVI: The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered",
+      "wordCount": 2391,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 28,
+      "title": "XXVII: The Same Subject Continued (The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered)",
+      "wordCount": 1428,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 29,
+      "title": "XXVIII: The Same Subject Continued (The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered)",
+      "wordCount": 1599,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 30,
+      "title": "XXIX: Concerning the Militia",
+      "wordCount": 2244,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXX: Concerning the General Power of Taxation",
+      "wordCount": 1971,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 32,
+      "title": "XXXI: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 1738,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 33,
+      "title": "XXXII: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 1503,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "XXXIII: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 1700,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 35,
+      "title": "XXXIV: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 36,
+      "title": "XXXV: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 2260,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 37,
+      "title": "XXXVI: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "wordCount": 2737,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXVII: Concerning the Difficulties of the Convention in Devising a Proper Form of Government",
+      "wordCount": 2718,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 39,
+      "title": "XXXVIII: The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed",
+      "wordCount": 3326,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 40,
+      "title": "XXXIX: The Conformity of the Plan to Republican Principles",
+      "wordCount": 2625,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 41,
+      "title": "XL: On the Powers of the Convention to Form a Mixed Government Examined and Sustained",
+      "wordCount": 3048,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 42,
+      "title": "XLI: General View of the Powers Conferred by the Constitution",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 43,
+      "title": "XLII: The Powers Conferred by the Constitution Further Considered",
+      "wordCount": 2785,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 44,
+      "title": "XLIII: The Same Subject Continued (The Powers Conferred by the Constitution Further Considered)",
+      "wordCount": 3447,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 45,
+      "title": "XLIV: Restrictions on the Authority of the Several States",
+      "wordCount": 2908,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 46,
+      "title": "XLV: The Alleged Danger from the Powers of the Union to the State Governments",
+      "wordCount": 2125,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 47,
+      "title": "XLVI: The Influence of the State and Federal Governments Compared",
+      "wordCount": 2617,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 48,
+      "title": "XLVII: The Particular Structure of the New Government and the Distribution of Power Among Its Different Parts",
+      "wordCount": 2746,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 49,
+      "title": "XLVIII: These Departments Should Not Be So Far Separated as to Have No Constitutional Control Over Each Other",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 50,
+      "title": "XLIX: Method of Guarding Against the Encroachments of Any One Department of Government by Appealing to the People Through a Convention",
+      "wordCount": 1655,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 51,
+      "title": "L: Periodical Appeals to the People Considered",
+      "wordCount": 1113,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 52,
+      "title": "LI: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments",
+      "wordCount": 1922,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 53,
+      "title": "LII: The House of Representatives",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 54,
+      "title": "LIII: The Same Subject Continued (The House of Representatives)",
+      "wordCount": 2169,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 55,
+      "title": "LIV: The Apportionment of Members Among the States",
+      "wordCount": 2005,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 56,
+      "title": "LV: The Total Number of the House of Representatives",
+      "wordCount": 2044,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 57,
+      "title": "LVI: The Same Subject Continued (The Total Number of the House of Representatives)",
+      "wordCount": 1570,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 58,
+      "title": "LVII: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation",
+      "wordCount": 2210,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 59,
+      "title": "LVIII: Objection That the Number of Members Will Not Be Augmented as the Progress of Population Demands",
+      "wordCount": 2093,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 60,
+      "title": "LIX: Concerning the Power of Congress to Regulate the Election of Members",
+      "wordCount": 1912,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 61,
+      "title": "LX: The Same Subject Continued (Concerning the Power of Congress to Regulate the Election of Members)",
+      "wordCount": 2246,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 62,
+      "title": "LXI: The Same Subject Continued (Concerning the Power of Congress to Regulate the Election of Members)",
+      "wordCount": 1526,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "LXII: The Senate",
+      "wordCount": 2401,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 64,
+      "title": "LXIII: The Senate Continued",
+      "wordCount": 3048,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 65,
+      "title": "LXIV: The Powers of the Senate",
+      "wordCount": 2317,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 66,
+      "title": "LXV: The Powers of the Senate Continued",
+      "wordCount": 2027,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 67,
+      "title": "LXVI: Objections to the Power of the Senate to Set as a Court for Impeachments Further Considered",
+      "wordCount": 2232,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 68,
+      "title": "LXVII: The Executive Department",
+      "wordCount": 1660,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 69,
+      "title": "LXVIII: The Mode of Electing the President",
+      "wordCount": 1509,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 70,
+      "title": "LXIX: The Real Character of the Executive",
+      "wordCount": 2758,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 71,
+      "title": "LXX: The Executive Department Further Considered",
+      "wordCount": 3071,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 72,
+      "title": "LXXI: The Duration in Office of the Executive",
+      "wordCount": 1713,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 73,
+      "title": "LXXII: The Same Subject Continued, and Re-Eligibility of the Executive Considered",
+      "wordCount": 2046,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 74,
+      "title": "LXXIII: The Provision for the Support of the Executive, and the Veto Power",
+      "wordCount": 2355,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 75,
+      "title": "LXXIV: The Command of the Military and Naval Forces, and the Pardoning Power of the Executive",
+      "wordCount": 1006,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 76,
+      "title": "LXXV: The Treaty-Making Power of the Executive",
+      "wordCount": 1952,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 77,
+      "title": "LXXVI: The Appointing Power of the Executive",
+      "wordCount": 1940,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 78,
+      "title": "LXXVII: The Appointing Power Continued and Other Powers of the Executive Considered",
+      "wordCount": 1978,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 79,
+      "title": "LXXVIII: The Judiciary Department",
+      "wordCount": 3028,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 80,
+      "title": "LXXIX: The Judiciary Continued",
+      "wordCount": 1030,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 81,
+      "title": "LXXX: The Powers of the Judiciary",
+      "wordCount": 2470,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 82,
+      "title": "LXXXI: The Judiciary Continued, and the Distribution of the Judicial Authority",
+      "wordCount": 3797,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 83,
+      "title": "LXXXII: The Judiciary Continued",
+      "wordCount": 1545,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 84,
+      "title": "LXXXIII: The Judiciary Continued in Relation to Trial by Jury",
+      "wordCount": 5734,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 85,
+      "title": "LXXXIV: Certain General and Miscellaneous Objections to the Constitution Considered and Answered",
+      "wordCount": 3948,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 86,
+      "title": "LXXXV: Concluding Remarks",
+      "wordCount": 2673,
+      "estimatedMinutes": 11
+    }
+  ]
+}

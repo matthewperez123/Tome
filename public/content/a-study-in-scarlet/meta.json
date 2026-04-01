@@ -1,0 +1,106 @@
+{
+  "bookId": "a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 16,
+  "totalWordCount": 43441,
+  "totalMinutes": 173,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I: Being a Reprint from the Reminiscences of John H. Watson, M.D., Late of the Army Medical Department",
+      "wordCount": 20,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: Mr. Sherlock Holmes",
+      "wordCount": 2774,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II: The Science of Deduction",
+      "wordCount": 3553,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: The Lauriston Gardens Mystery",
+      "wordCount": 3830,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: What John Rance Had to Tell",
+      "wordCount": 2562,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: Our Advertisement Brings a Visitor",
+      "wordCount": 2532,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI: Tobias Gregson Shows What He Can Do",
+      "wordCount": 3244,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: Light in the Darkness",
+      "wordCount": 3338,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "Part II: The Country of the Saints",
+      "wordCount": 7,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I: On the Great Alkali Plain",
+      "wordCount": 3620,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "II: The Flower of Utah",
+      "wordCount": 2580,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 11,
+      "title": "III: John Ferrier Talks with the Prophet",
+      "wordCount": 1834,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "IV: A Flight for Life",
+      "wordCount": 3379,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "V: The Avenging Angels",
+      "wordCount": 3536,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "VI: A Continuation of the Reminiscences of John Watson, M.D.",
+      "wordCount": 4512,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 15,
+      "title": "VII: The Conclusion",
+      "wordCount": 2120,
+      "estimatedMinutes": 8
+    }
+  ]
+}

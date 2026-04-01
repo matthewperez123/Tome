@@ -1,0 +1,34 @@
+{
+  "bookId": "agamemnon",
+  "title": "Agamemnon",
+  "author": "Aeschylus",
+  "chapterCount": 4,
+  "totalWordCount": 17621,
+  "totalMinutes": 72,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 2264,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 139,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Family Trees",
+      "wordCount": 38,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "Agamemnon",
+      "wordCount": 15180,
+      "estimatedMinutes": 61
+    }
+  ]
+}

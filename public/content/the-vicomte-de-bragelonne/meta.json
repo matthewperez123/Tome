@@ -1,0 +1,1654 @@
+{
+  "bookId": "the-vicomte-de-bragelonne",
+  "title": "The Vicomte de Bragelonne: Ten Years Later",
+  "author": "Alexandre Dumas",
+  "chapterCount": 274,
+  "totalWordCount": 715603,
+  "totalMinutes": 2875,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introductory Note",
+      "wordCount": 1957,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 1,
+      "title": "Dramatis Personae",
+      "wordCount": 616,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Part I: The Vicomte de Braggelone",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 3,
+      "title": "1: The Letter",
+      "wordCount": 3183,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "2: The Messenger",
+      "wordCount": 2610,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "3: The Interview",
+      "wordCount": 2457,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "4: Father and Son",
+      "wordCount": 1939,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 7,
+      "title": "5: In Which Something Will Be Said of Cropoli—Of Cropoli and of a Great Unknown Painter",
+      "wordCount": 2158,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "6: The Unknown",
+      "wordCount": 2176,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "7: Parry",
+      "wordCount": 1991,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 10,
+      "title": "8: What His Majesty King Louis XIV Was at the Age of Twenty-Two",
+      "wordCount": 3963,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "9: In Which the Unknown of the Hostelry of Les Medici Loses His Incognito",
+      "wordCount": 3832,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 12,
+      "title": "10: The Arithmetic of M. de Mazarin",
+      "wordCount": 2713,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 13,
+      "title": "11: Mazarin’s Policy",
+      "wordCount": 3307,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 14,
+      "title": "12: The King and the Lieutenant",
+      "wordCount": 1704,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "13: Marie de Mancini",
+      "wordCount": 2084,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 16,
+      "title": "14: In Which the King and the Lieutenant Each Give Proofs of Memory",
+      "wordCount": 3519,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "15: The Proscribed",
+      "wordCount": 1990,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "16: “Remember!”",
+      "wordCount": 3774,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "17: In Which Aramis Is Sought, and Only Bazin Is Found",
+      "wordCount": 2980,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "18: In Which d’Artagnan Seeks Porthos, and Only Finds Mousqueton",
+      "wordCount": 2521,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 21,
+      "title": "19: What d’Artagnan Went to Paris For",
+      "wordCount": 1506,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "20: Of the Society Which Was Formed in the Rue des Lombards, at the Sign of the Pilon d’Or, to Carry Out the Idea of M. d’Artagnan",
+      "wordCount": 3473,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 23,
+      "title": "21: In Which d’Artagnan Prepares to Travel for the House of Planchet and Company",
+      "wordCount": 2850,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "22: D’Artagnan Travels for the House of Planchet and Company",
+      "wordCount": 2583,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "23: In Which the Author, Very Unwillingly, Is Forced to Write a Little History",
+      "wordCount": 4445,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "24: The Treasure",
+      "wordCount": 2621,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "25: The Marsh",
+      "wordCount": 3140,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "26: Heart and Mind",
+      "wordCount": 3522,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "27: The Next Day",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "28: Smuggling",
+      "wordCount": 2236,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "29: In Which d’Artagnan Begins to Fear He Has Placed His Money and That of Planchet in the Sinking Fund",
+      "wordCount": 2765,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 32,
+      "title": "30: The Shares of Planchet and Company Rise Again to Par",
+      "wordCount": 2166,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 33,
+      "title": "31: Monck Reveals Himself",
+      "wordCount": 1517,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 34,
+      "title": "32: Athos and d’Artagnan Meet Once More at the Hostelry of the Corne du Cerf",
+      "wordCount": 4569,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 35,
+      "title": "33: The Audience",
+      "wordCount": 2447,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 36,
+      "title": "34: Of the Embarrassment of Riches",
+      "wordCount": 1950,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 37,
+      "title": "35: On the Canal",
+      "wordCount": 2797,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "36: How d’Artagnan Drew, as a Fairy Would Have Done, a Country-Seat from a Deal Box",
+      "wordCount": 2967,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 39,
+      "title": "37: How d’Artagnan Regulated the “Assets” of the Company Before He Established Its “Liabilities”",
+      "wordCount": 2406,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 40,
+      "title": "38: In Which It Is Seen That the French Grocer Had Already Been Established in the Seventeenth Century",
+      "wordCount": 2161,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 41,
+      "title": "39: Mazarin’s Gaming Party",
+      "wordCount": 1583,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 42,
+      "title": "40: An Affair of State",
+      "wordCount": 1801,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 43,
+      "title": "41: The Recital",
+      "wordCount": 1800,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 44,
+      "title": "42: In Which Mazarin Becomes Prodigal",
+      "wordCount": 1522,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 45,
+      "title": "43: Guénaud",
+      "wordCount": 1141,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 46,
+      "title": "44: Colbert",
+      "wordCount": 1669,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 47,
+      "title": "45: Confession of a Man of Wealth",
+      "wordCount": 1598,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 48,
+      "title": "46: The Donation",
+      "wordCount": 1643,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 49,
+      "title": "47: How Anne of Austria Gave One Piece of Advice to Louis XIV, and How M. Foquet Gave Him Another",
+      "wordCount": 2976,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 50,
+      "title": "48: Agony",
+      "wordCount": 3370,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 51,
+      "title": "49: The First Appearance of Colbert",
+      "wordCount": 2408,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "50: The First Day of the Royalty of Louis XIV",
+      "wordCount": 1441,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 53,
+      "title": "51: A Passion",
+      "wordCount": 2161,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 54,
+      "title": "52: D’Artagnan’s Lesson",
+      "wordCount": 2283,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 55,
+      "title": "53: The King",
+      "wordCount": 5766,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 56,
+      "title": "54: The Houses of M. Fouquet",
+      "wordCount": 3694,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 57,
+      "title": "55: The Abbé Fouquet",
+      "wordCount": 2261,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 58,
+      "title": "56: M. de La Fontaine’s Wine",
+      "wordCount": 1313,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 59,
+      "title": "57: The Gallery of Saint-Mandé",
+      "wordCount": 1711,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 60,
+      "title": "58: Epicureans",
+      "wordCount": 1585,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 61,
+      "title": "59: A Quarter of an Hour’s Delay",
+      "wordCount": 2094,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 62,
+      "title": "60: Plan of Battle",
+      "wordCount": 1375,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 63,
+      "title": "61: The Cabaret of the Image-de-Notre-Dame",
+      "wordCount": 2906,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 64,
+      "title": "62: Vive Colbert!",
+      "wordCount": 2300,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 65,
+      "title": "63: How M. d’Eymeris’s Diamond Passed Into the Hands of M. d’Artagnan",
+      "wordCount": 2660,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 66,
+      "title": "64: On the Notable Difference d’Artagnan Finds Between Monsieur the Intendant and Monsieur the Superintendent",
+      "wordCount": 2397,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 67,
+      "title": "65: Philosophy of the Heart and Mind",
+      "wordCount": 1329,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 68,
+      "title": "66: The Journey",
+      "wordCount": 2111,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 69,
+      "title": "67: How d’Artagnan Became Acquainted with a Poet, Who Had Turned Printer for the Sake of Printing His Own Verses",
+      "wordCount": 2831,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 70,
+      "title": "68: d’Artagnan Continues His Investigations",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 71,
+      "title": "69: In Which the Reader, No Doubt, Will Be as Astonished as d’Artagnan Was to Meet an Old Acquaintance",
+      "wordCount": 2288,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 72,
+      "title": "70: Wherein the Ideas of d’Artagnan, at First Strangely Clouded, Begin to Clear Up a Little",
+      "wordCount": 2414,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 73,
+      "title": "71: A Procession at Vannes",
+      "wordCount": 2460,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 74,
+      "title": "72: The Grandeur of the Bishop of Vannes",
+      "wordCount": 3413,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 75,
+      "title": "73: In Which Porthos Begins to Be Sorry for Having Come with d’Artagnan",
+      "wordCount": 3863,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 76,
+      "title": "74: In Which d’Artagnan Makes All Speed, Porthos Snores, and Aramis Counsels",
+      "wordCount": 2144,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 77,
+      "title": "75: In Which Monsieur Fouquet Acts",
+      "wordCount": 2645,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 78,
+      "title": "76: In Which d’Artagnan at Last Places His Hand Upon His Captain’s Commission",
+      "wordCount": 2529,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 79,
+      "title": "77: A Lover and His Mistress",
+      "wordCount": 2013,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 80,
+      "title": "78: In Which We at Length See the True Heroine of This History Appear",
+      "wordCount": 2434,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 81,
+      "title": "79: Malicorne and Manicamp",
+      "wordCount": 1896,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 82,
+      "title": "80: Manicamp and Malicorne",
+      "wordCount": 2065,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 83,
+      "title": "81: The Courtyard of the Hôtel Grammont",
+      "wordCount": 2857,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 84,
+      "title": "82: The Portrait of Madame",
+      "wordCount": 2550,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 85,
+      "title": "83: Le Havre",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 86,
+      "title": "84: At Sea",
+      "wordCount": 2614,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 87,
+      "title": "85: The Tents",
+      "wordCount": 3695,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 88,
+      "title": "86: Night",
+      "wordCount": 1925,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 89,
+      "title": "87: From Le Havre to Paris",
+      "wordCount": 3449,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 90,
+      "title": "88: An Account of What the Chevalier de Lorraine Thought of Madame",
+      "wordCount": 3102,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 91,
+      "title": "89: The Surprise of Madame de Montalais",
+      "wordCount": 3451,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 92,
+      "title": "90: The Consent of Athos",
+      "wordCount": 1555,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 93,
+      "title": "91: Monsieur Becomes Jealous of the Duke of Buckingham",
+      "wordCount": 3332,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 94,
+      "title": "92: Forever!",
+      "wordCount": 2275,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 95,
+      "title": "Part II: Louise de La Vallière",
+      "wordCount": 6,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 96,
+      "title": "93: King Louis XIV Does Not Think Mademoiselle de La Vallière Either Rich Enough or Pretty Enough for a Gentleman of the Rank of the Vicomte de Bragelonne",
+      "wordCount": 2309,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 97,
+      "title": "94: Sword-Thrusts in the Water",
+      "wordCount": 3172,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 98,
+      "title": "95: Sword-Thrusts in the Water (Concluded)",
+      "wordCount": 3019,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 99,
+      "title": "96: Baisemeaux de Montlezun",
+      "wordCount": 3006,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 100,
+      "title": "97: The King’s Card-Table",
+      "wordCount": 3385,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 101,
+      "title": "98: M. Baisemeaux de Montlezun’s Accounts",
+      "wordCount": 3644,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 102,
+      "title": "99: The Breakfast at Monsieur de Baisemeaux’s",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 103,
+      "title": "100: The Second Floor of La Bertaudière",
+      "wordCount": 2837,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 104,
+      "title": "101: The Two Friends",
+      "wordCount": 2866,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 105,
+      "title": "102: Madame de Bellière’s Plate",
+      "wordCount": 1964,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 106,
+      "title": "103: The Dowry",
+      "wordCount": 2711,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 107,
+      "title": "104: Le Terrain de Dieu",
+      "wordCount": 3037,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 108,
+      "title": "105: Threefold Love",
+      "wordCount": 1985,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 109,
+      "title": "106: M. de Lorraine’s Jealousy",
+      "wordCount": 2630,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 110,
+      "title": "107: Monsieur Is Jealous of Guiche",
+      "wordCount": 2724,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 111,
+      "title": "108: The Mediator",
+      "wordCount": 2925,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 112,
+      "title": "109: The Advisers",
+      "wordCount": 4249,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 113,
+      "title": "110: Fontainebleau",
+      "wordCount": 1913,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 114,
+      "title": "111: The Bath",
+      "wordCount": 1413,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 115,
+      "title": "112: The Butterfly-Chase",
+      "wordCount": 1518,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 116,
+      "title": "113: What Was Caught After the Butterflies",
+      "wordCount": 3384,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 117,
+      "title": "114: The Ballet of the Seasons",
+      "wordCount": 2575,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 118,
+      "title": "115: The Nymphs of the Park of Fontainebleau",
+      "wordCount": 3059,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 119,
+      "title": "116: What Was Said Under the Royal Oak",
+      "wordCount": 3549,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 120,
+      "title": "117: The King’s Uneasiness",
+      "wordCount": 1672,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 121,
+      "title": "118: The King’s Secret",
+      "wordCount": 3175,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 122,
+      "title": "119: Courses de Nuit",
+      "wordCount": 3053,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 123,
+      "title": "120: In Which Madame Acquires a Proof That Listeners Hear What Is Said",
+      "wordCount": 2640,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 124,
+      "title": "121: Aramis’s Correspondence",
+      "wordCount": 3154,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 125,
+      "title": "122: The Orderly Clerk",
+      "wordCount": 3070,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 126,
+      "title": "123: Fontainebleau at Two O’Clock in the Morning",
+      "wordCount": 2605,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 127,
+      "title": "124: The Labyrinth",
+      "wordCount": 2910,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 128,
+      "title": "125: How Malicorne Had Been Turned Out of the Hotel of the Beau Paon",
+      "wordCount": 2323,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 129,
+      "title": "126: What Actually Occurred at the Inn Called the Beau Paon",
+      "wordCount": 3896,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 130,
+      "title": "127: A Jesuit of the Eleventh Year",
+      "wordCount": 1932,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 131,
+      "title": "128: The State Secret",
+      "wordCount": 4106,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 132,
+      "title": "129: A Mission",
+      "wordCount": 3618,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 133,
+      "title": "130: Happy as a Prince",
+      "wordCount": 5715,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 134,
+      "title": "131: Story of a Dryad and a Naiad",
+      "wordCount": 4698,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 135,
+      "title": "132: Conclusion of the Story of a Naiad and of a Dryad",
+      "wordCount": 3343,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 136,
+      "title": "133: Royal Psychology",
+      "wordCount": 3435,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 137,
+      "title": "134: Something That Neither Naiad nor Dryad Foresaw",
+      "wordCount": 2932,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 138,
+      "title": "135: The New General of the Jesuits",
+      "wordCount": 3151,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 139,
+      "title": "136: The Storm",
+      "wordCount": 2894,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 140,
+      "title": "137: The Shower of Rain",
+      "wordCount": 4106,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 141,
+      "title": "138: Toby",
+      "wordCount": 2841,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 142,
+      "title": "139: Madame’s Four Chances",
+      "wordCount": 2487,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 143,
+      "title": "140: The Lottery",
+      "wordCount": 2887,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 144,
+      "title": "141: Malaga",
+      "wordCount": 4193,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 145,
+      "title": "142: A Letter from M. Baisemeaux",
+      "wordCount": 1745,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 146,
+      "title": "143: In Which the Reader Will Be Delighted to Find That Porthos Has Lost Nothing of His Strength",
+      "wordCount": 5325,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 147,
+      "title": "144: The Rat and the Cheese",
+      "wordCount": 2230,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 148,
+      "title": "145: Planchet’s Country-House",
+      "wordCount": 1912,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 149,
+      "title": "146: Showing What Could Be Seen from Planchet’s House",
+      "wordCount": 2021,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 150,
+      "title": "147: How Porthos, Trüchen, and Planchet Parted with Each Other on Friendly Terms, Thanks to d’Artagnan",
+      "wordCount": 1435,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 151,
+      "title": "148: The Presentation of Porthos at Court",
+      "wordCount": 1236,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 152,
+      "title": "149: Explanations",
+      "wordCount": 2411,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 153,
+      "title": "150: Madame and de Guiche",
+      "wordCount": 2649,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 154,
+      "title": "151: Montalais and Malicorne",
+      "wordCount": 2752,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 155,
+      "title": "152: How de Wardes Was Received at Court",
+      "wordCount": 3888,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 156,
+      "title": "153: The Combat",
+      "wordCount": 3756,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 157,
+      "title": "154: The King’s Supper",
+      "wordCount": 1825,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 158,
+      "title": "155: After Supper",
+      "wordCount": 1219,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 159,
+      "title": "156: Showing in What Way d’Artagnan Discharged the Mission with Which the King Had Entrusted Him",
+      "wordCount": 2272,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 160,
+      "title": "157: The Encounter",
+      "wordCount": 1489,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 161,
+      "title": "158: The Physician",
+      "wordCount": 1497,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 162,
+      "title": "159: Wherein d’Artagnan Perceives That It Was He Who Was Mistaken, and Manicamp Who Was Right",
+      "wordCount": 1674,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 163,
+      "title": "160: Showing the Advantage of Having Two Strings to One’s Bow",
+      "wordCount": 3820,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 164,
+      "title": "161: M. Malicorne the Keeper of the Records of France",
+      "wordCount": 1682,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 165,
+      "title": "162: The Journey",
+      "wordCount": 2655,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 166,
+      "title": "163: Triumfeminate",
+      "wordCount": 1854,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 167,
+      "title": "164: The First Quarrel",
+      "wordCount": 3141,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 168,
+      "title": "165: Despair",
+      "wordCount": 1988,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 169,
+      "title": "166: The Flight",
+      "wordCount": 2258,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 170,
+      "title": "167: Showing How Louis, on His Part, Had Passed the Time from Ten to Half-Past Twelve at Night",
+      "wordCount": 1835,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 171,
+      "title": "168: The Ambassadors",
+      "wordCount": 2647,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 172,
+      "title": "169: Chaillot",
+      "wordCount": 3101,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 173,
+      "title": "170: Madame",
+      "wordCount": 2371,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 174,
+      "title": "171: Mademoiselle de La Vallière’s Pocket-Handkerchief",
+      "wordCount": 1759,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 175,
+      "title": "172: Which Treats of Gardeners, of Ladders, and Maids of Honor",
+      "wordCount": 2424,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 176,
+      "title": "173: Which Treats of Carpentry Operations, and Furnishes Details Upon the Mode of Constructing Staircases",
+      "wordCount": 2751,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 177,
+      "title": "174: The Promenade by Torchlight",
+      "wordCount": 3389,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 178,
+      "title": "175: The Apparition",
+      "wordCount": 2620,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 179,
+      "title": "176: The Portrait",
+      "wordCount": 2134,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 180,
+      "title": "177: Hampton Court",
+      "wordCount": 4479,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 181,
+      "title": "178: The Courier from Madame",
+      "wordCount": 3449,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 182,
+      "title": "179: Saint-Aignan Follows Malicorne’s Advice",
+      "wordCount": 1656,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 183,
+      "title": "Part III: The Man in the Iron Mask",
+      "wordCount": 8,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 184,
+      "title": "180: Two Old Friends",
+      "wordCount": 4845,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 185,
+      "title": "181: Wherein May Be Seen That a Bargain Which Cannot Be Made with One Person, Can Be Carried Out with Another",
+      "wordCount": 3662,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 186,
+      "title": "182: The Skin of the Bear",
+      "wordCount": 2027,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 187,
+      "title": "183: An Interview with the Queen-Mother",
+      "wordCount": 3298,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 188,
+      "title": "184: Two Friends",
+      "wordCount": 2191,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 189,
+      "title": "185: How Jean de La Fontaine Came to Write His First Tale",
+      "wordCount": 1535,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 190,
+      "title": "186: La Fontaine in the Character of a Negotiator",
+      "wordCount": 2319,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 191,
+      "title": "187: Madame de Bellière’s Plate and Diamonds",
+      "wordCount": 1373,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 192,
+      "title": "188: M. de Mazarin’s Receipt",
+      "wordCount": 2642,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 193,
+      "title": "189: Monsieur Colbert’s Rough Draft",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 194,
+      "title": "190: In Which the Author Thinks It Is High Time to Return to the Vicomte de Bragelonne",
+      "wordCount": 2068,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 195,
+      "title": "191: Bragelonne Continues His Inquiries",
+      "wordCount": 1966,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 196,
+      "title": "192: Two Jealousies",
+      "wordCount": 1821,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 197,
+      "title": "193: A Domiciliary Visit",
+      "wordCount": 2402,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 198,
+      "title": "194: Porthos’s Plan of Action",
+      "wordCount": 2701,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 199,
+      "title": "195: The Change of Residence, the Trapdoor, and the Portrait",
+      "wordCount": 3624,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 200,
+      "title": "196: Rivals in Politics",
+      "wordCount": 1895,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 201,
+      "title": "197: Rivals in Love",
+      "wordCount": 2508,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 202,
+      "title": "198: King and Noble",
+      "wordCount": 2680,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 203,
+      "title": "199: After the Storm",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 204,
+      "title": "200: Heu! Miser!",
+      "wordCount": 1561,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 205,
+      "title": "201: Wounds Within Wounds",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 206,
+      "title": "202: What Raoul Had Guessed",
+      "wordCount": 2129,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 207,
+      "title": "203: Three Guests Astonished to Find Themselves at Supper Together",
+      "wordCount": 1789,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 208,
+      "title": "204: What Took Place at the Louvre During the Supper at the Bastille",
+      "wordCount": 2880,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 209,
+      "title": "205: Political Rivals",
+      "wordCount": 2741,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 210,
+      "title": "206: In Which Porthos Is Convinced Without Having Understood Anything",
+      "wordCount": 2085,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 211,
+      "title": "207: M. de Baisemeaux’s “Society”",
+      "wordCount": 2315,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 212,
+      "title": "208: The Prisoner",
+      "wordCount": 9389,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 213,
+      "title": "209: How Mouston Had Become Fatter Without Giving Porthos Notice Thereof, and of the Troubles Which Consequently Befell That Worthy Gentleman",
+      "wordCount": 2702,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 214,
+      "title": "210: Who Messire Jean Percerin Was",
+      "wordCount": 2284,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 215,
+      "title": "211: The Patterns",
+      "wordCount": 3182,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 216,
+      "title": "212: Where, Probably, Molière Obtained His First Idea of the Bourgeois Gentilhomme",
+      "wordCount": 1990,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 217,
+      "title": "213: The Beehive, the Bees, and the Honey",
+      "wordCount": 2947,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 218,
+      "title": "214: Another Supper at the Bastille",
+      "wordCount": 2316,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 219,
+      "title": "215: The General of the Order",
+      "wordCount": 2900,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 220,
+      "title": "216: The Tempter",
+      "wordCount": 3061,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 221,
+      "title": "217: Crown and Tiara",
+      "wordCount": 2822,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 222,
+      "title": "218: The Château de Vaux-le-Vicomte",
+      "wordCount": 1921,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 223,
+      "title": "219: The Wine of Melun",
+      "wordCount": 1984,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 224,
+      "title": "220: Nectar and Ambrosia",
+      "wordCount": 1641,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 225,
+      "title": "221: A Gascon, and a Gascon and a Half",
+      "wordCount": 4146,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 226,
+      "title": "222: Colbert",
+      "wordCount": 2211,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 227,
+      "title": "223: Jealousy",
+      "wordCount": 2391,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 228,
+      "title": "224: High Treason",
+      "wordCount": 3390,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 229,
+      "title": "225: A Night at the Bastille",
+      "wordCount": 2566,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 230,
+      "title": "226: The Shadow of M. Fouquet",
+      "wordCount": 5600,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 231,
+      "title": "227: The Morning",
+      "wordCount": 2832,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 232,
+      "title": "228: The King’s Friend",
+      "wordCount": 5437,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 233,
+      "title": "229: Showing How the Countersign Was Respected at the Bastille",
+      "wordCount": 2672,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 234,
+      "title": "230: The King’s Gratitude",
+      "wordCount": 2827,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 235,
+      "title": "231: The False King",
+      "wordCount": 3526,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 236,
+      "title": "232: In Which Porthos Thinks He Is Pursuing a Duchy",
+      "wordCount": 1886,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 237,
+      "title": "233: The Last Adieux",
+      "wordCount": 1768,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 238,
+      "title": "234: Monsieur de Beaufort",
+      "wordCount": 2757,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 239,
+      "title": "235: Preparations for Departure",
+      "wordCount": 2830,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 240,
+      "title": "236: The Inventory of Planchet",
+      "wordCount": 1802,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 241,
+      "title": "237: The Inventory of M. de Beaufort",
+      "wordCount": 2216,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 242,
+      "title": "238: The Silver Dish",
+      "wordCount": 2703,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 243,
+      "title": "239: Captive and Jailers",
+      "wordCount": 3297,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 244,
+      "title": "240: Promises",
+      "wordCount": 4237,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 245,
+      "title": "241: Among Women",
+      "wordCount": 2895,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 246,
+      "title": "242: The Last Supper",
+      "wordCount": 2419,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 247,
+      "title": "243: In M. Colbert’s Carriage",
+      "wordCount": 2448,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 248,
+      "title": "244: The Two Lighters",
+      "wordCount": 2501,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 249,
+      "title": "245: Friendly Advice",
+      "wordCount": 1872,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 250,
+      "title": "246: How the King, Louis XIV, Played His Little Part",
+      "wordCount": 2821,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 251,
+      "title": "247: The White Horse and the Black Horse",
+      "wordCount": 2778,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 252,
+      "title": "248: In Which the Squirrel Falls—In Which the Adder Flies",
+      "wordCount": 3256,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 253,
+      "title": "249: Belle-Île-en-Mer",
+      "wordCount": 3089,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 254,
+      "title": "250: Explanations by Aramis",
+      "wordCount": 3678,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 255,
+      "title": "251: Result of the Ideas of the King, and the Ideas of d’Artagnan",
+      "wordCount": 889,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 256,
+      "title": "252: The Ancestors of Porthos",
+      "wordCount": 1407,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 257,
+      "title": "253: The Son of Biscarrat",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 258,
+      "title": "254: The Grotto of Locmaria",
+      "wordCount": 2200,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 259,
+      "title": "255: The Grotto",
+      "wordCount": 2809,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 260,
+      "title": "256: An Homeric Song",
+      "wordCount": 1802,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 261,
+      "title": "257: The Death of a Titan",
+      "wordCount": 2286,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 262,
+      "title": "258: The Epitaph of Porthos",
+      "wordCount": 2394,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 263,
+      "title": "259: The Round of M. de Gesvres",
+      "wordCount": 1992,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 264,
+      "title": "260: King Louis XIV",
+      "wordCount": 2939,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 265,
+      "title": "261: The Friends of M. Fouquet",
+      "wordCount": 2297,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 266,
+      "title": "262: Porthos’s Will",
+      "wordCount": 1947,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 267,
+      "title": "263: The Old Age of Athos",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 268,
+      "title": "264: The Vision of Athos",
+      "wordCount": 2221,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 269,
+      "title": "265: The Angel of Death",
+      "wordCount": 1786,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 270,
+      "title": "266: The Bulletin",
+      "wordCount": 2210,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 271,
+      "title": "267: The Last Canto of the Poem",
+      "wordCount": 2213,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 272,
+      "title": "Epilogue",
+      "wordCount": 6305,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 273,
+      "title": "The Death of d’Artagnan",
+      "wordCount": 2118,
+      "estimatedMinutes": 8
+    }
+  ]
+}

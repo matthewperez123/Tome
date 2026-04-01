@@ -1,0 +1,250 @@
+{
+  "bookId": "hard-times",
+  "title": "Hard Times: For These Times",
+  "author": "Charles Dickens",
+  "chapterCount": 40,
+  "totalWordCount": 103483,
+  "totalMinutes": 414,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Book the First: Sowing",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: The One Thing Needful",
+      "wordCount": 324,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "II: Murdering the Innocents",
+      "wordCount": 2042,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III: A Loophole",
+      "wordCount": 1720,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV: Mr. Bounderby",
+      "wordCount": 2510,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "V: The Keynote",
+      "wordCount": 2103,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 6,
+      "title": "VI: Sleary’s Horsemanship",
+      "wordCount": 4966,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 7,
+      "title": "VII: Mrs. Sparsit",
+      "wordCount": 2366,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "VIII: Never Wonder",
+      "wordCount": 2113,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 9,
+      "title": "IX: Sissy’s Progress",
+      "wordCount": 2840,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X: Stephen Blackpool",
+      "wordCount": 2072,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 11,
+      "title": "XI: No Way Out",
+      "wordCount": 2770,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "XII: The Old Woman",
+      "wordCount": 1874,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII: Rachael",
+      "wordCount": 3027,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "XIV: The Great Manufacturer",
+      "wordCount": 1730,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XV: Father and Daughter",
+      "wordCount": 2791,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 16,
+      "title": "XVI: Husband and Wife",
+      "wordCount": 1980,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "Book the Second: Reaping",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 18,
+      "title": "I: Effects in the Bank",
+      "wordCount": 4723,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "II: Mr. James Harthouse",
+      "wordCount": 2969,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 20,
+      "title": "III: The Whelp",
+      "wordCount": 1767,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "IV: Men and Brothers",
+      "wordCount": 2928,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "V: Men and Masters",
+      "wordCount": 2549,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 23,
+      "title": "VI: Fading Away",
+      "wordCount": 4545,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "VII: Gunpowder",
+      "wordCount": 4674,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 25,
+      "title": "VIII: Explosion",
+      "wordCount": 4690,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 26,
+      "title": "IX: Hearing the Last of It",
+      "wordCount": 3047,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 27,
+      "title": "X: Mrs. Sparsit’s Staircase",
+      "wordCount": 1588,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 28,
+      "title": "XI: Lower and Lower",
+      "wordCount": 3232,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 29,
+      "title": "XII: Down",
+      "wordCount": 1652,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "Book the Third: Garnering",
+      "wordCount": 4,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "I: Another Thing Needful",
+      "wordCount": 2274,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 32,
+      "title": "II: Very Ridiculous",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 33,
+      "title": "III: Very Decided",
+      "wordCount": 3080,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 34,
+      "title": "IV: Lost",
+      "wordCount": 3515,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 35,
+      "title": "V: Found",
+      "wordCount": 3238,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 36,
+      "title": "VI: The Starlight",
+      "wordCount": 3815,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 37,
+      "title": "VII: Whelp-Hunting",
+      "wordCount": 4232,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 38,
+      "title": "VIII: Philosophical",
+      "wordCount": 2431,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 39,
+      "title": "IX: Final",
+      "wordCount": 1928,
+      "estimatedMinutes": 8
+    }
+  ]
+}

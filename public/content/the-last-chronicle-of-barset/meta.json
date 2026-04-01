@@ -1,0 +1,520 @@
+{
+  "bookId": "the-last-chronicle-of-barset",
+  "title": "The Last Chronicle of Barset",
+  "author": "Anthony Trollope",
+  "chapterCount": 85,
+  "totalWordCount": 345407,
+  "totalMinutes": 1381,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 334,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: How Did He Get It?",
+      "wordCount": 5019,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 2,
+      "title": "II: By Heavens He Had Better Not!",
+      "wordCount": 3587,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: The Archdeacon’s Threat",
+      "wordCount": 2207,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 4,
+      "title": "IV: The Clergyman’s House at Hogglestock",
+      "wordCount": 3608,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: What the World Thought About It",
+      "wordCount": 2616,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VI: Grace Crawley",
+      "wordCount": 4234,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: Miss Prettyman’s Private Room",
+      "wordCount": 4828,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 8,
+      "title": "VIII: Mr. Crawley Is Taken to Silverbridge",
+      "wordCount": 6170,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "IX: Grace Crawley Goes to Allington",
+      "wordCount": 4453,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 10,
+      "title": "X: Dinner at Framley Court",
+      "wordCount": 2629,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 11,
+      "title": "XI: The Bishop Sends His Inhibition",
+      "wordCount": 3607,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII: Mr. Crawley Seeks for Sympathy",
+      "wordCount": 3780,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Bishop’s Angel",
+      "wordCount": 4275,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 14,
+      "title": "XIV: Major Grantly Consults a Friend",
+      "wordCount": 2686,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XV: Up in London",
+      "wordCount": 5351,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "XVI: Down at Allington",
+      "wordCount": 5485,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 17,
+      "title": "XVII: Mr. Crawley Is Summoned to Barchester",
+      "wordCount": 4074,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Bishop of Barchester Is Crushed",
+      "wordCount": 4305,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 19,
+      "title": "XIX: Where Did It Come from?",
+      "wordCount": 2220,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 20,
+      "title": "XX: What Mr. Walker Thought About It",
+      "wordCount": 3196,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 21,
+      "title": "XXI: Mr. Robarts on His Embassy",
+      "wordCount": 3493,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 22,
+      "title": "XXII: Major Grantly at Home",
+      "wordCount": 4218,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Miss Lily Dale’s Resolution",
+      "wordCount": 5068,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Mrs. Dobbs Broughton’s Dinner-Party",
+      "wordCount": 6090,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 25,
+      "title": "XXV: Miss Madalina Demolines",
+      "wordCount": 3883,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 26,
+      "title": "XXVI: The Picture",
+      "wordCount": 3269,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 27,
+      "title": "XXVII: A Hero at Home",
+      "wordCount": 3639,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Showing How Major Grantly Took a Walk",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Miss Lily Dale’s Logic",
+      "wordCount": 2506,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 30,
+      "title": "XXX: Showing What Major Grantly Did After His Walk",
+      "wordCount": 2150,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Showing How Major Grantly Returned to Guestwick",
+      "wordCount": 3205,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Mr. Toogood",
+      "wordCount": 7501,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: The Plumstead Foxes",
+      "wordCount": 3333,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mrs. Proudie Sends for Her Lawyer",
+      "wordCount": 3695,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Lily Dale Writes Two Words in Her Book",
+      "wordCount": 7153,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: Grace Crawley Returns Home",
+      "wordCount": 2584,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Hook Court",
+      "wordCount": 3776,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: Jael",
+      "wordCount": 4327,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: A New Flirtation",
+      "wordCount": 3284,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 40,
+      "title": "XL: Mr. Toogood’s Ideas About Society",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 41,
+      "title": "XLI: Grace Crawley at Home",
+      "wordCount": 4333,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 42,
+      "title": "XLII: Mr. Toogood Travels Professionally",
+      "wordCount": 5982,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Mr. Crosbie Goes Into the City",
+      "wordCount": 4621,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 44,
+      "title": "XLIV: “I Suppose I Must Let You Have It.”",
+      "wordCount": 2053,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 45,
+      "title": "XLV: Lily Dale Goes to London",
+      "wordCount": 4536,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 46,
+      "title": "XLVI: The Bayswater Romance",
+      "wordCount": 3888,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Dr. Tempest at the Palace",
+      "wordCount": 7715,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: The Softness of Sir Raffle Buffle",
+      "wordCount": 3179,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 49,
+      "title": "XLIX: Near the Close",
+      "wordCount": 6819,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 50,
+      "title": "L: Lady Lufton’s Proposition",
+      "wordCount": 4250,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 51,
+      "title": "LI: Mrs. Dobbs Broughton Piles Her Fagots",
+      "wordCount": 6669,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 52,
+      "title": "LII: Why Don’t You Have an “It” for Yourself?",
+      "wordCount": 4319,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 53,
+      "title": "LIII: Rotten Row",
+      "wordCount": 4350,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 54,
+      "title": "LIV: The Clerical Commission",
+      "wordCount": 3946,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 55,
+      "title": "LV: Framley Parsonage",
+      "wordCount": 2504,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 56,
+      "title": "LVI: The Archdeacon Goes to Framley",
+      "wordCount": 6338,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 57,
+      "title": "LVII: A Double Pledge",
+      "wordCount": 4504,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Cross-Grainedness of Men",
+      "wordCount": 5260,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 59,
+      "title": "LIX: A Lady Presents Her Compliments to Miss L. D.",
+      "wordCount": 5519,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 60,
+      "title": "LX: The End of Jael and Sisera",
+      "wordCount": 5400,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 61,
+      "title": "LXI: “It’s Dogged as Does It.”",
+      "wordCount": 5327,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 62,
+      "title": "LXII: Mr. Crawley’s Letter to the Dean",
+      "wordCount": 5407,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Two Visitors to Hogglestock",
+      "wordCount": 5502,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Tragedy in Hook Court",
+      "wordCount": 3301,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 65,
+      "title": "LXV: Miss Van Siever Makes Her Choice",
+      "wordCount": 3346,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Requiescat in Pace",
+      "wordCount": 4233,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 67,
+      "title": "LXVII: In Memoriam",
+      "wordCount": 4379,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: The Obstinacy of Mr. Crawley",
+      "wordCount": 3519,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 69,
+      "title": "LXIX: Mr. Crawley’s Last Appearance in His Own Pulpit",
+      "wordCount": 2464,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 70,
+      "title": "LXX: Mrs. Arabin Is Caught",
+      "wordCount": 4493,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Mr. Toogood at Silverbridge",
+      "wordCount": 3580,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Mr. Toogood at The Dragon of Wantly",
+      "wordCount": 2674,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: There Is Comfort at Plumstead",
+      "wordCount": 3242,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: The Crawleys Are Informed",
+      "wordCount": 3336,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 75,
+      "title": "LXXV: Madalina’s Heart Is Bleeding",
+      "wordCount": 3916,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: I Think He Is Light of Heart",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: The Shattered Tree",
+      "wordCount": 3376,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: The Arabins Return to Barchester",
+      "wordCount": 4313,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: Mr. Crawley Speaks of His Coat",
+      "wordCount": 3267,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 80,
+      "title": "LXXX: Miss Demolines Desires to Become a Finger-Post",
+      "wordCount": 5153,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 81,
+      "title": "LXXXI: Barchester Cloisters",
+      "wordCount": 2306,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 82,
+      "title": "LXXXII: The Last Scene at Hogglestock",
+      "wordCount": 5295,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 83,
+      "title": "LXXXIII: Mr. Crawley Is Conquered",
+      "wordCount": 2914,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 84,
+      "title": "LXXXIV: Conclusion",
+      "wordCount": 2159,
+      "estimatedMinutes": 9
+    }
+  ]
+}

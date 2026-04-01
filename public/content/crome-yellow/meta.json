@@ -1,0 +1,196 @@
+{
+  "bookId": "crome-yellow",
+  "title": "Crome Yellow",
+  "author": "Aldous Huxley",
+  "chapterCount": 31,
+  "totalWordCount": 57662,
+  "totalMinutes": 232,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 257,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 1048,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2064,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 1801,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 1894,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2494,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 1519,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 662,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 2988,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 979,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 1922,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 1810,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 5328,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 1206,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 1177,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 1019,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3069,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 1220,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 5065,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 1568,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 1149,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 2796,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 23,
+      "title": "XXIII",
+      "wordCount": 858,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 24,
+      "title": "XXIV",
+      "wordCount": 1899,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXV",
+      "wordCount": 1893,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 26,
+      "title": "XXVI",
+      "wordCount": 879,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "XXVII",
+      "wordCount": 2982,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 28,
+      "title": "XXVIII",
+      "wordCount": 1632,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 29,
+      "title": "XXIX",
+      "wordCount": 1682,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 30,
+      "title": "XXX",
+      "wordCount": 1440,
+      "estimatedMinutes": 6
+    }
+  ]
+}

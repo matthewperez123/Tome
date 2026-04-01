@@ -1,0 +1,100 @@
+{
+  "bookId": "some-do-not",
+  "title": "Some Do Not …",
+  "author": "Ford Madox Ford",
+  "chapterCount": 15,
+  "totalWordCount": 116046,
+  "totalMinutes": 466,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 7435,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 8231,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 7883,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 6834,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 9921,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 8370,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 8020,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 8,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 9,
+      "title": "I",
+      "wordCount": 13779,
+      "estimatedMinutes": 55
+    },
+    {
+      "index": 10,
+      "title": "II",
+      "wordCount": 9710,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 11,
+      "title": "III",
+      "wordCount": 9844,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 12,
+      "title": "IV",
+      "wordCount": 15417,
+      "estimatedMinutes": 62
+    },
+    {
+      "index": 13,
+      "title": "V",
+      "wordCount": 7578,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 14,
+      "title": "VI",
+      "wordCount": 3020,
+      "estimatedMinutes": 12
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bookId": "the-sign-of-the-four",
+  "title": "The Sign of the Four",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 12,
+  "totalWordCount": 43205,
+  "totalMinutes": 173,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: The Science of Deduction",
+      "wordCount": 2943,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 1,
+      "title": "II: The Statement of the Case",
+      "wordCount": 1848,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: In Quest of a Solution",
+      "wordCount": 1734,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 3,
+      "title": "IV: The Story of the Bald-Headed Man",
+      "wordCount": 3846,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "V: The Tragedy of Pondicherry Lodge",
+      "wordCount": 2619,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 5,
+      "title": "VI: Sherlock Holmes Gives a Demonstration",
+      "wordCount": 3137,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 6,
+      "title": "VII: The Episode of the Barrel",
+      "wordCount": 4176,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VIII: The Baker Street Irregulars",
+      "wordCount": 3347,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "IX: A Break in the Chain",
+      "wordCount": 3631,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "X: The End of the Islander",
+      "wordCount": 3349,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "XI: The Great Agra Treasure",
+      "wordCount": 2198,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII: The Strange Story of Jonathan Small",
+      "wordCount": 10377,
+      "estimatedMinutes": 42
+    }
+  ]
+}

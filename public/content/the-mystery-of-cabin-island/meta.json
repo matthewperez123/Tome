@@ -1,0 +1,160 @@
+{
+  "bookId": "the-mystery-of-cabin-island",
+  "title": "The Mystery of Cabin Island",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 25,
+  "totalWordCount": 40499,
+  "totalMinutes": 164,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Iceboating on the Bay",
+      "wordCount": 1700,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 1,
+      "title": "II: Heading for Trouble",
+      "wordCount": 1369,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 2,
+      "title": "III: A Strange Note",
+      "wordCount": 1362,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "IV: Holiday Plans",
+      "wordCount": 1883,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 4,
+      "title": "V: Mr. Hanleigh",
+      "wordCount": 1189,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 5,
+      "title": "VI: Preparations",
+      "wordCount": 1490,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 6,
+      "title": "VII: The Other Iceboat",
+      "wordCount": 1526,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 7,
+      "title": "VIII: Suspicious Actions",
+      "wordCount": 1666,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: Night on Cabin Island",
+      "wordCount": 1609,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: Stolen Supplies",
+      "wordCount": 1718,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: Postage Stamps",
+      "wordCount": 1709,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: The Notebook",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII: The Cipher",
+      "wordCount": 1648,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "XIV: Christmas Day",
+      "wordCount": 1779,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 14,
+      "title": "XV: Chicken Thieves",
+      "wordCount": 3028,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 15,
+      "title": "XVI: The Chimney",
+      "wordCount": 1703,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: The Escape",
+      "wordCount": 1483,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 17,
+      "title": "XVIII: The Cipher Solved",
+      "wordCount": 1634,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: Disappointment",
+      "wordCount": 1303,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XX: When Rogues Fall Out",
+      "wordCount": 1757,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "XXI: A Cry for Help",
+      "wordCount": 1627,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Letter",
+      "wordCount": 1240,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Chimney Collapses",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Discovery",
+      "wordCount": 2380,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 24,
+      "title": "XXV: Elroy Jefferson Is Pleased",
+      "wordCount": 1050,
+      "estimatedMinutes": 4
+    }
+  ]
+}

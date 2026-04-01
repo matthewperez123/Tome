@@ -1,0 +1,160 @@
+{
+  "bookId": "the-secret-of-the-old-mill",
+  "title": "The Secret of the Old Mill",
+  "author": "Franklin W. Dixon",
+  "chapterCount": 25,
+  "totalWordCount": 40764,
+  "totalMinutes": 162,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: A Five Dollar Bill",
+      "wordCount": 1527,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "II: Counterfeit Money",
+      "wordCount": 1749,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 2,
+      "title": "III: The Hardy Boys at School",
+      "wordCount": 1349,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "IV: Another Victim",
+      "wordCount": 1611,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 4,
+      "title": "V: Curing the Joker",
+      "wordCount": 1729,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 5,
+      "title": "VI: The Old Mill",
+      "wordCount": 1286,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 6,
+      "title": "VII: In the Mill Race",
+      "wordCount": 1204,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 7,
+      "title": "VIII: Joe’s Courage",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "IX: The Rescue",
+      "wordCount": 1504,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The New Boat",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 10,
+      "title": "XI: A Man in a Hurry",
+      "wordCount": 1852,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 11,
+      "title": "XII: Seasick",
+      "wordCount": 1520,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 12,
+      "title": "XIII: Paul Blum",
+      "wordCount": 1496,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: Con Riley Guards a Package",
+      "wordCount": 2137,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 14,
+      "title": "XV: The Chase",
+      "wordCount": 1851,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 15,
+      "title": "XVI: A Plan of Action",
+      "wordCount": 1755,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 16,
+      "title": "XVII: What Lester Said",
+      "wordCount": 1694,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Suspicions",
+      "wordCount": 1518,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Rug Buyer",
+      "wordCount": 1953,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX: A Note of Warning",
+      "wordCount": 1898,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 20,
+      "title": "XXI: At the Mill",
+      "wordCount": 1760,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 21,
+      "title": "XXII: Through the Roof",
+      "wordCount": 1571,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Alarm",
+      "wordCount": 1542,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 23,
+      "title": "XXIV: Trapped",
+      "wordCount": 1830,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 24,
+      "title": "XXV: The Reckoning",
+      "wordCount": 1073,
+      "estimatedMinutes": 4
+    }
+  ]
+}

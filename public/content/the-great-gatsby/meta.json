@@ -1,0 +1,64 @@
+{
+  "bookId": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "chapterCount": 9,
+  "totalWordCount": 48608,
+  "totalMinutes": 193,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 5962,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 4313,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 5786,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 5493,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 4271,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 4073,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 8870,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 4570,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 5270,
+      "estimatedMinutes": 21
+    }
+  ]
+}

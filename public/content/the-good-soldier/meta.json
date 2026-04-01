@@ -1,0 +1,148 @@
+{
+  "bookId": "the-good-soldier",
+  "title": "The Good Soldier",
+  "author": "Ford Madox Ford",
+  "chapterCount": 23,
+  "totalWordCount": 76069,
+  "totalMinutes": 306,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Part I",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 2804,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 2617,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4108,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3838,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 6609,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 2582,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 7,
+      "title": "Part II",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 8,
+      "title": "I",
+      "wordCount": 6306,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 9,
+      "title": "II",
+      "wordCount": 1554,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "Part III",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 11,
+      "title": "I",
+      "wordCount": 6137,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 12,
+      "title": "II",
+      "wordCount": 3371,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 13,
+      "title": "III",
+      "wordCount": 4990,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 14,
+      "title": "IV",
+      "wordCount": 4187,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "V",
+      "wordCount": 5264,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 16,
+      "title": "Part IV",
+      "wordCount": 2,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 17,
+      "title": "I",
+      "wordCount": 3904,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 18,
+      "title": "II",
+      "wordCount": 6061,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 19,
+      "title": "III",
+      "wordCount": 3217,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 20,
+      "title": "IV",
+      "wordCount": 1390,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 21,
+      "title": "V",
+      "wordCount": 3059,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 22,
+      "title": "VI",
+      "wordCount": 4063,
+      "estimatedMinutes": 16
+    }
+  ]
+}

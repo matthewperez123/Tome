@@ -1,0 +1,154 @@
+{
+  "bookId": "the-worst-journey-in-the-world",
+  "title": "The Worst Journey in the World: Antarctic 1910–1913",
+  "author": "Apsley Cherry-Garrard",
+  "chapterCount": 24,
+  "totalWordCount": 239438,
+  "totalMinutes": 960,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 377,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preamble",
+      "wordCount": 87,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "Preface",
+      "wordCount": 1181,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "Introduction",
+      "wordCount": 17922,
+      "estimatedMinutes": 72
+    },
+    {
+      "index": 4,
+      "title": "I: From England to South Africa",
+      "wordCount": 8576,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 5,
+      "title": "II: Making Our Easting Down",
+      "wordCount": 8987,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "III: Southward",
+      "wordCount": 11442,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 7,
+      "title": "IV: Land",
+      "wordCount": 9045,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 8,
+      "title": "V: The Depot Journey",
+      "wordCount": 28922,
+      "estimatedMinutes": 116
+    },
+    {
+      "index": 9,
+      "title": "VI: The First Winter",
+      "wordCount": 19747,
+      "estimatedMinutes": 79
+    },
+    {
+      "index": 10,
+      "title": "VII: The Winter Journey",
+      "wordCount": 29281,
+      "estimatedMinutes": 117
+    },
+    {
+      "index": 11,
+      "title": "VIII: Spring",
+      "wordCount": 5747,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 12,
+      "title": "IX: The Polar Journey",
+      "wordCount": 12216,
+      "estimatedMinutes": 49
+    },
+    {
+      "index": 13,
+      "title": "X: The Polar Journey (Continued)",
+      "wordCount": 6737,
+      "estimatedMinutes": 27
+    },
+    {
+      "index": 14,
+      "title": "XI: The Polar Journey (Continued)",
+      "wordCount": 4332,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 15,
+      "title": "XII: The Polar Journey (Continued)",
+      "wordCount": 10515,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 16,
+      "title": "XIII: Suspense",
+      "wordCount": 10548,
+      "estimatedMinutes": 42
+    },
+    {
+      "index": 17,
+      "title": "XIV: The Last Winter",
+      "wordCount": 8869,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 18,
+      "title": "XV: Another Spring",
+      "wordCount": 4682,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 19,
+      "title": "XVI: The Search Journey",
+      "wordCount": 8926,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 20,
+      "title": "XVII: The Polar Journey",
+      "wordCount": 11442,
+      "estimatedMinutes": 46
+    },
+    {
+      "index": 21,
+      "title": "XVIII: The Polar Journey (Continued)",
+      "wordCount": 5959,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 22,
+      "title": "XIX: Never Again",
+      "wordCount": 13408,
+      "estimatedMinutes": 54
+    },
+    {
+      "index": 23,
+      "title": "Glossary",
+      "wordCount": 490,
+      "estimatedMinutes": 2
+    }
+  ]
+}

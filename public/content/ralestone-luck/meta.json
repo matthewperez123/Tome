@@ -1,0 +1,124 @@
+{
+  "bookId": "ralestone-luck",
+  "title": "Ralestone Luck",
+  "author": "Andre Norton",
+  "chapterCount": 19,
+  "totalWordCount": 59543,
+  "totalMinutes": 235,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 466,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: The Ralestones Come Home",
+      "wordCount": 3760,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II: The Luck of the Lords of Lorne",
+      "wordCount": 3509,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 3,
+      "title": "III: The Ralestones Entertain an Unobtrusive Visitor",
+      "wordCount": 3801,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 4,
+      "title": "IV: Pistols for Two—Coffee for One",
+      "wordCount": 3609,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: Their Tenant Discovers the Ralestones",
+      "wordCount": 3578,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 6,
+      "title": "VI: Satan Goes A-Hunting and Finds Work for Idle Hands",
+      "wordCount": 3372,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 7,
+      "title": "VII: By Our Luck!",
+      "wordCount": 3342,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 8,
+      "title": "VIII: Great-Uncle Rick Walks the Hall",
+      "wordCount": 3468,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX: Portrait of a Lady and a Gentleman",
+      "wordCount": 3350,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 10,
+      "title": "X: Into the Swamp",
+      "wordCount": 3193,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: Ralestones to the Rescue!",
+      "wordCount": 3316,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 12,
+      "title": "XII: The Ralestones Bring Home a Reluctant Guest",
+      "wordCount": 2977,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII: On Such a Night as This—",
+      "wordCount": 3564,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV: Pirate Ways Are Hidden Ways",
+      "wordCount": 3594,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: Pieces of Eight—Ralestones’ Fate!",
+      "wordCount": 2295,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVI: Ralestones Stand Together",
+      "wordCount": 3457,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII: The Return of Rick Ralestone",
+      "wordCount": 3348,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Rupert Brings Home His Marchioness",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    }
+  ]
+}

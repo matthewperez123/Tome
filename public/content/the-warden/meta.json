@@ -1,0 +1,142 @@
+{
+  "bookId": "the-warden",
+  "title": "The Warden",
+  "author": "Anthony Trollope",
+  "chapterCount": 22,
+  "totalWordCount": 72570,
+  "totalMinutes": 290,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 465,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Hiram’s Hospital",
+      "wordCount": 2290,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: The Barchester Reformer",
+      "wordCount": 4330,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 3,
+      "title": "III: The Bishop of Barchester",
+      "wordCount": 4207,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 4,
+      "title": "IV: Hiram’s Bedesmen",
+      "wordCount": 2907,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "V: Dr. Grantly Visits the Hospital",
+      "wordCount": 4373,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 6,
+      "title": "VI: The Warden’s Tea Party",
+      "wordCount": 4231,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 7,
+      "title": "VII: The Jupiter",
+      "wordCount": 1925,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 8,
+      "title": "VIII: Plumstead Episcopi",
+      "wordCount": 4081,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "IX: The Conference",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X: Tribulation",
+      "wordCount": 3207,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 11,
+      "title": "XI: Iphigenia",
+      "wordCount": 4720,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XII: Mr. Bold’s Visit to Plumstead",
+      "wordCount": 2966,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII: The Warden’s Decision",
+      "wordCount": 2615,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 14,
+      "title": "XIV: Mount Olympus",
+      "wordCount": 3445,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV: Tom Towers, Dr. Anticant, and Mr. Sentiment",
+      "wordCount": 4771,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Long Day in London",
+      "wordCount": 4954,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 17,
+      "title": "XVII: Sir Abraham Haphazard",
+      "wordCount": 2457,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 18,
+      "title": "XVIII: The Warden Is Very Obstinate",
+      "wordCount": 1830,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 19,
+      "title": "XIX: The Warden Resigns",
+      "wordCount": 3582,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 20,
+      "title": "XX: Farewell",
+      "wordCount": 4073,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 21,
+      "title": "XXI: Conclusion",
+      "wordCount": 1661,
+      "estimatedMinutes": 7
+    }
+  ]
+}

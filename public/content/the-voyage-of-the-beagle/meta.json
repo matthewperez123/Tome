@@ -1,0 +1,148 @@
+{
+  "bookId": "the-voyage-of-the-beagle",
+  "title": "The Voyage of the Beagle",
+  "author": "Charles Darwin",
+  "chapterCount": 23,
+  "totalWordCount": 197503,
+  "totalMinutes": 791,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 659,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Frontispiece",
+      "wordCount": 0,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 2,
+      "title": "I: St. Jago—Cape de Verd Islands",
+      "wordCount": 6522,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 3,
+      "title": "II: Rio de Janeiro",
+      "wordCount": 7628,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 4,
+      "title": "III: Maldonado",
+      "wordCount": 9392,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 5,
+      "title": "IV: Rio Negro to Bahia Blanca",
+      "wordCount": 7221,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 6,
+      "title": "V: Bahia Blanca",
+      "wordCount": 9274,
+      "estimatedMinutes": 37
+    },
+    {
+      "index": 7,
+      "title": "VI: Bahia Blanca to Buenos Aires",
+      "wordCount": 6411,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 8,
+      "title": "VII: Buenos Aires and St. Fe",
+      "wordCount": 7428,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 9,
+      "title": "VIII: Banda Oriental and Patagonia",
+      "wordCount": 14121,
+      "estimatedMinutes": 56
+    },
+    {
+      "index": 10,
+      "title": "IX: Santa Cruz, Patagonia, and the Falkland Islands",
+      "wordCount": 10678,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 11,
+      "title": "X: Tierra del Fuego",
+      "wordCount": 10837,
+      "estimatedMinutes": 43
+    },
+    {
+      "index": 12,
+      "title": "XI: Strait of Magellan.—Climate of the Southern Coasts",
+      "wordCount": 7674,
+      "estimatedMinutes": 31
+    },
+    {
+      "index": 13,
+      "title": "XII: Central Chile",
+      "wordCount": 8141,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 14,
+      "title": "XIII: Chiloe and Chonos Islands",
+      "wordCount": 7259,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 15,
+      "title": "XIV: Chiloe and Concepcion: Great Earthquake",
+      "wordCount": 8864,
+      "estimatedMinutes": 35
+    },
+    {
+      "index": 16,
+      "title": "XV: Passage of the Cordillera",
+      "wordCount": 9503,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 17,
+      "title": "XVI: Northern Chile and Peru",
+      "wordCount": 14242,
+      "estimatedMinutes": 57
+    },
+    {
+      "index": 18,
+      "title": "XVII: Galapagos Archipelago",
+      "wordCount": 11349,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 19,
+      "title": "XVIII: Tahiti and New Zealand",
+      "wordCount": 11857,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 20,
+      "title": "XIX: Australia",
+      "wordCount": 8029,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 21,
+      "title": "XX: Keeling Island: Coral Formations",
+      "wordCount": 11348,
+      "estimatedMinutes": 45
+    },
+    {
+      "index": 22,
+      "title": "XXI: Mauritius to England",
+      "wordCount": 9066,
+      "estimatedMinutes": 36
+    }
+  ]
+}

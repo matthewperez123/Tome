@@ -1,0 +1,496 @@
+{
+  "bookId": "can-you-forgive-her",
+  "title": "Can You Forgive Her?",
+  "author": "Anthony Trollope",
+  "chapterCount": 81,
+  "totalWordCount": 316821,
+  "totalMinutes": 1271,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 562,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: Mr. Vavasor and His Daughter",
+      "wordCount": 2875,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 2,
+      "title": "II: Lady Macleod",
+      "wordCount": 4409,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 3,
+      "title": "III: John Grey, the Worthy Man",
+      "wordCount": 4900,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 4,
+      "title": "IV: George Vavasor, the Wild Man",
+      "wordCount": 3454,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 5,
+      "title": "V: The Balcony at Basle",
+      "wordCount": 3915,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 6,
+      "title": "VI: The Bridge Over the Rhine",
+      "wordCount": 3976,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 7,
+      "title": "VII: Aunt Greenow",
+      "wordCount": 4008,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 8,
+      "title": "VIII: Mr. Cheesacre",
+      "wordCount": 3775,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 9,
+      "title": "IX: The Rivals",
+      "wordCount": 5003,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 10,
+      "title": "X: Nethercoats",
+      "wordCount": 3077,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 11,
+      "title": "XI: John Grey Goes to London",
+      "wordCount": 4568,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 12,
+      "title": "XII: Mr. George Vavasor at Home",
+      "wordCount": 3117,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 13,
+      "title": "XIII: Mr. Grimes Gets His Odd Money",
+      "wordCount": 2764,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 14,
+      "title": "XIV: Alice Vavasor Becomes Troubled",
+      "wordCount": 5724,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 15,
+      "title": "XV: Paramount Crescent",
+      "wordCount": 4060,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 16,
+      "title": "XVI: The Roebury Club",
+      "wordCount": 3349,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 17,
+      "title": "XVII: Edgehill",
+      "wordCount": 6310,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 18,
+      "title": "XVIII: Alice Vavasor’s Great Relations",
+      "wordCount": 3811,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 19,
+      "title": "XIX: Tribute from Oileymead",
+      "wordCount": 2728,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XX: Which Shall It Be?",
+      "wordCount": 2992,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXI: Alice Is Taught to Grow Upwards, Towards the Light",
+      "wordCount": 2844,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 22,
+      "title": "XXII: Dandy and Flirt",
+      "wordCount": 4891,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 23,
+      "title": "XXIII: Dinner at Matching Priory",
+      "wordCount": 3743,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 24,
+      "title": "XXIV: Three Politicians",
+      "wordCount": 4061,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 25,
+      "title": "XXV: In Which Much of the History of the Pallisers Is Told",
+      "wordCount": 4454,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 26,
+      "title": "XXVI: Lady Midlothian",
+      "wordCount": 3926,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 27,
+      "title": "XXVII: The Priory Ruins",
+      "wordCount": 3181,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 28,
+      "title": "XXVIII: Alice Leaves the Priory",
+      "wordCount": 3975,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 29,
+      "title": "XXIX: Burgo Fitzgerald",
+      "wordCount": 4505,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 30,
+      "title": "XXX: Containing a Love Letter",
+      "wordCount": 2936,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 31,
+      "title": "XXXI: Among the Fells",
+      "wordCount": 5099,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 32,
+      "title": "XXXII: Containing an Answer to the Love Letter",
+      "wordCount": 3460,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 33,
+      "title": "XXXIII: Monkshade",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 34,
+      "title": "XXXIV: Mr. Vavasor Speaks to His Daughter",
+      "wordCount": 4091,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 35,
+      "title": "XXXV: Passion Versus Prudence",
+      "wordCount": 4118,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 36,
+      "title": "XXXVI: John Grey Goes a Second Time to London",
+      "wordCount": 4465,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 37,
+      "title": "XXXVII: Mr. Tombe’s Advice",
+      "wordCount": 2820,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 38,
+      "title": "XXXVIII: The Inn at Shap",
+      "wordCount": 4978,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 39,
+      "title": "XXXIX: Mr. Cheesacre’s Hospitality",
+      "wordCount": 2970,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 40,
+      "title": "XL: Mrs. Greenow’s Little Dinner in the Close",
+      "wordCount": 4968,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 41,
+      "title": "XLI: A Noble Lord Dies",
+      "wordCount": 3165,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 42,
+      "title": "XLII: Parliament Meets",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 43,
+      "title": "XLIII: Mrs. Marsham",
+      "wordCount": 5766,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 44,
+      "title": "XLIV: The Election for the Chelsea Districts",
+      "wordCount": 3162,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 45,
+      "title": "XLV: George Vavasor Takes His Seat",
+      "wordCount": 3411,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 46,
+      "title": "XLVI: A Love Gift",
+      "wordCount": 4561,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 47,
+      "title": "XLVII: Mr. Cheesacre’s Disappointment",
+      "wordCount": 5022,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 48,
+      "title": "XLVIII: Preparations for Lady Monk’s Party",
+      "wordCount": 2999,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 49,
+      "title": "XLIX: How Lady Glencora Went to Lady Monk’s Party",
+      "wordCount": 4066,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 50,
+      "title": "L: How Lady Glencora Came Back from Lady Monk’s Party",
+      "wordCount": 4657,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 51,
+      "title": "LI: Bold Speculations on Murder",
+      "wordCount": 2829,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 52,
+      "title": "LII: What Occurred in Suffolk Street, Pall Mall",
+      "wordCount": 4379,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 53,
+      "title": "LIII: The Last Will of the Old Squire",
+      "wordCount": 3938,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 54,
+      "title": "LIV: Showing How Alice Was Punished",
+      "wordCount": 4124,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 55,
+      "title": "LV: The Will",
+      "wordCount": 3807,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 56,
+      "title": "LVI: Another Walk on the Fells",
+      "wordCount": 3983,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 57,
+      "title": "LVII: Showing How the Wild Beast Got Himself Back from the Mountains",
+      "wordCount": 3965,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 58,
+      "title": "LVIII: The Pallisers at Breakfast",
+      "wordCount": 4136,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 59,
+      "title": "LIX: The Duke of St. Bungay in Search of a Minister",
+      "wordCount": 4071,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 60,
+      "title": "LX: Alice Vavasor’s Name Gets Into the Money Market",
+      "wordCount": 3775,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 61,
+      "title": "LXI: The Bills Are Made All Right",
+      "wordCount": 2892,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 62,
+      "title": "LXII: Going Abroad",
+      "wordCount": 4130,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 63,
+      "title": "LXIII: Mr. John Grey in Queen Anne Street",
+      "wordCount": 3423,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 64,
+      "title": "LXIV: The Rocks and Valleys",
+      "wordCount": 5242,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 65,
+      "title": "LXV: The First Kiss",
+      "wordCount": 3428,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 66,
+      "title": "LXVI: Lady Monk’s Plan",
+      "wordCount": 3621,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 67,
+      "title": "LXVII: The Last Kiss",
+      "wordCount": 4899,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 68,
+      "title": "LXVIII: From London to Baden",
+      "wordCount": 3893,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 69,
+      "title": "LXIX: From Baden to Lucerne",
+      "wordCount": 3969,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 70,
+      "title": "LXX: At Lucerne",
+      "wordCount": 4170,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 71,
+      "title": "LXXI: Showing How George Vavasor Received a Visit",
+      "wordCount": 4394,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 72,
+      "title": "LXXII: Showing How George Vavasor Paid a Visit",
+      "wordCount": 3463,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 73,
+      "title": "LXXIII: In Which Come Tidings of Great Moment to All Pallisers",
+      "wordCount": 3987,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 74,
+      "title": "LXXIV: Showing What Happened in the Churchyard",
+      "wordCount": 3927,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 75,
+      "title": "LXXV: Rouge et Noir",
+      "wordCount": 4870,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 76,
+      "title": "LXXVI: The Landlord’s Bill",
+      "wordCount": 3246,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 77,
+      "title": "LXXVII: The Travellers Return Home",
+      "wordCount": 3669,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 78,
+      "title": "LXXVIII: Mr. Cheesacre’s Fate",
+      "wordCount": 5182,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 79,
+      "title": "LXXIX: Diamonds Are Diamonds",
+      "wordCount": 4242,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 80,
+      "title": "LXXX: The Story Is Finished Within the Halls of the Duke of Omnium",
+      "wordCount": 2306,
+      "estimatedMinutes": 9
+    }
+  ]
+}

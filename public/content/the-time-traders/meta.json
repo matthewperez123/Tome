@@ -1,0 +1,124 @@
+{
+  "bookId": "the-time-traders",
+  "title": "The Time Traders",
+  "author": "Andre Norton",
+  "chapterCount": 19,
+  "totalWordCount": 64349,
+  "totalMinutes": 257,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 368,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3773,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 3366,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 3623,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3834,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 3674,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 3449,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 3676,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 3483,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 3406,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 3550,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 3552,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 3629,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3419,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3577,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 3388,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 3427,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 3584,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 3571,
+      "estimatedMinutes": 14
+    }
+  ]
+}

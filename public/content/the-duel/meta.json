@@ -1,0 +1,136 @@
+{
+  "bookId": "the-duel",
+  "title": "The Duel",
+  "author": "Anton Chekhov",
+  "chapterCount": 21,
+  "totalWordCount": 40164,
+  "totalMinutes": 163,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I",
+      "wordCount": 3164,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II",
+      "wordCount": 1877,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "III",
+      "wordCount": 2687,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 3,
+      "title": "IV",
+      "wordCount": 1791,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 4,
+      "title": "V",
+      "wordCount": 2173,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 5,
+      "title": "VI",
+      "wordCount": 2742,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VII",
+      "wordCount": 918,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 7,
+      "title": "VIII",
+      "wordCount": 710,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 8,
+      "title": "IX",
+      "wordCount": 2306,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 9,
+      "title": "X",
+      "wordCount": 2517,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "XI",
+      "wordCount": 2197,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "XII",
+      "wordCount": 1805,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 12,
+      "title": "XIII",
+      "wordCount": 933,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 13,
+      "title": "XIV",
+      "wordCount": 1146,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 14,
+      "title": "XV",
+      "wordCount": 2837,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 15,
+      "title": "XVI",
+      "wordCount": 2252,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII",
+      "wordCount": 1882,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 17,
+      "title": "XVIII",
+      "wordCount": 1518,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 18,
+      "title": "XIX",
+      "wordCount": 2020,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "XX",
+      "wordCount": 952,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "XXI",
+      "wordCount": 1737,
+      "estimatedMinutes": 7
+    }
+  ]
+}

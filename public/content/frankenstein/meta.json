@@ -1,0 +1,190 @@
+{
+  "bookId": "frankenstein",
+  "title": "Frankenstein: Or, the Modern Prometheus",
+  "author": "Mary Shelley",
+  "chapterCount": 30,
+  "totalWordCount": 77838,
+  "totalMinutes": 309,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 2259,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 573,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Letter I",
+      "wordCount": 1189,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 3,
+      "title": "Letter II",
+      "wordCount": 1303,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "Letter III",
+      "wordCount": 293,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 5,
+      "title": "Letter IV",
+      "wordCount": 2722,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "Chapter I",
+      "wordCount": 1777,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 7,
+      "title": "Chapter II",
+      "wordCount": 2209,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "Chapter III",
+      "wordCount": 2684,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 9,
+      "title": "Chapter IV",
+      "wordCount": 2537,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 10,
+      "title": "Chapter V",
+      "wordCount": 2358,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 11,
+      "title": "Chapter VI",
+      "wordCount": 2723,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "Chapter VII",
+      "wordCount": 3556,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 13,
+      "title": "Chapter VIII",
+      "wordCount": 3091,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 14,
+      "title": "Chapter IX",
+      "wordCount": 2219,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 15,
+      "title": "Chapter X",
+      "wordCount": 2357,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "Chapter XI",
+      "wordCount": 2904,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 17,
+      "title": "Chapter XII",
+      "wordCount": 2071,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 18,
+      "title": "Chapter XIII",
+      "wordCount": 2037,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 19,
+      "title": "Chapter XIV",
+      "wordCount": 1855,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "Chapter XV",
+      "wordCount": 3030,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "Chapter XVI",
+      "wordCount": 3205,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 22,
+      "title": "Chapter XVII",
+      "wordCount": 1922,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "Chapter XVIII",
+      "wordCount": 2846,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 24,
+      "title": "Chapter XIX",
+      "wordCount": 2607,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 25,
+      "title": "Chapter XX",
+      "wordCount": 3523,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 26,
+      "title": "Chapter XXI",
+      "wordCount": 3749,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 27,
+      "title": "Chapter XXII",
+      "wordCount": 3417,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 28,
+      "title": "Chapter XXIII",
+      "wordCount": 2598,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 29,
+      "title": "Chapter XXIV",
+      "wordCount": 8224,
+      "estimatedMinutes": 33
+    }
+  ]
+}

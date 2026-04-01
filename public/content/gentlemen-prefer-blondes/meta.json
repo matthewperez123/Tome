@@ -1,0 +1,46 @@
+{
+  "bookId": "gentlemen-prefer-blondes",
+  "title": "Gentlemen Prefer Blondes: The Illuminating Diary of a Professional Lady",
+  "author": "Anita Loos",
+  "chapterCount": 6,
+  "totalWordCount": 38688,
+  "totalMinutes": 155,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: Gentlemen Prefer Blondes",
+      "wordCount": 4805,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 1,
+      "title": "II: Fate Keeps on Happening",
+      "wordCount": 4224,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 2,
+      "title": "III: London Is Really Nothing",
+      "wordCount": 5167,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "IV: Paris Is Devine",
+      "wordCount": 7024,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 4,
+      "title": "V: The Central of Europe",
+      "wordCount": 8537,
+      "estimatedMinutes": 34
+    },
+    {
+      "index": 5,
+      "title": "VI: Brains Are Really Everything",
+      "wordCount": 8931,
+      "estimatedMinutes": 36
+    }
+  ]
+}

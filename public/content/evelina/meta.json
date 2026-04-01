@@ -1,0 +1,520 @@
+{
+  "bookId": "evelina",
+  "title": "Evelina: Or, The History of a Young Lady’s Entrance Into the World",
+  "author": "Fanny Burney",
+  "chapterCount": 85,
+  "totalWordCount": 154233,
+  "totalMinutes": 618,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Preface",
+      "wordCount": 839,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 1,
+      "title": "Letter I: Lady Howard to the Rev. Mr. Villars",
+      "wordCount": 548,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 2,
+      "title": "Letter II: Mr. Villars to Lady Howard",
+      "wordCount": 1452,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "Letter III: Lady Howard to the Rev. Mr. Villars",
+      "wordCount": 412,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 4,
+      "title": "Letter IV: Mr. Villars to Lady Howard",
+      "wordCount": 875,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 5,
+      "title": "Letter V: Mr. Villars to Lady Howard",
+      "wordCount": 118,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 6,
+      "title": "Letter VI: Lady Howard to the Rev. Mr. Villars",
+      "wordCount": 427,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 7,
+      "title": "Letter VII: Lady Howard to the Rev. Mr. Villars",
+      "wordCount": 510,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 8,
+      "title": "Letter VIII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 533,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 9,
+      "title": "Letter IX: Mr. Villars to Evelina",
+      "wordCount": 178,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 10,
+      "title": "Letter X: Evelina to the Rev. Mr. Villars",
+      "wordCount": 1039,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 11,
+      "title": "Letter XI: Evelina in Continuation",
+      "wordCount": 2735,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 12,
+      "title": "Letter XII: Evelina in Continuation",
+      "wordCount": 1749,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 13,
+      "title": "Letter XIII: Evelina in Continuation",
+      "wordCount": 3872,
+      "estimatedMinutes": 15
+    },
+    {
+      "index": 14,
+      "title": "Letter XIV: Evelina in Continuation",
+      "wordCount": 2071,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "Letter XV: Mr. Villars to Evelina",
+      "wordCount": 725,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 16,
+      "title": "Letter XVI: Evelina to the Rev. Mr. Villars",
+      "wordCount": 4244,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 17,
+      "title": "Letter XVII: Evelina in Continuation",
+      "wordCount": 1792,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "Letter XVIII: Evelina in Continuation",
+      "wordCount": 955,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 19,
+      "title": "Letter XIX: Evelina in Continuation",
+      "wordCount": 1790,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 20,
+      "title": "Letter XX: Evelina in Continuation",
+      "wordCount": 2236,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "Letter XXI: Evelina in Continuation",
+      "wordCount": 7366,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 22,
+      "title": "Letter XXII: Evelina in Continuation",
+      "wordCount": 1132,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 23,
+      "title": "Letter XXIII: Evelina in Continuation",
+      "wordCount": 4404,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 24,
+      "title": "Letter XXIV: Mr. Villars to Evelina",
+      "wordCount": 780,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 25,
+      "title": "Letter XXV: Evelina to the Rev. Mr. Villars",
+      "wordCount": 1388,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 26,
+      "title": "Letter XXVI: Evelina to the Rev. Mr. Villars",
+      "wordCount": 989,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 27,
+      "title": "Letter XXVII: Lady Howard to the Rev. Mr. Villars",
+      "wordCount": 651,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 28,
+      "title": "Letter XXVIII: Mr. Villars to Lady Howard",
+      "wordCount": 1923,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "Letter XXIX: Mr. Villars to Evelina",
+      "wordCount": 142,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 30,
+      "title": "Letter XXX: Evelina to the Rev. Mr. Villars",
+      "wordCount": 325,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 31,
+      "title": "Letter XXXI: Lady Howard to Sir John Belmont, Bart",
+      "wordCount": 617,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 32,
+      "title": "Letter XXXII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 729,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 33,
+      "title": "Letter XXXIII: Evelina in Continuation",
+      "wordCount": 6465,
+      "estimatedMinutes": 26
+    },
+    {
+      "index": 34,
+      "title": "Letter XXXIV: Evelina in Continuation",
+      "wordCount": 2327,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 35,
+      "title": "Letter XXXV: Sir John Belmont to Lady Howard",
+      "wordCount": 157,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 36,
+      "title": "Letter XXXVI: Evelina to the Rev. Mr. Villars",
+      "wordCount": 923,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 37,
+      "title": "Letter XXXVII: Mr. Villars to Evelina",
+      "wordCount": 546,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 38,
+      "title": "Letter XXXVIII: Mr. Villars to Lady Howard",
+      "wordCount": 619,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 39,
+      "title": "Letter XXXIX: Mr. Villars to Evelina",
+      "wordCount": 273,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 40,
+      "title": "Letter XL: Evelina to the Rev. Mr. Villars",
+      "wordCount": 2922,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 41,
+      "title": "Letter XLI: Evelina to Miss Mirvan",
+      "wordCount": 442,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 42,
+      "title": "Letter XLII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 2465,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 43,
+      "title": "Letter XLIII: Evelina in Continuation",
+      "wordCount": 2184,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 44,
+      "title": "Letter XLIV: Evelina in Continuation",
+      "wordCount": 1326,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 45,
+      "title": "Letter XLV: Evelina in Continuation",
+      "wordCount": 1804,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 46,
+      "title": "Letter XLVI: Evelina to the Rev. Mr. Villars",
+      "wordCount": 5552,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 47,
+      "title": "Letter XLVII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 2365,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 48,
+      "title": "Letter XLVIII: Evelina in Continuation",
+      "wordCount": 1305,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 49,
+      "title": "Letter XLIX: Mr. Villars to Evelina",
+      "wordCount": 567,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 50,
+      "title": "Letter L: Evelina to the Rev. Mr. Villars",
+      "wordCount": 3031,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 51,
+      "title": "Letter LI: Evelina in Continuation",
+      "wordCount": 2596,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 52,
+      "title": "Letter LII: Evelina in Continuation",
+      "wordCount": 2756,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 53,
+      "title": "Letter LIII: Evelina in Continuation",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 54,
+      "title": "Letter LIV: Evelina in Continuation",
+      "wordCount": 2974,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 55,
+      "title": "Letter LV: Evelina in Continuation",
+      "wordCount": 1073,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 56,
+      "title": "Letter LVI: Mr. Villars to Evelina",
+      "wordCount": 184,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 57,
+      "title": "Letter LVII: Evelina to Miss Mirvan",
+      "wordCount": 787,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 58,
+      "title": "Letter LVIII: Evelina to Miss Mirvan",
+      "wordCount": 1382,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 59,
+      "title": "Letter LIX: Evelina in Continuation",
+      "wordCount": 1090,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 60,
+      "title": "Letter LX: Evelina in Continuation",
+      "wordCount": 2533,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 61,
+      "title": "Letter LXI: Evelina in Continuation",
+      "wordCount": 484,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 62,
+      "title": "Letter LXII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 1965,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 63,
+      "title": "Letter LXIII: Evelina in Continuation",
+      "wordCount": 2242,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 64,
+      "title": "Letter LXIV: Evelina in Continuation",
+      "wordCount": 4112,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 65,
+      "title": "Letter LXV: Evelina in Continuation",
+      "wordCount": 1076,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 66,
+      "title": "Letter LXVI: Evelina in Continuation",
+      "wordCount": 4224,
+      "estimatedMinutes": 17
+    },
+    {
+      "index": 67,
+      "title": "Letter LXVII: Mr. Villars to Evelina",
+      "wordCount": 1004,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 68,
+      "title": "Letter LXVIII: Evelina to the Rev. Mr. Villars",
+      "wordCount": 2140,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 69,
+      "title": "Letter LXIX: Evelina in Continuation",
+      "wordCount": 694,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 70,
+      "title": "Letter LXX: Evelina in Continuation",
+      "wordCount": 2273,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 71,
+      "title": "Letter LXXI: Evelina in Continuation",
+      "wordCount": 181,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 72,
+      "title": "Letter LXXII: Evelina in Continuation",
+      "wordCount": 4975,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 73,
+      "title": "Letter LXXIII: Mr. Villars to Evelina",
+      "wordCount": 611,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 74,
+      "title": "Letter LXXIV: Lady Belmont to Sir John Belmont.",
+      "wordCount": 760,
+      "estimatedMinutes": 3
+    },
+    {
+      "index": 75,
+      "title": "Letter LXXV: Evelina to the Rev. Mr. Villars",
+      "wordCount": 3156,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 76,
+      "title": "Letter LXXVI: Evelina in Continuation",
+      "wordCount": 2945,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 77,
+      "title": "Letter LXXVII: Evelina in Continuation",
+      "wordCount": 5723,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 78,
+      "title": "Letter LXXVIII: Evelina in Continuation",
+      "wordCount": 2382,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 79,
+      "title": "Letter LXXIX: Evelina in Continuation",
+      "wordCount": 1544,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 80,
+      "title": "Letter LXXX: Evelina in Continuation",
+      "wordCount": 2839,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 81,
+      "title": "Letter LXXXI: Evelina in Continuation",
+      "wordCount": 1089,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 82,
+      "title": "Letter LXXXII: Evelina in Continuation",
+      "wordCount": 5598,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 83,
+      "title": "Letter LXXXIII: Mr. Villars to Evelina",
+      "wordCount": 377,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 84,
+      "title": "Letter LXXXIV: Evelina to the Rev. Mr. Villars",
+      "wordCount": 71,
+      "estimatedMinutes": 1
+    }
+  ]
+}

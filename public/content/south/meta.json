@@ -1,0 +1,142 @@
+{
+  "bookId": "south",
+  "title": "South!: The Story of Shackleton’s Last Expedition 1914–1917",
+  "author": "Ernest Shackleton",
+  "chapterCount": 22,
+  "totalWordCount": 147891,
+  "totalMinutes": 591,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 438,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "Preface",
+      "wordCount": 3169,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 2,
+      "title": "I: Into the Weddell Sea",
+      "wordCount": 7022,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 3,
+      "title": "II: New Land",
+      "wordCount": 7614,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 4,
+      "title": "III: Winter Months",
+      "wordCount": 9833,
+      "estimatedMinutes": 39
+    },
+    {
+      "index": 5,
+      "title": "IV: Loss of the Endurance",
+      "wordCount": 9083,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 6,
+      "title": "V: Ocean Camp",
+      "wordCount": 6013,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 7,
+      "title": "VI: The March Between",
+      "wordCount": 1753,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 8,
+      "title": "VII: Patience Camp",
+      "wordCount": 3968,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 9,
+      "title": "VIII: Escape from the Ice",
+      "wordCount": 15966,
+      "estimatedMinutes": 64
+    },
+    {
+      "index": 10,
+      "title": "IX: The Boat Journey",
+      "wordCount": 15852,
+      "estimatedMinutes": 63
+    },
+    {
+      "index": 11,
+      "title": "X: Across South Georgia",
+      "wordCount": 4741,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 12,
+      "title": "XI: The Rescue",
+      "wordCount": 5090,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 13,
+      "title": "XII: Elephant Island",
+      "wordCount": 6935,
+      "estimatedMinutes": 28
+    },
+    {
+      "index": 14,
+      "title": "XIII: The Ross Sea Party",
+      "wordCount": 8927,
+      "estimatedMinutes": 36
+    },
+    {
+      "index": 15,
+      "title": "XIV: Wintering in McMurdo Sound",
+      "wordCount": 4668,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XV: Laying the Depots",
+      "wordCount": 11787,
+      "estimatedMinutes": 47
+    },
+    {
+      "index": 17,
+      "title": "XVI: The Aurora’s Drift",
+      "wordCount": 11898,
+      "estimatedMinutes": 48
+    },
+    {
+      "index": 18,
+      "title": "XVII: The Last Relief",
+      "wordCount": 1312,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 19,
+      "title": "XVIII: The Final Phase",
+      "wordCount": 1063,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 20,
+      "title": "Appendix I",
+      "wordCount": 9466,
+      "estimatedMinutes": 38
+    },
+    {
+      "index": 21,
+      "title": "Appendix II: The Expedition Huts at McMurdo Sound",
+      "wordCount": 1293,
+      "estimatedMinutes": 5
+    }
+  ]
+}

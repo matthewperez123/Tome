@@ -1,0 +1,76 @@
+{
+  "bookId": "winnie-the-pooh",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "chapterCount": 11,
+  "totalWordCount": 22925,
+  "totalMinutes": 93,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Introduction",
+      "wordCount": 488,
+      "estimatedMinutes": 2
+    },
+    {
+      "index": 1,
+      "title": "I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin",
+      "wordCount": 2223,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 2,
+      "title": "II: In Which Pooh Goes Visiting and Gets Into a Tight Place",
+      "wordCount": 1495,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 3,
+      "title": "III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle",
+      "wordCount": 1256,
+      "estimatedMinutes": 5
+    },
+    {
+      "index": 4,
+      "title": "IV: In Which Eeyore Loses a Tail and Pooh Finds One",
+      "wordCount": 1443,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 5,
+      "title": "V: In Which Piglet Meets a Heffalump",
+      "wordCount": 2713,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 6,
+      "title": "VI: In Which Eeyore Has a Birthday and Gets Two Presents",
+      "wordCount": 2685,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 7,
+      "title": "VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath",
+      "wordCount": 2910,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 8,
+      "title": "VIII: In Which Christopher Robin Leads an Expotition to the North Pole",
+      "wordCount": 3050,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 9,
+      "title": "IX: In Which Piglet Is Entirely Surrounded by Water",
+      "wordCount": 2681,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 10,
+      "title": "X: In Which Christopher Robin Gives Pooh a Party, and We Say Goodbye",
+      "wordCount": 1981,
+      "estimatedMinutes": 8
+    }
+  ]
+}

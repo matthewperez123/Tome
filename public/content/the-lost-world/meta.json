@@ -1,0 +1,112 @@
+{
+  "bookId": "the-lost-world",
+  "title": "The Lost World",
+  "author": "Arthur Conan Doyle",
+  "chapterCount": 17,
+  "totalWordCount": 76010,
+  "totalMinutes": 305,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Foreword",
+      "wordCount": 57,
+      "estimatedMinutes": 1
+    },
+    {
+      "index": 1,
+      "title": "I: There Are Heroisms All Round Us",
+      "wordCount": 2109,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 2,
+      "title": "II: Try Your Luck with Professor Challenger",
+      "wordCount": 2346,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 3,
+      "title": "III: He Is a Perfectly Impossible Person",
+      "wordCount": 2417,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 4,
+      "title": "IV: It’s Just the Very Biggest Thing in the World",
+      "wordCount": 5462,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 5,
+      "title": "V: Question!",
+      "wordCount": 4453,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 6,
+      "title": "VI: I Was the Flail of the Lord",
+      "wordCount": 3476,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VII: Tomorrow We Disappear Into the Unknown",
+      "wordCount": 3472,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 8,
+      "title": "VIII: The Outlying Pickets of the New World",
+      "wordCount": 4454,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 9,
+      "title": "IX: Who Could Have Foreseen It?",
+      "wordCount": 8223,
+      "estimatedMinutes": 33
+    },
+    {
+      "index": 10,
+      "title": "X: The Most Wonderful Things Have Happened",
+      "wordCount": 4982,
+      "estimatedMinutes": 20
+    },
+    {
+      "index": 11,
+      "title": "XI: For Once I Was the Hero",
+      "wordCount": 5609,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 12,
+      "title": "XII: It Was Dreadful in the Forest",
+      "wordCount": 5702,
+      "estimatedMinutes": 23
+    },
+    {
+      "index": 13,
+      "title": "XIII: A Sight Which I Shall Never Forget",
+      "wordCount": 5484,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 14,
+      "title": "XIV: Those Were the Real Conquests",
+      "wordCount": 5418,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 15,
+      "title": "XV: Our Eyes Have Seen Great Wonders",
+      "wordCount": 6009,
+      "estimatedMinutes": 24
+    },
+    {
+      "index": 16,
+      "title": "XVI: A Procession! A Procession!",
+      "wordCount": 6337,
+      "estimatedMinutes": 25
+    }
+  ]
+}

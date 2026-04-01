@@ -1,0 +1,208 @@
+{
+  "bookId": "the-black-tulip",
+  "title": "The Black Tulip",
+  "author": "Alexandre Dumas",
+  "chapterCount": 33,
+  "totalWordCount": 73604,
+  "totalMinutes": 294,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "I: A Grateful People",
+      "wordCount": 3313,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 1,
+      "title": "II: The Two Brothers",
+      "wordCount": 2765,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 2,
+      "title": "III: The Pupil of John de Witt",
+      "wordCount": 2986,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 3,
+      "title": "IV: The Murderers",
+      "wordCount": 3157,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 4,
+      "title": "V: The Tulip-Fancier and His Neighbour",
+      "wordCount": 3086,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 5,
+      "title": "VI: The Hatred of a Tulip-Fancier",
+      "wordCount": 2502,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 6,
+      "title": "VII: The Happy Man Makes Acquaintance with Misfortune",
+      "wordCount": 3383,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 7,
+      "title": "VIII: An Invasion",
+      "wordCount": 2324,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 8,
+      "title": "IX: The Family Cell",
+      "wordCount": 1612,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 9,
+      "title": "X: The Jailer’s Daughter",
+      "wordCount": 1469,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 10,
+      "title": "XI: Cornelius van Baerle’s Will",
+      "wordCount": 3890,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 11,
+      "title": "XII: The Execution",
+      "wordCount": 1102,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 12,
+      "title": "XIII: What Was Going on All This Time in the Mind of One of the Spectators",
+      "wordCount": 1427,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 13,
+      "title": "XIV: The Pigeons of Dort",
+      "wordCount": 1574,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 14,
+      "title": "XV: The Little Grated Window",
+      "wordCount": 2081,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 15,
+      "title": "XVI: Master and Pupil",
+      "wordCount": 2151,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 16,
+      "title": "XVII: The First Bulb",
+      "wordCount": 2520,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 17,
+      "title": "XVIII: Rosa’s Lover",
+      "wordCount": 1847,
+      "estimatedMinutes": 7
+    },
+    {
+      "index": 18,
+      "title": "XIX: The Maid and the Flower",
+      "wordCount": 2210,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 19,
+      "title": "XX: The Events Which Took Place During Those Eight Days",
+      "wordCount": 2654,
+      "estimatedMinutes": 11
+    },
+    {
+      "index": 20,
+      "title": "XXI: The Second Bulb",
+      "wordCount": 2298,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 21,
+      "title": "XXII: The Opening of the Flower",
+      "wordCount": 1897,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 22,
+      "title": "XXIII: The Rival",
+      "wordCount": 2090,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 23,
+      "title": "XXIV: The Black Tulip Changes Masters",
+      "wordCount": 1384,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 24,
+      "title": "XXV: The President Van Systens",
+      "wordCount": 2010,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 25,
+      "title": "XXVI: A Member of the Horticultural Society",
+      "wordCount": 2545,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 26,
+      "title": "XXVII: The Third Bulb",
+      "wordCount": 2433,
+      "estimatedMinutes": 10
+    },
+    {
+      "index": 27,
+      "title": "XXVIII: The Hymn of the Flowers",
+      "wordCount": 2354,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 28,
+      "title": "XXIX: In Which Van Baerle, Before Leaving Loewestein, Settles Accounts with Gryphus",
+      "wordCount": 2113,
+      "estimatedMinutes": 8
+    },
+    {
+      "index": 29,
+      "title": "XXX: Wherein the Reader Begins to Guess the Kind of Execution That Was Awaiting Van Baerle",
+      "wordCount": 1029,
+      "estimatedMinutes": 4
+    },
+    {
+      "index": 30,
+      "title": "XXXI: Haarlem",
+      "wordCount": 2240,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 31,
+      "title": "XXXII: A Last Request",
+      "wordCount": 1451,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 32,
+      "title": "XXXIII: Conclusion",
+      "wordCount": 1707,
+      "estimatedMinutes": 7
+    }
+  ]
+}

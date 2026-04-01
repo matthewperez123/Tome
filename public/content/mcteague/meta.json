@@ -1,0 +1,148 @@
+{
+  "bookId": "mcteague",
+  "title": "McTeague: A Story of San Francisco",
+  "author": "Frank Norris",
+  "chapterCount": 23,
+  "totalWordCount": 114961,
+  "totalMinutes": 458,
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chapter 1",
+      "wordCount": 1394,
+      "estimatedMinutes": 6
+    },
+    {
+      "index": 1,
+      "title": "I",
+      "wordCount": 3480,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 2,
+      "title": "II",
+      "wordCount": 5152,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 3,
+      "title": "III",
+      "wordCount": 4010,
+      "estimatedMinutes": 16
+    },
+    {
+      "index": 4,
+      "title": "IV",
+      "wordCount": 3305,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 5,
+      "title": "V",
+      "wordCount": 6286,
+      "estimatedMinutes": 25
+    },
+    {
+      "index": 6,
+      "title": "VI",
+      "wordCount": 5469,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 7,
+      "title": "VII",
+      "wordCount": 5367,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 8,
+      "title": "VIII",
+      "wordCount": 5363,
+      "estimatedMinutes": 21
+    },
+    {
+      "index": 9,
+      "title": "IX",
+      "wordCount": 7523,
+      "estimatedMinutes": 30
+    },
+    {
+      "index": 10,
+      "title": "X",
+      "wordCount": 7947,
+      "estimatedMinutes": 32
+    },
+    {
+      "index": 11,
+      "title": "XI",
+      "wordCount": 7175,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 12,
+      "title": "XII",
+      "wordCount": 4446,
+      "estimatedMinutes": 18
+    },
+    {
+      "index": 13,
+      "title": "XIII",
+      "wordCount": 3444,
+      "estimatedMinutes": 14
+    },
+    {
+      "index": 14,
+      "title": "XIV",
+      "wordCount": 3331,
+      "estimatedMinutes": 13
+    },
+    {
+      "index": 15,
+      "title": "XV",
+      "wordCount": 4869,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 16,
+      "title": "XVI",
+      "wordCount": 4821,
+      "estimatedMinutes": 19
+    },
+    {
+      "index": 17,
+      "title": "XVII",
+      "wordCount": 2231,
+      "estimatedMinutes": 9
+    },
+    {
+      "index": 18,
+      "title": "XVIII",
+      "wordCount": 5538,
+      "estimatedMinutes": 22
+    },
+    {
+      "index": 19,
+      "title": "XIX",
+      "wordCount": 7331,
+      "estimatedMinutes": 29
+    },
+    {
+      "index": 20,
+      "title": "XX",
+      "wordCount": 3091,
+      "estimatedMinutes": 12
+    },
+    {
+      "index": 21,
+      "title": "XXI",
+      "wordCount": 10120,
+      "estimatedMinutes": 40
+    },
+    {
+      "index": 22,
+      "title": "XXII",
+      "wordCount": 3268,
+      "estimatedMinutes": 13
+    }
+  ]
+}

@@ -10,9 +10,12 @@ export interface ChapterQuizResult {
   completedAt: string
 }
 
+export type QuizDifficulty = 'Apprentice' | 'Scholar' | 'Master'
+
 export interface BookProgress {
   bookId: string
   readingMode: 'guided' | 'free'
+  difficulty: QuizDifficulty
   currentChapterIndex: number
   completedChapterIndices: number[]
   quizResults: ChapterQuizResult[]
@@ -41,10 +44,15 @@ export function saveBookProgress(progress: BookProgress): void {
   } catch {}
 }
 
-export function createBookProgress(bookId: string, mode: 'guided' | 'free'): BookProgress {
+export function createBookProgress(
+  bookId: string,
+  mode: 'guided' | 'free',
+  difficulty: QuizDifficulty = 'Apprentice'
+): BookProgress {
   return {
     bookId,
     readingMode: mode,
+    difficulty,
     currentChapterIndex: 0,
     completedChapterIndices: [],
     quizResults: [],
