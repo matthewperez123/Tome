@@ -74,6 +74,7 @@ export default function ClubDetailPage() {
 
   useEffect(() => {
     async function fetchAll() {
+      if (!supabase) return
       const [clubRes, membersRes, discRes, reactRes] = await Promise.all([
         supabase.from("book_clubs").select("*").eq("id", clubId).single(),
         supabase.from("club_members").select("*").eq("club_id", clubId).order("joined_at"),
