@@ -33,11 +33,11 @@ import { lazy, Suspense } from "react"
 const Globe = lazy(() => import("@/components/ui/globe").then(m => ({ default: m.Globe })))
 import { Marquee } from "@/components/ui/marquee"
 import { BookOpen, BrainCircuit, Flame, Globe2, Map, Users } from "lucide-react"
-import { BOOKS } from "@/data/books"
 import { AUTHORS } from "@/data/authors"
 import { CHAPTERS } from "@/data/chapters"
+import { getBooks } from "@/lib/content"
 
-const STAT_BOOKS       = BOOKS.length
+const STAT_BOOKS       = getBooks().length
 const STAT_AUTHORS     = AUTHORS.length
 const STAT_QUIZZES     = CHAPTERS.filter((c) => c.quizAvailable).length
 const STAT_TRADITIONS  = 14

@@ -1,39 +1,37 @@
 "use client"
 
-import { Moon, Sun, Columns2, AlignJustify, Minus, Plus } from "lucide-react"
-import { cn } from "@/lib/utils"
+import { Moon, Sun, Minus, Plus } from "lucide-react"
 
 export type ReaderTheme = "light" | "dark"
-export type ReaderLayout = "scroll" | "book"
 
-const FONT_SIZES = [14, 16, 18, 20, 22] as const
-export type FontSize = (typeof FONT_SIZES)[number]
+const SCROLL_FONT_SIZES = [14, 16, 18, 20, 22] as const
+const FONT_SIZES = SCROLL_FONT_SIZES
+export type FontSize = number
 
 interface ReaderSettingsProps {
   theme: ReaderTheme
-  layout: ReaderLayout
   fontSize: FontSize
   onThemeChange: (t: ReaderTheme) => void
-  onLayoutChange: (l: ReaderLayout) => void
   onFontSizeChange: (s: FontSize) => void
 }
 
 export function ReaderSettings({
   theme,
-  layout,
   fontSize,
   onThemeChange,
-  onLayoutChange,
   onFontSizeChange,
 }: ReaderSettingsProps) {
-  const sizeIdx = FONT_SIZES.indexOf(fontSize)
+  const sizes = SCROLL_FONT_SIZES
+  const sizeIdx = sizes.indexOf(fontSize as (typeof sizes)[number])
+  const effectiveIdx = sizeIdx >= 0 ? sizeIdx : sizes.reduce((best, s, i) =>
+    Math.abs(s - fontSize) < Math.abs(sizes[best] - fontSize) ? i : best, 0)
 
   return (
     <div className="flex items-center gap-1">
       {/* Font size */}
       <button
-        disabled={sizeIdx === 0}
-        onClick={() => onFontSizeChange(FONT_SIZES[sizeIdx - 1])}
+        disabled={effectiveIdx === 0}
+        onClick={() => onFontSizeChange(sizes[effectiveIdx - 1])}
         className="flex size-7 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors disabled:opacity-30"
         aria-label="Decrease font size"
       >
@@ -43,48 +41,13 @@ export function ReaderSettings({
         {fontSize}
       </span>
       <button
-        disabled={sizeIdx === FONT_SIZES.length - 1}
-        onClick={() => onFontSizeChange(FONT_SIZES[sizeIdx + 1])}
+        disabled={effectiveIdx === sizes.length - 1}
+        onClick={() => onFontSizeChange(sizes[effectiveIdx + 1])}
         className="flex size-7 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors disabled:opacity-30"
         aria-label="Increase font size"
       >
         <Plus className="size-3" />
       </button>
-
-      <div className="mx-1 h-4 w-px bg-border" />
-
-      {/* Layout toggle — 2-segment: Scroll | Book Spread */}
-      <div className="rounded-md border border-border overflow-hidden flex items-center">
-        {/* Scroll segment */}
-        <button
-          onClick={() => onLayoutChange("scroll")}
-          className={cn(
-            "inline-flex size-7 items-center justify-center transition-colors",
-            layout === "scroll"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          )}
-          aria-label="Scroll layout"
-          aria-pressed={layout === "scroll"}
-        >
-          <AlignJustify className="size-3.5" />
-        </button>
-
-        {/* Book spread segment — hidden on mobile */}
-        <button
-          onClick={() => onLayoutChange("book")}
-          className={cn(
-            "hidden md:inline-flex size-7 items-center justify-center border-l border-border transition-colors",
-            layout === "book"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          )}
-          aria-label="Book spread layout"
-          aria-pressed={layout === "book"}
-        >
-          <Columns2 className="size-3.5" />
-        </button>
-      </div>
 
       {/* Theme toggle */}
       <button
@@ -102,4 +65,9 @@ export function ReaderSettings({
   )
 }
 
-export { FONT_SIZES }
+export { FONT_SIZES, SCROLL_FONT_SIZES }
+
+/** Default font size */
+export const DEFAULT_FONT_SIZE: Record<string, number> = {
+  scroll: 18,
+}

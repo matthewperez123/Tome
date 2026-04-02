@@ -2,291 +2,454 @@
   "bookId": "crime-and-punishment",
   "title": "Crime and Punishment",
   "author": "Fyodor Dostoevsky",
-  "chapterCount": 47,
-  "totalWordCount": 205987,
-  "totalMinutes": 827,
+  "totalWordCount": 205182,
+  "totalMinutes": 818,
+  "parts": [
+    {
+      "id": "part-1",
+      "title": "Part I",
+      "chapterIndices": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": "Part II",
+      "chapterIndices": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": "Part III",
+      "chapterIndices": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": "Part IV",
+      "chapterIndices": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": "Part V",
+      "chapterIndices": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": "Part VI",
+      "chapterIndices": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    }
+  ],
   "chapters": [
+    {
+      "index": 2,
+      "title": "Chapter I",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 3365,
+      "estimatedMinutes": 13,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 3,
+      "title": "Chapter II",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 7405,
+      "estimatedMinutes": 30,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 4,
+      "title": "Chapter III",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 5555,
+      "estimatedMinutes": 22,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 5,
+      "title": "Chapter IV",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 5140,
+      "estimatedMinutes": 21,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 6,
+      "title": "Chapter V",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 4233,
+      "estimatedMinutes": 17,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 7,
+      "title": "Chapter VI",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 5070,
+      "estimatedMinutes": 20,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 8,
+      "title": "Chapter VII",
+      "partId": "part-1",
+      "partTitle": "Part I",
+      "wordCount": 4922,
+      "estimatedMinutes": 20,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 10,
+      "title": "Chapter I",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 6789,
+      "estimatedMinutes": 27,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 11,
+      "title": "Chapter II",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 4219,
+      "estimatedMinutes": 17,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 12,
+      "title": "Chapter III",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 5324,
+      "estimatedMinutes": 21,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 13,
+      "title": "Chapter IV",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 4138,
+      "estimatedMinutes": 17,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 14,
+      "title": "Chapter V",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 4024,
+      "estimatedMinutes": 16,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 15,
+      "title": "Chapter VI",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 7601,
+      "estimatedMinutes": 30,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 16,
+      "title": "Chapter VII",
+      "partId": "part-2",
+      "partTitle": "Part II",
+      "wordCount": 7031,
+      "estimatedMinutes": 28,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 18,
+      "title": "Chapter I",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 5197,
+      "estimatedMinutes": 21,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 19,
+      "title": "Chapter II",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 4503,
+      "estimatedMinutes": 18,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 20,
+      "title": "Chapter III",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 5090,
+      "estimatedMinutes": 20,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 21,
+      "title": "Chapter IV",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 4268,
+      "estimatedMinutes": 17,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 22,
+      "title": "Chapter V",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 7100,
+      "estimatedMinutes": 28,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 23,
+      "title": "Chapter VI",
+      "partId": "part-3",
+      "partTitle": "Part III",
+      "wordCount": 4334,
+      "estimatedMinutes": 17,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 25,
+      "title": "Chapter I",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 4977,
+      "estimatedMinutes": 20,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 26,
+      "title": "Chapter II",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 4561,
+      "estimatedMinutes": 18,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 27,
+      "title": "Chapter III",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 3072,
+      "estimatedMinutes": 12,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 28,
+      "title": "Chapter IV",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 6188,
+      "estimatedMinutes": 25,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 29,
+      "title": "Chapter V",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 7079,
+      "estimatedMinutes": 28,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 30,
+      "title": "Chapter VI",
+      "partId": "part-4",
+      "partTitle": "Part IV",
+      "wordCount": 2771,
+      "estimatedMinutes": 11,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 32,
+      "title": "Chapter I",
+      "partId": "part-5",
+      "partTitle": "Part V",
+      "wordCount": 6213,
+      "estimatedMinutes": 25,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 33,
+      "title": "Chapter II",
+      "partId": "part-5",
+      "partTitle": "Part V",
+      "wordCount": 4963,
+      "estimatedMinutes": 20,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 34,
+      "title": "Chapter III",
+      "partId": "part-5",
+      "partTitle": "Part V",
+      "wordCount": 5588,
+      "estimatedMinutes": 22,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 35,
+      "title": "Chapter IV",
+      "partId": "part-5",
+      "partTitle": "Part V",
+      "wordCount": 6699,
+      "estimatedMinutes": 27,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 36,
+      "title": "Chapter V",
+      "partId": "part-5",
+      "partTitle": "Part V",
+      "wordCount": 5129,
+      "estimatedMinutes": 21,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 38,
+      "title": "Chapter I",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 3844,
+      "estimatedMinutes": 15,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 39,
+      "title": "Chapter II",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 5594,
+      "estimatedMinutes": 22,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 40,
+      "title": "Chapter III",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 3822,
+      "estimatedMinutes": 15,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 41,
+      "title": "Chapter IV",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 4443,
+      "estimatedMinutes": 18,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 42,
+      "title": "Chapter V",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 5588,
+      "estimatedMinutes": 22,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 43,
+      "title": "Chapter VI",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 5434,
+      "estimatedMinutes": 22,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 44,
+      "title": "Chapter VII",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 3603,
+      "estimatedMinutes": 14,
+      "role": "doc-chapter"
+    },
+    {
+      "index": 45,
+      "title": "Chapter VIII",
+      "partId": "part-6",
+      "partTitle": "Part VI",
+      "wordCount": 3960,
+      "estimatedMinutes": 16,
+      "role": "doc-chapter"
+    }
+  ],
+  "frontMatter": [
     {
       "index": 0,
       "title": "Translator’s Preface",
       "wordCount": 793,
-      "estimatedMinutes": 3
-    },
-    {
-      "index": 1,
-      "title": "Part I",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 2,
-      "title": "I",
-      "wordCount": 3365,
-      "estimatedMinutes": 13
-    },
-    {
-      "index": 3,
-      "title": "II",
-      "wordCount": 7405,
-      "estimatedMinutes": 30
-    },
-    {
-      "index": 4,
-      "title": "III",
-      "wordCount": 5555,
-      "estimatedMinutes": 22
-    },
-    {
-      "index": 5,
-      "title": "IV",
-      "wordCount": 5140,
-      "estimatedMinutes": 21
-    },
-    {
-      "index": 6,
-      "title": "V",
-      "wordCount": 4233,
-      "estimatedMinutes": 17
-    },
-    {
-      "index": 7,
-      "title": "VI",
-      "wordCount": 5070,
-      "estimatedMinutes": 20
-    },
-    {
-      "index": 8,
-      "title": "VII",
-      "wordCount": 4922,
-      "estimatedMinutes": 20
-    },
-    {
-      "index": 9,
-      "title": "Part II",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 10,
-      "title": "I",
-      "wordCount": 6789,
-      "estimatedMinutes": 27
-    },
-    {
-      "index": 11,
-      "title": "II",
-      "wordCount": 4219,
-      "estimatedMinutes": 17
-    },
-    {
-      "index": 12,
-      "title": "III",
-      "wordCount": 5324,
-      "estimatedMinutes": 21
-    },
-    {
-      "index": 13,
-      "title": "IV",
-      "wordCount": 4138,
-      "estimatedMinutes": 17
-    },
-    {
-      "index": 14,
-      "title": "V",
-      "wordCount": 4024,
-      "estimatedMinutes": 16
-    },
-    {
-      "index": 15,
-      "title": "VI",
-      "wordCount": 7601,
-      "estimatedMinutes": 30
-    },
-    {
-      "index": 16,
-      "title": "VII",
-      "wordCount": 7031,
-      "estimatedMinutes": 28
-    },
-    {
-      "index": 17,
-      "title": "Part III",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 18,
-      "title": "I",
-      "wordCount": 5197,
-      "estimatedMinutes": 21
-    },
-    {
-      "index": 19,
-      "title": "II",
-      "wordCount": 4503,
-      "estimatedMinutes": 18
-    },
-    {
-      "index": 20,
-      "title": "III",
-      "wordCount": 5090,
-      "estimatedMinutes": 20
-    },
-    {
-      "index": 21,
-      "title": "IV",
-      "wordCount": 4268,
-      "estimatedMinutes": 17
-    },
-    {
-      "index": 22,
-      "title": "V",
-      "wordCount": 7100,
-      "estimatedMinutes": 28
-    },
-    {
-      "index": 23,
-      "title": "VI",
-      "wordCount": 4334,
-      "estimatedMinutes": 17
-    },
-    {
-      "index": 24,
-      "title": "Part IV",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 25,
-      "title": "I",
-      "wordCount": 4977,
-      "estimatedMinutes": 20
-    },
-    {
-      "index": 26,
-      "title": "II",
-      "wordCount": 4561,
-      "estimatedMinutes": 18
-    },
-    {
-      "index": 27,
-      "title": "III",
-      "wordCount": 3072,
-      "estimatedMinutes": 12
-    },
-    {
-      "index": 28,
-      "title": "IV",
-      "wordCount": 6188,
-      "estimatedMinutes": 25
-    },
-    {
-      "index": 29,
-      "title": "V",
-      "wordCount": 7079,
-      "estimatedMinutes": 28
-    },
-    {
-      "index": 30,
-      "title": "VI",
-      "wordCount": 2771,
-      "estimatedMinutes": 11
-    },
-    {
-      "index": 31,
-      "title": "Part V",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 32,
-      "title": "I",
-      "wordCount": 6213,
-      "estimatedMinutes": 25
-    },
-    {
-      "index": 33,
-      "title": "II",
-      "wordCount": 4963,
-      "estimatedMinutes": 20
-    },
-    {
-      "index": 34,
-      "title": "III",
-      "wordCount": 5588,
-      "estimatedMinutes": 22
-    },
-    {
-      "index": 35,
-      "title": "IV",
-      "wordCount": 6699,
-      "estimatedMinutes": 27
-    },
-    {
-      "index": 36,
-      "title": "V",
-      "wordCount": 5129,
-      "estimatedMinutes": 21
-    },
-    {
-      "index": 37,
-      "title": "Part VI",
-      "wordCount": 2,
-      "estimatedMinutes": 1
-    },
-    {
-      "index": 38,
-      "title": "I",
-      "wordCount": 3844,
-      "estimatedMinutes": 15
-    },
-    {
-      "index": 39,
-      "title": "II",
-      "wordCount": 5594,
-      "estimatedMinutes": 22
-    },
-    {
-      "index": 40,
-      "title": "III",
-      "wordCount": 3822,
-      "estimatedMinutes": 15
-    },
-    {
-      "index": 41,
-      "title": "IV",
-      "wordCount": 4443,
-      "estimatedMinutes": 18
-    },
-    {
-      "index": 42,
-      "title": "V",
-      "wordCount": 5588,
-      "estimatedMinutes": 22
-    },
-    {
-      "index": 43,
-      "title": "VI",
-      "wordCount": 5434,
-      "estimatedMinutes": 22
-    },
-    {
-      "index": 44,
-      "title": "VII",
-      "wordCount": 3603,
-      "estimatedMinutes": 14
-    },
-    {
-      "index": 45,
-      "title": "VIII",
-      "wordCount": 3960,
-      "estimatedMinutes": 16
-    },
+      "estimatedMinutes": 3,
+      "role": "doc-preface"
+    }
+  ],
+  "backMatter": [
     {
       "index": 46,
       "title": "Epilogue",
       "wordCount": 6346,
-      "estimatedMinutes": 25
+      "estimatedMinutes": 25,
+      "role": "doc-epilogue"
     }
   ]
 }

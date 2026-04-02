@@ -11,6 +11,16 @@ export interface TomeChapter {
   estimatedMinutes: number // wordCount / 200 rounded
   summary: string          // 1 sentence capturing what happens
   quizAvailable: boolean
+  partId?: string          // "part-1" — groups chapters under a Part
+  partTitle?: string       // "Part I" — display label for the parent Part
+  role?: string            // "doc-chapter" | "doc-epilogue" | "doc-preface"
+}
+
+/** Part grouping — used by books with hierarchical structure (e.g. Crime and Punishment) */
+export interface TomePart {
+  id: string               // "part-1"
+  title: string            // "Part I"
+  chapterIndices: number[] // indices into the chapter file array
 }
 
 export const CHAPTERS: TomeChapter[] = [

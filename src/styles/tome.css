@@ -157,43 +157,128 @@
 }
 
 /* ── Reader Prose Styling ─────────────────────── */
+/* Modeled after Vellum.pub — professional book formatting */
 
+.prose-reader {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga" 1, "kern" 1, "onum" 1;
+  word-spacing: -0.02em;
+}
+
+/* ── Paragraphs ── */
 .prose-reader p {
-  margin-bottom: 1.5em;
-  break-inside: avoid;
+  margin: 0;
+  orphans: 2;
+  widows: 2;
 }
 
+/* Continuation paragraphs: indent, no gap */
 .prose-reader p + p {
-  text-indent: 2em;
+  text-indent: 1.5em;
 }
 
-.prose-reader blockquote {
-  margin: 2em 0;
-  padding-left: 1.25em;
-  border-left: 2px solid var(--tome-accent);
-  font-style: italic;
+/* First paragraph after heading or break: no indent */
+.prose-reader h2 + p,
+.prose-reader h3 + p,
+.prose-reader h4 + p,
+.prose-reader hr + p {
+  text-indent: 0;
 }
 
+/* ── Drop cap — first letter of first paragraph after heading ── */
+.prose-reader h2 + p::first-letter,
+.prose-reader h3 + p::first-letter,
+.prose-reader h4 + p::first-letter {
+  float: left;
+  font-size: 3.2em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+  font-weight: 400;
+  color: inherit;
+}
+
+/* ── Headings — Vellum centered, refined ── */
 .prose-reader h2,
 .prose-reader h3,
 .prose-reader h4 {
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.85em;
   margin-top: 2em;
-  margin-bottom: 0.75em;
-  font-weight: 600;
+  margin-bottom: 1.5em;
 }
 
+/* Chapter number / title — larger */
+.prose-reader h2 {
+  font-size: 1em;
+  letter-spacing: 0.15em;
+  margin-top: 3em;
+  margin-bottom: 1.5em;
+}
+
+/* ── Blockquotes ── */
+.prose-reader blockquote {
+  margin: 0.75em 1.5em;
+  padding-left: 0;
+  border-left: none;
+  font-style: italic;
+  text-indent: 0;
+}
+
+.prose-reader blockquote p {
+  text-indent: 0;
+}
+
+/* ── Scene breaks / ornamental breaks ── */
+.prose-reader hr {
+  border: none;
+  text-align: center;
+  margin: 1.5em 0;
+  line-height: 1;
+}
+
+.prose-reader hr::after {
+  content: "· · ·";
+  letter-spacing: 0.5em;
+  color: inherit;
+  opacity: 0.4;
+  font-size: 0.8em;
+}
+
+/* ── Inline elements ── */
 .prose-reader em {
   font-style: italic;
 }
 
+.prose-reader strong {
+  font-weight: 600;
+}
+
 .prose-reader br {
   display: block;
-  margin-bottom: 0.25em;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
   content: "";
 }
 
 .prose-reader span {
   display: inline;
+}
+
+/* ── Verse / poetry ── */
+.prose-reader .verse,
+.prose-reader [role="doc-epigraph"] {
+  text-align: left;
+  font-style: italic;
+  margin: 1em 2em;
+  text-indent: 0;
 }
 
 /* ── Reduced Motion ──────────────────────────── */

@@ -22,9 +22,9 @@ import { MessageSquare, BookCheck, Bookmark } from "lucide-react"
 import { toast } from "sonner"
 import { supabase } from "@/lib/supabase"
 import type { Book } from "@/lib/supabase"
-import { getBook, getChapters } from "@/lib/content"
+import { getBook, getChapters, getBookContentData } from "@/lib/content"
 import type { TomeBook } from "@/data/books"
-import type { TomeChapter } from "@/data/chapters"
+import type { TomeChapter, TomePart } from "@/data/chapters"
 import type { QuizDifficulty } from "@/lib/book-progress"
 import { springs } from "@/lib/design-tokens"
 import { getCoverParams } from "@/components/tome/book-cover"
@@ -34,17 +34,15 @@ import { ChapterSidebar } from "./chapter-sidebar"
 import { HighlightMenu } from "./highlight-menu"
 import { AnnotationSidebar } from "./annotation-sidebar"
 import { BookmarkPanel } from "./bookmark-panel"
-import { ReaderSettings, type ReaderTheme, type ReaderLayout, type FontSize } from "./reader-settings"
+import { ReaderSettings, DEFAULT_FONT_SIZE, type ReaderTheme, type FontSize } from "./reader-settings"
 import { WordTooltipProvider } from "./word-tooltip"
 import { useBookProgress } from "@/components/tome/book-progress-provider"
 import { useEconomy } from "@/components/tome/economy-provider"
 import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
 import { ChapterQuizOverlay } from "@/components/tome/chapter-quiz-overlay"
 import { FreeModeBanner } from "@/components/tome/free-mode-banner"
-import { PaginatedReader } from "@/components/tome/paginated-reader"
 import { getQuestionsForChapter } from "@/lib/chapter-questions"
 import { isChapterLocked } from "@/lib/book-progress"
-import { paginateHTML } from "@/lib/paginator"
 import { AuthorLink } from "@/components/tome/author-link"
 import { cn } from "@/lib/utils"
 
@@ -66,10 +64,6 @@ const themeStyles: Record<ReaderTheme, { bg: string; text: string; muted: string
   dark:  { bg: "#1C1914", text: "#E8DCC8", muted: "#8B7E6A", border: "#2A2520" },
 }
 
-// Padding constants — must match PaginatedReader's own padding
-const PAGE_PADDING_V = 80  // 40px top + 40px bottom
-const PAGE_PADDING_H = 96  // 48px left + 48px right
-const SPREAD_SPINE   = 1   // 1px spine
 
 export default function ReaderPage() {
   const params  = useParams()
@@ -79,6 +73,9 @@ export default function ReaderPage() {
   // ── Core state ──
   const [book, setBook]               = useState<TomeBook | Book | null>(null)
   const [chapters, setChapters]       = useState<(TomeChapter | Chapter)[]>([])
+  const [parts, setParts]             = useState<TomePart[]>([])
+  const [frontMatter, setFrontMatter] = useState<TomeChapter[]>([])
+  const [backMatter, setBackMatter]   = useState<TomeChapter[]>([])
   const [chapterHTML, setChapterHTML] = useState<string>(PLACEHOLDER_HTML)
   const [loading, setLoading]         = useState(true)
   const [currentChapter, setCurrentChapter] = useState(0)
@@ -86,14 +83,7 @@ export default function ReaderPage() {
   const [annotationOpen, setAnnotationOpen] = useState(false)
   const [bookmarkOpen, setBookmarkOpen] = useState(false)
   const [theme, setTheme]             = useState<ReaderTheme>("light")
-  const [viewMode, setViewMode]       = useState<ReaderLayout>("scroll" as ReaderLayout)
   const [fontSize, setFontSize]       = useState<FontSize>(18)
-
-  // ── Paginated mode state ──
-  const [pages, setPages]               = useState<string[]>([])
-  const [currentPage, setCurrentPage]   = useState(0)
-  const [isPaginating, setIsPaginating] = useState(false)
-  const [containerDims, setContainerDims] = useState({ w: 0, h: 0 })
 
   // ── Guided / Free flow state ──
   const [showModeModal, setShowModeModal]     = useState(false)
@@ -102,10 +92,8 @@ export default function ReaderPage() {
 
   // ── Refs ──
   const scrollContentRef       = useRef<HTMLDivElement>(null)
-  const paginationContainerRef = useRef<HTMLDivElement>(null)
   const sessionStartRef        = useRef(Date.now())
   const sentinelRef            = useRef<HTMLDivElement>(null)
-  const anchorTextRef          = useRef<string | null>(null)
 
   // ── Providers ──
   const { getProgress, startBook, completeChapter, saveQuizResult, setMode } = useBookProgress()
@@ -122,9 +110,20 @@ export default function ReaderPage() {
 
     if (staticBook) {
       setBook(staticBook)
-      if (staticChapters.length > 0) setChapters(staticChapters)
-      setLoading(false)
-    } else {
+      // Always try rebuilt meta.json first (has parts hierarchy)
+      getBookContentData(bookId).then(data => {
+        if (data.chapters.length > 0) {
+          const allReadable = [...data.chapters, ...data.backMatter]
+          setChapters(allReadable)
+          setParts(data.parts)
+          setFrontMatter(data.frontMatter)
+          setBackMatter(data.backMatter)
+        } else if (staticChapters.length > 0) {
+          setChapters(staticChapters)
+        }
+        setLoading(false)
+      })
+    } else if (supabase) {
       // Supabase fallback for books not yet in static data layer
       Promise.all([
         supabase.from("books").select("*").eq("id", bookId).single(),
@@ -134,6 +133,8 @@ export default function ReaderPage() {
         if (chaptersRes.data?.length) setChapters(chaptersRes.data as Chapter[])
         setLoading(false)
       })
+    } else {
+      setLoading(false)
     }
 
     const existingProgress = getProgress(bookId)
@@ -146,37 +147,53 @@ export default function ReaderPage() {
   useEffect(() => {
     setChapterHTML(PLACEHOLDER_HTML)
     let cancelled = false
+
+    // Strip the first heading (h2/h3/h4) from HTML — the reader already renders
+    // the chapter title, so the embedded heading from Standard Ebooks is a duplicate
+    function stripLeadingHeading(html: string): string {
+      return html.replace(/^\s*(?:<section[^>]*>\s*)?<h[2-4][^>]*>.*?<\/h[2-4]>/i, (match) => {
+        // Keep the <section> opener if present, just remove the heading
+        const sectionMatch = match.match(/^(\s*<section[^>]*>\s*)/i)
+        return sectionMatch ? sectionMatch[1] : ""
+      })
+    }
+
     async function loadHTML() {
+      // Map array index → file index (chapter.number holds the actual ch-N.json index)
+      const chapterEntry = chapters[currentChapter] as (TomeChapter & { content_html?: string }) | undefined
+      const fileIndex = chapterEntry?.number ?? currentChapter
+
       // 1. Try static content file
       try {
-        const res = await fetch(`/content/${bookId}/ch-${currentChapter}.json`)
+        const res = await fetch(`/content/${bookId}/ch-${fileIndex}.json`)
         if (res.ok) {
           const data = await res.json()
-          if (!cancelled && data.html) { setChapterHTML(data.html); return }
+          if (!cancelled && data.html) { setChapterHTML(stripLeadingHeading(data.html)); return }
         }
       } catch { /* fall through */ }
 
       // 2. Try inline content_html from cached chapter (Supabase chapter already in state)
-      const cached = chapters[currentChapter] as Chapter | undefined
-      if (cached?.content_html) {
-        if (!cancelled) setChapterHTML(cached.content_html)
+      if (chapterEntry?.content_html) {
+        if (!cancelled) setChapterHTML(stripLeadingHeading(chapterEntry.content_html))
         return
       }
 
       // 3. Supabase fetch as last resort
-      try {
-        const { data } = await supabase
-          .from("chapters").select("content_html")
-          .eq("book_id", bookId).order("order")
-        if (!cancelled) setChapterHTML(data?.[currentChapter]?.content_html ?? PLACEHOLDER_HTML)
-      } catch {
-        if (!cancelled) setChapterHTML(PLACEHOLDER_HTML)
+      if (supabase) {
+        try {
+          const { data } = await supabase
+            .from("chapters").select("content_html")
+            .eq("book_id", bookId).order("order")
+          if (!cancelled) setChapterHTML(stripLeadingHeading(data?.[currentChapter]?.content_html ?? PLACEHOLDER_HTML))
+        } catch {
+          if (!cancelled) setChapterHTML(PLACEHOLDER_HTML)
+        }
       }
     }
     loadHTML()
     return () => { cancelled = true }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [bookId, currentChapter])
+  }, [bookId, currentChapter, chapters])
 
   // Auto-save scroll progress every 30s
   useEffect(() => {
@@ -219,9 +236,8 @@ export default function ReaderPage() {
     return () => clearInterval(interval)
   }, [bookId, getProgress, dispatchEconomy])
 
-  // IntersectionObserver on scroll-mode chapter end sentinel
+  // IntersectionObserver on chapter end sentinel
   useEffect(() => {
-    if (viewMode !== "scroll") return
     setChapterEndReached(false)
     const sentinel = sentinelRef.current
     if (!sentinel) return
@@ -231,12 +247,11 @@ export default function ReaderPage() {
     )
     observer.observe(sentinel)
     return () => observer.disconnect()
-  }, [currentChapter, viewMode])
+  }, [currentChapter])
 
-  // Keyboard navigation (scroll mode only — PaginatedReader owns keyboard in capture phase)
+  // Keyboard navigation
   useEffect(() => {
     function handleKey(e: KeyboardEvent) {
-      if (viewMode !== "scroll") return
       const total = chapters.length || 1
       if (e.key === "ArrowRight" || e.key === "ArrowDown" || e.key === "j") {
         e.preventDefault()
@@ -250,116 +265,26 @@ export default function ReaderPage() {
     }
     window.addEventListener("keydown", handleKey)
     return () => window.removeEventListener("keydown", handleKey)
-  }, [router, chapters.length, viewMode])
-
-  // ResizeObserver — track paginated container dimensions
-  useEffect(() => {
-    if (viewMode === "scroll") return
-    const el = paginationContainerRef.current
-    if (!el) return
-
-    let debounce: ReturnType<typeof setTimeout>
-    const ro = new ResizeObserver(() => {
-      clearTimeout(debounce)
-      debounce = setTimeout(() => {
-        const rect = el.getBoundingClientRect()
-        setContainerDims(prev => {
-          if (Math.abs(prev.w - rect.width) < 4 && Math.abs(prev.h - rect.height) < 4) return prev
-          return { w: rect.width, h: rect.height }
-        })
-      }, 200)
-    })
-    ro.observe(el)
-
-    // Seed initial dims
-    const rect = el.getBoundingClientRect()
-    if (rect.width > 0) setContainerDims({ w: rect.width, h: rect.height })
-
-    return () => { ro.disconnect(); clearTimeout(debounce) }
-  }, [viewMode])
-
-  // Pagination driver — re-runs when mode / chapter / fontSize / containerDims changes
-  useEffect(() => {
-    if (viewMode === "scroll") return
-    if (containerDims.w === 0 || containerDims.h === 0) return
-
-    let cancelled = false
-
-    async function runPagination() {
-      // Capture anchor text for approximate position restore after font-size change
-      if (pages.length > 0 && pages[currentPage]) {
-        const doc = new DOMParser().parseFromString(pages[currentPage], "text/html")
-        anchorTextRef.current = doc.querySelector("p")?.textContent?.slice(0, 40) ?? null
-      }
-
-      setIsPaginating(true)
-
-      const usableH = containerDims.h - PAGE_PADDING_V - 28 // 28px for progress strip
-      const usableW = (containerDims.w - SPREAD_SPINE) / 2 - PAGE_PADDING_H
-
-      const html = chapterHTML
-
-      const computed = await paginateHTML({
-        html,
-        pageHeight: Math.max(50, usableH),
-        pageWidth:  Math.max(50, usableW),
-        fontSize,
-        lineHeight: 1.8,
-      })
-
-      if (cancelled) return
-
-      setPages(computed)
-      setIsPaginating(false)
-
-      // Restore position: anchor text match → localStorage → first page
-      const anchor = anchorTextRef.current
-      if (anchor) {
-        const anchorPage = computed.findIndex(p => p.includes(anchor))
-        if (anchorPage >= 0) {
-          setCurrentPage(anchorPage)
-          anchorTextRef.current = null
-          return
-        }
-      }
-
-      const saved = localStorage.getItem(`tome-page-${bookId}-${currentChapter}`)
-      if (saved) {
-        const savedPage = parseInt(saved, 10)
-        if (!isNaN(savedPage) && savedPage > 0 && savedPage < computed.length) {
-          setCurrentPage(savedPage)
-          toast(`Resuming from page ${savedPage + 1}`, { duration: 2000 })
-          return
-        }
-      }
-
-      setCurrentPage(0)
-    }
-
-    runPagination()
-    return () => { cancelled = true }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [viewMode, currentChapter, fontSize, containerDims])
-
-  // Save page position to localStorage in paginated mode
-  useEffect(() => {
-    if (viewMode === "scroll") return
-    localStorage.setItem(`tome-page-${bookId}-${currentChapter}`, String(currentPage))
-  }, [currentPage, viewMode, bookId, currentChapter])
+  }, [router, chapters.length])
 
   // ────────────────────────────────────────────────────
   // Handlers
   // ────────────────────────────────────────────────────
 
+  // Sidebar chapter select — respects guided-mode locks
   const handleChapterSelect = useCallback((index: number) => {
     const prog = getProgress(bookId)
     if (prog && isChapterLocked(prog, index)) return
     setCurrentChapter(index)
-    setCurrentPage(0)
-    if (viewMode === "scroll") {
-      scrollContentRef.current?.scrollTo({ top: 0, behavior: "smooth" })
-    }
-  }, [bookId, getProgress, viewMode])
+    scrollContentRef.current?.scrollTo({ top: 0, behavior: "smooth" })
+  }, [bookId, getProgress])
+
+  // Sequential prev/next nav — always works, no lock gating
+  const navigateChapter = useCallback((index: number) => {
+    if (index < 0 || index >= chapters.length) return
+    setCurrentChapter(index)
+    scrollContentRef.current?.scrollTo({ top: 0, behavior: "smooth" })
+  }, [chapters.length])
 
   const handleModeSelect = useCallback((mode: "guided" | "free", difficulty?: QuizDifficulty) => {
     startBook(bookId, mode, difficulty ?? 'Apprentice')
@@ -396,8 +321,8 @@ export default function ReaderPage() {
     })
 
     setShowQuizOverlay(false)
-    if (!isLastChapter) setTimeout(() => handleChapterSelect(currentChapter + 1), 300)
-  }, [bookId, currentChapter, chapters, dispatchEconomy, completeChapter, saveQuizResult, handleChapterSelect])
+    if (!isLastChapter) setTimeout(() => navigateChapter(currentChapter + 1), 300)
+  }, [bookId, currentChapter, chapters, dispatchEconomy, completeChapter, saveQuizResult, navigateChapter])
 
   const handleSwitchToGuided = useCallback(() => {
     setMode(bookId, "guided")
@@ -422,7 +347,9 @@ export default function ReaderPage() {
 
   const coverParams          = getCoverParams(book as Parameters<typeof getCoverParams>[0])
   const totalChapters        = chapters.length || 1
-  const chapter              = (chapters[currentChapter] ?? { id: "0", title: "Chapter 1" }) as { id: string; title: string }
+  const chapterObj           = chapters[currentChapter] as TomeChapter | undefined
+  const chapter              = { id: chapterObj?.id ?? "0", title: chapterObj?.title ?? "Chapter 1" }
+  const chapterPartTitle     = (chapterObj as TomeChapter | undefined)?.partTitle
   const genreColor           = coverParams.primaryColor
   const t                    = themeStyles[theme]
   // reading_time_minutes (Supabase) or derive from wordCount (TomeBook)
@@ -436,14 +363,13 @@ export default function ReaderPage() {
   const progress               = getProgress(bookId)
   const readingMode            = progress?.readingMode ?? "guided"
   const quizDifficulty         = progress?.difficulty ?? 'Apprentice'
-  const lockedChapterIndices   = chapters.map((_, i) => (progress && isChapterLocked(progress, i) ? i : -1)).filter(i => i >= 0)
-  const completedChapterIndices = progress?.completedChapterIndices ?? []
+  // Convert array indices → file indices so sidebar can match against chapter.number
+  const lockedChapterIndices   = chapters.map((ch, i) => (progress && isChapterLocked(progress, i) ? (ch as TomeChapter).number ?? i : -1)).filter(i => i >= 0)
+  const completedChapterIndices = (progress?.completedChapterIndices ?? []).map(i => (chapters[i] as TomeChapter)?.number ?? i)
   const quizQuestions          = getQuestionsForChapter(book.title, currentChapter, quizDifficulty)
 
-  // Progress bar fraction (sub-chapter granularity in paginated modes)
-  const progressFraction = viewMode === "scroll"
-    ? (currentChapter + 1) / totalChapters
-    : (currentChapter + currentPage / Math.max(1, pages.length)) / totalChapters
+  // Progress bar fraction
+  const progressFraction = (currentChapter + 1) / totalChapters
 
   // ────────────────────────────────────────────────────
   // Render
@@ -492,7 +418,10 @@ export default function ReaderPage() {
         {/* Chapter Sidebar */}
         <ChapterSidebar
           bookTitle={book.title}
-          chapters={chapters.length > 0 ? chapters.map(c => c.title) : ["Chapter 1"]}
+          chapters={chapters as TomeChapter[]}
+          parts={parts}
+          frontMatter={frontMatter}
+          backMatter={backMatter}
           currentChapter={currentChapter}
           onSelect={handleChapterSelect}
           open={sidebarOpen}
@@ -503,10 +432,10 @@ export default function ReaderPage() {
 
         {/* Main Reader Area */}
         <div
-          ref={viewMode === "scroll" ? scrollContentRef : undefined}
+          ref={scrollContentRef}
           className={cn(
             "relative flex flex-col flex-1 transition-colors duration-[var(--tome-duration-normal)] motion-reduce:transition-none",
-            viewMode === "scroll" ? "overflow-y-auto" : "overflow-hidden"
+            "overflow-y-auto"
           )}
           style={{ backgroundColor: t.bg, color: t.text }}
         >
@@ -540,7 +469,7 @@ export default function ReaderPage() {
           >
             <div className="flex flex-col min-w-0 max-w-[200px]">
               <p className="text-[10px] font-medium truncate" style={{ color: t.muted }}>
-                {book.title} — {chapter.title}
+                {book.title} — {chapterPartTitle ? `${chapterPartTitle}, ` : ""}{chapter.title}
               </p>
               <AuthorLink
                 name={book.author}
@@ -566,19 +495,16 @@ export default function ReaderPage() {
               </button>
               <ReaderSettings
                 theme={theme}
-                layout={viewMode}
                 fontSize={fontSize}
                 onThemeChange={setTheme}
-                onLayoutChange={setViewMode}
                 onFontSizeChange={setFontSize}
               />
             </div>
           </div>
 
-          {/* ── Content Area — conditional on viewMode ── */}
+          {/* ── Content Area ── */}
 
-          {viewMode === "scroll" ? (
-            /* ── SCROLL MODE (original behaviour) ── */
+          {/* ── Scroll reader ── */}
             <>
               <div className="relative z-10 mx-auto w-full max-w-[680px] px-6 py-12 md:px-8 md:py-16">
                 <AnimatePresence mode="wait">
@@ -602,7 +528,7 @@ export default function ReaderPage() {
                       className="mt-8 font-serif prose-reader"
                       style={{
                         fontSize:   `${fontSize}px`,
-                        lineHeight: 1.8,
+                        lineHeight: 1.6,
                         color:      theme === "dark" ? "#E8DCC8E6" : "rgba(0,0,0,0.85)",
                       }}
                       data-reader-text
@@ -640,22 +566,22 @@ export default function ReaderPage() {
                     <div className="mt-16 flex items-center justify-between border-t pt-6" style={{ borderColor: t.border }}>
                       <button
                         disabled={currentChapter === 0}
-                        onClick={() => handleChapterSelect(currentChapter - 1)}
+                        onClick={() => navigateChapter(currentChapter - 1)}
                         className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
                         style={{ color: t.muted }}
                       >
-                        Previous chapter
+                        ← Previous chapter
                       </button>
                       <span className="text-[10px] tabular-nums" style={{ color: t.muted }}>
                         {currentChapter + 1} / {totalChapters}
                       </span>
                       <button
                         disabled={currentChapter === totalChapters - 1}
-                        onClick={() => handleChapterSelect(currentChapter + 1)}
+                        onClick={() => navigateChapter(currentChapter + 1)}
                         className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
                         style={{ color: t.muted }}
                       >
-                        Next chapter
+                        Next chapter →
                       </button>
                     </div>
 
@@ -678,26 +604,6 @@ export default function ReaderPage() {
                 </p>
               </div>
             </>
-          ) : (
-            /* ── PAGINATED MODE (page / book spread) ── */
-            <div
-              ref={paginationContainerRef}
-              className="relative z-10 flex-1 overflow-hidden"
-            >
-              <PaginatedReader
-                pages={pages}
-                currentPage={currentPage}
-                onPageChange={setCurrentPage}
-                onChapterEnd={handleFinishChapter}
-                isPaginating={isPaginating}
-                mode="book"
-                theme={theme}
-                fontSize={fontSize}
-                accentColor={genreColor}
-                onToggleToolbar={() => setSidebarOpen(s => !s)}
-              />
-            </div>
-          )}
         </div>
 
         {/* Annotation Sidebar */}

@@ -32,13 +32,13 @@ import { getBookCoverArt } from "@/data/cover-art"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { AuthorLink } from "@/components/tome/author-link"
 import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
-import { getBook, getChapters, getAuthor, getBooksByTradition, getBooksByAuthor } from "@/lib/content"
+import { getBook, getChapters, getBookContentData, getAuthor, getBooksByTradition, getBooksByAuthor } from "@/lib/content"
 import {
   getBookProgress, createBookProgress, saveBookProgress, isChapterLocked,
   type BookProgress,
 } from "@/lib/book-progress"
 import type { TomeBook } from "@/data/books"
-import type { TomeChapter } from "@/data/chapters"
+import type { TomeChapter, TomePart } from "@/data/chapters"
 import type { Author } from "@/data/authors"
 import { cn } from "@/lib/utils"
 
@@ -96,6 +96,8 @@ export default function BookDetailPage() {
   // ── Data state ────────────────────────────────
   const [book,          setBook]          = useState<TomeBook | null>(null)
   const [chapters,      setChapters]      = useState<TomeChapter[]>([])
+  const [parts,         setParts]         = useState<TomePart[]>([])
+  const [backMatter,    setBackMatter]    = useState<TomeChapter[]>([])
   const [author,        setAuthor]        = useState<Author | null>(null)
   const [relatedBooks,  setRelatedBooks]  = useState<TomeBook[]>([])
   const [authorBooks,   setAuthorBooks]   = useState<TomeBook[]>([])
@@ -114,7 +116,20 @@ export default function BookDetailPage() {
     if (!b) { setNotFound(true); return }
 
     setBook(b)
-    setChapters(getChapters(bookId))
+    // Always try rebuilt meta.json first (has parts hierarchy),
+    // fall back to hardcoded chapters if meta.json has no data
+    getBookContentData(bookId).then(data => {
+      if (data.chapters.length > 0) {
+        const allReadable = [...data.chapters, ...data.backMatter]
+        setChapters(allReadable)
+        setParts(data.parts)
+        setBackMatter(data.backMatter)
+      } else {
+        // Fall back to hardcoded chapters (no meta.json or empty)
+        const staticChapters = getChapters(bookId)
+        if (staticChapters.length > 0) setChapters(staticChapters)
+      }
+    })
     setAuthor(getAuthor(b.authorId) ?? null)
     setRelatedBooks(getBooksByTradition(b.tradition).filter(x => x.id !== bookId).slice(0, 8))
     setAuthorBooks(getBooksByAuthor(b.authorId).filter(x => x.id !== bookId))
@@ -471,7 +486,63 @@ export default function BookDetailPage() {
                 <div className="rounded-xl border border-dashed border-border p-6 text-center">
                   <p className="text-xs text-muted-foreground">Chapter list coming soon.</p>
                 </div>
+              ) : parts.length > 0 ? (
+                /* ── Parts-based chapter list (hierarchical) ── */
+                <div className="space-y-3">
+                  {parts.map((part) => {
+                    const partChapters = chapters.filter(c => c.partId === part.id)
+                    return (
+                      <details key={part.id} open={partChapters.some((_, i) => {
+                        const globalIdx = chapters.indexOf(partChapters[0])
+                        return getChapterStatus(globalIdx + i, progress) === "current"
+                      })}>
+                        <summary className="flex items-center gap-2 cursor-pointer py-2 px-3 rounded-lg bg-muted/50 hover:bg-muted transition-colors select-none">
+                          <ChevronDown className="size-3.5 text-muted-foreground transition-transform [[open]>&]:rotate-0 [&:not([open])>&]:-rotate-90" />
+                          <span className="text-xs font-semibold">{part.title}</span>
+                          <span className="text-[10px] text-muted-foreground ml-auto">{partChapters.length} chapters</span>
+                        </summary>
+                        <div className="space-y-1.5 mt-1.5 ml-3 pl-3 border-l border-border/50">
+                          {partChapters.map((chapter, i) => {
+                            const globalIdx = chapters.indexOf(chapter)
+                            const status = getChapterStatus(globalIdx, progress)
+                            return (
+                              <ChapterRow
+                                key={chapter.id}
+                                chapter={chapter}
+                                index={globalIdx}
+                                status={status}
+                                bookId={bookId}
+                                tradColor={tradColor}
+                              />
+                            )
+                          })}
+                        </div>
+                      </details>
+                    )
+                  })}
+
+                  {/* Back matter (Epilogue etc.) */}
+                  {backMatter.length > 0 && (
+                    <div className="pt-2 border-t border-border/50">
+                      {backMatter.map((chapter) => {
+                        const globalIdx = chapters.indexOf(chapter)
+                        const status = getChapterStatus(globalIdx, progress)
+                        return (
+                          <ChapterRow
+                            key={chapter.id}
+                            chapter={chapter}
+                            index={globalIdx}
+                            status={status}
+                            bookId={bookId}
+                            tradColor={tradColor}
+                          />
+                        )
+                      })}
+                    </div>
+                  )}
+                </div>
               ) : (
+                /* ── Flat chapter list (no parts) ── */
                 <div className="space-y-1.5">
                   {visibleChapters.map((chapter, i) => {
                     const status = getChapterStatus(i, progress)
