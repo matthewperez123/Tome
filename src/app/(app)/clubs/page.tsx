@@ -40,6 +40,7 @@ export default function ClubsPage() {
 
   useEffect(() => {
     async function fetch() {
+      if (!supabase) { setLoading(false); return }
       const { data } = await supabase
         .from("book_clubs")
         .select("*")

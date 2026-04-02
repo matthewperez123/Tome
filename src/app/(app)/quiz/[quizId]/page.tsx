@@ -126,14 +126,15 @@ export default function QuizPage() {
 
   useEffect(() => {
     async function fetchQuiz() {
-      const { data: quizData } = await supabase
-        .from("quizzes").select("*").eq("id", quizId).single()
-
       let questions: Question[] = []
-      if (quizData) {
-        const { data: qData } = await supabase
-          .from("questions").select("*").eq("quiz_id", quizId).order("order")
-        questions = (qData ?? []) as Question[]
+      if (supabase) {
+        const { data: quizData } = await supabase
+          .from("quizzes").select("*").eq("id", quizId).single()
+        if (quizData) {
+          const { data: qData } = await supabase
+            .from("questions").select("*").eq("quiz_id", quizId).order("order")
+          questions = (qData ?? []) as Question[]
+        }
       }
       if (questions.length === 0) {
         questions = SAMPLE_QUESTIONS.map((q) => ({ ...q, quiz_id: quizId })) as Question[]
