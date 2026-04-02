@@ -127,9 +127,11 @@ export default function QuizPage() {
   useEffect(() => {
     async function fetchQuiz() {
       let questions: Question[] = []
+      let quizData: Record<string, unknown> | null = null
       if (supabase) {
-        const { data: quizData } = await supabase
+        const res = await supabase
           .from("quizzes").select("*").eq("id", quizId).single()
+        quizData = res.data
         if (quizData) {
           const { data: qData } = await supabase
             .from("questions").select("*").eq("quiz_id", quizId).order("order")
