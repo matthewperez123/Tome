@@ -96,6 +96,7 @@ export default function ClubDetailPage() {
     fetchAll()
 
     // Real-time discussions
+    if (!supabase) return
     const channel = supabase
       .channel(`club-${clubId}`)
       .on("postgres_changes", { event: "INSERT", schema: "public", table: "club_discussions", filter: `club_id=eq.${clubId}` }, (payload) => {
@@ -103,7 +104,7 @@ export default function ClubDetailPage() {
       })
       .subscribe()
 
-    return () => { supabase.removeChannel(channel) }
+    return () => { supabase?.removeChannel(channel) }
   }, [clubId])
 
   const handleSend = useCallback(async () => {
