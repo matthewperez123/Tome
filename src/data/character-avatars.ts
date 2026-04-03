@@ -215,7 +215,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Medieval European",
     imageHint: "Italian poet in red robe standing at the gates of Hell",
     profileBorder: "#EF4444",
-    image: "/avatars/dante.svg",
+    image: "/avatars/dante.png",
   },
   {
     id: "beatrice",
@@ -281,7 +281,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Medieval European",
     imageHint: "Gaunt knight on a thin horse facing a row of windmills",
     profileBorder: "#F59E0B",
-    image: "/avatars/quixote.svg",
+    image: "/avatars/quixote.png",
   },
 
   // ── Renaissance ────────────────────────────────────────────────────────────
@@ -297,6 +297,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Renaissance",
     imageHint: "Pale prince in black holding a skull in a candlelit crypt",
     profileBorder: "#6366F1",
+    image: "/avatars/hamlet.png",
   },
   {
     id: "macbeth",
@@ -336,6 +337,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Renaissance",
     imageHint: "Fallen angel with dark wings standing in a burning abyss",
     profileBorder: "#EF4444",
+    image: "/avatars/satan.png",
   },
   {
     id: "iago",
@@ -392,7 +394,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Romantic",
     imageHint: "Tall grey figure alone in a snowy arctic landscape",
     profileBorder: "#22C55E",
-    image: "/avatars/frankenstein.svg",
+    image: "/avatars/frankenstein.png",
   },
   {
     id: "victor-frankenstein",
@@ -553,7 +555,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Russian",
     imageHint: "Gaunt student in a threadbare coat on the rainy streets of St. Petersburg",
     profileBorder: "#8B5CF6",
-    image: "/avatars/raskolnikov.svg",
+    image: "/avatars/raskolnikov.png",
   },
   {
     id: "alyosha",
@@ -593,7 +595,7 @@ export const BOOK_CHARACTERS: BookCharacter[] = [
     tradition: "Russian",
     imageHint: "Elegant Russian woman at a St. Petersburg ball",
     profileBorder: "#F43F5E",
-    image: "/avatars/anna-karenina.svg",
+    image: "/avatars/anna-karenina.png",
   },
   {
     id: "prince-andrei",
