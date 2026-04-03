@@ -9,7 +9,7 @@ interface AvatarState {
 
 const DEFAULT_STATE: AvatarState = {
   selectedCharacterId: "odysseus",    // demo: Odysseus selected
-  unlockedCharacterIds: [             // demo: 7 pre-unlocked
+  unlockedCharacterIds: [
     "virgil",
     "odysseus",
     "penelope",
@@ -17,6 +17,12 @@ const DEFAULT_STATE: AvatarState = {
     "dante",
     "elizabeth-bennet",
     "jean-valjean",
+    "quixote",
+    "raskolnikov",
+    "anna-karenina",
+    "frankenstein",
+    "satan",
+    "hamlet",
   ],
 }
 
