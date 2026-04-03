@@ -9,6 +9,7 @@ import { TopBar } from "@/components/tome/top-bar"
 import { MobileDock } from "@/components/tome/mobile-dock"
 import { PageTransition } from "@/components/tome/page-transition"
 import { ErrorBoundary } from "@/components/tome/error-boundary"
+import { VirgilWrapper } from "@/components/tome/virgil/VirgilWrapper"
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   return (
@@ -16,6 +17,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
     <TomeEconomyProvider>
     <BookProgressProvider>
     <TooltipProvider>
+    <VirgilWrapper>
       <SidebarProvider>
         <AppSidebar />
         <div className="flex flex-1 flex-col overflow-hidden">
@@ -26,6 +28,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         </div>
         <MobileDock />
       </SidebarProvider>
+    </VirgilWrapper>
     </TooltipProvider>
     </BookProgressProvider>
     </TomeEconomyProvider>
