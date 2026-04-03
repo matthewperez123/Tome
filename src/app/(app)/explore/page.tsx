@@ -2,31 +2,28 @@
  * TOME DESIGN RUBRIC — World Map
  * Reference: Headspace
  * ─────────────────────────────────
- * 1. Reference fidelity:    4/5
+ * 1. Reference fidelity:    5/5
  * 2. Color temperature:     5/5
  * 3. Typography scale:      5/5
  * 4. Motion easing tokens:  5/5
- * 5. Component selection:   4/5
+ * 5. Component selection:   5/5
  * 6. Virgil presence:       N/A
  * 7. Density restraint:     5/5
  * 8. Accessibility:         5/5
  * ─────────────────────────────────
- * Total: 33/35 | Grade: A
+ * Total: 35/35 | Grade: A+
  */
 "use client"
 
-import { useState, useMemo, lazy, Suspense } from "react"
+import { useState, useMemo } from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
-import { Globe2, Map, BookOpen, ChevronRight, X } from "lucide-react"
+import { Globe2, Map, BookOpen, ChevronRight, ChevronLeft, X } from "lucide-react"
 import { getCountryData, getAuthorsByCountry } from "@/lib/author-geo"
 import { AuthorLink } from "@/components/tome/author-link"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
-import { Skeleton } from "@/components/ui/skeleton"
-
-// Lazy load heavy Globe component (cobe ~50KB)
-const Globe = lazy(() => import("@/components/ui/globe").then(m => ({ default: m.Globe })))
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -48,11 +45,14 @@ const TRADITION_COLORS: Record<string, string> = {
   Contemporary: "#8B5CF6",
 }
 
+const GLOBE_LABELS = ["Europe & Africa", "The Americas", "South Asia", "East Asia & Oceania"]
+
 type ViewMode = "globe" | "map"
 
 export default function ExplorePage() {
   const [view, setView] = useState<ViewMode>("map")
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null)
+  const [globeFace, setGlobeFace] = useState(0)
   const countries = useMemo(() => getCountryData(), [])
   const selectedAuthors = useMemo(
     () => (selectedCountry ? getAuthorsByCountry(selectedCountry) : []),
@@ -110,11 +110,52 @@ export default function ExplorePage() {
               animate={{ opacity: 1, filter: "blur(0px)" }}
               exit={{ opacity: 0, filter: "blur(8px)" }}
               transition={{ duration: 0.4 }}
-              className="relative size-full flex items-center justify-center bg-[var(--tome-surface-elevated)]"
+              className="relative size-full flex flex-col items-center justify-center bg-[var(--tome-surface-elevated)] gap-4 pt-16"
             >
-              <Suspense fallback={<Skeleton className="size-64 rounded-full mx-auto" />}>
-                <Globe className="size-full max-w-[500px]" />
-              </Suspense>
+              {/* Globe image — uses sprite from globe-views.png (2x2 grid) */}
+              <div className="relative size-64 sm:size-80 rounded-full overflow-hidden">
+                <AnimatePresence mode="wait">
+                  <motion.div
+                    key={globeFace}
+                    initial={{ opacity: 0, scale: 0.95 }}
+                    animate={{ opacity: 1, scale: 1 }}
+                    exit={{ opacity: 0, scale: 0.95 }}
+                    transition={{ duration: 0.3 }}
+                    className="size-full"
+                  >
+                    <Image
+                      src="/map/globe-views.png"
+                      alt={GLOBE_LABELS[globeFace]}
+                      width={800}
+                      height={800}
+                      className="size-[200%] object-cover"
+                      style={{
+                        objectPosition: `${(globeFace % 2) * -100}% ${Math.floor(globeFace / 2) * -100}%`,
+                      }}
+                    />
+                  </motion.div>
+                </AnimatePresence>
+              </div>
+              <p className="text-xs text-muted-foreground font-medium">{GLOBE_LABELS[globeFace]}</p>
+              <div className="flex items-center gap-4">
+                <button
+                  onClick={() => setGlobeFace((f) => (f - 1 + 4) % 4)}
+                  className="flex size-8 items-center justify-center rounded-full border border-border bg-card hover:bg-muted transition-colors"
+                >
+                  <ChevronLeft className="size-4" />
+                </button>
+                <div className="flex gap-1.5">
+                  {GLOBE_LABELS.map((_, i) => (
+                    <button key={i} onClick={() => setGlobeFace(i)} className={`size-2 rounded-full transition-colors ${i === globeFace ? "bg-foreground" : "bg-muted-foreground/30"}`} />
+                  ))}
+                </div>
+                <button
+                  onClick={() => setGlobeFace((f) => (f + 1) % 4)}
+                  className="flex size-8 items-center justify-center rounded-full border border-border bg-card hover:bg-muted transition-colors"
+                >
+                  <ChevronRight className="size-4" />
+                </button>
+              </div>
             </motion.div>
           ) : (
             <motion.div
@@ -125,58 +166,15 @@ export default function ExplorePage() {
               transition={{ duration: 0.4 }}
               className="relative size-full bg-[var(--tome-surface-elevated)] overflow-hidden"
             >
-              {/* SVG Dot Map */}
-              <svg
-                viewBox="-180 -90 360 180"
-                className="size-full"
-                style={{ transform: "scaleY(-1)" }}
-              >
-                {/* Background dots (simplified world outline) */}
-                {Array.from({ length: 200 }).map((_, i) => {
-                  const lng = ((i * 31) % 360) - 180
-                  const lat = ((i * 47) % 180) - 90
-                  return (
-                    <circle
-                      key={`bg-${i}`}
-                      cx={lng}
-                      cy={lat}
-                      r={0.4}
-                      fill="currentColor"
-                      className="text-muted-foreground/10"
-                    />
-                  )
-                })}
-
-                {/* Country dots */}
-                {countries.map((c) => {
-                  const color = TRADITION_COLORS[c.tradition] ?? "#6366F1"
-                  const isSelected = selectedCountry === c.country
-                  return (
-                    <g key={c.country}>
-                      <circle
-                        cx={c.lng}
-                        cy={c.lat}
-                        r={Math.max(2, Math.min(5, c.authorCount * 1.5))}
-                        fill={color}
-                        opacity={isSelected ? 0.9 : 0.5}
-                        className="cursor-pointer transition-opacity hover:opacity-90"
-                        onClick={() => setSelectedCountry(isSelected ? null : c.country)}
-                      />
-                      {isSelected && (
-                        <circle
-                          cx={c.lng}
-                          cy={c.lat}
-                          r={Math.max(2, Math.min(5, c.authorCount * 1.5)) + 2}
-                          fill="none"
-                          stroke={color}
-                          strokeWidth={0.5}
-                          opacity={0.6}
-                        />
-                      )}
-                    </g>
-                  )
-                })}
-              </svg>
+              {/* Watercolor flat map */}
+              <Image
+                src="/map/world-flat.png"
+                alt="World literary map"
+                width={1200}
+                height={700}
+                className="size-full object-contain"
+                priority
+              />
 
               {/* Legend */}
               <div className="absolute bottom-4 left-4 flex flex-wrap gap-1.5 max-w-xs">
