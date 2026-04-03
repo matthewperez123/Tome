@@ -32,9 +32,12 @@ function loadState(): AvatarState {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (!raw) return DEFAULT_STATE
     const parsed = JSON.parse(raw) as Partial<AvatarState>
+    // Merge: ensure all default unlocks are always present even if localStorage has older data
+    const storedIds = parsed.unlockedCharacterIds ?? []
+    const merged = Array.from(new Set([...DEFAULT_STATE.unlockedCharacterIds, ...storedIds]))
     return {
       selectedCharacterId: parsed.selectedCharacterId ?? DEFAULT_STATE.selectedCharacterId,
-      unlockedCharacterIds: parsed.unlockedCharacterIds ?? DEFAULT_STATE.unlockedCharacterIds,
+      unlockedCharacterIds: merged,
     }
   } catch {
     return DEFAULT_STATE
