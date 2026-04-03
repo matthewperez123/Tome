@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { Heart } from "lucide-react"
+import { toggleFavorite, isFavorite } from "@/lib/shelves/store"
 import { cn } from "@/lib/utils"
 import { type TomeBook } from "@/data/books"
 import { getCoverParams } from "@/components/tome/book-cover"
@@ -50,10 +51,7 @@ function HeartButton({ bookId }: { bookId: string }) {
 
   useEffect(() => {
     setMounted(true)
-    try {
-      const all = JSON.parse(localStorage.getItem("tome-shelves") ?? "[]")
-      setFav(all.some((e: { bookId: string; shelfType: string }) => e.bookId === bookId && e.shelfType === "favorites"))
-    } catch {}
+    setFav(isFavorite(bookId))
   }, [bookId])
 
   if (!mounted) return null
@@ -61,21 +59,8 @@ function HeartButton({ bookId }: { bookId: string }) {
   function toggle(e: React.MouseEvent) {
     e.preventDefault()
     e.stopPropagation()
-    try {
-      const all = JSON.parse(localStorage.getItem("tome-shelves") ?? "[]")
-      if (fav) {
-        const filtered = all.filter(
-          (e: { bookId: string; shelfType: string }) =>
-            !(e.bookId === bookId && e.shelfType === "favorites")
-        )
-        localStorage.setItem("tome-shelves", JSON.stringify(filtered))
-        setFav(false)
-      } else {
-        all.push({ bookId, shelfType: "favorites", addedAt: new Date().toISOString() })
-        localStorage.setItem("tome-shelves", JSON.stringify(all))
-        setFav(true)
-      }
-    } catch {}
+    const result = toggleFavorite(bookId)
+    setFav(result.isFavorite)
   }
 
   return (

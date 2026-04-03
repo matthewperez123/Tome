@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import Link from "next/link"
-import { Search, Bell } from "lucide-react"
+import { Search, Bell, X } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { SidebarTrigger } from "@/components/ui/sidebar"
@@ -11,15 +11,27 @@ import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
 import { getCurrentAvatar } from "@/lib/avatar-state"
 import type { BookCharacter } from "@/data/character-avatars"
 import { CHARACTER_MAP } from "@/data/character-avatars"
+import { useSearch } from "@/hooks/useSearch"
+import { SearchDropdown } from "@/components/tome/SearchDropdown"
 
 export function TopBar({ className }: { className?: string }) {
   const [character, setCharacter] = React.useState<BookCharacter | null>(null)
+  const [query, setQuery] = React.useState("")
+  const [dropdownOpen, setDropdownOpen] = React.useState(false)
+  const inputRef = React.useRef<HTMLInputElement>(null)
 
   React.useEffect(() => {
     setCharacter(getCurrentAvatar())
   }, [])
 
   const displayCharacter = character ?? CHARACTER_MAP["virgil"]
+  const { results, isSearching } = useSearch(query)
+
+  const handleClose = React.useCallback(() => {
+    setDropdownOpen(false)
+    setQuery("")
+    inputRef.current?.blur()
+  }, [])
 
   return (
     <header
@@ -30,12 +42,35 @@ export function TopBar({ className }: { className?: string }) {
     >
       <SidebarTrigger className="md:hidden" />
 
-      {/* Search — Notion style */}
+      {/* Search */}
       <div className="relative flex-1 max-w-md">
-        <Search className="absolute left-2.5 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground" />
+        <Search className="absolute left-2.5 top-1/2 size-3.5 -translate-y-1/2 text-muted-foreground pointer-events-none" />
         <Input
-          placeholder="Search books, notes, quizzes…"
-          className="h-8 bg-[var(--tome-surface-elevated)] pl-8 text-sm border-transparent focus-visible:border-[var(--tome-accent)] focus-visible:bg-background"
+          ref={inputRef}
+          value={query}
+          onChange={(e) => {
+            setQuery(e.target.value)
+            setDropdownOpen(e.target.value.trim().length >= 2)
+          }}
+          onFocus={() => {
+            if (query.trim().length >= 2) setDropdownOpen(true)
+          }}
+          placeholder="Search books, authors, genres…"
+          className="h-8 bg-[var(--tome-surface-elevated)] pl-8 pr-7 text-sm border-transparent focus-visible:border-[var(--tome-accent)] focus-visible:bg-background"
+        />
+        {query && (
+          <button
+            onClick={handleClose}
+            className="absolute right-2 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground transition-colors"
+          >
+            <X className="size-3.5" />
+          </button>
+        )}
+        <SearchDropdown
+          results={results}
+          query={query}
+          isOpen={dropdownOpen && isSearching}
+          onClose={handleClose}
         />
       </div>
 

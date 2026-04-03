@@ -41,6 +41,7 @@ import type { TomeBook } from "@/data/books"
 import type { TomeChapter } from "@/data/chapters"
 import type { Author } from "@/data/authors"
 import { cn } from "@/lib/utils"
+import { toggleFavorite as toggleShelfFavorite, isFavorite as isShelfFavorite } from "@/lib/shelves/store"
 
 // ── Constants ──────────────────────────────────
 
@@ -51,7 +52,7 @@ const DIFFICULTY_COLORS: Record<string, { bg: string; text: string }> = {
   Scholar:      { bg: "rgba(239,68,68,0.15)",   text: "#dc2626" },
 }
 
-const SHELF_KEY = (id: string) => `tome-shelf-${id}`
+// Favorites now use unified shelves/store
 
 // ── Chapter status helper ──────────────────────
 
@@ -119,7 +120,7 @@ export default function BookDetailPage() {
     setRelatedBooks(getBooksByTradition(b.tradition).filter(x => x.id !== bookId).slice(0, 8))
     setAuthorBooks(getBooksByAuthor(b.authorId).filter(x => x.id !== bookId))
     setProgress(getBookProgress(bookId))
-    setIsBookmarked(localStorage.getItem(SHELF_KEY(bookId)) === "true")
+    setIsBookmarked(isShelfFavorite(bookId))
     setMounted(true)
   }, [bookId])
 
@@ -141,9 +142,8 @@ export default function BookDetailPage() {
   }
 
   function toggleBookmark() {
-    const next = !isBookmarked
-    setIsBookmarked(next)
-    localStorage.setItem(SHELF_KEY(bookId), String(next))
+    const result = toggleShelfFavorite(bookId)
+    setIsBookmarked(result.isFavorite)
   }
 
   // ── Derived values ────────────────────────────
