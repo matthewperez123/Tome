@@ -1,5 +1,6 @@
 "use client"
 
+import { usePathname } from "next/navigation"
 import { SidebarProvider } from "@/components/ui/sidebar"
 import { TooltipProvider } from "@/components/ui/tooltip"
 import { TomeEconomyProvider } from "@/components/tome/economy-provider"
@@ -12,6 +13,28 @@ import { ErrorBoundary } from "@/components/tome/error-boundary"
 import { VirgilWrapper } from "@/components/tome/virgil/VirgilWrapper"
 
 export function AppShell({ children }: { children: React.ReactNode }) {
+  const pathname = usePathname()
+  const isLanding = pathname === "/"
+
+  // Landing page has its own navbar — hide app chrome
+  if (isLanding) {
+    return (
+      <ErrorBoundary>
+      <TomeEconomyProvider>
+      <BookProgressProvider>
+      <TooltipProvider>
+      <VirgilWrapper>
+        <main className="min-h-screen">
+          <PageTransition>{children}</PageTransition>
+        </main>
+      </VirgilWrapper>
+      </TooltipProvider>
+      </BookProgressProvider>
+      </TomeEconomyProvider>
+      </ErrorBoundary>
+    )
+  }
+
   return (
     <ErrorBoundary>
     <TomeEconomyProvider>
