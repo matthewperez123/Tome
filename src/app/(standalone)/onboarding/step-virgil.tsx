@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { TextAnimate } from "@/components/ui/text-animate"
 import { TypingAnimation } from "@/components/ui/typing-animation"
 import { Button } from "@/components/ui/button"
@@ -30,8 +31,14 @@ export function StepVirgil({ onComplete }: { onComplete: () => void }) {
       </div>
 
       {/* Virgil Avatar */}
-      <div className="relative z-10 flex size-24 items-center justify-center rounded-full bg-[var(--tome-accent)]/10 ring-1 ring-[var(--tome-accent)]/20">
-        <span className="text-4xl">🏛️</span>
+      <div className="relative z-10 size-28 rounded-full overflow-hidden ring-2 ring-[var(--tome-accent)]/20 bg-[var(--tome-accent)]/10">
+        <Image
+          src="/virgil/virgil-idle.png"
+          alt="Virgil"
+          width={112}
+          height={112}
+          className="w-full h-full object-cover"
+        />
       </div>
 
       {/* Title */}

@@ -54,6 +54,7 @@ import {
   Trophy,
   Users,
 } from "lucide-react"
+import { isOnboardingComplete } from "@/lib/onboarding"
 import { BOOKS } from "@/data/books"
 import { AUTHORS } from "@/data/authors"
 import { CHAPTERS } from "@/data/chapters"
@@ -143,18 +144,12 @@ export default function Home() {
 
         <BlurFade delay={0.5} inView>
           <div className="mt-8 flex items-center gap-3">
-            <ShimmerButton
-              shimmerColor="#ffffff"
-              background="var(--tome-accent)"
-              className="px-6 py-2.5"
-            >
-              <span className="text-sm font-semibold">
-                Start Your Journey
-              </span>
-            </ShimmerButton>
-            <Button variant="ghost" size="lg">
-              Watch Demo
-            </Button>
+            <HeroCTA />
+            <Link href="/library">
+              <Button variant="ghost" size="lg">
+                Browse Library
+              </Button>
+            </Link>
           </div>
         </BlurFade>
       </section>
@@ -681,6 +676,20 @@ export default function Home() {
 }
 
 /* ── Helper Components ── */
+
+function HeroCTA() {
+  const [dest, setDest] = useState("/onboarding")
+  useEffect(() => {
+    if (isOnboardingComplete()) setDest("/library")
+  }, [])
+  return (
+    <Link href={dest}>
+      <ShimmerButton shimmerColor="#ffffff" background="var(--tome-accent)" className="px-6 py-2.5">
+        <span className="text-sm font-semibold">Start Your Journey</span>
+      </ShimmerButton>
+    </Link>
+  )
+}
 
 function LandingNav() {
   const [scrolled, setScrolled] = useState(false)

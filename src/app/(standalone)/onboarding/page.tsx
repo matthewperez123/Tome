@@ -15,7 +15,7 @@
  */
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import { AnimatePresence, motion } from "framer-motion"
 import { springs } from "@/lib/design-tokens"
@@ -23,6 +23,7 @@ import { StepGoal } from "./step-goal"
 import { StepIntent } from "./step-intent"
 import { StepTradition } from "./step-tradition"
 import { StepVirgil } from "./step-virgil"
+import { isOnboardingComplete, completeOnboarding } from "@/lib/onboarding"
 
 const TOTAL_STEPS = 4
 
@@ -31,12 +32,18 @@ export default function OnboardingPage() {
   const [step, setStep] = useState(0)
   const [direction, setDirection] = useState(1)
 
+  // Skip if already completed
+  useEffect(() => {
+    if (isOnboardingComplete()) router.push("/library")
+  }, [router])
+
   function next() {
     if (step < TOTAL_STEPS - 1) {
       setDirection(1)
       setStep((s) => s + 1)
     } else {
-      router.push("/")
+      completeOnboarding()
+      router.push("/library")
     }
   }
 
