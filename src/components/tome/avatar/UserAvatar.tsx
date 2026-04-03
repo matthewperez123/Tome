@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { cn } from "@/lib/utils"
 import type { BookCharacter } from "@/data/character-avatars"
 import { RARITY_COLORS } from "@/data/character-avatars"
@@ -19,11 +20,11 @@ interface UserAvatarProps {
 
 // ── Size map ────────────────────────────────────────────────────────────────
 
-const SIZE_STYLES: Record<AvatarSize, { outer: string; text: string }> = {
-  xs: { outer: "w-6 h-6",    text: "text-[8px]"  },
-  sm: { outer: "w-8 h-8",    text: "text-[10px]" },
-  md: { outer: "w-10 h-10",  text: "text-xs"     },
-  lg: { outer: "w-14 h-14",  text: "text-sm"     },
+const SIZE_STYLES: Record<AvatarSize, { outer: string; text: string; px: number }> = {
+  xs: { outer: "w-6 h-6",    text: "text-[8px]",  px: 24 },
+  sm: { outer: "w-8 h-8",    text: "text-[10px]", px: 32 },
+  md: { outer: "w-10 h-10",  text: "text-xs",     px: 40 },
+  lg: { outer: "w-14 h-14",  text: "text-sm",     px: 56 },
 }
 
 // ── Helper ──────────────────────────────────────────────────────────────────
@@ -48,7 +49,7 @@ export function UserAvatar({
   className,
   showName = false,
 }: UserAvatarProps) {
-  const { outer, text } = SIZE_STYLES[size]
+  const { outer, text, px } = SIZE_STYLES[size]
   const rarityColors     = RARITY_COLORS[character.rarity]
   const initials         = getCharacterInitials(character.name)
 
@@ -87,7 +88,17 @@ export function UserAvatar({
         aria-label={character.name}
         title={character.name}
       >
-        {initials}
+        {character.image ? (
+          <Image
+            src={character.image}
+            alt={character.name}
+            width={px}
+            height={px}
+            className="rounded-full object-cover w-full h-full"
+          />
+        ) : (
+          initials
+        )}
       </div>
 
       {showName && (

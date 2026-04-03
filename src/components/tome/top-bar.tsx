@@ -1,13 +1,26 @@
 "use client"
 
+import * as React from "react"
+import Link from "next/link"
 import { Search, Bell } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { SidebarTrigger } from "@/components/ui/sidebar"
 import { cn } from "@/lib/utils"
+import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
+import { getCurrentAvatar } from "@/lib/avatar-state"
+import type { BookCharacter } from "@/data/character-avatars"
+import { CHARACTER_MAP } from "@/data/character-avatars"
 
 export function TopBar({ className }: { className?: string }) {
+  const [character, setCharacter] = React.useState<BookCharacter | null>(null)
+
+  React.useEffect(() => {
+    setCharacter(getCurrentAvatar())
+  }, [])
+
+  const displayCharacter = character ?? CHARACTER_MAP["virgil"]
+
   return (
     <header
       className={cn(
@@ -34,10 +47,13 @@ export function TopBar({ className }: { className?: string }) {
         </Button>
 
         {/* User avatar */}
-        <Avatar size="sm">
-          <AvatarImage src="" alt="User" />
-          <AvatarFallback>T</AvatarFallback>
-        </Avatar>
+        <Link href="/profile/avatar" className="rounded-full hover:opacity-80 transition-opacity">
+          <UserAvatar
+            character={displayCharacter}
+            size="xs"
+            showRarityRing
+          />
+        </Link>
       </div>
     </header>
   )
