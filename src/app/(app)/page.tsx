@@ -29,10 +29,31 @@ import { Button } from "@/components/ui/button"
 import { NumberTicker } from "@/components/ui/number-ticker"
 import { AnimatedCircularProgressBar } from "@/components/ui/animated-circular-progress-bar"
 import { AvatarCircles } from "@/components/ui/avatar-circles"
-import { lazy, Suspense } from "react"
+import { lazy, Suspense, useEffect, useState } from "react"
 const Globe = lazy(() => import("@/components/ui/globe").then(m => ({ default: m.Globe })))
 import { Marquee } from "@/components/ui/marquee"
-import { BookOpen, BrainCircuit, Flame, Globe2, Map, Users } from "lucide-react"
+import Image from "next/image"
+import Link from "next/link"
+import {
+  Award,
+  BarChart,
+  BookMarked,
+  BookOpen,
+  BookText,
+  BrainCircuit,
+  Calendar,
+  ChevronRight,
+  FileText,
+  Flame,
+  Globe2,
+  LogIn,
+  Map,
+  MessageSquare,
+  School,
+  Sparkles,
+  Trophy,
+  Users,
+} from "lucide-react"
 import { BOOKS } from "@/data/books"
 import { AUTHORS } from "@/data/authors"
 import { CHAPTERS } from "@/data/chapters"
@@ -69,6 +90,9 @@ const tickerBooks = [
 export default function Home() {
   return (
     <div className="relative flex flex-col overflow-hidden">
+      {/* ── Navbar ── */}
+      <LandingNav />
+
       {/* ── Dot Pattern Background ── */}
       <DotPattern
         className="opacity-[0.03] [mask-image:radial-gradient(ellipse_at_center,black_40%,transparent_80%)]"
@@ -367,6 +391,205 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ── How It Works ── */}
+      <section className="mx-auto w-full max-w-4xl px-6 py-20">
+        <BlurFade delay={0.1} inView>
+          <h2 className="text-center text-2xl font-semibold tracking-tight" style={{ letterSpacing: "-0.02em" }}>
+            From shelf to scholar in four steps
+          </h2>
+        </BlurFade>
+        <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-4">
+          {[
+            { num: 1, icon: BookOpen, title: "Browse", desc: "Pick a book from 50+ classics" },
+            { num: 2, icon: BookText, title: "Read", desc: "A chapter in 10–15 minutes" },
+            { num: 3, icon: BrainCircuit, title: "Quiz", desc: "5 comprehension questions" },
+            { num: 4, icon: Sparkles, title: "Earn", desc: "Wisdom, Flames, and Seals" },
+          ].map((step, i) => (
+            <BlurFade key={step.num} delay={0.15 + i * 0.1} inView>
+              <div className="flex flex-col items-center text-center">
+                <div className="flex size-12 items-center justify-center rounded-full bg-[var(--tome-accent)] text-white text-lg font-bold">
+                  {step.num}
+                </div>
+                <step.icon className="mt-3 size-5 text-muted-foreground" />
+                <h3 className="mt-2 text-sm font-semibold">{step.title}</h3>
+                <p className="mt-1 text-xs text-muted-foreground">{step.desc}</p>
+              </div>
+            </BlurFade>
+          ))}
+        </div>
+      </section>
+
+      {/* ── Virgil AI Showcase ── */}
+      <section className="border-y border-border bg-[var(--tome-surface-elevated)] py-20">
+        <div className="mx-auto max-w-5xl px-6">
+          <BlurFade delay={0.1} inView>
+            <h2 className="text-center text-2xl font-semibold tracking-tight" style={{ letterSpacing: "-0.02em" }}>
+              Meet Virgil, your AI literary companion
+            </h2>
+            <p className="mt-2 text-center text-sm text-muted-foreground">
+              Named after the poet who guided Dante through the Divine Comedy
+            </p>
+          </BlurFade>
+
+          <div className="mt-12 grid grid-cols-1 gap-4 sm:grid-cols-3">
+            {[
+              { icon: BookMarked, color: "var(--tome-emerald)", bg: "bg-teal-50", title: "Recommendations", desc: "Virgil analyzes your interests and suggests your next great read." },
+              { icon: MessageSquare, color: "var(--tome-accent)", bg: "bg-indigo-50", title: "Annotations", desc: "Ask about any passage and get contextual literary analysis." },
+              { icon: FileText, color: "var(--tome-violet)", bg: "bg-purple-50", title: "Summaries", desc: "Get clear, concise overviews before diving deep into a text." },
+            ].map((feat, i) => (
+              <BlurFade key={feat.title} delay={0.2 + i * 0.1} inView>
+                <div className={`rounded-xl ${feat.bg} p-6`}>
+                  <feat.icon className="size-5" style={{ color: feat.color }} />
+                  <h3 className="mt-3 text-sm font-semibold">{feat.title}</h3>
+                  <p className="mt-1 text-xs text-muted-foreground leading-relaxed">{feat.desc}</p>
+                </div>
+              </BlurFade>
+            ))}
+          </div>
+
+          {/* Mock Virgil chat */}
+          <BlurFade delay={0.5} inView>
+            <div className="mx-auto mt-10 max-w-lg rounded-xl border border-border bg-card p-5">
+              <div className="flex justify-end">
+                <div className="rounded-2xl rounded-br-md bg-[var(--tome-accent)] px-4 py-2.5 text-sm text-white">
+                  Why did Odysseus blind the Cyclops instead of killing him?
+                </div>
+              </div>
+              <div className="mt-3 flex items-start gap-2">
+                <div className="size-7 shrink-0 rounded-full overflow-hidden ring-1 ring-indigo-200">
+                  <Image src="/virgil/virgil-idle.png" alt="Virgil" width={28} height={28} className="w-full h-full object-cover" />
+                </div>
+                <div className="rounded-2xl rounded-bl-md bg-indigo-50 px-4 py-2.5 text-sm text-foreground leading-relaxed">
+                  Because only the Cyclops could move the boulder blocking the cave. A dead Cyclops can&apos;t open the door. It&apos;s one of the great moments of Greek cleverness over brute strength.
+                </div>
+              </div>
+            </div>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Gamification Showcase ── */}
+      <section className="mx-auto w-full max-w-5xl px-6 py-20">
+        <BlurFade delay={0.1} inView>
+          <h2 className="text-center text-2xl font-semibold tracking-tight" style={{ letterSpacing: "-0.02em" }}>
+            A game you&apos;ll want to play every day
+          </h2>
+        </BlurFade>
+        <div className="mt-12 grid grid-cols-2 gap-4 sm:grid-cols-4">
+          {[
+            { icon: Sparkles, title: "Wisdom", desc: "Earn XP for correct answers", color: "text-amber-500", bg: "bg-amber-50" },
+            { icon: Flame, title: "Flames", desc: "Build daily reading streaks", color: "text-orange-500", bg: "bg-orange-50" },
+            { icon: Award, title: "Seals", desc: "Unlock achievement badges", color: "text-indigo-500", bg: "bg-indigo-50" },
+            { icon: Users, title: "Characters", desc: "Collect literary avatars", color: "text-pink-500", bg: "bg-pink-50" },
+          ].map((item, i) => (
+            <BlurFade key={item.title} delay={0.15 + i * 0.1} inView>
+              <div className={`flex flex-col items-center rounded-xl ${item.bg} p-5 text-center`}>
+                <item.icon className={`size-6 ${item.color}`} />
+                <h3 className="mt-2 text-sm font-semibold">{item.title}</h3>
+                <p className="mt-1 text-[11px] text-muted-foreground">{item.desc}</p>
+              </div>
+            </BlurFade>
+          ))}
+        </div>
+        <BlurFade delay={0.5} inView>
+          <p className="mx-auto mt-8 max-w-2xl text-center text-sm text-muted-foreground">
+            Hearts keep you honest. Coins buy streak freezes. Daily goals build habits. Reading becomes a ritual.
+          </p>
+        </BlurFade>
+      </section>
+
+      {/* ── Classroom / B2B Section ── */}
+      <section className="bg-green-50/30 py-20">
+        <div className="mx-auto max-w-5xl px-6">
+          <BlurFade delay={0.1} inView>
+            <h2 className="text-center text-2xl font-semibold tracking-tight" style={{ letterSpacing: "-0.02em" }}>
+              Built for classrooms, powered for teachers
+            </h2>
+            <p className="mx-auto mt-3 max-w-xl text-center text-sm text-muted-foreground">
+              Tome integrates into any curriculum. Teachers assign books, track progress, and use Virgil as a teaching assistant.
+            </p>
+          </BlurFade>
+
+          <div className="mt-12 grid grid-cols-1 gap-6 md:grid-cols-2">
+            <BlurFade delay={0.2} inView>
+              <div className="rounded-2xl border border-border bg-card p-6">
+                <h3 className="text-base font-semibold">For teachers</h3>
+                <ul className="mt-4 space-y-3">
+                  {[
+                    { icon: School, text: "Create classes with join codes" },
+                    { icon: BookOpen, text: "Assign books with due dates" },
+                    { icon: BarChart, text: "Track student reading progress" },
+                    { icon: Sparkles, text: "See quiz scores and Wisdom earned" },
+                  ].map((item) => (
+                    <li key={item.text} className="flex items-center gap-3 text-sm text-muted-foreground">
+                      <item.icon className="size-4 shrink-0 text-green-600" />
+                      {item.text}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </BlurFade>
+            <BlurFade delay={0.3} inView>
+              <div className="rounded-2xl border border-border bg-card p-6">
+                <h3 className="text-base font-semibold">For students</h3>
+                <ul className="mt-4 space-y-3">
+                  {[
+                    { icon: LogIn, text: "Join with a 6-character code" },
+                    { icon: Calendar, text: "See assigned reading and deadlines" },
+                    { icon: MessageSquare, text: "Get help from Virgil on tough passages" },
+                    { icon: Trophy, text: "Earn Wisdom for your class and yourself" },
+                  ].map((item) => (
+                    <li key={item.text} className="flex items-center gap-3 text-sm text-muted-foreground">
+                      <item.icon className="size-4 shrink-0 text-green-600" />
+                      {item.text}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </BlurFade>
+          </div>
+          <BlurFade delay={0.4} inView>
+            <p className="mt-6 text-center text-xs italic text-muted-foreground">
+              4 million high school English teachers in the US alone.
+            </p>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Catalog Preview ── */}
+      <section className="mx-auto w-full max-w-5xl px-6 py-16">
+        <BlurFade delay={0.1} inView>
+          <h2 className="text-center text-2xl font-semibold tracking-tight" style={{ letterSpacing: "-0.02em" }}>
+            Your library awaits
+          </h2>
+        </BlurFade>
+        <div className="mt-10 flex gap-4 overflow-x-auto pb-4 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
+          {BOOKS.slice(0, 8).map((book, i) => (
+            <BlurFade key={book.id} delay={0.1 + i * 0.05} inView>
+              <div className="w-[140px] shrink-0 rounded-xl border border-border bg-card overflow-hidden">
+                <div className="h-20 w-full" style={{ background: `linear-gradient(135deg, ${book.coverColors.primary}, ${book.coverColors.secondary})` }} />
+                <div className="p-3">
+                  <p className="text-xs font-semibold leading-tight line-clamp-2">{book.title}</p>
+                  <p className="mt-1 text-[10px] text-muted-foreground">{book.author}</p>
+                </div>
+              </div>
+            </BlurFade>
+          ))}
+          <BlurFade delay={0.6} inView>
+            <Link href="/library" className="flex w-[140px] shrink-0 flex-col items-center justify-center rounded-xl border border-dashed border-border bg-muted/30 p-3 text-center hover:bg-muted/50 transition-colors">
+              <span className="text-2xl font-bold text-muted-foreground">{BOOKS.length}+</span>
+              <span className="mt-1 text-xs text-muted-foreground">Browse all</span>
+              <ChevronRight className="mt-1 size-4 text-muted-foreground" />
+            </Link>
+          </BlurFade>
+        </div>
+        <BlurFade delay={0.5} inView>
+          <p className="mt-6 text-center text-sm text-muted-foreground">
+            Homer, Austen, Dostoevsky, Plato, Shakespeare, and more.
+          </p>
+        </BlurFade>
+      </section>
+
       {/* ── Social Proof Stats ── */}
       <section className="border-y border-border bg-[var(--tome-surface-elevated)] py-16">
         <div className="mx-auto max-w-4xl px-6">
@@ -403,35 +626,54 @@ export default function Home() {
         </Marquee>
       </section>
 
-      {/* ── Footer ── */}
-      <footer className="border-t border-border">
-        {/* Ornamental divider */}
-        <div className="flex items-center justify-center py-6">
-          <div className="h-px w-12 bg-border" />
-          <div className="mx-3 size-1.5 rotate-45 border border-border" />
-          <div className="h-px w-12 bg-border" />
-        </div>
-
-        <div className="mx-auto max-w-5xl px-6 pb-12">
-          <div className="flex flex-col items-center gap-6 text-center md:flex-row md:justify-between md:text-left">
-            {/* Wordmark */}
-            <div className="flex items-center gap-2">
-              <BookOpen className="size-4 text-muted-foreground" />
-              <span className="text-sm font-semibold tracking-tight">Tome</span>
-            </div>
-
-            {/* Links */}
-            <nav aria-label="Footer" className="flex gap-6 text-xs text-muted-foreground">
-              <a href="#" className="transition-opacity hover:opacity-70">About</a>
-              <a href="#" className="transition-opacity hover:opacity-70">Privacy</a>
-              <a href="#" className="transition-opacity hover:opacity-70">Terms</a>
-              <a href="#" className="transition-opacity hover:opacity-70">Contact</a>
-            </nav>
-
-            <p className="text-xs text-muted-foreground/60">
-              Public domain literature for everyone.
+      {/* ── Final CTA ── */}
+      <section className="bg-stone-900 py-20 px-6">
+        <div className="mx-auto flex max-w-3xl flex-col items-center text-center">
+          <BlurFade delay={0.1} inView>
+            <h2 className="text-3xl font-bold text-white sm:text-4xl" style={{ letterSpacing: "-0.02em" }}>
+              Start reading tonight.
+            </h2>
+            <p className="mt-4 text-base text-stone-400">
+              Join readers exploring the greatest books ever written.
             </p>
+          </BlurFade>
+          <BlurFade delay={0.25} inView>
+            <Link href="/onboarding">
+              <ShimmerButton
+                shimmerColor="#ffffff"
+                background="#6366f1"
+                className="mt-8 px-8 py-3"
+              >
+                <span className="text-base font-semibold">Begin your journey</span>
+              </ShimmerButton>
+            </Link>
+          </BlurFade>
+          <BlurFade delay={0.35} inView>
+            <div className="mt-6 size-20 rounded-full overflow-hidden ring-2 ring-indigo-400/30">
+              <Image src="/virgil/virgil-idle.png" alt="Virgil" width={80} height={80} className="w-full h-full object-cover" />
+            </div>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Footer ── */}
+      <footer className="bg-stone-900 border-t border-stone-800 py-8 px-6">
+        <div className="mx-auto max-w-5xl">
+          <div className="flex flex-col items-center gap-6 text-center md:flex-row md:justify-between md:text-left">
+            <div>
+              <span className="text-sm font-bold text-stone-400">TOME</span>
+              <p className="mt-1 text-xs text-stone-600">Made with care in Delaware</p>
+            </div>
+            <nav aria-label="Footer" className="flex gap-6 text-xs text-stone-500">
+              <Link href="/library" className="hover:text-stone-300 transition-colors">Library</Link>
+              <a href="#" className="hover:text-stone-300 transition-colors">Classrooms</a>
+              <a href="#" className="hover:text-stone-300 transition-colors">About</a>
+              <a href="#" className="hover:text-stone-300 transition-colors">Contact</a>
+            </nav>
           </div>
+          <p className="mt-4 text-center text-xs text-stone-600 md:text-left">
+            © 2026 Tome, Inc.
+          </p>
         </div>
       </footer>
     </div>
@@ -439,6 +681,39 @@ export default function Home() {
 }
 
 /* ── Helper Components ── */
+
+function LandingNav() {
+  const [scrolled, setScrolled] = useState(false)
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 60)
+    window.addEventListener("scroll", onScroll, { passive: true })
+    return () => window.removeEventListener("scroll", onScroll)
+  }, [])
+  return (
+    <nav
+      className={`fixed top-0 left-0 right-0 z-40 h-16 flex items-center transition-all duration-200 ${
+        scrolled ? "bg-white/80 backdrop-blur-sm border-b border-stone-200 shadow-sm" : "bg-transparent"
+      }`}
+    >
+      <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6">
+        <Link href="/" className="flex items-center gap-2">
+          <BookOpen className="size-5 text-[var(--tome-accent)]" />
+          <span className="text-xl font-bold text-[var(--tome-accent)]">TOME</span>
+        </Link>
+        <div className="flex items-center gap-3">
+          <Link href="/library" className="text-sm text-stone-600 hover:text-stone-900 transition-colors">
+            Log in
+          </Link>
+          <Link href="/onboarding">
+            <Button size="sm" className="rounded-xl bg-[var(--tome-accent)] text-white hover:bg-[var(--tome-accent)]/90 text-sm px-4">
+              Get started
+            </Button>
+          </Link>
+        </div>
+      </div>
+    </nav>
+  )
+}
 
 function BentoCard({
   className,

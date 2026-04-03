@@ -1,14 +1,17 @@
 "use client"
 
 import Image from "next/image"
+import { usePathname } from "next/navigation"
 import { motion } from "framer-motion"
 import { useVirgil } from "@/lib/virgil-context"
 import { getPoseImage } from "@/lib/virgil-poses"
 
 export function VirgilCompanion() {
   const { toggleChat, isOpen, currentPose, hasNotification } = useVirgil()
+  const pathname = usePathname()
 
-  if (isOpen) return null // hide companion when chat is open
+  // Hide on landing page (has its own Virgil presence) and when chat is open
+  if (isOpen || pathname === "/") return null
 
   return (
     <motion.button
