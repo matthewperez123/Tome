@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 import {
   Sparkles, Flame, BookOpen, Bookmark, ChevronRight,
   Trophy, Target, Share2, BarChart2, LogOut,
-  Check, Lock, Zap, BookMarked,
+  Check, Lock, Zap, BookMarked, Pencil,
 } from "lucide-react"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { getBooks } from "@/lib/content"
@@ -18,7 +18,8 @@ import { cn } from "@/lib/utils"
 import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
 import { getCurrentAvatar, getSelectedCharacterId } from "@/lib/avatar-state"
 import type { BookCharacter } from "@/data/character-avatars"
-import { CHARACTER_MAP } from "@/data/character-avatars"
+import { CHARACTER_MAP, RARITY_COLORS } from "@/data/character-avatars"
+import { AvatarPickerModal } from "@/components/tome/avatar/AvatarPickerModal"
 
 // ── Level system ───────────────────────────────
 
@@ -169,10 +170,13 @@ export default function ProfilePage() {
   const [settingTheme,setSettingTheme]   = useState("default")
   const [shareOpen,   setShareOpen]      = useState(false)
   const [avatarCharacter, setAvatarCharacter] = useState<BookCharacter | null>(null)
+  const [pickerOpen, setPickerOpen] = useState(false)
+
+  const refreshAvatar = () => setAvatarCharacter(getCurrentAvatar())
 
   useEffect(() => {
     setAllProgress(getAllBookProgress())
-    setAvatarCharacter(getCurrentAvatar())
+    refreshAvatar()
   }, [])
 
   const displayCharacter = avatarCharacter ?? CHARACTER_MAP["virgil"]
@@ -222,7 +226,12 @@ export default function ProfilePage() {
           <section className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
             {/* Avatar */}
             <div className="relative shrink-0 flex flex-col items-center gap-1.5">
-              <Link href="/profile/avatar">
+              <motion.button
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.97 }}
+                onClick={() => setPickerOpen(true)}
+                className="cursor-pointer outline-none"
+              >
                 {displayCharacter && (
                   <UserAvatar
                     character={displayCharacter}
@@ -230,18 +239,34 @@ export default function ProfilePage() {
                     showRarityRing={true}
                   />
                 )}
-              </Link>
+              </motion.button>
               {displayCharacter && (
-                <span className="text-xs text-muted-foreground text-center max-w-[80px] truncate leading-tight">
-                  {displayCharacter.name}
-                </span>
+                <>
+                  <span className="text-sm font-semibold text-foreground text-center max-w-[120px] truncate leading-tight">
+                    {displayCharacter.name}
+                  </span>
+                  <span className="text-[10px] text-muted-foreground text-center max-w-[120px] truncate leading-tight">
+                    {displayCharacter.bookTitle}
+                  </span>
+                  <span
+                    className="inline-flex items-center rounded-full px-1.5 py-0.5 text-[9px] font-semibold leading-none"
+                    style={{
+                      color: RARITY_COLORS[displayCharacter.rarity].text,
+                      backgroundColor: RARITY_COLORS[displayCharacter.rarity].bg,
+                      border: `1px solid ${RARITY_COLORS[displayCharacter.rarity].border}`,
+                    }}
+                  >
+                    {displayCharacter.rarity}
+                  </span>
+                </>
               )}
-              <Link
-                href="/profile/avatar"
-                className="text-[10px] text-muted-foreground/70 hover:text-foreground transition-colors"
+              <button
+                onClick={() => setPickerOpen(true)}
+                className="inline-flex items-center gap-1 text-[11px] text-muted-foreground/70 hover:text-foreground transition-colors"
               >
-                Change Avatar →
-              </Link>
+                <Pencil className="size-3" />
+                Change Avatar
+              </button>
               {/* Level badge */}
               <div
                 className="rounded-full px-2 py-0.5 text-[10px] font-bold leading-tight"
@@ -250,6 +275,13 @@ export default function ProfilePage() {
                 Lv {levelInfo.current.level}
               </div>
             </div>
+
+            {/* Avatar picker modal */}
+            <AvatarPickerModal
+              open={pickerOpen}
+              onOpenChange={setPickerOpen}
+              onAvatarChanged={refreshAvatar}
+            />
 
             {/* Info */}
             <div className="flex-1 min-w-0 text-center sm:text-left">
