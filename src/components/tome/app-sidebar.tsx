@@ -117,6 +117,7 @@ function SidebarNav({ pathname }: { pathname: string }) {
     if (pathname.startsWith("/profile"))  return "/profile" // /profile/stats etc
     if (pathname.startsWith("/clubs/"))   return "/social"
     if (pathname.startsWith("/quiz/"))    return "/quizzes"
+    if (pathname.startsWith("/classroom/")) return "/classroom"
     if (pathname.startsWith("/read/"))    return "/reading"
     return pathname
   })()
