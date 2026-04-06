@@ -18,6 +18,9 @@ const TRADITION_COLORS: Record<string, string> = {
   "French":            "#0A1F3D",    // Prussian blue
   "Modernist":         "#111111",    // near black
   "Eastern":           "#5C2800",    // dark amber-brown
+  "Scandinavian":      "#1E293B",
+  "Germanic":          "#1F2937",
+  "World Literature":  "#1A1A2E",
 }
 
 const DEFAULT_BAND_COLOR = "#1A1A2E"

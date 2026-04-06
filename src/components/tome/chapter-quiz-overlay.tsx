@@ -2,7 +2,7 @@
 
 import { useEffect, useReducer, useRef, useCallback, useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Heart, ChevronRight, RotateCcw, X } from "lucide-react"
+import { Heart, ChevronRight, RotateCcw, X, Trophy } from "lucide-react"
 import { Confetti, type ConfettiRef } from "@/components/ui/confetti"
 import { Button } from "@/components/ui/button"
 import { quizReducer, createQuizState, type Quiz, type Question } from "@/lib/quiz-engine"
@@ -144,10 +144,10 @@ function ProgressDots({ total, answered }: { total: number; answered: number }) 
           key={i}
           className={`h-2 w-2 rounded-full transition-all duration-300 ${
             i < answered
-              ? "bg-[#4F46E5] scale-110"
+              ? "bg-[var(--tome-accent)] scale-110"
               : i === answered
-                ? "bg-stone-300 ring-2 ring-[#4F46E5]/40"
-                : "bg-stone-300"
+                ? "bg-[#444444] ring-2 ring-[var(--tome-accent)]/40"
+                : "bg-[#444444]"
           }`}
         />
       ))}
@@ -170,17 +170,17 @@ function OptionButton({
   onClick: () => void
 }) {
   const stateClasses = {
-    idle: "border-stone-300/40 bg-white text-ink hover:border-[#4F46E5] hover:shadow-sm",
-    correct: "border-emerald-500 bg-emerald-50 text-emerald-700",
-    wrong: "border-rose-500 bg-rose-50 text-rose-700",
-    disabled: "border-stone-200/20 bg-white text-muted-foreground opacity-50",
+    idle: "border-[#333333] bg-[#222222] text-foreground hover:border-[var(--tome-accent)]",
+    correct: "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]",
+    wrong: "border-[#A04444] bg-[#2E1A1A] text-[#C87272]",
+    disabled: "border-[#333333] bg-[#1A1A1A] text-muted-foreground opacity-50",
   }
 
   const badgeClasses = {
-    idle: "border-stone-300 bg-stone-100 text-stone-600",
-    correct: "border-emerald-500 bg-emerald-100 text-emerald-700",
-    wrong: "border-rose-500 bg-rose-100 text-rose-700",
-    disabled: "border-stone-200 bg-stone-50 text-stone-400",
+    idle: "border-[#444444] bg-[#2A2A2A] text-[#B0A898]",
+    correct: "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]",
+    wrong: "border-[#A04444] bg-[#2E1A1A] text-[#C87272]",
+    disabled: "border-[#333333] bg-[#1A1A1A] text-[#666666]",
   }
 
   return (
@@ -248,9 +248,9 @@ function CelebrationPhase({
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
           transition={{ ...springs.interactive, delay: 0.25 }}
-          className="text-6xl block"
+          className="block"
         >
-          🎉
+          <Trophy className="size-10 text-[#D4B37A]" />
         </motion.span>
         {/* Wisdom float anchored near the emoji */}
         <div className="absolute inset-0">
@@ -279,7 +279,7 @@ function CelebrationPhase({
       >
         <Button
           onClick={onStart}
-          className="bg-[#4F46E5] hover:bg-[#4338CA] text-white px-8 py-3 rounded-xl text-base font-semibold gap-2 shadow-lg shadow-indigo-500/20"
+          className="bg-[var(--tome-accent)] hover:bg-[#E0C48A] text-[#111111] px-8 py-3 rounded-xl text-base font-semibold gap-2 shadow-lg shadow-black/20"
         >
           Start the Trial
           <ChevronRight className="w-4 h-4" />
@@ -366,7 +366,7 @@ function QuizPhase({
   return (
     <div className="flex flex-col h-full">
       {/* Header bar */}
-      <div className="flex items-center justify-between px-6 py-4 bg-white border-b border-stone-200/20">
+      <div className="flex items-center justify-between px-6 py-4 bg-card border-b border-border">
         <div className="flex flex-col gap-0.5">
           <span className="text-xs text-muted-foreground font-medium truncate max-w-[180px]">{book.title}</span>
           <span className="text-xs text-muted-foreground truncate max-w-[180px]">{chapterTitle}</span>
@@ -384,7 +384,7 @@ function QuizPhase({
             initial={{ opacity: 0, y: 20 }}
             animate={shake ? { x: [-8, 8, -6, 6, -3, 3, 0] } : { opacity: 1, y: 0, x: 0 }}
             transition={shake ? { duration: 0.45 } : { duration: 0.3 }}
-            className="rounded-2xl border-2 border-stone-200/20 bg-white p-6 space-y-5 shadow-sm transition-colors duration-300"
+            className="rounded-2xl border-2 border-border bg-card p-6 space-y-5 shadow-sm transition-colors duration-300"
           >
             {/* Question meta */}
             <div className="flex items-center justify-between">
@@ -466,7 +466,7 @@ function QuizPhase({
               >
                 <Button
                   onClick={onNext}
-                  className="bg-[#4F46E5] hover:bg-[#4338CA] text-white px-6 py-2.5 rounded-xl font-semibold gap-2 shadow-lg shadow-indigo-500/20"
+                  className="bg-[var(--tome-accent)] hover:bg-[#E0C48A] text-[#111111] px-6 py-2.5 rounded-xl font-semibold gap-2 shadow-lg shadow-black/20"
                 >
                   {currentIndex < questions.length - 1 ? (
                     <>
@@ -519,7 +519,7 @@ function ResultsPhase({
           particleCount: 80,
           spread: 60,
           origin: { y: 0.5 },
-          colors: ["#4F46E5", "#F59E0B", "#8B5CF6"],
+          colors: ["#D4B37A", "#6EAA6E", "#6E9AC8", "#C87272", "#E0C48A"],
         })
       }, 400)
       return () => clearTimeout(t)
@@ -543,7 +543,7 @@ function ResultsPhase({
         transition={{ duration: 0.4 }}
         className="space-y-2"
       >
-        {passed && <span className="text-5xl block mb-2">🎉</span>}
+        {passed && <span className="block mb-2"><Trophy className="size-10 text-[#D4B37A] mx-auto" /></span>}
         <h2 className="font-serif text-3xl font-bold tracking-tight text-ink">
           {passed ? "Trial Passed!" : "Not quite..."}
         </h2>
@@ -557,8 +557,8 @@ function ResultsPhase({
         initial={{ opacity: 0, scale: 0.9 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ ...springs.gentle, delay: 0.15 }}
-        className={`rounded-2xl border-2 px-10 py-8 space-y-6 w-full max-w-sm bg-white shadow-sm ${
-          passed ? "border-[#4F46E5]/20" : "border-stone-200/20"
+        className={`rounded-2xl border-2 px-10 py-8 space-y-6 w-full max-w-sm bg-card shadow-sm ${
+          passed ? "border-[var(--tome-accent)]/20" : "border-border"
         }`}
       >
         {/* Score fraction */}
@@ -600,7 +600,7 @@ function ResultsPhase({
 
           <Button
             onClick={() => onPass(xpEarned, coinsEarned)}
-            className="w-full bg-[#4F46E5] hover:bg-[#4338CA] text-white py-3 rounded-xl text-base font-semibold gap-2 shadow-lg shadow-indigo-500/20"
+            className="w-full bg-[var(--tome-accent)] hover:bg-[#E0C48A] text-[#111111] py-3 rounded-xl text-base font-semibold gap-2 shadow-lg shadow-black/20"
           >
             Continue Reading
             <ChevronRight className="w-4 h-4" />
@@ -788,7 +788,7 @@ export function ChapterQuizOverlay({
           animate={{ y: 0 }}
           exit={{ y: "100%" }}
           transition={{ ...springs.gentle, duration: 0.55 }}
-          className="fixed inset-0 z-50 bg-[#FAFAF8] flex flex-col"
+          className="fixed inset-0 z-50 bg-background flex flex-col"
         >
           {/* Close button (only visible in quiz/results phase) */}
           <AnimatePresence>
@@ -799,7 +799,7 @@ export function ChapterQuizOverlay({
                 exit={{ opacity: 0 }}
                 transition={{ duration: 0.2 }}
                 onClick={onClose}
-                className="absolute top-4 right-4 z-10 p-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-500 hover:text-ink transition-colors"
+                className="absolute top-4 right-4 z-10 p-2 rounded-full bg-muted hover:bg-muted/80 text-muted-foreground hover:text-foreground transition-colors"
                 aria-label="Exit trial"
               >
                 <X className="w-4 h-4" />

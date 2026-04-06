@@ -1,5 +1,6 @@
 "use client"
 
+import { Landmark } from "lucide-react"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Button } from "@/components/ui/button"
 
@@ -14,7 +15,7 @@ export default function Error({
       <BlurFade delay={0.1} inView>
         <div className="flex flex-col items-center text-center max-w-md">
           <div className="flex size-16 items-center justify-center rounded-full bg-[var(--tome-accent)]/10 mb-5">
-            <span className="text-3xl">🏛️</span>
+            <Landmark className="size-8 text-[#B0A898]" />
           </div>
           <h2
             className="text-xl font-semibold tracking-tight"

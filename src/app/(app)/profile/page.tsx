@@ -8,6 +8,7 @@ import {
   Trophy, Target, Share2, BarChart2, LogOut,
   Check, Lock, Zap, BookMarked, Pencil,
 } from "lucide-react"
+import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { getBooks } from "@/lib/content"
 import { TRADITION_COLORS } from "@/components/tome/book-card"
@@ -403,6 +404,9 @@ export default function ProfilePage() {
           </section>
         </BlurFade>
 
+        {/* ── Virgil Reflection ─────────────────── */}
+        <VirgilReflection type="progress" context={{ booksRead: Object.keys(allProgress), chaptersCompleted: totalChapters, streakDays: DEMO_STREAK }} />
+
         {/* ── 4. Streak Calendar ────────────────── */}
         <BlurFade delay={0.14} inView>
           <section>
@@ -681,7 +685,7 @@ export default function ProfilePage() {
                           className="text-[10px] text-muted-foreground hover:text-[var(--tome-accent)] transition-colors"
                         />
                       </span>
-                      <p className="text-[10px] text-muted-foreground/60 mt-0.5">✓ {completedOn}</p>
+                      <p className="text-[10px] text-muted-foreground/60 mt-0.5"><Check className="size-3 inline" /> {completedOn}</p>
                     </div>
                   )
                 })}
@@ -869,7 +873,7 @@ export default function ProfilePage() {
                           : "border-border text-muted-foreground hover:border-muted-foreground"
                       )}
                     >
-                      {mode === "guided" ? "🎯 Guided" : "📖 Free Read"}
+                      {mode === "guided" ? <><Target className="size-3.5" /> Guided</> : <><BookOpen className="size-4" /> Free Read</>}
                     </button>
                   ))}
                 </div>

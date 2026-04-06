@@ -7,7 +7,7 @@ import {
   Moon, Scroll, BookMarked, Contrast,
   Shirt, Crown, Star, BookOpen,
   ChevronDown, ChevronUp, Check, AlertCircle,
-  Coins,
+  Coins, Palette, ScrollText,
 } from "lucide-react"
 import { useEconomy } from "@/components/tome/economy-provider"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -168,10 +168,10 @@ const SHOP_ITEMS: ShopItem[] = [
   },
 ]
 
-const CATEGORIES: { id: ShopCategory; label: string; emoji: string }[] = [
-  { id: "power-ups", label: "Power-Ups",    emoji: "⚡" },
-  { id: "themes",    label: "Themes",        emoji: "🎨" },
-  { id: "virgil",    label: "Virgil",         emoji: "📜" },
+const CATEGORIES: { id: ShopCategory; label: string; icon: React.ReactNode }[] = [
+  { id: "power-ups", label: "Power-Ups",    icon: <Zap className="size-4" /> },
+  { id: "themes",    label: "Themes",        icon: <Palette className="size-4" /> },
+  { id: "virgil",    label: "Virgil",         icon: <ScrollText className="size-4" /> },
 ]
 
 // ─────────────────────────────────────────────
@@ -362,7 +362,7 @@ export default function ShopPage() {
                     : "border-border text-muted-foreground hover:text-foreground hover:border-muted-foreground/40"
                 )}
               >
-                <span className="text-base leading-none">{cat.emoji}</span>
+                <span className="text-base leading-none">{cat.icon}</span>
                 <span className="hidden sm:inline">{cat.label}</span>
               </button>
             ))}

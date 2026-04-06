@@ -18,7 +18,7 @@
 import { useEffect, useState, useCallback, useRef } from "react"
 import { useParams, useRouter } from "next/navigation"
 import { motion, AnimatePresence } from "framer-motion"
-import { Heart, Zap, Trophy, ChevronRight, X, Check, BookOpen } from "lucide-react"
+import { Heart, Zap, Trophy, ChevronRight, X, Check, BookOpen, Landmark } from "lucide-react"
 import { supabase } from "@/lib/supabase"
 import { useEconomy } from "@/components/tome/economy-provider"
 import {
@@ -243,7 +243,7 @@ export default function QuizPage() {
           className="relative z-10"
         >
           <div className="mx-auto flex size-20 items-center justify-center rounded-full bg-[var(--tome-accent)]/10 mb-6">
-            <span className="text-3xl">🏛️</span>
+            <Landmark className="size-8 text-[#B0A898]" />
           </div>
           <h1 className="text-xl font-bold tracking-tight">Don&apos;t give up!</h1>
           <p className="mt-2 text-sm text-muted-foreground max-w-xs mx-auto">

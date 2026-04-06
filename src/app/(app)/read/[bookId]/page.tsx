@@ -45,6 +45,7 @@ import { PaginatedReader } from "@/components/tome/paginated-reader"
 import { getQuestionsForChapter } from "@/lib/chapter-questions"
 import { isChapterLocked } from "@/lib/book-progress"
 import { paginateHTML } from "@/lib/paginator"
+import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { AuthorLink } from "@/components/tome/author-link"
 import { cn } from "@/lib/utils"
 
@@ -608,6 +609,18 @@ export default function ReaderPage() {
                       data-reader-text
                       dangerouslySetInnerHTML={{ __html: chapterHTML }}
                     />
+
+                    {/* Virgil Reflection */}
+                    {chapterEndReached && (
+                      <VirgilReflection
+                        type="progress"
+                        context={{
+                          chaptersCompleted: completedChapterIndices.length,
+                          booksRead: [],
+                        }}
+                        className="mt-8"
+                      />
+                    )}
 
                     {/* Finish Chapter CTA */}
                     <AnimatePresence>

@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Heart } from "lucide-react"
+import { Heart, Flame, TrendingUp, BookOpen } from "lucide-react"
 import { toggleFavorite, isFavorite } from "@/lib/shelves/store"
 import { cn } from "@/lib/utils"
 import { type TomeBook } from "@/data/books"
@@ -28,19 +28,22 @@ export const TRADITION_COLORS: Record<string, { bg: string; text: string; dot: s
   "Post-Colonial":     { bg: "rgba(16,185,129,0.14)",  text: "#065f46",  dot: "#10B981" },
   "Eastern":           { bg: "rgba(249,115,22,0.14)",  text: "#c2410c",  dot: "#F97316" },
   "Contemporary":      { bg: "rgba(167,139,250,0.14)", text: "#5b21b6",  dot: "#A78BFA" },
+  "Scandinavian":      { bg: "rgba(100,116,139,0.14)", text: "#334155",  dot: "#64748B" },
+  "Germanic":          { bg: "rgba(107,114,128,0.14)", text: "#374151",  dot: "#6B7280" },
+  "World Literature":  { bg: "rgba(156,163,175,0.14)", text: "#4b5563",  dot: "#9CA3AF" },
 }
 
 const DIFFICULTY_COLORS: Record<string, { bg: string; text: string }> = {
-  Beginner:     { bg: "rgba(34,197,94,0.15)",   text: "#16a34a" },
-  Intermediate: { bg: "rgba(245,158,11,0.15)",  text: "#b45309" },
-  Advanced:     { bg: "rgba(249,115,22,0.15)",  text: "#c2410c" },
-  Scholar:      { bg: "rgba(239,68,68,0.15)",   text: "#dc2626" },
+  Beginner:     { bg: "rgba(78,154,78,0.15)",   text: "#6EAA6E" },
+  Intermediate: { bg: "rgba(78,134,178,0.15)",  text: "#6E9AC8" },
+  Advanced:     { bg: "rgba(178,148,78,0.15)",  text: "#C8A86E" },
+  Scholar:      { bg: "rgba(178,78,78,0.15)",   text: "#C87272" },
 }
 
-const TREND_ICONS: Record<string, string> = {
-  hot:     "🔥",
-  rising:  "📈",
-  steady:  "📚",
+const TREND_ICONS: Record<string, React.ReactNode> = {
+  hot:     <Flame className="size-3 text-[#D4B37A]" />,
+  rising:  <TrendingUp className="size-3 text-[#6E9AC8]" />,
+  steady:  <BookOpen className="size-3 text-[#B0A898]" />,
 }
 
 // ── HeartButton ────────────────────────────────

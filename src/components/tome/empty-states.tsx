@@ -1,6 +1,6 @@
 "use client"
 
-import { BookOpen, Feather, MessageSquare, Trophy, Search } from "lucide-react"
+import { BookOpen, Feather, MessageSquare, Trophy, Search, Landmark } from "lucide-react"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -73,7 +73,7 @@ export function EmptyActivity({ className }: EmptyStateProps) {
     <BlurFade delay={0.1} inView>
       <div className={cn("flex flex-col items-center justify-center py-16 text-center", className)}>
         <div className="flex size-14 items-center justify-center rounded-full bg-[var(--tome-accent)]/10 mb-4">
-          <span className="text-2xl">🏛️</span>
+          <Landmark className="size-6 text-[#B0A898]" />
         </div>
         <p className="text-sm font-medium">Your journey begins here</p>
         <p className="mt-1 text-xs text-muted-foreground max-w-xs font-serif italic">

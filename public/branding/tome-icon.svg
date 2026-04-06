@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" rx="80" ry="80" fill="#0A0A0A"/>
+  <!-- Fanning book: 9 page lines from spine, 280px long, spanning 160° -->
+  <g stroke="#E8E4DF" stroke-width="14" stroke-linecap="round" fill="none">
+    <!-- Spine (short vertical at base) -->
+    <line x1="512" y1="630" x2="512" y2="690"/>
+    <!-- Pages fanning from (512, 630), length=280, angles -80° to +80° in 20° steps -->
+    <!-- -80° (far left) -->
+    <line x1="512" y1="630" x2="236.3" y2="581.4"/>
+    <!-- -60° -->
+    <line x1="512" y1="630" x2="269.5" y2="490"/>
+    <!-- -40° -->
+    <line x1="512" y1="630" x2="332" y2="415.5"/>
+    <!-- -20° -->
+    <line x1="512" y1="630" x2="416.2" y2="366.9"/>
+    <!-- 0° (center, straight up) -->
+    <line x1="512" y1="630" x2="512" y2="350"/>
+    <!-- +20° -->
+    <line x1="512" y1="630" x2="607.8" y2="366.9"/>
+    <!-- +40° -->
+    <line x1="512" y1="630" x2="692" y2="415.5"/>
+    <!-- +60° -->
+    <line x1="512" y1="630" x2="754.5" y2="490"/>
+    <!-- +80° (far right) -->
+    <line x1="512" y1="630" x2="787.7" y2="581.4"/>
+  </g>
+</svg>

@@ -18,7 +18,7 @@
 import { useEffect, useState, useCallback } from "react"
 import { useParams } from "next/navigation"
 import { motion, AnimatePresence } from "framer-motion"
-import { Users, MessageSquare, BookOpen, Send, SmilePlus } from "lucide-react"
+import { Users, MessageSquare, BookOpen, Send, SmilePlus, ThumbsUp, Lightbulb, Heart, Flame } from "lucide-react"
 import { supabase } from "@/lib/supabase"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -58,7 +58,13 @@ type Reaction = {
   emoji: string
 }
 
-const QUICK_EMOJIS = ["👏", "💡", "❤️", "🔥", "📚"]
+const QUICK_EMOJIS: { id: string; icon: React.ReactNode }[] = [
+  { id: "clap", icon: <ThumbsUp className="size-3.5" /> },
+  { id: "idea", icon: <Lightbulb className="size-3.5" /> },
+  { id: "love", icon: <Heart className="size-3.5" /> },
+  { id: "fire", icon: <Flame className="size-3.5" /> },
+  { id: "book", icon: <BookOpen className="size-3.5" /> },
+]
 
 export default function ClubDetailPage() {
   const params = useParams()
@@ -280,13 +286,13 @@ export default function ClubDetailPage() {
                         <SmilePlus className="size-3" />
                       </button>
                       <div className="absolute left-0 bottom-full mb-1 hidden group-hover:flex group-focus-within:flex gap-0.5 rounded-lg border border-border bg-card p-1 shadow-lg z-10">
-                        {QUICK_EMOJIS.map((emoji) => (
+                        {QUICK_EMOJIS.map((item) => (
                           <button
-                            key={emoji}
-                            onClick={() => handleReact(disc.id, emoji)}
+                            key={item.id}
+                            onClick={() => handleReact(disc.id, item.id)}
                             className="flex size-6 items-center justify-center rounded hover:bg-muted text-sm transition-colors"
                           >
-                            {emoji}
+                            {item.icon}
                           </button>
                         ))}
                       </div>

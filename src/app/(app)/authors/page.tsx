@@ -1,9 +1,11 @@
 "use client"
 
-import { useMemo, useState, useCallback } from "react"
+import { useEffect, useMemo, useState, useCallback } from "react"
 import Link from "next/link"
 import { Search, Users2 } from "lucide-react"
 import { AUTHORS } from "@/data/authors"
+import { supabase } from "@/lib/supabase"
+import { Skeleton } from "@/components/ui/skeleton"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Badge } from "@/components/ui/badge"
 import { SearchBar } from "@/components/tome/SearchBar"
@@ -28,6 +30,9 @@ const TRADITION_COLORS: Record<string, string> = {
   "Post-Colonial": "#10B981",
   Eastern: "#FB923C",
   Contemporary: "#8B5CF6",
+  Scandinavian: "#64748B",
+  Germanic: "#6B7280",
+  "World Literature": "#9CA3AF",
 }
 
 const TRADITIONS = Object.keys(TRADITION_COLORS) as string[]
@@ -74,6 +79,46 @@ function getPrimaryTradition(traditions: string[]): string {
   return traditions[0] ?? "Contemporary"
 }
 
+// ── Supabase-derived author type ───────────────
+
+interface DerivedAuthor {
+  id: string
+  name: string
+  nationality: string
+  era: string
+  traditions: string[]
+  birthYear: number | null
+  deathYear: number | null
+  notableWorks: string[]
+  worksInLibrary?: string[]
+}
+
+function deriveAuthorsFromBooks(books: Array<{ author: string; tradition: string; id: string }>): DerivedAuthor[] {
+  const map = new Map<string, DerivedAuthor>()
+  for (const book of books) {
+    const authorId = book.author.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/-+$/, "")
+    const existing = map.get(authorId)
+    if (existing) {
+      if (!existing.traditions.includes(book.tradition)) existing.traditions.push(book.tradition)
+      existing.worksInLibrary = existing.worksInLibrary ?? []
+      existing.worksInLibrary.push(book.id)
+    } else {
+      map.set(authorId, {
+        id: authorId,
+        name: book.author,
+        nationality: "",
+        era: "",
+        traditions: [book.tradition],
+        birthYear: null,
+        deathYear: null,
+        notableWorks: [],
+        worksInLibrary: [book.id],
+      })
+    }
+  }
+  return [...map.values()]
+}
+
 // ── Page Component ─────────────────────────────
 
 export default function AuthorsPage() {
@@ -81,6 +126,34 @@ export default function AuthorsPage() {
   const [eraFilter, setEraFilter] = useState("")
   const [nationalityFilter, setNationalityFilter] = useState("")
   const [selectedTraditions, setSelectedTraditions] = useState<Set<string>>(new Set())
+  const [supabaseAuthors, setSupabaseAuthors] = useState<DerivedAuthor[]>([])
+  const [loadingSupabase, setLoadingSupabase] = useState(true)
+
+  useEffect(() => {
+    async function fetchAuthors() {
+      try {
+        const { data } = await supabase
+          .from("books")
+          .select("id, author, tradition")
+        if (data && data.length > 0) {
+          setSupabaseAuthors(deriveAuthorsFromBooks(data as Array<{ author: string; tradition: string; id: string }>))
+        }
+      } catch {
+        // fall through to static AUTHORS
+      } finally {
+        setLoadingSupabase(false)
+      }
+    }
+    fetchAuthors()
+  }, [])
+
+  // Merge: use static AUTHORS as base, supplement with Supabase-derived if available
+  const authors = useMemo(() => {
+    if (supabaseAuthors.length === 0) return AUTHORS
+    const staticIds = new Set(AUTHORS.map(a => a.id))
+    const extra = supabaseAuthors.filter(a => !staticIds.has(a.id))
+    return [...AUTHORS, ...extra] as typeof AUTHORS
+  }, [supabaseAuthors])
 
   const debouncedSearch = useDebounce(search, 300)
 
@@ -104,7 +177,7 @@ export default function AuthorsPage() {
     debouncedSearch || eraFilter || nationalityFilter || selectedTraditions.size > 0
 
   const filtered = useMemo(() => {
-    return AUTHORS.filter((a) => {
+    return authors.filter((a) => {
       const matchSearch =
         !debouncedSearch ||
         a.name.toLowerCase().includes(debouncedSearch.toLowerCase()) ||
@@ -115,13 +188,13 @@ export default function AuthorsPage() {
       const matchNationality = !nationalityFilter || a.nationality === nationalityFilter
       return matchSearch && matchEra && matchTradition && matchNationality
     }).sort((a, b) => a.name.localeCompare(b.name))
-  }, [debouncedSearch, eraFilter, selectedTraditions, nationalityFilter])
+  }, [debouncedSearch, eraFilter, selectedTraditions, nationalityFilter, authors])
 
   const allTraditions = useMemo(() => {
     const tradSet = new Set<string>()
-    AUTHORS.forEach((a) => a.traditions.forEach((t) => tradSet.add(t)))
+    authors.forEach((a) => a.traditions.forEach((t) => tradSet.add(t)))
     return TRADITIONS.filter((t) => tradSet.has(t))
-  }, [])
+  }, [authors])
 
   return (
     <div className="flex flex-col md:flex-row gap-0 min-h-full">

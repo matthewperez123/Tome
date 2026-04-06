@@ -23,6 +23,7 @@ import {
   BookOpen, Star, Users, Clock, Filter,
   MessageSquare, CalendarDays, TrendingUp,
   ChevronUp, ChevronDown, Plus,
+  PenTool, GraduationCap, Landmark, Sparkles, Leaf,
 } from "lucide-react"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -37,14 +38,14 @@ import { cn } from "@/lib/utils"
 // League tier system
 // ─────────────────────────────────────────────
 
-const TIERS = [
-  { id: "novice",      label: "Novice",      color: "#CD7F32", bg: "rgba(205,127,50,0.15)",  emoji: "📖" },
-  { id: "apprentice",  label: "Apprentice",  color: "#94A3B8", bg: "rgba(148,163,184,0.15)", emoji: "✏️" },
-  { id: "scholar",     label: "Scholar",     color: "#F59E0B", bg: "rgba(245,158,11,0.15)",  emoji: "🎓" },
-  { id: "philosopher", label: "Philosopher", color: "#0EA5E9", bg: "rgba(14,165,233,0.15)",  emoji: "🏛️" },
-  { id: "sage",        label: "Sage",        color: "#EF4444", bg: "rgba(239,68,68,0.15)",   emoji: "🔮" },
-  { id: "master",      label: "Master",      color: "#10B981", bg: "rgba(16,185,129,0.15)",  emoji: "🌿" },
-  { id: "luminary",    label: "Luminary",    color: "#A78BFA", bg: "rgba(167,139,250,0.15)", emoji: "✨" },
+const TIERS: { id: string; label: string; color: string; bg: string; icon: React.ReactNode }[] = [
+  { id: "novice",      label: "Novice",      color: "#CD7F32", bg: "rgba(205,127,50,0.15)",  icon: <BookOpen className="size-4" /> },
+  { id: "apprentice",  label: "Apprentice",  color: "#94A3B8", bg: "rgba(148,163,184,0.15)", icon: <PenTool className="size-4" /> },
+  { id: "scholar",     label: "Scholar",     color: "#F59E0B", bg: "rgba(245,158,11,0.15)",  icon: <GraduationCap className="size-4" /> },
+  { id: "philosopher", label: "Philosopher", color: "#0EA5E9", bg: "rgba(14,165,233,0.15)",  icon: <Landmark className="size-4" /> },
+  { id: "sage",        label: "Sage",        color: "#EF4444", bg: "rgba(239,68,68,0.15)",   icon: <Sparkles className="size-4" /> },
+  { id: "master",      label: "Master",      color: "#10B981", bg: "rgba(16,185,129,0.15)",  icon: <Leaf className="size-4" /> },
+  { id: "luminary",    label: "Luminary",    color: "#A78BFA", bg: "rgba(167,139,250,0.15)", icon: <Star className="size-4" /> },
 ]
 
 const CURRENT_TIER_IDX = 2 // Scholar
@@ -118,7 +119,7 @@ interface ActivityItem {
 
 const ACTIVITY: ActivityItem[] = [
   { id: "a1",  name: "Scheherazade", initials: "Sc", color: "#F43F5E", action: "book_finished",  description: "finished The Arabian Nights — all 1001 tales",       hoursAgo: 2  },
-  { id: "a2",  name: "Beatrice",     initials: "Be", color: "#F59E0B", action: "streak",         description: "completed a 14-day reading streak 🔥",               hoursAgo: 5  },
+  { id: "a2",  name: "Beatrice",     initials: "Be", color: "#F59E0B", action: "streak",         description: "completed a 14-day reading streak",               hoursAgo: 5  },
   { id: "a3",  name: "Ishmael",      initials: "Is", color: "#14B8A6", action: "quiz_score",     description: "scored 100% on the Moby-Dick Ch. 1 quiz",           hoursAgo: 8  },
   { id: "a4",  name: "Natasha",      initials: "Na", color: "#EC4899", action: "book_started",   description: "started reading War and Peace by Tolstoy",           hoursAgo: 12 },
   { id: "a5",  name: "Gatsby",       initials: "Ga", color: "#14B8A6", action: "achievement",    description: "earned the 'American Dream Reader' seal 🏅",         hoursAgo: 18 },
@@ -329,7 +330,7 @@ export default function SocialPage() {
                   <div className="relative flex items-start justify-between gap-4">
                     <div>
                       <div className="flex items-center gap-2 mb-1">
-                        <span className="text-2xl leading-none">{currentTier.emoji}</span>
+                        <span className="text-2xl leading-none">{currentTier.icon}</span>
                         <h2 className="font-serif text-xl font-bold tracking-tight">
                           {currentTier.label}&apos;s League
                         </h2>
@@ -360,7 +361,7 @@ export default function SocialPage() {
                         style={idx === CURRENT_TIER_IDX ? { outline: `1.5px solid ${tier.color}` } : {}}
                         title={tier.label}
                       >
-                        <span className="text-base leading-none">{tier.emoji}</span>
+                        <span className="text-base leading-none">{tier.icon}</span>
                         <span
                           className="text-[8px] font-semibold leading-none"
                           style={{ color: idx === CURRENT_TIER_IDX ? tier.color : "inherit" }}
@@ -586,7 +587,7 @@ export default function SocialPage() {
                             className="shrink-0 size-11 rounded-xl flex items-center justify-center text-lg"
                             style={{ background: accentBg, border: `1px solid ${accentDot}33` }}
                           >
-                            {TIERS.find((t) => t.label === club.tradition)?.emoji ?? "📖"}
+                            {TIERS.find((t) => t.label === club.tradition)?.icon ?? <BookOpen className="size-4" />}
                           </div>
 
                           <div className="flex-1 min-w-0">

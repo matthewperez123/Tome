@@ -37,6 +37,8 @@ import { AnimatedCircularProgressBar } from "@/components/ui/animated-circular-p
 import { BorderBeam } from "@/components/ui/border-beam"
 import { AnimatedGridPattern } from "@/components/ui/animated-grid-pattern"
 import { Button } from "@/components/ui/button"
+import { X } from "lucide-react"
+import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { cn } from "@/lib/utils"
 
 // ─────────────────────────────────────────────
@@ -244,10 +246,10 @@ export default function DashboardPage() {
   const streakAtRisk = streak > 0 && stats.daily_progress_minutes < 5 // hasn't read today
 
   // Reason tags for recommended books
-  const REASON_TAGS: Record<string, string> = {
-    hot:    "🔥 Trending this week",
-    rising: "📈 Rising in popularity",
-    steady: "📚 Classic beginner pick",
+  const REASON_TAGS: Record<string, React.ReactNode> = {
+    hot:    <><Flame className="size-3 inline-block align-middle" /> Trending this week</>,
+    rising: <><TrendingUp className="size-3 inline-block align-middle" /> Rising in popularity</>,
+    steady: <><BookOpen className="size-3 inline-block align-middle" /> Classic beginner pick</>,
   }
 
   return (
@@ -316,7 +318,7 @@ export default function DashboardPage() {
                 <>
                   <Flame className="size-4 shrink-0 text-orange-500" />
                   <span>
-                    🔥 <strong>{streak}-day</strong> Flames streak! Read today to keep it alive.
+                    <Flame className="size-3.5 inline" /> <strong>{streak}-day</strong> Flames streak! Read today to keep it alive.
                   </span>
                 </>
               )}
@@ -356,7 +358,7 @@ export default function DashboardPage() {
                     color: challengeDone ? "#16a34a" : "#b45309",
                   }}
                 >
-                  {challengeDone ? "✓ Done" : `+${challenge.xp} Wisdom`}
+                  {challengeDone ? <><Check className="size-3 inline" /> Done</> : `+${challenge.xp} Wisdom`}
                 </span>
               </div>
 
@@ -434,7 +436,7 @@ export default function DashboardPage() {
                 {stats.daily_progress_minutes}/{stats.daily_goal_minutes}m
               </p>
               <p className="text-[9px] text-muted-foreground/60">
-                {dailyGoalMet ? "Goal met! ✓" : "Daily goal"}
+                {dailyGoalMet ? <>Goal met! <Check className="size-3 inline" /></> : "Daily goal"}
               </p>
             </div>
 
@@ -538,7 +540,7 @@ export default function DashboardPage() {
                       {isDone ? (
                         <Check className="size-3" />
                       ) : isMissed ? (
-                        <span className="text-[11px]">✕</span>
+                        <X className="size-3" />
                       ) : (
                         <span className="text-[10px]">{label}</span>
                       )}
@@ -557,6 +559,9 @@ export default function DashboardPage() {
             </div>
           </div>
         </BlurFade>
+
+        {/* ── Virgil Reflection ─────────────────── */}
+        <VirgilReflection type="progress" context={{ booksRead: Object.keys(allProgress), chaptersCompleted: Object.values(allProgress).reduce((sum, p) => sum + p.completedChapterIndices.length, 0), streakDays: streak }} />
 
         {/* ── 5. Continue Reading ────────────────── */}
         <BlurFade delay={0.18} inView>
@@ -666,7 +671,7 @@ export default function DashboardPage() {
               {featuredBooks.map((book) => {
                 const coverParams = getCoverParams(book)
                 const tradColor   = TRADITION_COLORS[book.tradition]
-                const reasonTag   = book.trending ? REASON_TAGS[book.trending.trend] : "📚 Classic pick"
+                const reasonTag   = book.trending ? REASON_TAGS[book.trending.trend] : <><BookOpen className="size-3 inline-block align-middle" /> Classic pick</>
 
                 return (
                   <div key={book.id} className="shrink-0 snap-start w-36">

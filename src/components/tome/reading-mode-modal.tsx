@@ -30,7 +30,7 @@ const DIFFICULTIES: {
     label: "Apprentice",
     subtitle: "Plot & character questions",
     icon: Star,
-    accent: "#22C55E",
+    accent: "#6EAA6E",
     tag: "First read",
     xp: 5,
   },
@@ -39,7 +39,7 @@ const DIFFICULTIES: {
     label: "Scholar",
     subtitle: "Themes & literary devices",
     icon: BookOpen,
-    accent: "#F59E0B",
+    accent: "#C8A86E",
     xp: 10,
   },
   {
@@ -47,7 +47,7 @@ const DIFFICULTIES: {
     label: "Master",
     subtitle: "Critical analysis & context",
     icon: GraduationCap,
-    accent: "#8B5CF6",
+    accent: "#C87272",
     tag: "Re-reads",
     xp: 15,
   },
@@ -85,7 +85,7 @@ export function ReadingModeModal({ bookTitle, isOpen, onSelect }: ReadingModeMod
               key="modal"
               className={cn(
                 "relative w-full max-w-md rounded-2xl shadow-2xl overflow-hidden",
-                "bg-white dark:bg-[#1a1a2e]",
+                "bg-card",
                 "border border-border/50",
               )}
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
@@ -112,7 +112,7 @@ export function ReadingModeModal({ bookTitle, isOpen, onSelect }: ReadingModeMod
                     className={cn(
                       "flex-1 flex items-center justify-center gap-1.5 rounded-full px-4 py-2 text-sm font-medium transition-all",
                       mode === 'guided'
-                        ? "bg-[#4F46E5] text-white shadow-sm"
+                        ? "bg-[var(--tome-accent)] text-[#111111] shadow-sm"
                         : "bg-transparent text-muted-foreground hover:text-foreground"
                     )}
                   >
@@ -124,7 +124,7 @@ export function ReadingModeModal({ bookTitle, isOpen, onSelect }: ReadingModeMod
                     className={cn(
                       "flex-1 flex items-center justify-center gap-1.5 rounded-full px-4 py-2 text-sm font-medium transition-all",
                       mode === 'free'
-                        ? "bg-[#4F46E5] text-white shadow-sm"
+                        ? "bg-[var(--tome-accent)] text-[#111111] shadow-sm"
                         : "bg-transparent text-muted-foreground hover:text-foreground"
                     )}
                   >
@@ -214,7 +214,7 @@ export function ReadingModeModal({ bookTitle, isOpen, onSelect }: ReadingModeMod
 
                 {/* Start button */}
                 <Button
-                  className="w-full bg-[#4F46E5] hover:bg-[#4338CA] text-white"
+                  className="w-full bg-[var(--tome-accent)] hover:bg-[#E0C48A] text-[#111111]"
                   onClick={handleStart}
                 >
                   Start Reading

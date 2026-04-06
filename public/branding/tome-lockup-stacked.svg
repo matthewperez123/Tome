@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" width="200" height="140">
+  <!-- Stacked lockup: icon above wordmark -->
+
+  <!-- App icon (centered, 80px) -->
+  <g transform="translate(60, 0)">
+    <rect width="80" height="80" rx="6" ry="6" fill="#0A0A0A"/>
+    <g stroke="#E8E4DF" stroke-width="2" stroke-linecap="round" fill="none" transform="translate(40, 50)">
+      <!-- Spine -->
+      <line x1="0" y1="1" x2="0" y2="6"/>
+      <!-- 9 fanning pages from (0, 1), length=22 -->
+      <line x1="0" y1="1" x2="-21.7" y2="-2.8"/>
+      <line x1="0" y1="1" x2="-19" y2="-10"/>
+      <line x1="0" y1="1" x2="-14.1" y2="-15.9"/>
+      <line x1="0" y1="1" x2="-7.5" y2="-19.7"/>
+      <line x1="0" y1="1" x2="0" y2="-21"/>
+      <line x1="0" y1="1" x2="7.5" y2="-19.7"/>
+      <line x1="0" y1="1" x2="14.1" y2="-15.9"/>
+      <line x1="0" y1="1" x2="19" y2="-10"/>
+      <line x1="0" y1="1" x2="21.7" y2="-2.8"/>
+    </g>
+  </g>
+
+  <!-- Wordmark (centered below icon) -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  <text
+    x="100" y="120"
+    font-family="'Playfair Display', Georgia, serif"
+    font-weight="700"
+    font-size="32"
+    letter-spacing="0.25em"
+    fill="#E8E4DF"
+    text-anchor="middle"
+    dominant-baseline="auto"
+  >TOME</text>
+</svg>

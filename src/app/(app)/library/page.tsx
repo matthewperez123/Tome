@@ -1,9 +1,10 @@
 "use client"
 
 import { useEffect, useState, useMemo, useCallback } from "react"
-import { BookOpen, TrendingUp, Star, Search } from "lucide-react"
+import { BookOpen, TrendingUp, Star, Search, Flame } from "lucide-react"
 import { type TomeBook } from "@/data/books"
 import { getBooks, getFeaturedBooks, getTrendingBooks, searchBooks } from "@/lib/content"
+import { supabase, mapToTomeBook } from "@/lib/supabase"
 import { useDebounce } from "@/lib/use-debounce"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -21,7 +22,8 @@ const TRADITIONS = [
   "Ancient Greek", "Roman", "Medieval European", "Renaissance",
   "Enlightenment", "Romantic", "Victorian", "Russian",
   "American", "French", "Modernist", "Eastern",
-  "Post-Colonial", "Contemporary",
+  "Post-Colonial", "Contemporary", "Scandinavian", "Germanic",
+  "World Literature",
 ] as const
 
 const ERAS = [
@@ -89,11 +91,29 @@ export default function LibraryPage() {
 
   // ── Load data ──────────────────────────────────
   useEffect(() => {
-    setAllBooks(getBooks())
-    setTrending(getTrendingBooks().slice(0, 6))
-    setFeatured(getFeaturedBooks().slice(0, 3))
-    setAllProgress(getAllBookProgress())
-    setLoading(false)
+    async function loadBooks() {
+      try {
+        const { data, error } = await supabase
+          .from("books")
+          .select("*")
+          .order("title", { ascending: true })
+
+        if (error) throw error
+
+        const mapped = (data ?? []).map(mapToTomeBook)
+        setAllBooks(mapped)
+        setFeatured(mapped.filter((b) => b.featured).slice(0, 3))
+        setTrending(getTrendingBooks().slice(0, 6))
+      } catch (err) {
+        console.warn("Supabase fetch failed, falling back to local data:", err)
+        setAllBooks(getBooks())
+        setTrending(getTrendingBooks().slice(0, 6))
+        setFeatured(getFeaturedBooks().slice(0, 3))
+      }
+      setAllProgress(getAllBookProgress())
+      setLoading(false)
+    }
+    loadBooks()
   }, [])
 
   // ── Tradition toggle (multi-select, matches /authors) ──
@@ -362,7 +382,7 @@ function SectionHeader({
 function TrendingCard({ book, rank }: { book: TomeBook; rank: number }) {
   const coverParams = getCoverParams(book)
   const tradColor = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
-  const trendIcon = book.trending?.trend === "hot" ? "🔥" : book.trending?.trend === "rising" ? "📈" : "📚"
+  const trendIcon = book.trending?.trend === "hot" ? <Flame className="size-3.5" /> : book.trending?.trend === "rising" ? <TrendingUp className="size-3.5" /> : <BookOpen className="size-3.5" />
 
   return (
     <a

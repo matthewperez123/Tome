@@ -19,7 +19,7 @@ import { useState, useEffect, useCallback } from "react"
 import { useParams } from "next/navigation"
 import Link from "next/link"
 import { motion, AnimatePresence } from "framer-motion"
-import { Star, Heart, Share2, ArrowLeft, Check, BookOpen } from "lucide-react"
+import { Star, Heart, Share2, ArrowLeft, Check, BookOpen, Clock, GraduationCap, Landmark } from "lucide-react"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { getBook, getBooks } from "@/lib/content"
@@ -412,7 +412,7 @@ export default function BookCompletePage() {
 
   const handleShare = useCallback(() => {
     if (!book) return
-    const text = `I just finished reading ${book.title} by ${book.author} on Tome! 📚 https://tome.app`
+    const text = `I just finished reading ${book.title} by ${book.author} on Tome! https://tome.app`
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true)
       setTimeout(() => setCopied(false), 2000)
@@ -547,13 +547,13 @@ export default function BookCompletePage() {
             >
               <div className="grid grid-cols-2 gap-2">
                 <div className="flex items-start gap-2">
-                  <span className="text-base leading-none mt-0.5">📖</span>
+                  <BookOpen className="size-4" />
                   <div>
                     <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-medium">Chapters</p>
                     <p className="text-sm font-semibold">
                       {chaptersDone}/{book.chapters}
                       {chaptersDone >= book.chapters && (
-                        <span className="ml-1 text-emerald-500 text-xs">✓</span>
+                        <span className="ml-1 text-emerald-500 text-xs"><Check className="size-3" /></span>
                       )}
                     </p>
                   </div>
@@ -566,7 +566,7 @@ export default function BookCompletePage() {
                   </div>
                 </div>
                 <div className="flex items-start gap-2">
-                  <span className="text-base leading-none mt-0.5">⏱</span>
+                  <Clock className="size-4" />
                   <div>
                     <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-medium">Reading Time</p>
                     <p className="text-sm font-semibold">{book.estimatedReadingTime}</p>
@@ -574,7 +574,7 @@ export default function BookCompletePage() {
                 </div>
                 {isGuided && quizCount > 0 && (
                   <div className="flex items-start gap-2">
-                    <span className="text-base leading-none mt-0.5">🎓</span>
+                    <GraduationCap className="size-4" />
                     <div>
                       <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-medium">Quizzes</p>
                       <p className="text-sm font-semibold">
@@ -741,7 +741,7 @@ export default function BookCompletePage() {
               {/* Virgil speech bubble */}
               {virgilRec && (
                 <div className="flex items-start gap-2 mb-4 p-3 rounded-lg bg-muted/50 border border-border/50">
-                  <span className="text-amber-400 text-lg shrink-0">🏛</span>
+                  <Landmark className="size-5" />
                   <p className="text-xs text-muted-foreground italic">{virgilRec}</p>
                 </div>
               )}

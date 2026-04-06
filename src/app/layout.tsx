@@ -19,7 +19,7 @@ const literata = Literata({
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#6366F1",
+  themeColor: "#111111",
 };
 
 export const metadata: Metadata = {
@@ -86,7 +86,8 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${plusJakartaSans.variable} ${literata.variable}`}
+      className={`dark ${plusJakartaSans.variable} ${literata.variable}`}
+      style={{ colorScheme: "dark" }}
     >
       <body>{children}</body>
     </html>

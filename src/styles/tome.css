@@ -23,17 +23,17 @@
   --tome-pink: #ec4899;
   --tome-rose: #f43f5e;
 
-  /* ── Surfaces ────────────────────────────── */
-  --tome-surface-white: #ffffff;
-  --tome-surface-elevated: #f9fafb;
-  --tome-surface-recessed: #f3f4f6;
-  --tome-surface-spotlight: #111827;
+  /* ── Surfaces (lifted grays for readability) ── */
+  --tome-surface-white: #111111;
+  --tome-surface-elevated: #1A1A1A;
+  --tome-surface-recessed: #222222;
+  --tome-surface-spotlight: #222222;
 
-  /* ── Semantic ────────────────────────────── */
-  --tome-success: #22c55e;
-  --tome-warning: #f59e0b;
-  --tome-error: #ef4444;
-  --tome-accent: #6366f1;
+  /* ── Semantic (brighter for contrast) ──── */
+  --tome-success: #5A9A5A;
+  --tome-warning: #C8A04A;
+  --tome-error: #A04444;
+  --tome-accent: #D4B37A;
 
   /* ── Typography ──────────────────────────── */
   --tome-fs-display: 40px;
@@ -107,7 +107,7 @@
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #d1d5db transparent;
+  scrollbar-color: #444444 transparent;
 }
 
 ::-webkit-scrollbar {
@@ -120,12 +120,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #d1d5db;
+  background-color: #444444;
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #9ca3af;
+  background-color: #666666;
 }
 
 /* ── Focus Ring ──────────────────────────────── */

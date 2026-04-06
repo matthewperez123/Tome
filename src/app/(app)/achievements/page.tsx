@@ -15,7 +15,7 @@
  */
 "use client"
 
-import { useState, useRef } from "react"
+import { useState, useRef, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import {
   Trophy, Flame, BrainCircuit, Users, Globe2, Lock,
@@ -25,6 +25,8 @@ import {
   type LucideIcon,
 } from "lucide-react"
 import { useEconomy } from "@/components/tome/economy-provider"
+import { getAllBookProgress } from "@/lib/book-progress"
+import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { SparklesText } from "@/components/ui/sparkles-text"
@@ -109,6 +111,11 @@ export default function AchievementsPage() {
   const { stats } = useEconomy()
   const [filter, setFilter] = useState<string>("all")
   const confettiRef = useRef<ConfettiRef>(null)
+  const [allProgress, setAllProgress] = useState<ReturnType<typeof getAllBookProgress>>({})
+
+  useEffect(() => {
+    setAllProgress(getAllBookProgress())
+  }, [])
 
   const earned = ALL_ACHIEVEMENTS.filter(a => a.earned)
   const total = ALL_ACHIEVEMENTS.length
@@ -137,6 +144,9 @@ export default function AchievementsPage() {
           {earned.length}/{total} unlocked
         </p>
       </BlurFade>
+
+      {/* Virgil Reflection */}
+      <VirgilReflection type="progress" context={{ booksRead: Object.keys(allProgress), chaptersCompleted: Object.values(allProgress).reduce((sum, p) => sum + p.completedChapterIndices.length, 0), streakDays: stats.current_streak }} />
 
       {/* Filter tabs */}
       <div className="flex gap-1.5 mt-4 overflow-x-auto">
