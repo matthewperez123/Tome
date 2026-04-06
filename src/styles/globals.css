@@ -162,48 +162,131 @@
   100% {
     background-position: 200%;}}}
 
-/* ── Refined Dark Palette ──────────────────────────────────
-   Lifted grays for readability. Warmer midtones. Brighter text.
-   Paintings remain the only vibrancy source. */
+/* ── Vibrant Dual-Mode Color System ────────────────────────
+   Light mode (:root) + Dark mode (.dark).
+   Gold = brand accent. Indigo = navigation/AI. Full spectrum for semantics. */
 
 :root {
-  --background: #111111;
-  --foreground: #F0ECE6;
-  --card: #1A1A1A;
-  --card-foreground: #F0ECE6;
-  --popover: #1A1A1A;
-  --popover-foreground: #F0ECE6;
-  --primary: #D4B37A;
-  --primary-foreground: #111111;
-  --secondary: #222222;
-  --secondary-foreground: #F0ECE6;
-  --muted: #222222;
-  --muted-foreground: #B0A898;
-  --accent: #222222;
-  --accent-foreground: #F0ECE6;
-  --destructive: #A04444;
-  --border: #333333;
-  --input: #222222;
-  --ring: #D4B37A;
-  --chart-1: #D4B37A;
-  --chart-2: #B0A898;
-  --chart-3: #787068;
-  --chart-4: #444444;
-  --chart-5: #333333;
+  /* Neutrals — light mode */
+  --background: #FAFAF8;
+  --foreground: #1A1816;
+  --card: #FFFFFF;
+  --card-foreground: #1A1816;
+  --popover: #FFFFFF;
+  --popover-foreground: #1A1816;
+  --primary: #B8924A;
+  --primary-foreground: #FFFFFF;
+  --secondary: #F2F0EC;
+  --secondary-foreground: #1A1816;
+  --muted: #F2F0EC;
+  --muted-foreground: #7A7468;
+  --accent: #EEF0FB;
+  --accent-foreground: #1A1816;
+  --destructive: #A8323A;
+  --border: #DDD9CF;
+  --input: #F7F5F1;
+  --ring: #6366F1;
   --radius: 0.625rem;
+
+  /* Sidebar — light */
+  --sidebar: #F2F0EC;
+  --sidebar-foreground: #1A1816;
+  --sidebar-primary: #6366F1;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #EEF0FB;
+  --sidebar-accent-foreground: #1A1816;
+  --sidebar-border: #DDD9CF;
+  --sidebar-ring: #6366F1;
+
+  /* Chart colors */
+  --chart-1: #B8924A;
+  --chart-2: #6366F1;
+  --chart-3: #2D9A47;
+  --chart-4: #C84A52;
+  --chart-5: #2E75B6;
+  --color-1: #B8924A;
+  --color-2: #6366F1;
+  --color-3: #2D9A47;
+  --color-4: #C84A52;
+  --color-5: #2E75B6;
+
+  /* ── Semantic spectrum — light mode ── */
+  --gold-default: #B8924A;
+  --gold-hover: #9A7A38;
+  --gold-muted: #F2EAD0;
+  --indigo-default: #6366F1;
+  --indigo-hover: #4F46E5;
+  --indigo-muted: #EEF0FB;
+  --green-default: #2D9A47;
+  --green-muted: #ECFAEE;
+  --red-default: #C84A52;
+  --red-muted: #FBEEEF;
+  --blue-default: #2E75B6;
+  --blue-muted: #EDF4FB;
+  --amber-default: #C8801F;
+  --amber-muted: #FBF4E8;
+  --flame-streak: #D14820;
+}
+
+.dark {
+  /* Neutrals — dark mode */
+  --background: #0A0A0A;
+  --foreground: #E8E4DF;
+  --card: #161616;
+  --card-foreground: #E8E4DF;
+  --popover: #1C1C1C;
+  --popover-foreground: #E8E4DF;
+  --primary: #C8A96E;
+  --primary-foreground: #0A0A0A;
+  --secondary: #1C1C1C;
+  --secondary-foreground: #E8E4DF;
+  --muted: #1C1C1C;
+  --muted-foreground: #A39E96;
+  --accent: #1A1B2E;
+  --accent-foreground: #E8E4DF;
+  --destructive: #C85858;
+  --border: #282828;
+  --input: #1A1A1A;
+  --ring: #6366F1;
+
+  /* Sidebar — dark */
   --sidebar: #111111;
-  --sidebar-foreground: #F0ECE6;
-  --sidebar-primary: #D4B37A;
-  --sidebar-primary-foreground: #111111;
-  --sidebar-accent: #222222;
-  --sidebar-accent-foreground: #F0ECE6;
-  --sidebar-border: #333333;
-  --sidebar-ring: #D4B37A;
-  --color-1: #D4B37A;
-  --color-2: #6E9AC8;
+  --sidebar-foreground: #E8E4DF;
+  --sidebar-primary: #6366F1;
+  --sidebar-primary-foreground: #E8E4DF;
+  --sidebar-accent: #1A1B2E;
+  --sidebar-accent-foreground: #E8E4DF;
+  --sidebar-border: #1E1E1E;
+  --sidebar-ring: #6366F1;
+
+  /* Chart colors */
+  --chart-1: #C8A96E;
+  --chart-2: #6366F1;
+  --chart-3: #6EAA6E;
+  --chart-4: #C85858;
+  --chart-5: #6E9AC8;
+  --color-1: #C8A96E;
+  --color-2: #6366F1;
   --color-3: #6EAA6E;
-  --color-4: #C87272;
-  --color-5: #B0A898;
+  --color-4: #C85858;
+  --color-5: #6E9AC8;
+
+  /* ── Semantic spectrum — dark mode ── */
+  --gold-default: #C8A96E;
+  --gold-hover: #D4B87A;
+  --gold-muted: #2A2218;
+  --indigo-default: #6366F1;
+  --indigo-hover: #818CF8;
+  --indigo-muted: #1A1B2E;
+  --green-default: #6EAA6E;
+  --green-muted: #0F1A12;
+  --red-default: #C85858;
+  --red-muted: #1A0F10;
+  --blue-default: #6E9AC8;
+  --blue-muted: #0F1318;
+  --amber-default: #C8A04A;
+  --amber-muted: #1A1208;
+  --flame-streak: #E8734A;
 }
 
 @layer base {

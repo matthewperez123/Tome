@@ -3,7 +3,12 @@
 import { useEffect, useState, useCallback } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { BookOpen, ArrowRight, ChevronRight } from "lucide-react"
+import {
+  BookOpen, ArrowRight, ChevronRight,
+  Brain, Target, Flame, Trophy, Globe2, GraduationCap, Users, Bookmark,
+  Palette, MessageCircle, Heart, Award, Sparkles, Shield, Coins,
+  School, KeyRound, BarChart3, Bot, Compass, HelpCircle, FileText, GitBranch,
+} from "lucide-react"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Marquee } from "@/components/ui/marquee"
 import { cn } from "@/lib/utils"
@@ -25,28 +30,45 @@ const ROW_1: PaintingCard[] = [
   { slug: "the-odyssey", title: "The Odyssey", author: "Homer", painting: "Ulysses and the Sirens", artist: "Waterhouse, 1891", cover: "/paintings/ulysses-and-the-sirens.jpg" },
   { slug: "the-inferno", title: "Inferno", author: "Dante", painting: "The Barque of Dante", artist: "Delacroix, 1822", cover: "/paintings/barque-of-dante.jpg" },
   { slug: "the-republic", title: "The Republic", author: "Plato", painting: "The School of Athens", artist: "Raphael, 1511", cover: "/paintings/school-of-athens.jpg" },
-  { slug: "moby-dick", title: "Moby-Dick", author: "Herman Melville", painting: "Snow Storm \u2014 Steam-Boat", artist: "Turner, 1842", cover: "/paintings/moby-dick-turner.jpg" },
+  { slug: "moby-dick", title: "Moby-Dick", author: "Herman Melville", painting: "Snow Storm — Steam-Boat", artist: "Turner, 1842", cover: "/paintings/moby-dick-turner.jpg" },
   { slug: "hamlet", title: "Hamlet", author: "Shakespeare", painting: "Ophelia", artist: "Millais, 1852", cover: "/paintings/ophelia.jpg" },
-  { slug: "les-miserables", title: "Les Mis\u00e9rables", author: "Victor Hugo", painting: "Liberty Leading the People", artist: "Delacroix, 1830", cover: "/paintings/liberty-leading-the-people.jpg" },
+  { slug: "les-miserables", title: "Les Misérables", author: "Victor Hugo", painting: "Liberty Leading the People", artist: "Delacroix, 1830", cover: "/paintings/liberty-leading-the-people.jpg" },
   { slug: "romeo-and-juliet", title: "Romeo and Juliet", author: "Shakespeare", painting: "Romeo and Juliet", artist: "Dicksee, 1884", cover: "/paintings/romeo-and-juliet-dicksee.jpg" },
   { slug: "beowulf", title: "Beowulf", author: "Anonymous", painting: "The Nightmare", artist: "Fuseli, 1781", cover: "/paintings/the-nightmare.jpg" },
   { slug: "the-iliad", title: "The Iliad", author: "Homer", painting: "A Reading from Homer", artist: "Alma-Tadema, 1885", cover: "/paintings/reading-from-homer.jpg" },
   { slug: "the-aeneid", title: "The Aeneid", author: "Virgil", painting: "Aeneas Presenting Cupid to Dido", artist: "Tiepolo, c.1757", cover: "/paintings/aeneid-tiepolo.jpg" },
-  { slug: "the-gallic-wars", title: "Commentarii de Bello Gallico", author: "Julius Caesar", painting: "Vercingetorix Before Caesar", artist: "Royer, 1899", cover: "/paintings/gallic-wars-vercingetorix.jpg" },
+  { slug: "the-gallic-wars", title: "Commentaries on the Gallic War", author: "Julius Caesar", painting: "Vercingetorix Before Caesar", artist: "Royer, 1899", cover: "/paintings/gallic-wars-vercingetorix.jpg" },
 ]
 
 const ROW_2: PaintingCard[] = [
   { slug: "pride-and-prejudice", title: "Pride and Prejudice", author: "Jane Austen", painting: "Madame X", artist: "Sargent, 1884", cover: "/paintings/madame-x.jpg" },
   { slug: "frankenstein", title: "Frankenstein", author: "Mary Shelley", painting: "Wanderer Above the Sea of Fog", artist: "Friedrich, c.1818", cover: "/paintings/wanderer-above-sea-of-fog.jpg" },
   { slug: "meditations", title: "Meditations", author: "Marcus Aurelius", painting: "The Death of Socrates", artist: "David, 1787", cover: "/paintings/death-of-socrates.jpg" },
-  { slug: "jane-eyre", title: "Jane Eyre", author: "Charlotte Bront\u00eb", painting: "The Oxbow", artist: "Cole, 1836", cover: "/paintings/the-oxbow.jpg" },
+  { slug: "jane-eyre", title: "Jane Eyre", author: "Charlotte Brontë", painting: "The Oxbow", artist: "Cole, 1836", cover: "/paintings/the-oxbow.jpg" },
   { slug: "crime-and-punishment", title: "Crime and Punishment", author: "Dostoevsky", painting: "Ivan the Terrible and His Son", artist: "Repin, 1885", cover: "/paintings/crime-repin.jpg" },
   { slug: "walden", title: "Walden", author: "Thoreau", painting: "Heart of the Andes", artist: "Church, 1859", cover: "/paintings/heart-of-the-andes.jpg" },
-  { slug: "don-quixote", title: "Don Quixote", author: "Cervantes", painting: "Don Quixote and Sancho Panza", artist: "Dor\u00e9, 1863", cover: "/paintings/don-quixote-dore.jpg" },
+  { slug: "don-quixote", title: "Don Quixote", author: "Cervantes", painting: "Don Quixote and Sancho Panza", artist: "Doré, 1863", cover: "/paintings/don-quixote-dore.jpg" },
   { slug: "war-and-peace", title: "War and Peace", author: "Leo Tolstoy", painting: "Napoleon near Borodino", artist: "Vereshchagin, 1897", cover: "/paintings/napoleons-retreat.jpg" },
   { slug: "the-great-gatsby", title: "The Great Gatsby", author: "F. Scott Fitzgerald", painting: "Nocturne in Blue and Gold", artist: "Whistler, c.1872", cover: "/paintings/nocturne-blue-gold.jpg" },
   { slug: "dracula", title: "Dracula", author: "Bram Stoker", painting: "The Sea of Ice", artist: "Friedrich, 1824", cover: "/paintings/sea-of-ice.jpg" },
   { slug: "the-art-of-war", title: "The Art of War", author: "Sun Tzu", painting: "The Great Wave off Kanagawa", artist: "Hokusai, c.1831", cover: "/paintings/great-wave.jpg" },
+]
+
+// ── Tradition Data ────────────────────────────────
+
+const TRADITIONS_FOR_PILLS = [
+  { name: "Ancient Greek", count: 42, color: "#0EA5E9" },
+  { name: "Roman", count: 31, color: "#EF4444" },
+  { name: "Medieval European", count: 38, color: "#F59E0B" },
+  { name: "Renaissance", count: 45, color: "#D97706" },
+  { name: "Enlightenment", count: 36, color: "#06B6D4" },
+  { name: "Romantic", count: 52, color: "#F43F5E" },
+  { name: "Victorian", count: 67, color: "#8B5CF6" },
+  { name: "Russian", count: 34, color: "#6366F1" },
+  { name: "American", count: 78, color: "#22C55E" },
+  { name: "French", count: 41, color: "#EC4899" },
+  { name: "Modernist", count: 56, color: "#14B8A6" },
+  { name: "Eastern", count: 29, color: "#F97316" },
 ]
 
 // ── Landing Page ──────────────────────────────────
@@ -60,7 +82,7 @@ export default function LandingPage() {
       <section className="relative h-screen w-full overflow-hidden">
         <Image
           src="/paintings/barque-of-dante.jpg"
-          alt="The Barque of Dante by Eug\u00e8ne Delacroix"
+          alt="The Barque of Dante by Eugène Delacroix"
           fill
           priority
           className="object-cover object-center"
@@ -98,65 +120,346 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* ── Ortelius Map ── */}
-      <section className="py-20 px-6 md:px-12">
+      {/* ── Section 4: Feature Grid ── */}
+      <section className="bg-[#1A1A1A] py-24 px-6 md:px-12">
         <BlurFade delay={0.1} inView>
-          <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-8">
-            Explore literature across the world
+          <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-12">
+            Everything you need to master the canon
           </h2>
         </BlurFade>
-        <BlurFade delay={0.2} inView>
-          <div className="mx-auto max-w-4xl rounded-lg border border-[#8B7A5440] overflow-hidden">
-            <Image src="/paintings/ortelius-map.jpg" alt="Typus Orbis Terrarum \u2014 Abraham Ortelius, 1570" width={1600} height={1100} className="w-full h-auto" unoptimized />
-          </div>
-        </BlurFade>
-        <div className="text-center mt-6">
-          <p className="text-sm text-[#787068]">From Homeric Greece to Edo Japan.</p>
-          <Link href="/explore" className="inline-flex items-center gap-1.5 mt-2 text-sm text-[#D4B37A] hover:text-[#E0C48A] transition-colors">
-            Open the map <ArrowRight className="size-3.5" />
-          </Link>
-        </div>
-      </section>
-
-      {/* ── One-Sentence Pitch ── */}
-      <section className="py-24 px-6">
-        <BlurFade delay={0.1} inView>
-          <p className="font-serif text-2xl md:text-3xl text-center text-[#F0ECE6] max-w-2xl mx-auto leading-relaxed">
-            Pick a classic. Read a chapter. Take a quiz. Earn your way through the canon.
-          </p>
-        </BlurFade>
-      </section>
-
-      {/* ── Three Steps ── */}
-      <section className="py-16 px-6 md:px-12">
-        <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
           {[
-            { n: "1", label: "Read", desc: "A chapter takes 10 minutes." },
-            { n: "2", label: "Quiz", desc: "Five questions. Earn Wisdom." },
-            { n: "3", label: "Return", desc: "Build a streak. Unlock more." },
-          ].map((step, i) => (
-            <BlurFade key={step.n} delay={0.1 + i * 0.1} inView>
-              <div className="text-center md:text-left">
-                <span className="font-serif text-4xl font-bold text-[#D4B37A]">{step.n}</span>
-                <h3 className="text-lg font-semibold text-[#F0ECE6] mt-2">{step.label}</h3>
-                <p className="text-sm text-[#B0A898] mt-1">{step.desc}</p>
+            { icon: BookOpen, label: "500+ Classic Texts", desc: "From Homer to Woolf. Every book parsed, annotated, and ready to read." },
+            { icon: Brain, label: "AI Literary Companion", desc: "Virgil explains any passage — vocabulary, context, literary devices — on demand." },
+            { icon: Target, label: "Adaptive Quizzes", desc: "Five questions per chapter across three difficulty tiers. Apprentice, Scholar, Master." },
+            { icon: Flame, label: "Daily Streaks", desc: "Build a reading habit. Earn Flames for consecutive days. Freeze your streak in the Shop." },
+            { icon: Trophy, label: "21 Achievements", desc: "Seals for milestones — from your first page to reading across all 12 traditions." },
+            { icon: Globe2, label: "12 Literary Traditions", desc: "Ancient Greek to Eastern. Victorian to Modernist. Every major tradition represented." },
+            { icon: GraduationCap, label: "Classroom Mode", desc: "Teachers assign books, track progress, and use Virgil as a teaching assistant." },
+            { icon: Users, label: "Leaderboards & Leagues", desc: "Compete in weekly leagues. Rise from Novice to Luminary. Top readers advance." },
+            { icon: Bookmark, label: "Annotations & Bookmarks", desc: "Highlight passages, save notes, export your marginalia. Your reading journal, built in." },
+          ].map((feat, i) => (
+            <BlurFade key={feat.label} delay={0.05 + i * 0.04} inView>
+              <div className="rounded-lg bg-card border border-border p-5">
+                <feat.icon className="size-6 text-[#D4B37A] mb-3" />
+                <h3 className="font-semibold text-[#F0ECE6] text-sm">{feat.label}</h3>
+                <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">{feat.desc}</p>
               </div>
             </BlurFade>
           ))}
         </div>
       </section>
 
-      {/* ── Virgil Section ── */}
-      <section className="py-16 px-6 md:px-12">
-        <BlurFade delay={0.1} inView>
-          <div className="max-w-3xl mx-auto rounded-xl bg-card border border-border p-6 md:p-8 flex flex-col md:flex-row gap-6 items-start">
-            <div className="shrink-0 self-center md:self-start">
-              <Image src="/virgil/virgil-idle.png" alt="Virgil, your reading companion" width={80} height={80} className="rounded-full" unoptimized />
+      {/* ── Section 5: The Reader ── */}
+      <section className="bg-background py-24 px-6 md:px-12">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          {/* Mock Reader */}
+          <BlurFade delay={0.1} inView>
+            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6">
+              {/* Progress bar */}
+              <div className="w-full h-1 bg-[#222222] rounded-full mb-5">
+                <div className="h-1 bg-[#D4B37A] rounded-full" style={{ width: "30%" }} />
+              </div>
+              <h3 className="font-serif text-[#D4B37A] text-sm font-semibold mb-4">Book I — The Wrath of Achilles</h3>
+              <p className="font-serif text-[#F0ECE6] text-sm leading-relaxed">
+                Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Zeus fulfilled from the day on which the son of Atreus and great Achilles first fell out with one another. The sea grew dark as{" "}
+                <span className="underline decoration-[#D4B37A] underline-offset-2">wine-dark</span>{" "}
+                waves upon the shore.
+              </p>
+              <div className="flex justify-end mt-4">
+                <div className="size-8 rounded-full bg-[#D4B37A20] border border-[#D4B37A40] flex items-center justify-center text-xs font-serif font-bold text-[#D4B37A]">V</div>
+              </div>
             </div>
-            <div className="flex-1 min-w-0">
-              <h3 className="font-serif text-xl font-bold text-[#F0ECE6]">Meet Virgil</h3>
-              <p className="text-sm text-[#B0A898] mt-1">Your AI reading companion. Ask anything about the text.</p>
-              <div className="mt-4 space-y-3">
+          </BlurFade>
+
+          {/* Callouts */}
+          <div className="space-y-5">
+            {[
+              { icon: BookOpen, label: "Distraction-free reading", desc: "Literata typography. Warm dark background. No ads, no sidebar, no clutter." },
+              { icon: Palette, label: "Three reading themes", desc: "Default, Parchment, and Night Scholar. Each tuned for extended dark-mode reading." },
+              { icon: MessageCircle, label: "Virgil in the margin", desc: "Select any passage. Virgil explains historical context, vocabulary, and literary significance." },
+            ].map((item, i) => (
+              <BlurFade key={item.label} delay={0.15 + i * 0.1} inView>
+                <div className="flex gap-4 items-start">
+                  <item.icon className="size-5 text-[#D4B37A] shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-[#F0ECE6] text-sm">{item.label}</h4>
+                    <p className="text-xs text-[#B0A898] mt-0.5 leading-relaxed">{item.desc}</p>
+                  </div>
+                </div>
+              </BlurFade>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 6: The Quiz ── */}
+      <section className="bg-[#1A1A1A] py-24 px-6 md:px-12">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          {/* Callouts */}
+          <div className="space-y-5 order-2 md:order-1">
+            {[
+              { icon: Target, label: "Passage-specific questions", desc: "Every question tests real comprehension of what you just read. No generic trivia." },
+              { icon: Heart, label: "Hearts keep you honest", desc: "Five hearts per session. Lose one for each wrong answer. Refill in the Shop or wait." },
+              { icon: Award, label: "Three difficulty tiers", desc: "Apprentice tests recall. Scholar tests understanding. Master tests critical analysis." },
+            ].map((item, i) => (
+              <BlurFade key={item.label} delay={0.15 + i * 0.1} inView>
+                <div className="flex gap-4 items-start">
+                  <item.icon className="size-5 text-[#D4B37A] shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-[#F0ECE6] text-sm">{item.label}</h4>
+                    <p className="text-xs text-[#B0A898] mt-0.5 leading-relaxed">{item.desc}</p>
+                  </div>
+                </div>
+              </BlurFade>
+            ))}
+          </div>
+
+          {/* Mock Quiz */}
+          <BlurFade delay={0.1} inView>
+            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6 order-1 md:order-2">
+              <p className="font-serif text-[#F0ECE6] text-sm font-semibold mb-4">
+                Why does Odysseus blind the Cyclops instead of killing him?
+              </p>
+              <div className="space-y-2.5">
+                {[
+                  { letter: "A", text: "To prove his strength", correct: false },
+                  { letter: "B", text: "Out of mercy", correct: false },
+                  { letter: "C", text: "Only the Cyclops could move the boulder", correct: true },
+                  { letter: "D", text: "Athena commanded it", correct: false },
+                ].map((opt) => (
+                  <div
+                    key={opt.letter}
+                    className={cn(
+                      "flex items-center gap-3 rounded-lg border px-4 py-2.5 text-sm",
+                      opt.correct
+                        ? "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]"
+                        : "border-border bg-[#222222] text-[#F0ECE6]"
+                    )}
+                  >
+                    <span className="font-semibold text-xs">{opt.letter}</span>
+                    <span>{opt.text}</span>
+                  </div>
+                ))}
+              </div>
+              <div className="flex items-center justify-between mt-4">
+                <p className="text-xs text-[#D4B37A]">4/5 correct &middot; +20 Wisdom</p>
+                <div className="flex items-center gap-1">
+                  {[1, 2, 3, 4].map((h) => (
+                    <Heart key={h} className="size-4 text-rose-500 fill-rose-500" />
+                  ))}
+                  <Heart className="size-4 text-[#333333]" />
+                </div>
+              </div>
+            </div>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Section 7: The Journey ── */}
+      <section className="bg-background py-24 px-6 md:px-12">
+        <BlurFade delay={0.1} inView>
+          <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-12">
+            Reading becomes a ritual
+          </h2>
+        </BlurFade>
+        <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6">
+          {/* Wisdom (XP) */}
+          <BlurFade delay={0.1} inView>
+            <div className="rounded-lg bg-card border border-border p-5 text-center">
+              <Sparkles className="size-6 text-[#D4B37A] mx-auto mb-3" />
+              <h4 className="font-semibold text-[#F0ECE6] text-sm">Wisdom (XP)</h4>
+              <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Earn XP for correct answers and completed chapters. Level up from Reader to Sage.</p>
+              <div className="mt-3">
+                <div className="w-full h-1.5 bg-[#222222] rounded-full">
+                  <div className="h-1.5 bg-[#D4B37A] rounded-full" style={{ width: "65%" }} />
+                </div>
+                <p className="text-[10px] text-[#D4B37A] mt-1.5">Level 3 — 585 / 800 XP</p>
+              </div>
+            </div>
+          </BlurFade>
+
+          {/* Streaks */}
+          <BlurFade delay={0.15} inView>
+            <div className="rounded-lg bg-card border border-border p-5 text-center">
+              <Flame className="size-6 text-[#D4B37A] mx-auto mb-3" />
+              <h4 className="font-semibold text-[#F0ECE6] text-sm">Streaks</h4>
+              <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Read every day. Your streak grows. Miss a day — it resets.</p>
+              <div className="mt-3 flex items-center justify-center gap-1.5">
+                <Flame className="size-4 text-[#D4B37A]" />
+                <span className="text-lg font-bold text-[#D4B37A]">12 days</span>
+              </div>
+            </div>
+          </BlurFade>
+
+          {/* Seals */}
+          <BlurFade delay={0.2} inView>
+            <div className="rounded-lg bg-card border border-border p-5 text-center">
+              <Shield className="size-6 text-[#D4B37A] mx-auto mb-3" />
+              <h4 className="font-semibold text-[#F0ECE6] text-sm">Seals</h4>
+              <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">21 achievement badges across 6 categories.</p>
+              <div className="mt-3 flex items-center justify-center gap-2">
+                <div className="size-6 rounded-full bg-[#D4B37A] border border-[#D4B37A]" />
+                <div className="size-6 rounded-full bg-[#D4B37A] border border-[#D4B37A]" />
+                <div className="size-6 rounded-full bg-transparent border border-[#444444]" />
+                <div className="size-6 rounded-full bg-transparent border border-[#444444]" />
+              </div>
+            </div>
+          </BlurFade>
+
+          {/* Coins & Shop */}
+          <BlurFade delay={0.25} inView>
+            <div className="rounded-lg bg-card border border-border p-5 text-center">
+              <Coins className="size-6 text-[#D4B37A] mx-auto mb-3" />
+              <h4 className="font-semibold text-[#F0ECE6] text-sm">Coins &amp; Shop</h4>
+              <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Earn coins by reading, quizzing, and streaking. Spend on power-ups.</p>
+              <div className="mt-3 flex items-center justify-center gap-1.5">
+                <Coins className="size-4 text-[#D4B37A]" />
+                <span className="text-lg font-bold text-[#D4B37A]">55 coins</span>
+              </div>
+            </div>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Section 8: The World ── */}
+      <section className="bg-[#1A1A1A] py-24 px-6 md:px-12">
+        <BlurFade delay={0.1} inView>
+          <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-8">
+            Literature across 3,000 years and 12 traditions
+          </h2>
+        </BlurFade>
+        <BlurFade delay={0.2} inView>
+          <div className="mx-auto max-w-4xl rounded-lg border border-[#8B7A5440] overflow-hidden">
+            <Image src="/paintings/ortelius-map.jpg" alt="Typus Orbis Terrarum — Abraham Ortelius, 1570" width={1600} height={1100} className="w-full h-auto" unoptimized />
+          </div>
+        </BlurFade>
+        <div className="mt-8 overflow-x-auto pb-2">
+          <div className="flex items-center gap-2 max-w-4xl mx-auto px-1">
+            {TRADITIONS_FOR_PILLS.map((t) => (
+              <Link
+                key={t.name}
+                href={`/library?tradition=${encodeURIComponent(t.name)}`}
+                className="shrink-0 flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-medium transition-colors hover:opacity-80"
+                style={{
+                  backgroundColor: `${t.color}1F`,
+                  color: t.color,
+                }}
+              >
+                {t.name}
+                <span className="opacity-60">{t.count}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 9: The Classroom ── */}
+      <section className="bg-background py-24 px-6 md:px-12">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          {/* Callouts */}
+          <div>
+            <BlurFade delay={0.1} inView>
+              <h2 className="font-serif text-2xl md:text-3xl font-bold text-[#F0ECE6] mb-6">
+                Built for classrooms
+              </h2>
+            </BlurFade>
+            <div className="space-y-5">
+              {[
+                { icon: School, label: "Assign any book", desc: "Teachers pick the texts. Students read and quiz at their own pace." },
+                { icon: KeyRound, label: "Simple join codes", desc: "Students enter a 6-character code. No email required for under-13 accounts." },
+                { icon: BarChart3, label: "Progress dashboards", desc: "See who read, who quizzed, and who needs help — in real time." },
+                { icon: Bot, label: "Virgil as TA", desc: "Students ask Virgil. Teachers review the conversation. Everyone learns." },
+              ].map((item, i) => (
+                <BlurFade key={item.label} delay={0.15 + i * 0.1} inView>
+                  <div className="flex gap-4 items-start">
+                    <item.icon className="size-5 text-[#D4B37A] shrink-0 mt-0.5" />
+                    <div>
+                      <h4 className="font-semibold text-[#F0ECE6] text-sm">{item.label}</h4>
+                      <p className="text-xs text-[#B0A898] mt-0.5 leading-relaxed">{item.desc}</p>
+                    </div>
+                  </div>
+                </BlurFade>
+              ))}
+            </div>
+          </div>
+
+          {/* Mock Classroom Card */}
+          <BlurFade delay={0.1} inView>
+            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6">
+              <div className="flex items-center justify-between mb-4">
+                <div>
+                  <h3 className="font-serif text-[#F0ECE6] text-sm font-semibold">AP Literature — Period 3</h3>
+                  <p className="text-xs text-[#787068] mt-0.5">Mrs. Holloway &middot; 28 students</p>
+                </div>
+                <div className="rounded-md bg-[#222222] border border-border px-3 py-1.5">
+                  <p className="text-[10px] text-[#787068] uppercase tracking-wider">Join Code</p>
+                  <p className="text-sm font-mono font-bold text-[#D4B37A]">TOME42</p>
+                </div>
+              </div>
+              <div className="space-y-3">
+                {[
+                  { student: "Emily R.", progress: 85, book: "The Odyssey" },
+                  { student: "James K.", progress: 62, book: "The Odyssey" },
+                  { student: "Sofia M.", progress: 41, book: "The Odyssey" },
+                ].map((s) => (
+                  <div key={s.student} className="flex items-center gap-3">
+                    <span className="text-xs text-[#B0A898] w-16 shrink-0">{s.student}</span>
+                    <div className="flex-1 h-1.5 bg-[#222222] rounded-full">
+                      <div className="h-1.5 bg-[#D4B37A] rounded-full" style={{ width: `${s.progress}%` }} />
+                    </div>
+                    <span className="text-[10px] text-[#787068] w-8 text-right">{s.progress}%</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </BlurFade>
+        </div>
+      </section>
+
+      {/* ── Section 10: Meet Virgil ── */}
+      <section className="bg-[#1A1A1A] py-24 px-6 md:px-12">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-[160px_1fr] gap-10 items-start">
+          {/* Large V */}
+          <BlurFade delay={0.1} inView>
+            <div className="flex justify-center md:justify-start">
+              <div className="size-32 rounded-full bg-[#D4B37A20] border border-[#D4B37A40] flex items-center justify-center text-5xl font-serif font-bold text-[#D4B37A]" aria-label="Virgil">
+                V
+              </div>
+            </div>
+          </BlurFade>
+
+          <div>
+            <BlurFade delay={0.15} inView>
+              <h2 className="font-serif text-2xl md:text-3xl font-bold text-[#F0ECE6] mb-6">
+                Your guide through the canon
+              </h2>
+            </BlurFade>
+
+            {/* Capability cards */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+              {[
+                { icon: BookOpen, label: "Annotations", desc: "Ask about any passage. Get vocabulary, historical context, and literary analysis." },
+                { icon: Compass, label: "Recommendations", desc: "Virgil suggests your next book based on what you've read and enjoyed." },
+                { icon: HelpCircle, label: "Socratic Mode", desc: "Virgil asks you questions to deepen understanding before a quiz." },
+                { icon: FileText, label: "Summaries", desc: "Get a clear chapter overview before diving in, or a recap after." },
+                { icon: GitBranch, label: "Connections", desc: "Virgil draws parallels between books across traditions and centuries." },
+              ].map((cap, i) => (
+                <BlurFade key={cap.label} delay={0.2 + i * 0.05} inView>
+                  <div className="rounded-lg bg-card border border-border p-4 flex gap-3 items-start">
+                    <cap.icon className="size-5 text-[#D4B37A] shrink-0 mt-0.5" />
+                    <div>
+                      <h4 className="font-semibold text-[#F0ECE6] text-sm">{cap.label}</h4>
+                      <p className="text-xs text-[#B0A898] mt-0.5 leading-relaxed">{cap.desc}</p>
+                    </div>
+                  </div>
+                </BlurFade>
+              ))}
+            </div>
+
+            {/* Chat exchange */}
+            <BlurFade delay={0.4} inView>
+              <div className="space-y-3">
                 <div className="rounded-lg bg-[#222222] border border-[#333333] px-4 py-2.5">
                   <p className="text-xs text-[#787068] mb-1">You</p>
                   <p className="text-sm text-[#F0ECE6]">Why does Odysseus blind the Cyclops instead of killing him?</p>
@@ -166,28 +469,44 @@ export default function LandingPage() {
                   <p className="text-sm text-[#F0ECE6]">Because only the Cyclops could move the boulder blocking the cave. A dead Cyclops can&apos;t open the door. It&apos;s one of the great moments of Greek cunning over brute strength.</p>
                 </div>
               </div>
-            </div>
+            </BlurFade>
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 11: Stats Bar ── */}
+      <section className="bg-background py-24 px-6">
+        <BlurFade delay={0.1} inView>
+          <div className="max-w-2xl mx-auto flex justify-center gap-16 md:gap-24">
+            {[
+              { value: "500+", label: "Classic texts" },
+              { value: "12", label: "Literary traditions" },
+              { value: "3,000", label: "Years of literature" },
+            ].map((stat) => (
+              <div key={stat.label} className="text-center">
+                <p className="font-serif text-3xl md:text-5xl font-bold text-[#D4B37A]">{stat.value}</p>
+                <p className="text-xs text-[#B0A898] mt-1 uppercase tracking-wider">{stat.label}</p>
+              </div>
+            ))}
           </div>
         </BlurFade>
       </section>
 
-      {/* ── Stats Bar ── */}
-      <section className="py-16 px-6">
-        <div className="max-w-2xl mx-auto flex justify-center gap-16 md:gap-24">
-          {[
-            { value: "793+", label: "Books" },
-            { value: "16", label: "Traditions" },
-            { value: "3,000", label: "Years" },
-          ].map((stat) => (
-            <div key={stat.label} className="text-center">
-              <p className="font-serif text-3xl md:text-4xl font-bold text-[#D4B37A]">{stat.value}</p>
-              <p className="text-xs text-[#B0A898] mt-1 uppercase tracking-wider">{stat.label}</p>
-            </div>
-          ))}
-        </div>
+      {/* ── Section 12: Final CTA ── */}
+      <section className="bg-background py-24 px-6 text-center">
+        <BlurFade delay={0.1} inView>
+          <h2 className="font-serif text-3xl md:text-5xl font-bold text-[#F0ECE6] mb-6">
+            Start reading tonight.
+          </h2>
+          <HeroCTA />
+          <p className="mt-4 text-sm text-[#787068]">Free to browse. No credit card required.</p>
+          <div className="mt-8 flex justify-center">
+            <div className="size-16 rounded-full bg-[#D4B37A20] border border-[#D4B37A40] flex items-center justify-center text-xl font-serif font-bold text-[#D4B37A]" aria-label="Virgil">V</div>
+          </div>
+        </BlurFade>
       </section>
 
-      {/* ── Footer ── */}
+      {/* ── Section 13: Footer ── */}
       <footer className="border-t border-border py-12 px-6 md:px-12">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-2">

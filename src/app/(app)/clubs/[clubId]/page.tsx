@@ -160,7 +160,7 @@ export default function ClubDetailPage() {
     : discussions
 
   const memberAvatars = members.slice(0, 5).map((m, i) => ({
-    imageUrl: `https://api.dicebear.com/9.x/notionists/svg?seed=${m.username}`,
+    imageUrl: `https://ui-avatars.com/api/?name=${encodeURIComponent(m.username)}&background=222222&color=D4B37A&size=40`,
     profileUrl: "#",
   }))
 

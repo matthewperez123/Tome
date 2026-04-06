@@ -1,286 +1,38 @@
-/**
- * TOME DESIGN RUBRIC — World Map
- * Reference: Headspace
- * ─────────────────────────────────
- * 1. Reference fidelity:    5/5
- * 2. Color temperature:     5/5
- * 3. Typography scale:      5/5
- * 4. Motion easing tokens:  5/5
- * 5. Component selection:   5/5
- * 6. Virgil presence:       N/A
- * 7. Density restraint:     5/5
- * 8. Accessibility:         5/5
- * ─────────────────────────────────
- * Total: 35/35 | Grade: A+
- */
 "use client"
 
-import { useState, useMemo } from "react"
 import Link from "next/link"
-import Image from "next/image"
-import { motion, AnimatePresence } from "framer-motion"
-import { Globe2, Map, BookOpen, ChevronRight, ChevronLeft, X } from "lucide-react"
-import { getCountryData, getAuthorsByCountry } from "@/lib/author-geo"
-import { AuthorLink } from "@/components/tome/author-link"
-import { springs } from "@/lib/design-tokens"
+import { Globe2, ArrowRight, BookOpen } from "lucide-react"
 import { BlurFade } from "@/components/ui/blur-fade"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
-import { cn } from "@/lib/utils"
-
-const TRADITION_COLORS: Record<string, string> = {
-  "Ancient Greek": "#0EA5E9",
-  Roman: "#EF4444",
-  "Medieval European": "#F59E0B",
-  Renaissance: "#EAB308",
-  Enlightenment: "#06B6D4",
-  Romantic: "#F43F5E",
-  Victorian: "#A855F7",
-  Russian: "#3B82F6",
-  American: "#6366F1",
-  French: "#F97316",
-  Modernist: "#14B8A6",
-  "Post-Colonial": "#10B981",
-  Eastern: "#FB923C",
-  Contemporary: "#8B5CF6",
-}
-
-const GLOBE_LABELS = ["Europe & Africa", "The Americas", "South Asia", "East Asia & Oceania"]
-
-type ViewMode = "globe" | "map"
 
 export default function ExplorePage() {
-  const [view, setView] = useState<ViewMode>("map")
-  const [selectedCountry, setSelectedCountry] = useState<string | null>(null)
-  const [globeFace, setGlobeFace] = useState(0)
-  const countries = useMemo(() => getCountryData(), [])
-  const selectedAuthors = useMemo(
-    () => (selectedCountry ? getAuthorsByCountry(selectedCountry) : []),
-    [selectedCountry]
-  )
-
   return (
-    <div className="relative flex flex-col md:flex-row h-[calc(100vh-3rem)] overflow-hidden">
-      {/* Main view */}
-      <div className="flex-1 relative">
-        {/* Header */}
-        <div className="absolute top-0 inset-x-0 z-20 flex items-center justify-between p-4">
-          <BlurFade delay={0.05} inView>
-            <div>
-              <h1 className="text-lg font-semibold tracking-tight" style={{ letterSpacing: "-0.015em" }}>
-                World Author Map
-              </h1>
-              <p className="text-[10px] text-muted-foreground">
-                {countries.length} countries · 14 literary traditions
-              </p>
-            </div>
-          </BlurFade>
-
-          {/* View toggle */}
-          <div className="flex rounded-lg border border-border bg-card overflow-hidden">
-            <button
-              onClick={() => setView("globe")}
-              className={cn(
-                "flex items-center gap-1.5 px-3 py-1.5 text-[10px] font-medium transition-colors",
-                view === "globe" ? "bg-foreground text-background" : "text-muted-foreground hover:text-foreground"
-              )}
-            >
-              <Globe2 className="size-3" />
-              Globe
-            </button>
-            <button
-              onClick={() => setView("map")}
-              className={cn(
-                "flex items-center gap-1.5 px-3 py-1.5 text-[10px] font-medium transition-colors",
-                view === "map" ? "bg-foreground text-background" : "text-muted-foreground hover:text-foreground"
-              )}
-            >
-              <Map className="size-3" />
-              Map
-            </button>
-          </div>
+    <div className="flex flex-col min-h-full">
+      <div className="sticky top-0 z-10 border-b border-border bg-background/80 backdrop-blur-sm px-4 py-2.5">
+        <div className="flex items-center gap-2">
+          <Globe2 className="size-4 text-[#D4B37A]" />
+          <h1 className="text-sm font-serif font-semibold leading-none tracking-tight">Explore</h1>
         </div>
-
-        {/* View content */}
-        <AnimatePresence mode="wait">
-          {view === "globe" ? (
-            <motion.div
-              key="globe"
-              initial={{ opacity: 0, filter: "blur(8px)" }}
-              animate={{ opacity: 1, filter: "blur(0px)" }}
-              exit={{ opacity: 0, filter: "blur(8px)" }}
-              transition={{ duration: 0.4 }}
-              className="relative size-full flex flex-col items-center justify-center bg-[var(--tome-surface-elevated)] gap-4 pt-16"
-            >
-              {/* Globe image — uses sprite from globe-views.png (2x2 grid) */}
-              <div className="relative size-64 sm:size-80 rounded-full overflow-hidden">
-                <AnimatePresence mode="wait">
-                  <motion.div
-                    key={globeFace}
-                    initial={{ opacity: 0, scale: 0.95 }}
-                    animate={{ opacity: 1, scale: 1 }}
-                    exit={{ opacity: 0, scale: 0.95 }}
-                    transition={{ duration: 0.3 }}
-                    className="size-full"
-                  >
-                    <Image
-                      src="/map/globe-views.png"
-                      alt={GLOBE_LABELS[globeFace]}
-                      width={800}
-                      height={800}
-                      className="size-[200%] object-cover"
-                      style={{
-                        objectPosition: `${(globeFace % 2) * -100}% ${Math.floor(globeFace / 2) * -100}%`,
-                      }}
-                    />
-                  </motion.div>
-                </AnimatePresence>
-              </div>
-              <p className="text-xs text-muted-foreground font-medium">{GLOBE_LABELS[globeFace]}</p>
-              <div className="flex items-center gap-4">
-                <button
-                  onClick={() => setGlobeFace((f) => (f - 1 + 4) % 4)}
-                  className="flex size-8 items-center justify-center rounded-full border border-border bg-card hover:bg-muted transition-colors"
-                >
-                  <ChevronLeft className="size-4" />
-                </button>
-                <div className="flex gap-1.5">
-                  {GLOBE_LABELS.map((_, i) => (
-                    <button key={i} onClick={() => setGlobeFace(i)} className={`size-2 rounded-full transition-colors ${i === globeFace ? "bg-foreground" : "bg-muted-foreground/30"}`} />
-                  ))}
-                </div>
-                <button
-                  onClick={() => setGlobeFace((f) => (f + 1) % 4)}
-                  className="flex size-8 items-center justify-center rounded-full border border-border bg-card hover:bg-muted transition-colors"
-                >
-                  <ChevronRight className="size-4" />
-                </button>
-              </div>
-            </motion.div>
-          ) : (
-            <motion.div
-              key="map"
-              initial={{ opacity: 0, filter: "blur(8px)" }}
-              animate={{ opacity: 1, filter: "blur(0px)" }}
-              exit={{ opacity: 0, filter: "blur(8px)" }}
-              transition={{ duration: 0.4 }}
-              className="relative size-full bg-[var(--tome-surface-elevated)] overflow-hidden"
-            >
-              {/* Watercolor flat map */}
-              <Image
-                src="/map/world-flat.png"
-                alt="World literary map"
-                width={1200}
-                height={700}
-                className="size-full object-contain"
-                priority
-              />
-
-              {/* Legend */}
-              <div className="absolute bottom-4 left-4 flex flex-wrap gap-1.5 max-w-xs">
-                {Object.entries(TRADITION_COLORS).slice(0, 8).map(([tradition, color]) => (
-                  <span
-                    key={tradition}
-                    className="inline-flex items-center gap-1 rounded-full bg-card/80 backdrop-blur-sm border border-border px-2 py-0.5 text-[8px]"
-                  >
-                    <span className="size-1.5 rounded-full" style={{ backgroundColor: color }} />
-                    {tradition}
-                  </span>
-                ))}
-              </div>
-
-              {/* Country clickable labels */}
-              <div className="absolute top-16 left-4 right-4 flex flex-wrap gap-1">
-                {countries
-                  .sort((a, b) => b.authorCount - a.authorCount)
-                  .slice(0, 12)
-                  .map((c) => (
-                    <button
-                      key={c.country}
-                      onClick={() => setSelectedCountry(selectedCountry === c.country ? null : c.country)}
-                      className={cn(
-                        "rounded-full px-2.5 py-1 text-[10px] font-medium transition-colors border",
-                        selectedCountry === c.country
-                          ? "bg-foreground text-background border-foreground"
-                          : "bg-card/80 backdrop-blur-sm border-border text-muted-foreground hover:text-foreground"
-                      )}
-                    >
-                      {c.country}
-                      <span className="ml-1 text-[8px] opacity-60">{c.authorCount}</span>
-                    </button>
-                  ))}
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
       </div>
 
-      {/* Sidebar / Bottom Sheet */}
-      <AnimatePresence>
-        {selectedCountry && (
-          <motion.aside
-            initial={{ x: 300, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
-            exit={{ x: 300, opacity: 0 }}
-            transition={springs.interactive}
-            className="absolute right-0 top-0 bottom-0 z-30 w-72 border-l border-border bg-background shadow-lg overflow-y-auto md:relative md:w-72 md:shadow-none motion-reduce:transition-none"
-          >
-            <div className="sticky top-0 z-10 flex items-center justify-between border-b border-border bg-background px-4 py-3">
-              <div>
-                <h2 className="text-sm font-semibold">{selectedCountry}</h2>
-                <p className="text-[10px] text-muted-foreground">
-                  {selectedAuthors.length} author{selectedAuthors.length !== 1 ? "s" : ""} in our catalog
-                </p>
-              </div>
-              <button
-                onClick={() => setSelectedCountry(null)}
-                className="flex size-6 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors"
-              >
-                <X className="size-3.5" />
-              </button>
-            </div>
-
-            <div className="p-4 space-y-2">
-              {selectedAuthors.map((author) => (
-                <div
-                  key={author.name}
-                  className="flex items-center gap-3 rounded-lg border border-border bg-card p-3"
-                >
-                  <div
-                    className="flex size-8 shrink-0 items-center justify-center rounded-full text-[10px] font-semibold text-white"
-                    style={{
-                      backgroundColor: TRADITION_COLORS[author.tradition] ?? "#6366F1",
-                    }}
-                  >
-                    {author.name.charAt(0)}
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <AuthorLink name={author.name} className="text-xs font-medium truncate hover:opacity-80" />
-                    <Badge
-                      variant="outline"
-                      className="mt-0.5 text-[8px] h-4"
-                      style={{
-                        borderColor: TRADITION_COLORS[author.tradition],
-                        color: TRADITION_COLORS[author.tradition],
-                      }}
-                    >
-                      {author.tradition}
-                    </Badge>
-                  </div>
-                </div>
-              ))}
-
-              <Link href={`/library?country=${encodeURIComponent(selectedCountry)}`}>
-                <Button variant="ghost" size="sm" className="w-full mt-3 text-[10px]">
-                  <BookOpen className="size-3 mr-1.5" />
-                  View in Library
-                  <ChevronRight className="size-3 ml-auto" />
-                </Button>
-              </Link>
-            </div>
-          </motion.aside>
-        )}
-      </AnimatePresence>
+      <div className="flex-1 flex items-center justify-center p-8">
+        <BlurFade delay={0.1} inView>
+          <div className="text-center max-w-md">
+            <Globe2 className="size-12 text-[#D4B37A] mx-auto mb-4" />
+            <h2 className="font-serif text-xl font-bold text-foreground mb-2">Coming Soon</h2>
+            <p className="text-sm text-muted-foreground mb-6">
+              An interactive world map of literary traditions is being crafted. In the meantime, browse the full catalog.
+            </p>
+            <Link
+              href="/library"
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#D4B37A] text-[#111111] font-semibold text-sm hover:bg-[#E0C48A] transition-colors"
+            >
+              <BookOpen className="size-4" />
+              Browse Library
+              <ArrowRight className="size-3.5" />
+            </Link>
+          </div>
+        </BlurFade>
+      </div>
     </div>
   )
 }

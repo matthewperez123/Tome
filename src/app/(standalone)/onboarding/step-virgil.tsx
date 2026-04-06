@@ -31,14 +31,8 @@ export function StepVirgil({ onComplete }: { onComplete: () => void }) {
       </div>
 
       {/* Virgil Avatar */}
-      <div className="relative z-10 size-28 rounded-full overflow-hidden ring-2 ring-[var(--tome-accent)]/20 bg-[var(--tome-accent)]/10">
-        <Image
-          src="/virgil/virgil-idle.png"
-          alt="Virgil"
-          width={112}
-          height={112}
-          className="w-full h-full object-cover"
-        />
+      <div className="relative z-10 size-28 rounded-full ring-2 ring-[var(--tome-accent)]/20 bg-[var(--tome-accent)]/10 flex items-center justify-center text-4xl font-serif font-bold text-[var(--tome-accent)]" aria-label="Virgil">
+        V
       </div>
 
       {/* Title */}

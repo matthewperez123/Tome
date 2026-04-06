@@ -289,18 +289,6 @@ export default function LibraryPage() {
           ) : (
             <div className="space-y-8">
 
-              {/* ── Trending Now ── */}
-              {showDiscovery && trendingBooks.length > 0 && (
-                <section>
-                  <SectionHeader icon={<TrendingUp className="size-3.5" />} title="Trending Now" />
-                  <div className="flex gap-3 overflow-x-auto scrollbar-none pb-1 -mx-4 px-4 snap-x">
-                    {trendingBooks.map((book, i) => (
-                      <TrendingCard key={book.id} book={book} rank={i + 1} />
-                    ))}
-                  </div>
-                </section>
-              )}
-
               {/* ── Recommended ── */}
               {showDiscovery && featuredBooks.length > 0 && (
                 <section>

@@ -23,17 +23,17 @@
   --tome-pink: #ec4899;
   --tome-rose: #f43f5e;
 
-  /* ── Surfaces (lifted grays for readability) ── */
-  --tome-surface-white: #111111;
-  --tome-surface-elevated: #1A1A1A;
-  --tome-surface-recessed: #222222;
-  --tome-surface-spotlight: #222222;
+  /* ── Surfaces (light mode defaults) ──── */
+  --tome-surface-white: #FAFAF8;
+  --tome-surface-elevated: #FFFFFF;
+  --tome-surface-recessed: #F2F0EC;
+  --tome-surface-spotlight: #F7F5F1;
 
-  /* ── Semantic (brighter for contrast) ──── */
-  --tome-success: #5A9A5A;
-  --tome-warning: #C8A04A;
-  --tome-error: #A04444;
-  --tome-accent: #D4B37A;
+  /* ── Semantic ──────────────────────────── */
+  --tome-success: #2D9A47;
+  --tome-warning: #C8801F;
+  --tome-error: #C84A52;
+  --tome-accent: #6366F1;
 
   /* ── Typography ──────────────────────────── */
   --tome-fs-display: 40px;
@@ -126,6 +126,31 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #666666;
+}
+
+/* ── Dark mode surface overrides ────────────── */
+
+.dark {
+  --tome-surface-white: #0A0A0A;
+  --tome-surface-elevated: #161616;
+  --tome-surface-recessed: #1C1C1C;
+  --tome-surface-spotlight: #1C1C1C;
+  --tome-success: #6EAA6E;
+  --tome-warning: #C8A04A;
+  --tome-error: #C85858;
+  --tome-accent: #6366F1;
+}
+
+.dark * {
+  scrollbar-color: #333333 transparent;
+}
+.dark ::-webkit-scrollbar-thumb { background-color: #333333; }
+.dark ::-webkit-scrollbar-thumb:hover { background-color: #4A4642; }
+
+/* ── Selection ──────────────────────────────── */
+
+::selection {
+  background-color: rgb(99 102 241 / 0.2);
 }
 
 /* ── Focus Ring ──────────────────────────────── */

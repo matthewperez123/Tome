@@ -146,8 +146,8 @@ function ProgressDots({ total, answered }: { total: number; answered: number }) 
             i < answered
               ? "bg-[var(--tome-accent)] scale-110"
               : i === answered
-                ? "bg-[#444444] ring-2 ring-[var(--tome-accent)]/40"
-                : "bg-[#444444]"
+                ? "bg-muted-foreground/30 ring-2 ring-[var(--tome-accent)]/40"
+                : "bg-muted-foreground/30"
           }`}
         />
       ))}
