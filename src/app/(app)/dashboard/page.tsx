@@ -30,7 +30,6 @@ import type { TomeBook } from "@/data/books"
 import { TRADITION_COLORS } from "@/components/tome/book-card"
 import { BookCover, getCoverParams } from "@/components/tome/book-cover"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
-import { getBookCoverArt } from "@/data/cover-art"
 import { AuthorLink } from "@/components/tome/author-link"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -594,7 +593,6 @@ export default function DashboardPage() {
               <div className="space-y-3">
                 {continueBooks.map(({ book, prog, pct }) => {
                   const coverParams = getCoverParams(book)
-                  const coverArt    = getBookCoverArt(book.id)
                   const tradColor   = TRADITION_COLORS[book.tradition]
                   const chapters    = prog?.completedChapterIndices.length ?? Math.round((pct / 100) * book.chapters)
 
@@ -617,7 +615,6 @@ export default function DashboardPage() {
                           title={book.title}
                           author={book.author}
                           tradition={book.tradition}
-                          artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                           fallbackColors={book.coverColors}
                           showTomeWordmark={false}
                           hideBand
@@ -688,7 +685,6 @@ export default function DashboardPage() {
             />
             <div className="flex gap-3 overflow-x-auto pb-2 -mx-1 px-1 snap-x snap-mandatory">
               {(allBooks.filter(b => ["the-iliad", "the-divine-comedy", "the-republic", "hamlet", "moby-dick", "pride-and-prejudice"].includes(b.id)).slice(0, 6)).map((book) => {
-                const coverArt = getBookCoverArt(book.id)
                 const tradColor = TRADITION_COLORS[book.tradition]
                 return (
                   <Link key={book.id} href={`/book/${book.id}`} className="w-32 shrink-0 snap-start group">
@@ -698,7 +694,6 @@ export default function DashboardPage() {
                         title={book.title}
                         author={book.author}
                         tradition={book.tradition}
-                        artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                         fallbackColors={book.coverColors}
                         showTomeWordmark={false}
                         hideBand
@@ -735,7 +730,6 @@ export default function DashboardPage() {
 
             <div className="flex gap-3 overflow-x-auto pb-2 -mx-1 px-1 snap-x snap-mandatory">
               {featuredBooks.map((book) => {
-                const coverArt    = getBookCoverArt(book.id)
                 const tradColor   = TRADITION_COLORS[book.tradition]
                 const reasonTag   = book.trending ? REASON_TAGS[book.trending.trend] : <><BookOpen className="size-3 inline-block align-middle" /> Classic pick</>
 
@@ -748,7 +742,6 @@ export default function DashboardPage() {
                           title={book.title}
                           author={book.author}
                           tradition={book.tradition}
-                          artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                           fallbackColors={book.coverColors}
                           showTomeWordmark={false}
                           hideBand

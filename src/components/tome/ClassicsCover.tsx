@@ -1,6 +1,5 @@
 "use client"
 
-import Image from "next/image"
 import { cn } from "@/lib/utils"
 
 // ── Tradition band colors ───────────────────────────────────────────────────
@@ -114,7 +113,6 @@ export interface ClassicsCoverProps {
   title: string
   author: string
   tradition: string
-  artImageUrl?: string
   fallbackColors?: { primary: string; secondary: string; accent: string }
   className?: string
   showTomeWordmark?: boolean
@@ -131,7 +129,6 @@ export function ClassicsCover({
   title,
   author,
   tradition,
-  artImageUrl,
   fallbackColors = { primary: "#1E3A5F", secondary: "#0F2744", accent: "#C9A84C" },
   className,
   showTomeWordmark = true,
@@ -148,13 +145,8 @@ export function ClassicsCover({
     containerType: "inline-size",
   }
 
-  const motifSvg = !artImageUrl
-    ? getTraditionMotif(tradition, fallbackColors.primary, fallbackColors.accent)
-    : ""
-
-  const fallbackGradient = !artImageUrl
-    ? getFallbackGradient(fallbackColors.primary, fallbackColors.secondary, fallbackColors.accent)
-    : ""
+  const motifSvg = getTraditionMotif(tradition, fallbackColors.primary, fallbackColors.accent)
+  const fallbackGradient = getFallbackGradient(fallbackColors.primary, fallbackColors.secondary, fallbackColors.accent)
 
   return (
     <div
@@ -166,42 +158,18 @@ export function ClassicsCover({
       style={containerStyle}
       data-book-id={bookId}
     >
-      {/* ── Artwork / Fallback background ── */}
-      {artImageUrl ? (
-        <>
-          <Image
-            src={artImageUrl}
-            alt={`${title} cover artwork`}
-            fill
-            unoptimized
-            priority={priority}
-            sizes="(max-width: 768px) 50vw, 33vw"
-            className="object-cover object-center"
-          />
-          {/* Vignette: subtle dark gradient on the bottom half to blend into band */}
-          <div
-            aria-hidden="true"
-            className="absolute inset-0 pointer-events-none"
-            style={{
-              background:
-                "linear-gradient(to bottom, transparent 35%, rgba(0,0,0,0.22) 60%, rgba(0,0,0,0.55) 73%)",
-            }}
-          />
-        </>
-      ) : (
-        /* Procedural fallback */
-        <div className="absolute inset-0" style={{ background: fallbackGradient }}>
-          <svg
-            viewBox="0 0 200 190"
-            xmlns="http://www.w3.org/2000/svg"
-            className="absolute inset-0 w-full h-full"
-            aria-hidden="true"
-            preserveAspectRatio="xMidYMid slice"
-          >
-            <g dangerouslySetInnerHTML={{ __html: motifSvg }} />
-          </svg>
-        </div>
-      )}
+      {/* ── Procedural geometric background ── */}
+      <div className="absolute inset-0" style={{ background: fallbackGradient }}>
+        <svg
+          viewBox="0 0 200 190"
+          xmlns="http://www.w3.org/2000/svg"
+          className="absolute inset-0 w-full h-full"
+          aria-hidden="true"
+          preserveAspectRatio="xMidYMid slice"
+        >
+          <g dangerouslySetInnerHTML={{ __html: motifSvg }} />
+        </svg>
+      </div>
 
       {!hideBand && (
         <>

@@ -7,7 +7,6 @@ import { cn } from "@/lib/utils"
 import { type TomeBook } from "@/data/books"
 import { getCoverParams } from "@/components/tome/book-cover"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
-import { getBookCoverArt } from "@/data/cover-art"
 import { AuthorLink } from "@/components/tome/author-link"
 import type { getAllBookProgress } from "@/lib/book-progress"
 
@@ -91,7 +90,6 @@ export interface BookCardProps {
 
 export function BookCard({ book, progress, size = "sm", className }: BookCardProps) {
   const coverParams = getCoverParams(book)
-  const coverArt    = getBookCoverArt(book.id)
   const tradColor  = TRADITION_COLORS[book.tradition]  ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
   const diffColor  = DIFFICULTY_COLORS[book.difficulty] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca" }
 
@@ -121,7 +119,6 @@ export function BookCard({ book, progress, size = "sm", className }: BookCardPro
           title={book.title}
           author={book.author}
           tradition={book.tradition}
-          artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
           fallbackColors={book.coverColors}
           showTomeWordmark={size === "lg"}
           className={cn(
