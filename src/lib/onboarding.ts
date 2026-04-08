@@ -6,6 +6,10 @@ export interface OnboardingData {
   traditions: string[]
   dailyGoalMinutes: number
   completedAt: string | null
+  userType: string | null
+  teacherClassSize: string | null
+  teacherSubject: string | null
+  teacherLevel: string | null
 }
 
 const STORAGE_KEY = "tome-onboarding"
@@ -15,6 +19,10 @@ const DEFAULT_DATA: OnboardingData = {
   traditions: [],
   dailyGoalMinutes: 15,
   completedAt: null,
+  userType: null,
+  teacherClassSize: null,
+  teacherSubject: null,
+  teacherLevel: null,
 }
 
 export function getOnboardingData(): OnboardingData {
