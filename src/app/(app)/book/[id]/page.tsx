@@ -28,7 +28,6 @@ import { BlurFade } from "@/components/ui/blur-fade"
 import { Skeleton } from "@/components/ui/skeleton"
 import { getCoverParams } from "@/components/tome/book-cover"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
-import { getBookCoverArt } from "@/data/cover-art"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { AuthorLink } from "@/components/tome/author-link"
 import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
@@ -179,7 +178,6 @@ export default function BookDetailPage() {
   const tradColor = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
   const diffColor = DIFFICULTY_COLORS[book.difficulty] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca" }
   const coverParams = getCoverParams(book)
-  const coverArt = getBookCoverArt(bookId)
   const authorBio1 = author?.bio.split("\n\n")[0] ?? ""
   const authorInitials = author?.name.split(" ").map(w => w[0]).join("").slice(0, 2).toUpperCase() ?? "?"
   const visibleChapters = showAllChapters ? chapters : chapters.slice(0, INITIAL_CHAPTERS)
@@ -221,7 +219,6 @@ export default function BookDetailPage() {
                   title={book.title}
                   author={book.author}
                   tradition={book.tradition}
-                  artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                   fallbackColors={book.coverColors}
                   showTomeWordmark
                   priority
