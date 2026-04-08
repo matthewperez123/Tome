@@ -1,0 +1,226 @@
+{
+  "id": "lesson-latin-002",
+  "languageId": "latin",
+  "title": "Arms and the Man",
+  "author": "Virgil",
+  "workTitle": "Aeneid",
+  "workSection": "Book I, Lines 1-7",
+
+  "vocabulary": [
+    {
+      "id": "v-arma",
+      "word": "arma",
+      "lemma": "arma",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "declension": "2nd",
+      "definition": "arms, weapons, warfare",
+      "pronunciation": { "classical": "/\u02c8ar.ma/" },
+      "exampleSentence": "Arma virumque cano.",
+      "exampleTranslation": "I sing of arms and the man.",
+      "notes": "Always plural in this sense. Root of English 'arms', 'army', 'armament'."
+    },
+    {
+      "id": "v-vir",
+      "word": "virum",
+      "lemma": "vir",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "declension": "2nd",
+      "definition": "man, hero",
+      "pronunciation": { "classical": "/wir/" },
+      "exampleSentence": "Arma virumque cano.",
+      "exampleTranslation": "I sing of arms and the man.",
+      "notes": "Refers specifically to a man of courage/virtue. Root of English 'virile', 'virtue'."
+    },
+    {
+      "id": "v-cano",
+      "word": "cano",
+      "lemma": "cano",
+      "partOfSpeech": "verb",
+      "definition": "to sing, to tell of (in verse)",
+      "pronunciation": { "classical": "/\u02c8ka.no\u02d0/" },
+      "exampleSentence": "Arma virumque cano.",
+      "exampleTranslation": "I sing of arms and the man.",
+      "notes": "3rd conjugation. The traditional opening verb of epic poetry."
+    },
+    {
+      "id": "v-troia",
+      "word": "Troiae",
+      "lemma": "Troia",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "declension": "1st",
+      "definition": "Troy (the ancient city)",
+      "pronunciation": { "classical": "/\u02c8troi\u032f.ai\u032f/" },
+      "exampleSentence": "Qui primus ab oris Troiae venit.",
+      "exampleTranslation": "Who first came from the shores of Troy.",
+      "notes": "The legendary city besieged by the Greeks in the Trojan War."
+    },
+    {
+      "id": "v-primus",
+      "word": "primus",
+      "lemma": "primus",
+      "partOfSpeech": "adjective",
+      "definition": "first",
+      "pronunciation": { "classical": "/\u02c8pri\u02d0.mus/" },
+      "exampleSentence": "Qui primus ab oris venit.",
+      "exampleTranslation": "Who first came from the shores.",
+      "notes": "Superlative of 'prior'. Root of English 'prime', 'primary', 'primitive'."
+    },
+    {
+      "id": "v-fatum",
+      "word": "fato",
+      "lemma": "fatum",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "declension": "2nd",
+      "definition": "fate, destiny, doom",
+      "pronunciation": { "classical": "/\u02c8fa\u02d0.tum/" },
+      "exampleSentence": "Fato profugus venit.",
+      "exampleTranslation": "Exiled by fate, he came.",
+      "notes": "From 'fari' (to speak) \u2014 that which has been spoken by the gods. Root of English 'fate', 'fatal'."
+    },
+    {
+      "id": "v-venio",
+      "word": "venit",
+      "lemma": "venio",
+      "partOfSpeech": "verb",
+      "definition": "to come, arrive",
+      "pronunciation": { "classical": "/\u02c8we.ni.o\u02d0/" },
+      "exampleSentence": "Italiam venit.",
+      "exampleTranslation": "He came to Italy.",
+      "notes": "4th conjugation. 'venit' can be present or perfect tense \u2014 context determines which."
+    },
+    {
+      "id": "v-ora",
+      "word": "oris",
+      "lemma": "ora",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "declension": "1st",
+      "definition": "shore, coast, border",
+      "pronunciation": { "classical": "/\u02c8o\u02d0.ra/" },
+      "exampleSentence": "Ab oris Troiae profugus.",
+      "exampleTranslation": "An exile from the shores of Troy.",
+      "notes": "Often used in the plural. Not to be confused with 'os, oris' (mouth)."
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-ablative",
+      "title": "The Ablative Case",
+      "explanation": "The <strong>ablative case</strong> is one of Latin's most versatile cases. It expresses ideas like 'from', 'with', 'by', and 'in'. In the Aeneid's opening, we see <em>ab oris</em> (from the shores) and <em>fato</em> (by fate). The ablative often appears with prepositions like <em>ab/a</em> (from), <em>cum</em> (with), <em>in</em> (in/on), but can also stand alone to express means or cause.",
+      "examples": [
+        { "latin": "Ab oris Troiae venit.", "english": "He came from the shores (abl.) of Troy." },
+        { "latin": "Fato profugus.", "english": "Exiled by fate (abl. of cause)." }
+      ],
+      "tip": "The ablative often answers 'how?', 'from where?', or 'by what means?' If you see 'ab', 'cum', 'in' + noun, the noun is likely ablative."
+    },
+    {
+      "id": "g-word-order",
+      "title": "Poetic Word Order (Hyperbaton)",
+      "explanation": "Latin word order is flexible because the case endings (not position) show grammatical relationships. Poets like Virgil exploit this freedom extensively. In prose you might write <em>Cano arma virumque</em>, but Virgil opens with <em>Arma virumque cano</em>, placing the objects before the verb for dramatic emphasis. This separation of words that belong together is called <strong>hyperbaton</strong>.",
+      "examples": [
+        { "latin": "Arma virumque cano.", "english": "Arms and the man I sing of. (Object-Verb)" },
+        { "latin": "Multum ille et terris iactatus et alto.", "english": "Much tossed both on land and on the deep. (Adjective separated from noun)" }
+      ],
+      "tip": "When reading Latin poetry, don't expect words to appear in 'logical' order. Look for case endings to match nouns with their adjectives and verbs with their subjects."
+    }
+  ],
+
+  "reading": {
+    "title": "Aeneid I.1-4",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "Arma virumque cano, Troiae qui primus ab oris",
+        "translation": "I sing of arms and the man, who first from the shores of Troy",
+        "words": [
+          { "surface": "Arma", "lemma": "arma", "partOfSpeech": "noun", "morphology": "acc. pl. neut.", "definition": "arms, weapons", "vocabRef": "v-arma" },
+          { "surface": "virumque", "lemma": "vir", "partOfSpeech": "noun + conj.", "morphology": "acc. sg. masc. + 'and'", "definition": "and the man", "vocabRef": "v-vir" },
+          { "surface": "cano", "lemma": "cano", "partOfSpeech": "verb", "morphology": "1st sg. pres. ind. act.", "definition": "I sing", "vocabRef": "v-cano" },
+          { "surface": "Troiae", "lemma": "Troia", "partOfSpeech": "noun", "morphology": "gen. sg. fem.", "definition": "of Troy", "vocabRef": "v-troia" },
+          { "surface": "qui", "lemma": "qui", "partOfSpeech": "pronoun", "morphology": "nom. sg. masc.", "definition": "who" },
+          { "surface": "primus", "lemma": "primus", "partOfSpeech": "adjective", "morphology": "nom. sg. masc.", "definition": "first", "vocabRef": "v-primus" },
+          { "surface": "ab", "lemma": "ab", "partOfSpeech": "preposition", "morphology": "+ abl.", "definition": "from" },
+          { "surface": "oris", "lemma": "ora", "partOfSpeech": "noun", "morphology": "abl. pl. fem.", "definition": "shores", "vocabRef": "v-ora" }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Italiam fato profugus Laviniaque venit litora,",
+        "translation": "came to Italy, an exile by fate, and to the Lavinian shores,",
+        "words": [
+          { "surface": "Italiam", "lemma": "Italia", "partOfSpeech": "noun", "morphology": "acc. sg. fem.", "definition": "Italy (as destination)" },
+          { "surface": "fato", "lemma": "fatum", "partOfSpeech": "noun", "morphology": "abl. sg. neut.", "definition": "by fate", "vocabRef": "v-fatum" },
+          { "surface": "profugus", "lemma": "profugus", "partOfSpeech": "adjective", "morphology": "nom. sg. masc.", "definition": "exiled, fugitive" },
+          { "surface": "Laviniaque", "lemma": "Lavinius", "partOfSpeech": "adjective + conj.", "morphology": "acc. pl. neut. + 'and'", "definition": "and Lavinian" },
+          { "surface": "venit", "lemma": "venio", "partOfSpeech": "verb", "morphology": "3rd sg. perf. ind. act.", "definition": "came", "vocabRef": "v-venio" },
+          { "surface": "litora", "lemma": "litus", "partOfSpeech": "noun", "morphology": "acc. pl. neut.", "definition": "shores" }
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "multum ille et terris iactatus et alto,",
+        "translation": "much buffeted both on land and on the deep,",
+        "words": [
+          { "surface": "multum", "lemma": "multum", "partOfSpeech": "adverb", "morphology": "", "definition": "much, greatly" },
+          { "surface": "ille", "lemma": "ille", "partOfSpeech": "pronoun", "morphology": "nom. sg. masc.", "definition": "that one, he" },
+          { "surface": "et", "lemma": "et", "partOfSpeech": "conjunction", "morphology": "", "definition": "both...and" },
+          { "surface": "terris", "lemma": "terra", "partOfSpeech": "noun", "morphology": "abl. pl. fem.", "definition": "on lands" },
+          { "surface": "iactatus", "lemma": "iacto", "partOfSpeech": "participle", "morphology": "perf. pass. part. nom. sg. masc.", "definition": "tossed, buffeted" },
+          { "surface": "et", "lemma": "et", "partOfSpeech": "conjunction", "morphology": "", "definition": "and" },
+          { "surface": "alto", "lemma": "altum", "partOfSpeech": "noun", "morphology": "abl. sg. neut.", "definition": "the deep (sea)" }
+        ]
+      }
+    ]
+  },
+
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple-choice",
+      "prompt": "What does 'cano' mean in the opening line?",
+      "options": ["I fight", "I sing / I tell of", "I build", "I sail"],
+      "correctIndex": 1,
+      "explanation": "'Cano' means 'I sing' or 'I tell of in verse.' It is the traditional opening verb of Roman epic poetry."
+    },
+    {
+      "id": "ex2",
+      "type": "multiple-choice",
+      "prompt": "Why is Aeneas called 'profugus'?",
+      "options": ["He is a king", "He is exiled by fate", "He is a soldier", "He is a priest"],
+      "correctIndex": 1,
+      "explanation": "'Fato profugus' means 'exiled by fate.' Aeneas was driven from Troy by destiny to found a new city in Italy."
+    },
+    {
+      "id": "ex3",
+      "type": "matching",
+      "prompt": "Match the Latin word with its English meaning.",
+      "pairs": [
+        { "left": "arma", "right": "arms, weapons" },
+        { "left": "virum", "right": "man, hero" },
+        { "left": "fato", "right": "by fate" },
+        { "left": "oris", "right": "shores" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "type": "fill-in-the-blank",
+      "prompt": "Arma ____ cano.",
+      "answer": "virumque",
+      "acceptableAnswers": ["virumque"],
+      "hint": "The enclitic '-que' means 'and.' What noun means 'man'?"
+    },
+    {
+      "id": "ex5",
+      "type": "fill-in-the-blank",
+      "prompt": "Italiam fato profugus Laviniaque ____ litora.",
+      "answer": "venit",
+      "acceptableAnswers": ["venit"],
+      "hint": "This verb means 'came' \u2014 from 'venio.'"
+    }
+  ]
+}

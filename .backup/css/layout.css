@@ -1,0 +1,104 @@
+/* App shell layout */
+#app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--color-white);
+  border-bottom: 1px solid var(--color-marble);
+  box-shadow: var(--shadow-sm);
+}
+
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-family: var(--font-serif);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--color-ink);
+  text-decoration: none;
+}
+
+.header-logo .logo-icon {
+  font-size: var(--text-3xl);
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.header-nav a {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-ink-light);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast);
+}
+
+.header-nav a:hover,
+.header-nav a.active {
+  color: var(--color-ink);
+  background: var(--color-marble);
+}
+
+/* Main content area */
+#app-root {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-2xl) var(--space-lg);
+  min-height: calc(100vh - var(--header-height) - 120px);
+}
+
+/* Footer */
+#app-footer {
+  border-top: 1px solid var(--color-marble);
+  background: var(--color-white);
+}
+
+.footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-lg);
+  text-align: center;
+  color: var(--color-shadow);
+  font-size: var(--text-sm);
+}
+
+.footer-inner a {
+  color: var(--color-shadow);
+}
+
+.footer-inner a:hover {
+  color: var(--color-ink);
+}
+
+/* Page containers */
+.page {
+  animation: fadeIn var(--transition-normal) ease-in;
+}
+
+/* Lesson layout with sidebar */
+.lesson-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-xl);
+}
+
+@media (min-width: 768px) {
+  .lesson-layout {
+    grid-template-columns: var(--sidebar-width) 1fr;
+  }
+}

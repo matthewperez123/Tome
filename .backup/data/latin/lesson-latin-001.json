@@ -1,0 +1,228 @@
+{
+  "id": "lesson-latin-001",
+  "languageId": "latin",
+  "title": "The Gauls and the Romans",
+  "author": "Julius Caesar",
+  "workTitle": "De Bello Gallico",
+  "workSection": "Book I, Chapter 1",
+
+  "vocabulary": [
+    {
+      "id": "v-gallia",
+      "word": "Gallia",
+      "lemma": "Gallia",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "declension": "1st",
+      "definition": "Gaul (the region comprising modern France)",
+      "pronunciation": { "classical": "/\u02c8\u0261al.li.a/" },
+      "exampleSentence": "Gallia est omnis divisa in partes tres.",
+      "exampleTranslation": "All of Gaul is divided into three parts.",
+      "notes": "Proper noun referring to the Roman province."
+    },
+    {
+      "id": "v-omnis",
+      "word": "omnis",
+      "lemma": "omnis",
+      "partOfSpeech": "adjective",
+      "definition": "all, every, whole",
+      "pronunciation": { "classical": "/\u02c8om.nis/" },
+      "exampleSentence": "Gallia est omnis divisa.",
+      "exampleTranslation": "All of Gaul is divided.",
+      "notes": "3rd declension adjective. Can mean 'all' (singular) or 'every' (plural)."
+    },
+    {
+      "id": "v-divido",
+      "word": "divisa",
+      "lemma": "divido",
+      "partOfSpeech": "verb",
+      "definition": "to divide, separate",
+      "pronunciation": { "classical": "/di\u02c8wi\u02d0.do\u02d0/" },
+      "exampleSentence": "Gallia est divisa in partes tres.",
+      "exampleTranslation": "Gaul is divided into three parts.",
+      "notes": "'divisa' is the perfect passive participle (nom. sg. fem.)."
+    },
+    {
+      "id": "v-pars",
+      "word": "partes",
+      "lemma": "pars",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "declension": "3rd",
+      "definition": "part, portion, region",
+      "pronunciation": { "classical": "/pars/" },
+      "exampleSentence": "In partes tres divisa est.",
+      "exampleTranslation": "It is divided into three parts.",
+      "notes": "Root of English 'part', 'partition', 'participate'."
+    },
+    {
+      "id": "v-tres",
+      "word": "tres",
+      "lemma": "tres",
+      "partOfSpeech": "numeral",
+      "definition": "three",
+      "pronunciation": { "classical": "/tre\u02d0s/" },
+      "exampleSentence": "Partes tres sunt.",
+      "exampleTranslation": "There are three parts.",
+      "notes": "Declines like a 3rd declension adjective. Root of English 'triple', 'trio'."
+    },
+    {
+      "id": "v-incolo",
+      "word": "incolunt",
+      "lemma": "incolo",
+      "partOfSpeech": "verb",
+      "definition": "to inhabit, dwell in",
+      "pronunciation": { "classical": "/\u02c8in.ko.lo\u02d0/" },
+      "exampleSentence": "Belgae unam partem incolunt.",
+      "exampleTranslation": "The Belgae inhabit one part.",
+      "notes": "3rd conjugation verb. 'incolunt' is 3rd person plural present indicative."
+    },
+    {
+      "id": "v-belgae",
+      "word": "Belgae",
+      "lemma": "Belgae",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "declension": "1st",
+      "definition": "the Belgae (a Celtic-Germanic people)",
+      "pronunciation": { "classical": "/\u02c8bel.gai\u032f/" },
+      "exampleSentence": "Belgae ab extremis Galliae finibus oriuntur.",
+      "exampleTranslation": "The Belgae originate from the farthest borders of Gaul.",
+      "notes": "Plural noun. They inhabited what is now Belgium and northern France."
+    },
+    {
+      "id": "v-unus",
+      "word": "unam",
+      "lemma": "unus",
+      "partOfSpeech": "numeral",
+      "definition": "one, a single",
+      "pronunciation": { "classical": "/\u02c8u\u02d0.nus/" },
+      "exampleSentence": "Unam partem incolunt Belgae.",
+      "exampleTranslation": "The Belgae inhabit one part.",
+      "notes": "Irregular declension. Root of English 'union', 'unite', 'unique'."
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-nom-acc",
+      "title": "Nominative and Accusative Cases",
+      "explanation": "Latin nouns change their endings to show their role in a sentence. The <strong>nominative case</strong> marks the subject \u2014 the person or thing performing the action. The <strong>accusative case</strong> marks the direct object \u2014 the person or thing receiving the action. In \"Belgae partem incolunt\" (The Belgae inhabit a part), <em>Belgae</em> is nominative (subject) and <em>partem</em> is accusative (object).",
+      "examples": [
+        { "latin": "Gallia est divisa.", "english": "Gaul (nominative - subject) is divided." },
+        { "latin": "Belgae partem incolunt.", "english": "The Belgae (nom.) inhabit a part (acc.)." }
+      ],
+      "tip": "Think of nominative as 'the doer' and accusative as 'the receiver.' In English we show this with word order; in Latin, the endings do the work."
+    },
+    {
+      "id": "g-esse",
+      "title": "The Verb 'esse' (to be)",
+      "explanation": "The verb <strong>esse</strong> (to be) is the most important and most irregular verb in Latin. In the present tense: <em>sum</em> (I am), <em>es</em> (you are), <em>est</em> (he/she/it is), <em>sumus</em> (we are), <em>estis</em> (you all are), <em>sunt</em> (they are). It is used with predicate nouns and adjectives, just like English 'is/are'.",
+      "examples": [
+        { "latin": "Gallia est divisa.", "english": "Gaul is divided." },
+        { "latin": "Horum omnium fortissimi sunt Belgae.", "english": "Of all these, the Belgae are the bravest." }
+      ],
+      "tip": "Unlike most Latin verbs, 'esse' does not take a direct object. It links the subject to a description or identity."
+    }
+  ],
+
+  "reading": {
+    "title": "De Bello Gallico, I.1",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "Gallia est omnis divisa in partes tres.",
+        "translation": "All of Gaul is divided into three parts.",
+        "words": [
+          { "surface": "Gallia", "lemma": "Gallia", "partOfSpeech": "noun", "morphology": "nom. sg. fem.", "definition": "Gaul", "vocabRef": "v-gallia" },
+          { "surface": "est", "lemma": "sum", "partOfSpeech": "verb", "morphology": "3rd sg. pres. ind. act.", "definition": "is" },
+          { "surface": "omnis", "lemma": "omnis", "partOfSpeech": "adjective", "morphology": "nom. sg. fem.", "definition": "all, whole", "vocabRef": "v-omnis" },
+          { "surface": "divisa", "lemma": "divido", "partOfSpeech": "participle", "morphology": "perf. pass. part. nom. sg. fem.", "definition": "divided", "vocabRef": "v-divido" },
+          { "surface": "in", "lemma": "in", "partOfSpeech": "preposition", "morphology": "+ acc.", "definition": "into" },
+          { "surface": "partes", "lemma": "pars", "partOfSpeech": "noun", "morphology": "acc. pl. fem.", "definition": "parts", "vocabRef": "v-pars" },
+          { "surface": "tres", "lemma": "tres", "partOfSpeech": "numeral", "morphology": "acc. pl.", "definition": "three", "vocabRef": "v-tres" }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Quarum unam partem incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.",
+        "translation": "Of these, the Belgae inhabit one part, the Aquitani another, and the third those who in their own language are called Celts, in ours Gauls.",
+        "words": [
+          { "surface": "Quarum", "lemma": "qui", "partOfSpeech": "pronoun", "morphology": "gen. pl. fem.", "definition": "of which, of these" },
+          { "surface": "unam", "lemma": "unus", "partOfSpeech": "numeral", "morphology": "acc. sg. fem.", "definition": "one", "vocabRef": "v-unus" },
+          { "surface": "partem", "lemma": "pars", "partOfSpeech": "noun", "morphology": "acc. sg. fem.", "definition": "part", "vocabRef": "v-pars" },
+          { "surface": "incolunt", "lemma": "incolo", "partOfSpeech": "verb", "morphology": "3rd pl. pres. ind. act.", "definition": "inhabit", "vocabRef": "v-incolo" },
+          { "surface": "Belgae", "lemma": "Belgae", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "the Belgae", "vocabRef": "v-belgae" },
+          { "surface": "aliam", "lemma": "alius", "partOfSpeech": "adjective", "morphology": "acc. sg. fem.", "definition": "another" },
+          { "surface": "Aquitani", "lemma": "Aquitani", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "the Aquitani" },
+          { "surface": "tertiam", "lemma": "tertius", "partOfSpeech": "adjective", "morphology": "acc. sg. fem.", "definition": "third" },
+          { "surface": "qui", "lemma": "qui", "partOfSpeech": "pronoun", "morphology": "nom. pl. masc.", "definition": "who" },
+          { "surface": "ipsorum", "lemma": "ipse", "partOfSpeech": "pronoun", "morphology": "gen. pl. masc.", "definition": "their own" },
+          { "surface": "lingua", "lemma": "lingua", "partOfSpeech": "noun", "morphology": "abl. sg. fem.", "definition": "language, tongue" },
+          { "surface": "Celtae", "lemma": "Celtae", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "Celts" },
+          { "surface": "nostra", "lemma": "noster", "partOfSpeech": "adjective", "morphology": "abl. sg. fem.", "definition": "our" },
+          { "surface": "Galli", "lemma": "Galli", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "Gauls" },
+          { "surface": "appellantur", "lemma": "appello", "partOfSpeech": "verb", "morphology": "3rd pl. pres. ind. pass.", "definition": "are called" }
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Horum omnium fortissimi sunt Belgae.",
+        "translation": "Of all these, the bravest are the Belgae.",
+        "words": [
+          { "surface": "Horum", "lemma": "hic", "partOfSpeech": "pronoun", "morphology": "gen. pl. masc.", "definition": "of these" },
+          { "surface": "omnium", "lemma": "omnis", "partOfSpeech": "adjective", "morphology": "gen. pl. masc.", "definition": "of all", "vocabRef": "v-omnis" },
+          { "surface": "fortissimi", "lemma": "fortis", "partOfSpeech": "adjective", "morphology": "nom. pl. masc. superl.", "definition": "bravest, strongest" },
+          { "surface": "sunt", "lemma": "sum", "partOfSpeech": "verb", "morphology": "3rd pl. pres. ind.", "definition": "are" },
+          { "surface": "Belgae", "lemma": "Belgae", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "the Belgae", "vocabRef": "v-belgae" }
+        ]
+      }
+    ]
+  },
+
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple-choice",
+      "prompt": "What does 'Gallia' refer to?",
+      "options": ["Rome", "Gaul (modern France)", "Greece", "Spain"],
+      "correctIndex": 1,
+      "explanation": "Gallia is the Latin name for the region of Gaul, which corresponds to modern-day France and surrounding areas."
+    },
+    {
+      "id": "ex2",
+      "type": "multiple-choice",
+      "prompt": "According to Caesar, into how many parts is Gaul divided?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "Caesar famously opens with 'Gallia est omnis divisa in partes tres' — All of Gaul is divided into three parts."
+    },
+    {
+      "id": "ex3",
+      "type": "matching",
+      "prompt": "Match the Latin word with its English meaning.",
+      "pairs": [
+        { "left": "omnis", "right": "all" },
+        { "left": "partes", "right": "parts" },
+        { "left": "tres", "right": "three" },
+        { "left": "incolunt", "right": "inhabit" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "type": "fill-in-the-blank",
+      "prompt": "Gallia est omnis divisa in ____ tres.",
+      "answer": "partes",
+      "acceptableAnswers": ["partes"],
+      "hint": "Think of the English word 'parts'."
+    },
+    {
+      "id": "ex5",
+      "type": "fill-in-the-blank",
+      "prompt": "Horum omnium fortissimi ____ Belgae.",
+      "answer": "sunt",
+      "acceptableAnswers": ["sunt"],
+      "hint": "This is the 3rd person plural of 'esse' (to be)."
+    }
+  ]
+}

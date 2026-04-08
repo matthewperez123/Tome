@@ -1,0 +1,41 @@
+{
+  "languageId": "latin",
+  "languageName": "Latin",
+  "languageNameNative": "Lingua Latina",
+  "description": "The language of the Roman Empire, Western scholarship, law, and the Catholic Church. Begin your journey with the words of Caesar, Virgil, and Catullus.",
+  "lessons": [
+    {
+      "id": "lesson-latin-001",
+      "title": "The Gauls and the Romans",
+      "subtitle": "From Caesar's Commentarii de Bello Gallico, Book I",
+      "author": "Julius Caesar",
+      "workTitle": "De Bello Gallico",
+      "difficulty": "beginner",
+      "order": 1,
+      "estimatedMinutes": 20,
+      "tags": ["prose", "history", "military"]
+    },
+    {
+      "id": "lesson-latin-002",
+      "title": "Arms and the Man",
+      "subtitle": "From Virgil's Aeneid, Book I",
+      "author": "Virgil",
+      "workTitle": "Aeneid",
+      "difficulty": "intermediate",
+      "order": 2,
+      "estimatedMinutes": 25,
+      "tags": ["poetry", "epic", "mythology"]
+    },
+    {
+      "id": "lesson-latin-003",
+      "title": "Let Us Live and Love",
+      "subtitle": "Catullus, Carmen 5",
+      "author": "Catullus",
+      "workTitle": "Carmina",
+      "difficulty": "intermediate",
+      "order": 3,
+      "estimatedMinutes": 20,
+      "tags": ["poetry", "lyric", "love"]
+    }
+  ]
+}

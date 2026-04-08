@@ -1,0 +1,240 @@
+{
+  "id": "lesson-latin-003",
+  "languageId": "latin",
+  "title": "Let Us Live and Love",
+  "author": "Catullus",
+  "workTitle": "Carmina",
+  "workSection": "Carmen 5",
+
+  "vocabulary": [
+    {
+      "id": "v-vivo",
+      "word": "vivamus",
+      "lemma": "vivo",
+      "partOfSpeech": "verb",
+      "definition": "to live, be alive",
+      "pronunciation": { "classical": "/\u02c8wi\u02d0.wo\u02d0/" },
+      "exampleSentence": "Vivamus, mea Lesbia, atque amemus.",
+      "exampleTranslation": "Let us live, my Lesbia, and let us love.",
+      "notes": "'vivamus' is 1st person plural present subjunctive \u2014 a command or exhortation."
+    },
+    {
+      "id": "v-amo",
+      "word": "amemus",
+      "lemma": "amo",
+      "partOfSpeech": "verb",
+      "definition": "to love",
+      "pronunciation": { "classical": "/\u02c8a.mo\u02d0/" },
+      "exampleSentence": "Vivamus atque amemus.",
+      "exampleTranslation": "Let us live and let us love.",
+      "notes": "1st conjugation. Root of English 'amateur', 'amorous'. 'amemus' is subjunctive."
+    },
+    {
+      "id": "v-sol",
+      "word": "soles",
+      "lemma": "sol",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "declension": "3rd",
+      "definition": "sun; day",
+      "pronunciation": { "classical": "/so\u02d0l/" },
+      "exampleSentence": "Soles occidere et redire possunt.",
+      "exampleTranslation": "Suns can set and return again.",
+      "notes": "Root of English 'solar', 'solstice'. Here used metaphorically for days."
+    },
+    {
+      "id": "v-nox",
+      "word": "nox",
+      "lemma": "nox",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "declension": "3rd",
+      "definition": "night",
+      "pronunciation": { "classical": "/noks/" },
+      "exampleSentence": "Nox est perpetua una dormienda.",
+      "exampleTranslation": "One perpetual night must be slept through.",
+      "notes": "Root of English 'nocturnal'. Catullus uses night as a metaphor for death."
+    },
+    {
+      "id": "v-basium",
+      "word": "basia",
+      "lemma": "basium",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "declension": "2nd",
+      "definition": "kiss",
+      "pronunciation": { "classical": "/\u02c8ba.si.um/" },
+      "exampleSentence": "Da mi basia mille.",
+      "exampleTranslation": "Give me a thousand kisses.",
+      "notes": "A colloquial word, possibly borrowed from Celtic. Catullus popularized it in Latin poetry."
+    },
+    {
+      "id": "v-mille",
+      "word": "mille",
+      "lemma": "mille",
+      "partOfSpeech": "numeral",
+      "definition": "a thousand",
+      "pronunciation": { "classical": "/\u02c8mil.le/" },
+      "exampleSentence": "Da mi basia mille, deinde centum.",
+      "exampleTranslation": "Give me a thousand kisses, then a hundred.",
+      "notes": "Root of English 'mile' (mille passus = 1000 paces), 'millennium'."
+    },
+    {
+      "id": "v-rumor",
+      "word": "rumores",
+      "lemma": "rumor",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "declension": "3rd",
+      "definition": "rumor, gossip, talk",
+      "pronunciation": { "classical": "/\u02c8ru\u02d0.mor/" },
+      "exampleSentence": "Rumoresque senum severiorum omnes unius aestimemus assis.",
+      "exampleTranslation": "And let us value the gossip of stern old men at a single penny.",
+      "notes": "Direct ancestor of English 'rumor'. Catullus dismisses the disapproval of elders."
+    },
+    {
+      "id": "v-senex",
+      "word": "senum",
+      "lemma": "senex",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "declension": "3rd",
+      "definition": "old man, elder",
+      "pronunciation": { "classical": "/\u02c8se.neks/" },
+      "exampleSentence": "Rumores senum severiorum.",
+      "exampleTranslation": "The gossip of rather stern old men.",
+      "notes": "Root of English 'senate', 'senior', 'senile'."
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-subjunctive",
+      "title": "The Hortatory (Jussive) Subjunctive",
+      "explanation": "The <strong>hortatory subjunctive</strong> uses the first person plural ('we') of the present subjunctive to express an exhortation or encouragement \u2014 'let us...' In <em>vivamus</em> and <em>amemus</em>, Catullus is urging both himself and Lesbia: 'Let us live! Let us love!' This is one of the most common independent uses of the subjunctive mood in Latin.",
+      "examples": [
+        { "latin": "Vivamus atque amemus.", "english": "Let us live and let us love." },
+        { "latin": "Aestimemus assis.", "english": "Let us value (it) at a single penny." }
+      ],
+      "tip": "When you see a 1st person plural verb that doesn't seem to be a statement of fact, it's likely hortatory: 'let us do X.'"
+    },
+    {
+      "id": "g-numbers",
+      "title": "Numbers in Latin",
+      "explanation": "Catullus plays with numbers throughout Carmen 5: <em>mille</em> (1,000), <em>centum</em> (100), <em>unius</em> (one). Key numbers: <strong>unus</strong> (1), <strong>duo</strong> (2), <strong>tres</strong> (3), <strong>centum</strong> (100), <strong>mille</strong> (1,000). 'Mille' is indeclinable in the singular but becomes the neuter noun 'milia' in the plural (thousands).",
+      "examples": [
+        { "latin": "Da mi basia mille, deinde centum.", "english": "Give me a thousand kisses, then a hundred." },
+        { "latin": "Dein mille altera, dein secunda centum.", "english": "Then another thousand, then a second hundred." }
+      ],
+      "tip": "Catullus piles up huge numbers to express overwhelming passion \u2014 and then says 'let us mix them up' so no one can count them and cast the evil eye!"
+    }
+  ],
+
+  "reading": {
+    "title": "Carmen 5",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "Vivamus, mea Lesbia, atque amemus,",
+        "translation": "Let us live, my Lesbia, and let us love,",
+        "words": [
+          { "surface": "Vivamus", "lemma": "vivo", "partOfSpeech": "verb", "morphology": "1st pl. pres. subj. act.", "definition": "let us live", "vocabRef": "v-vivo" },
+          { "surface": "mea", "lemma": "meus", "partOfSpeech": "adjective", "morphology": "voc. sg. fem.", "definition": "my" },
+          { "surface": "Lesbia", "lemma": "Lesbia", "partOfSpeech": "noun", "morphology": "voc. sg. fem.", "definition": "Lesbia (beloved)" },
+          { "surface": "atque", "lemma": "atque", "partOfSpeech": "conjunction", "morphology": "", "definition": "and" },
+          { "surface": "amemus", "lemma": "amo", "partOfSpeech": "verb", "morphology": "1st pl. pres. subj. act.", "definition": "let us love", "vocabRef": "v-amo" }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "rumoresque senum severiorum omnes unius aestimemus assis!",
+        "translation": "and let us value all the gossip of stern old men at a single penny!",
+        "words": [
+          { "surface": "rumoresque", "lemma": "rumor", "partOfSpeech": "noun + conj.", "morphology": "acc. pl. masc. + 'and'", "definition": "and the rumors", "vocabRef": "v-rumor" },
+          { "surface": "senum", "lemma": "senex", "partOfSpeech": "noun", "morphology": "gen. pl. masc.", "definition": "of old men", "vocabRef": "v-senex" },
+          { "surface": "severiorum", "lemma": "severus", "partOfSpeech": "adjective", "morphology": "gen. pl. masc. comp.", "definition": "rather stern" },
+          { "surface": "omnes", "lemma": "omnis", "partOfSpeech": "adjective", "morphology": "acc. pl. masc.", "definition": "all" },
+          { "surface": "unius", "lemma": "unus", "partOfSpeech": "numeral", "morphology": "gen. sg. masc.", "definition": "of one, single" },
+          { "surface": "aestimemus", "lemma": "aestimo", "partOfSpeech": "verb", "morphology": "1st pl. pres. subj. act.", "definition": "let us value" },
+          { "surface": "assis", "lemma": "as", "partOfSpeech": "noun", "morphology": "gen. sg. masc.", "definition": "penny, copper coin" }
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Soles occidere et redire possunt;",
+        "translation": "Suns can set and return again;",
+        "words": [
+          { "surface": "Soles", "lemma": "sol", "partOfSpeech": "noun", "morphology": "nom. pl. masc.", "definition": "suns, days", "vocabRef": "v-sol" },
+          { "surface": "occidere", "lemma": "occido", "partOfSpeech": "verb", "morphology": "pres. inf. act.", "definition": "to set, fall" },
+          { "surface": "et", "lemma": "et", "partOfSpeech": "conjunction", "morphology": "", "definition": "and" },
+          { "surface": "redire", "lemma": "redeo", "partOfSpeech": "verb", "morphology": "pres. inf. act.", "definition": "to return" },
+          { "surface": "possunt", "lemma": "possum", "partOfSpeech": "verb", "morphology": "3rd pl. pres. ind. act.", "definition": "they can, are able" }
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "nobis cum semel occidit brevis lux, nox est perpetua una dormienda.",
+        "translation": "for us, when once our brief light has set, one perpetual night must be slept through.",
+        "words": [
+          { "surface": "nobis", "lemma": "nos", "partOfSpeech": "pronoun", "morphology": "dat. pl.", "definition": "for us" },
+          { "surface": "cum", "lemma": "cum", "partOfSpeech": "conjunction", "morphology": "", "definition": "when" },
+          { "surface": "semel", "lemma": "semel", "partOfSpeech": "adverb", "morphology": "", "definition": "once" },
+          { "surface": "occidit", "lemma": "occido", "partOfSpeech": "verb", "morphology": "3rd sg. perf. ind. act.", "definition": "has set" },
+          { "surface": "brevis", "lemma": "brevis", "partOfSpeech": "adjective", "morphology": "nom. sg. fem.", "definition": "brief, short" },
+          { "surface": "lux", "lemma": "lux", "partOfSpeech": "noun", "morphology": "nom. sg. fem.", "definition": "light, life" },
+          { "surface": "nox", "lemma": "nox", "partOfSpeech": "noun", "morphology": "nom. sg. fem.", "definition": "night", "vocabRef": "v-nox" },
+          { "surface": "est", "lemma": "sum", "partOfSpeech": "verb", "morphology": "3rd sg. pres. ind.", "definition": "is" },
+          { "surface": "perpetua", "lemma": "perpetuus", "partOfSpeech": "adjective", "morphology": "nom. sg. fem.", "definition": "perpetual, endless" },
+          { "surface": "una", "lemma": "unus", "partOfSpeech": "numeral", "morphology": "nom. sg. fem.", "definition": "one" },
+          { "surface": "dormienda", "lemma": "dormio", "partOfSpeech": "gerundive", "morphology": "nom. sg. fem.", "definition": "to be slept through" }
+        ]
+      }
+    ]
+  },
+
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple-choice",
+      "prompt": "What does 'vivamus atque amemus' mean?",
+      "options": ["We live and we love", "Let us live and let us love", "They live and they love", "To live and to love"],
+      "correctIndex": 1,
+      "explanation": "The subjunctive forms 'vivamus' and 'amemus' express exhortation: 'let us live and let us love.'"
+    },
+    {
+      "id": "ex2",
+      "type": "multiple-choice",
+      "prompt": "What does 'nox est perpetua una dormienda' metaphorically refer to?",
+      "options": ["A long winter", "Death", "A deep sleep", "Old age"],
+      "correctIndex": 1,
+      "explanation": "The 'perpetual night' is Catullus's metaphor for death \u2014 unlike the sun, which rises again each day, our light sets only once."
+    },
+    {
+      "id": "ex3",
+      "type": "matching",
+      "prompt": "Match the Latin word with its English meaning.",
+      "pairs": [
+        { "left": "basia", "right": "kisses" },
+        { "left": "mille", "right": "a thousand" },
+        { "left": "soles", "right": "suns" },
+        { "left": "nox", "right": "night" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "type": "fill-in-the-blank",
+      "prompt": "Da mi basia ____, deinde centum.",
+      "answer": "mille",
+      "acceptableAnswers": ["mille"],
+      "hint": "This number means 'a thousand.'"
+    },
+    {
+      "id": "ex5",
+      "type": "fill-in-the-blank",
+      "prompt": "____ est perpetua una dormienda.",
+      "answer": "nox",
+      "acceptableAnswers": ["nox", "Nox"],
+      "hint": "This feminine noun means 'night' and is the opposite of 'lux' (light)."
+    }
+  ]
+}

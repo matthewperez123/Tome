@@ -1,0 +1,219 @@
+{
+  "id": "lesson-greek-003",
+  "languageId": "greek",
+  "title": "Antigone's Resolve",
+  "author": "Sophocles",
+  "workTitle": "Antigone",
+  "workSection": "Lines 1-5",
+
+  "vocabulary": [
+    {
+      "id": "v-koinos",
+      "word": "\u03ba\u03bf\u03b9\u03bd\u03cc\u03bd",
+      "lemma": "\u03ba\u03bf\u03b9\u03bd\u03cc\u03c2",
+      "partOfSpeech": "adjective",
+      "definition": "common, shared, mutual",
+      "pronunciation": { "classical": "/koi\u032f.n\u00f3n/" },
+      "exampleSentence": "\u1f62 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1.",
+      "exampleTranslation": "O dear sister Ismene, sharing a common bond.",
+      "notes": "Transliteration: koinon. Root of English 'common' (via Latin communis, a cognate). Emphasizes the blood bond between the sisters."
+    },
+    {
+      "id": "v-autadelphos",
+      "word": "\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd",
+      "lemma": "\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2",
+      "partOfSpeech": "adjective",
+      "definition": "of the same womb, own sister/brother",
+      "pronunciation": { "classical": "/au\u032f.t\u00e1.del.p\u02b0on/" },
+      "exampleSentence": "\u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd.",
+      "exampleTranslation": "Shared sister (of the same blood).",
+      "notes": "Transliteration: autadelphon. Compound: auto- (self/same) + adelphos (brother/sibling). Stresses that Antigone and Ismene share both parents."
+    },
+    {
+      "id": "v-kara",
+      "word": "\u03ba\u03ac\u03c1\u03b1",
+      "lemma": "\u03ba\u03ac\u03c1\u03b1",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "definition": "head; dear one (term of endearment)",
+      "pronunciation": { "classical": "/k\u00e1.ra/" },
+      "exampleSentence": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1.",
+      "exampleTranslation": "Dear Ismene.",
+      "notes": "Transliteration: kara. Literally 'head,' but used affectionately like calling someone 'dear.' Common in tragedy."
+    },
+    {
+      "id": "v-ismene",
+      "word": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2",
+      "lemma": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "definition": "Ismene (Antigone's sister)",
+      "pronunciation": { "classical": "/is.m\u025b\u0301\u02d0.n\u025b\u02d0/" },
+      "exampleSentence": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1.",
+      "exampleTranslation": "Dear Ismene.",
+      "notes": "Transliteration: Ism\u0113n\u0113s. Daughter of Oedipus and Jocasta, Antigone's sister. She will ultimately refuse to join Antigone's defiance."
+    },
+    {
+      "id": "v-oidipous",
+      "word": "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5",
+      "lemma": "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5\u03c2",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "definition": "Oedipus (father of Antigone)",
+      "pronunciation": { "classical": "/oi\u032f.d\u00ed.pus/" },
+      "exampleSentence": "\u03c4\u1ff6\u03bd \u1f00\u03c0\u1fbd \u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5 \u03ba\u03b1\u03ba\u1ff6\u03bd.",
+      "exampleTranslation": "Of the evils from Oedipus.",
+      "notes": "Transliteration: Oidipous. The tragic king of Thebes who unknowingly killed his father and married his mother. His curse passes to his children."
+    },
+    {
+      "id": "v-kakos",
+      "word": "\u03ba\u03b1\u03ba\u1ff6\u03bd",
+      "lemma": "\u03ba\u03b1\u03ba\u03cc\u03c2",
+      "partOfSpeech": "adjective",
+      "definition": "bad, evil, harmful",
+      "pronunciation": { "classical": "/ka.k\u00f3s/" },
+      "exampleSentence": "\u03c4\u1ff6\u03bd \u1f00\u03c0\u1fbd \u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5 \u03ba\u03b1\u03ba\u1ff6\u03bd.",
+      "exampleTranslation": "Of the evils from Oedipus.",
+      "notes": "Transliteration: kakon. The opposite of agathos (good). Used substantively: 'evils, misfortunes.'"
+    },
+    {
+      "id": "v-ate",
+      "word": "\u1f04\u03c4\u03b7\u03bd",
+      "lemma": "\u1f04\u03c4\u03b7",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "definition": "ruin, doom, delusion",
+      "pronunciation": { "classical": "/\u00e1.t\u025b\u02d0/" },
+      "exampleSentence": "\u1f04\u03c4\u03b7\u03c2 \u03bf\u1f50\u03b4\u03b5\u03bc\u03af\u03b1\u03bd \u03bb\u03b5\u03af\u03c0\u03b5\u03b9.",
+      "exampleTranslation": "He leaves no ruin undone.",
+      "notes": "Transliteration: at\u0113. A key concept in Greek tragedy \u2014 the divinely-sent delusion or ruin that destroys heroes."
+    },
+    {
+      "id": "v-kerysso",
+      "word": "\u03ba\u03b7\u03c1\u03cd\u03be\u03b1\u03c2",
+      "lemma": "\u03ba\u03b7\u03c1\u03cd\u03c3\u03c3\u03c9",
+      "partOfSpeech": "verb",
+      "definition": "to proclaim, announce publicly, decree",
+      "pronunciation": { "classical": "/k\u025b\u02d0.r\u00fd.ss\u0254\u02d0/" },
+      "exampleSentence": "\u03c4\u1f78\u03bd \u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u1f78\u03bd \u03ba\u03b7\u03c1\u03cd\u03be\u03b1\u03b9 \u03bb\u03ad\u03b3\u03bf\u03c5\u03c3\u03b9.",
+      "exampleTranslation": "They say the general has proclaimed.",
+      "notes": "Transliteration: k\u0113ryss\u014d. Related to k\u0113ryx (herald). Creon's decree forbidding burial of Polyneices is the central conflict."
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-vocative",
+      "title": "The Vocative Case: Forms of Address",
+      "explanation": "The <strong>vocative case</strong> is used for direct address \u2014 calling out to someone. In Greek, vocative forms are often preceded by the particle <strong>\u1f66</strong> (O). For 1st declension feminines, the vocative singular is the same as the nominative. For 2nd declension masculines, the vocative singular typically ends in <strong>-\u03b5</strong>. In the opening of Antigone, the whole phrase '\u1f62 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1' is one extended vocative \u2014 Antigone addressing her sister.",
+      "examples": [
+        { "greek": "\u1f66 \u1f04\u03bd\u03b4\u03c1\u03b5\u03c2 \u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9", "english": "O men of Athens (vocative plural)" },
+        { "greek": "\u1f62 \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1", "english": "O dear Ismene (vocative with \u03ba\u03ac\u03c1\u03b1)" }
+      ],
+      "tip": "When you see \u1f66 or \u1f62 at the start of a phrase, someone is being addressed directly. The vocative is the case of calling, pleading, and commanding."
+    },
+    {
+      "id": "g-compounds",
+      "title": "Compound Words in Greek",
+      "explanation": "Greek loves building compound words by joining two roots. <strong>\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2</strong> combines \u03b1\u1f50\u03c4\u03cc\u03c2 (self/same) + \u1f00\u03b4\u03b5\u03bb\u03c6\u03cc\u03c2 (sibling, literally 'from the same womb': a- + delphys). This is enormously productive in Greek: \u03c6\u03b9\u03bb\u03cc\u03c3\u03bf\u03c6\u03bf\u03c2 (philo + sophos = lover of wisdom), \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 (demos + kratos = people + power). Understanding compound formation helps you guess meanings of unfamiliar words.",
+      "examples": [
+        { "greek": "\u03b1\u1f50\u03c4-\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2 = self + sibling", "english": "own sibling (of the same parents)" },
+        { "greek": "\u03c6\u03b9\u03bb\u03cc-\u03c3\u03bf\u03c6\u03bf\u03c2 = loving + wisdom", "english": "philosopher (lover of wisdom)" }
+      ],
+      "tip": "When you see a long Greek word, try splitting it at natural breaks. The first element often modifies or qualifies the second."
+    }
+  ],
+
+  "reading": {
+    "title": "Antigone, Lines 1-4",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "\u1f62 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1,",
+        "translation": "O dear Ismene, my own sister,",
+        "words": [
+          { "surface": "\u1f62", "lemma": "\u1f66", "partOfSpeech": "interjection", "morphology": "vocative particle", "definition": "O" },
+          { "surface": "\u03ba\u03bf\u03b9\u03bd\u1f78\u03bd", "lemma": "\u03ba\u03bf\u03b9\u03bd\u03cc\u03c2", "partOfSpeech": "adjective", "morphology": "voc./acc. sg. neut.", "definition": "shared, common", "vocabRef": "v-koinos" },
+          { "surface": "\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd", "lemma": "\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2", "partOfSpeech": "adjective", "morphology": "voc./acc. sg. neut.", "definition": "of the same womb, own sister", "vocabRef": "v-autadelphos" },
+          { "surface": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2", "lemma": "\u1f38\u03c3\u03bc\u03ae\u03bd\u03b7", "partOfSpeech": "noun", "morphology": "gen. sg. fem.", "definition": "of Ismene", "vocabRef": "v-ismene" },
+          { "surface": "\u03ba\u03ac\u03c1\u03b1", "lemma": "\u03ba\u03ac\u03c1\u03b1", "partOfSpeech": "noun", "morphology": "voc./nom. sg. neut.", "definition": "dear one, head", "vocabRef": "v-kara" }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "\u1f06\u03c1\u1fbd \u03bf\u1f36\u03c3\u03b8\u1fbd \u1f45 \u03c4\u03b9 \u0396\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u1f00\u03c0\u1fbd \u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5 \u03ba\u03b1\u03ba\u1ff6\u03bd",
+        "translation": "Do you know which of the evils from Oedipus",
+        "words": [
+          { "surface": "\u1f06\u03c1\u1fbd", "lemma": "\u1f06\u03c1\u03b1", "partOfSpeech": "particle", "morphology": "interrogative", "definition": "is it that?, do you know?" },
+          { "surface": "\u03bf\u1f36\u03c3\u03b8\u1fbd", "lemma": "\u03bf\u1f36\u03b4\u03b1", "partOfSpeech": "verb", "morphology": "2nd sg. perf. ind.", "definition": "you know" },
+          { "surface": "\u1f45", "lemma": "\u1f45\u03c3\u03c4\u03b9\u03c2", "partOfSpeech": "pronoun", "morphology": "acc. sg. neut.", "definition": "which, what" },
+          { "surface": "\u03c4\u03b9", "lemma": "\u03c4\u03b9\u03c2", "partOfSpeech": "pronoun", "morphology": "indef.", "definition": "(indefinite particle)" },
+          { "surface": "\u0396\u03b5\u1f7a\u03c2", "lemma": "\u0396\u03b5\u03cd\u03c2", "partOfSpeech": "noun", "morphology": "nom. sg. masc.", "definition": "Zeus" },
+          { "surface": "\u03c4\u1ff6\u03bd", "lemma": "\u1f41", "partOfSpeech": "article", "morphology": "gen. pl. neut.", "definition": "of the" },
+          { "surface": "\u1f00\u03c0\u1fbd", "lemma": "\u1f00\u03c0\u03cc", "partOfSpeech": "preposition", "morphology": "+ gen.", "definition": "from" },
+          { "surface": "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5", "lemma": "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5\u03c2", "partOfSpeech": "noun", "morphology": "gen. sg. masc.", "definition": "of Oedipus", "vocabRef": "v-oidipous" },
+          { "surface": "\u03ba\u03b1\u03ba\u1ff6\u03bd", "lemma": "\u03ba\u03b1\u03ba\u03cc\u03c2", "partOfSpeech": "adjective", "morphology": "gen. pl. neut.", "definition": "of evils", "vocabRef": "v-kakos" }
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "\u1f45\u03c0\u03bf\u03b9\u03bf\u03bd \u03bf\u1f50\u03c7\u1f76 \u03bd\u1ff7\u03bd \u1f14\u03c4\u03b9 \u0396\u03b5\u1f7a\u03c2 \u03c4\u03b5\u03bb\u03b5\u1fd6;",
+        "translation": "Zeus will not bring to fulfillment for us two still living?",
+        "words": [
+          { "surface": "\u1f45\u03c0\u03bf\u03b9\u03bf\u03bd", "lemma": "\u1f41\u03c0\u03bf\u1fd6\u03bf\u03c2", "partOfSpeech": "pronoun", "morphology": "acc. sg. neut.", "definition": "what sort of, which" },
+          { "surface": "\u03bf\u1f50\u03c7\u1f76", "lemma": "\u03bf\u1f50", "partOfSpeech": "adverb", "morphology": "", "definition": "not" },
+          { "surface": "\u03bd\u1ff7\u03bd", "lemma": "\u03bd\u1ff6\u03b9", "partOfSpeech": "pronoun", "morphology": "dat. dual", "definition": "for us two" },
+          { "surface": "\u1f14\u03c4\u03b9", "lemma": "\u1f14\u03c4\u03b9", "partOfSpeech": "adverb", "morphology": "", "definition": "still, yet" },
+          { "surface": "\u0396\u03b5\u1f7a\u03c2", "lemma": "\u0396\u03b5\u03cd\u03c2", "partOfSpeech": "noun", "morphology": "nom. sg. masc.", "definition": "Zeus" },
+          { "surface": "\u03c4\u03b5\u03bb\u03b5\u1fd6", "lemma": "\u03c4\u03b5\u03bb\u03ad\u03c9", "partOfSpeech": "verb", "morphology": "3rd sg. fut. ind. act.", "definition": "will bring to completion" }
+        ]
+      }
+    ]
+  },
+
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple-choice",
+      "prompt": "Who is Antigone addressing at the opening of the play?",
+      "options": ["Creon", "Ismene, her sister", "The Chorus", "Polyneices"],
+      "correctIndex": 1,
+      "explanation": "Antigone opens by addressing her sister Ismene with the affectionate phrase '\u1f62 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 \u03ba\u03ac\u03c1\u03b1.'"
+    },
+    {
+      "id": "ex2",
+      "type": "multiple-choice",
+      "prompt": "What does \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2 literally mean?",
+      "options": ["Best sister", "Own sibling (same womb)", "Older sister", "Adopted sister"],
+      "correctIndex": 1,
+      "explanation": "\u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2 is a compound: \u03b1\u1f50\u03c4\u03cc\u03c2 (self/same) + \u1f00\u03b4\u03b5\u03bb\u03c6\u03cc\u03c2 (sibling, from 'same womb'). It emphasizes they share both parents."
+    },
+    {
+      "id": "ex3",
+      "type": "matching",
+      "prompt": "Match the Greek word with its English meaning.",
+      "pairs": [
+        { "left": "\u03ba\u03bf\u03b9\u03bd\u03cc\u03bd", "right": "common, shared" },
+        { "left": "\u03ba\u03ac\u03c1\u03b1", "right": "dear one, head" },
+        { "left": "\u03ba\u03b1\u03ba\u1ff6\u03bd", "right": "of evils" },
+        { "left": "\u03ba\u03b7\u03c1\u03cd\u03c3\u03c3\u03c9", "right": "to proclaim" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "type": "fill-in-the-blank",
+      "prompt": "\u1f62 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03b1\u1f50\u03c4\u03ac\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd \u1f38\u03c3\u03bc\u03ae\u03bd\u03b7\u03c2 ____.",
+      "answer": "\u03ba\u03ac\u03c1\u03b1",
+      "acceptableAnswers": ["\u03ba\u03ac\u03c1\u03b1", "\u03ba\u03b1\u03c1\u03b1", "kara"],
+      "hint": "This word literally means 'head' but is used as a term of endearment, like 'dear one.'"
+    },
+    {
+      "id": "ex5",
+      "type": "fill-in-the-blank",
+      "prompt": "\u03c4\u1ff6\u03bd \u1f00\u03c0\u1fbd ____ \u03ba\u03b1\u03ba\u1ff6\u03bd",
+      "answer": "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5",
+      "acceptableAnswers": ["\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5", "\u039f\u03b9\u03b4\u03b9\u03c0\u03bf\u03c5", "Oidipou", "Oedipus"],
+      "hint": "This is the genitive (possessive) form of the name of Antigone's tragic father."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "lesson-greek-002",
+  "languageId": "greek",
+  "title": "Socrates Before the Jury",
+  "author": "Plato",
+  "workTitle": "Apology",
+  "workSection": "17a",
+
+  "vocabulary": [
+    {
+      "id": "v-hymeis",
+      "word": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+      "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+      "partOfSpeech": "pronoun",
+      "definition": "you (plural), you all",
+      "pronunciation": { "classical": "/hy.me\u0302\u02d0s/" },
+      "exampleSentence": "\u1f59\u03bc\u03b5\u1fd6\u03c2, \u1f66 \u1f04\u03bd\u03b4\u03c1\u03b5\u03c2 \u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9.",
+      "exampleTranslation": "You, men of Athens.",
+      "notes": "Transliteration: hyme\u012bs. The plural 'you,' addressing the jury of 501 citizens."
+    },
+    {
+      "id": "v-pascho",
+      "word": "\u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5",
+      "lemma": "\u03c0\u03ac\u03c3\u03c7\u03c9",
+      "partOfSpeech": "verb",
+      "definition": "to experience, suffer, be affected",
+      "pronunciation": { "classical": "/p\u00e1s.k\u02b0\u0254\u02d0/" },
+      "exampleSentence": "\u03bf\u1f50\u03ba \u03bf\u1f36\u03b4\u03b1 \u1f45 \u03c4\u03b9 \u1f51\u03bc\u03b5\u1fd6\u03c2 \u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5.",
+      "exampleTranslation": "I do not know how you have been affected.",
+      "notes": "Transliteration: pasch\u014d. Root of English 'passion' (originally meaning 'suffering')."
+    },
+    {
+      "id": "v-aletheia",
+      "word": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd",
+      "lemma": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "definition": "truth",
+      "pronunciation": { "classical": "/a.l\u025b\u0301\u02d0.t\u02b0ei\u032f.a/" },
+      "exampleSentence": "\u1f10\u03b3\u1f7c \u03b4\u1f72 \u03c4\u1f74\u03bd \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd \u1f10\u03c1\u1ff6.",
+      "exampleTranslation": "But I will speak the truth.",
+      "notes": "Transliteration: al\u0113theia. Literally 'un-hiddenness.' A fundamental concept in Greek philosophy."
+    },
+    {
+      "id": "v-lego",
+      "word": "\u03bb\u03ad\u03b3\u03c9",
+      "lemma": "\u03bb\u03ad\u03b3\u03c9",
+      "partOfSpeech": "verb",
+      "definition": "to say, speak, tell",
+      "pronunciation": { "classical": "/l\u00e9.g\u0254\u02d0/" },
+      "exampleSentence": "\u03bf\u1f50\u03b4\u1f72\u03bd \u1f00\u03bb\u03b7\u03b8\u1f72\u03c2 \u1f14\u03bb\u03b5\u03b3\u03bf\u03bd.",
+      "exampleTranslation": "They said nothing true.",
+      "notes": "Transliteration: leg\u014d. One of the most common Greek verbs. Related to 'logos' (word, reason)."
+    },
+    {
+      "id": "v-dikastes",
+      "word": "\u03b4\u03b9\u03ba\u03b1\u03c3\u03c4\u03b1\u03af",
+      "lemma": "\u03b4\u03b9\u03ba\u03b1\u03c3\u03c4\u03ae\u03c2",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "definition": "juror, judge",
+      "pronunciation": { "classical": "/di.kas.t\u025b\u0301\u02d0s/" },
+      "exampleSentence": "\u1f66 \u1f04\u03bd\u03b4\u03c1\u03b5\u03c2 \u03b4\u03b9\u03ba\u03b1\u03c3\u03c4\u03b1\u03af.",
+      "exampleTranslation": "O men of the jury.",
+      "notes": "Transliteration: dikasta\u012b. From dik\u0113 (justice). Athenian juries were large citizen panels."
+    },
+    {
+      "id": "v-kategoros",
+      "word": "\u03ba\u03b1\u03c4\u03b7\u03b3\u03cc\u03c1\u03c9\u03bd",
+      "lemma": "\u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "definition": "accuser, prosecutor",
+      "pronunciation": { "classical": "/ka.t\u025b\u0301\u02d0.go.ros/" },
+      "exampleSentence": "\u03bf\u1f31 \u1f10\u03bc\u03bf\u1f76 \u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03b9.",
+      "exampleTranslation": "My accusers.",
+      "notes": "Transliteration: kat\u0113goros. Root of English 'category' (originally an accusation in the assembly)."
+    },
+    {
+      "id": "v-deinos",
+      "word": "\u03b4\u03b5\u03b9\u03bd\u03cc\u03c2",
+      "lemma": "\u03b4\u03b5\u03b9\u03bd\u03cc\u03c2",
+      "partOfSpeech": "adjective",
+      "definition": "clever, skilled; terrible, fearsome",
+      "pronunciation": { "classical": "/dei\u032f.n\u00f3s/" },
+      "exampleSentence": "\u03b4\u03b5\u03b9\u03bd\u03cc\u03c2 \u03bb\u03ad\u03b3\u03b5\u03b9\u03bd.",
+      "exampleTranslation": "Clever at speaking.",
+      "notes": "Transliteration: deinos. Has both positive (skillful) and negative (terrible) senses. Related to 'dinosaur' (deinos + sauros = terrible lizard)."
+    },
+    {
+      "id": "v-rhetor",
+      "word": "\u1fe5\u03ae\u03c4\u03c9\u03c1",
+      "lemma": "\u1fe5\u03ae\u03c4\u03c9\u03c1",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "definition": "orator, public speaker",
+      "pronunciation": { "classical": "/r\u030ct\u025b\u0301\u02d0.t\u0254\u02d0r/" },
+      "exampleSentence": "\u03bf\u1f50 \u03b3\u03ac\u03c1 \u03b5\u1f30\u03bc\u03b9 \u1fe5\u03ae\u03c4\u03c9\u03c1.",
+      "exampleTranslation": "For I am not an orator.",
+      "notes": "Transliteration: rh\u0113t\u014dr. Root of English 'rhetoric'. Socrates ironically claims he lacks oratorical skill."
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-hoti",
+      "title": "\u1f45\u03c4\u03b9 (hoti) Clauses: Indirect Statement",
+      "explanation": "Greek often introduces indirect statements with the conjunction <strong>\u1f45\u03c4\u03b9</strong> (hoti, 'that'). This works like English 'that' after verbs of saying, thinking, or knowing. Example: '\u03bb\u03ad\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd \u1f45\u03c4\u03b9 \u03b4\u03b5\u03b9\u03bd\u03cc\u03c2 \u03b5\u1f30\u03bc\u03b9 \u03bb\u03ad\u03b3\u03b5\u03b9\u03bd' = 'they say <em>that</em> I am clever at speaking.' The verb inside the \u1f45\u03c4\u03b9 clause keeps its original mood and tense.",
+      "examples": [
+        { "greek": "\u03bb\u03ad\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd \u1f45\u03c4\u03b9 \u03b4\u03b5\u03b9\u03bd\u03cc\u03c2 \u03b5\u1f30\u03bc\u03b9 \u03bb\u03ad\u03b3\u03b5\u03b9\u03bd.", "english": "They say that I am clever at speaking." },
+        { "greek": "\u03bf\u1f50\u03ba \u03bf\u1f36\u03b4\u03b1 \u1f45 \u03c4\u03b9 \u1f51\u03bc\u03b5\u1fd6\u03c2 \u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5.", "english": "I do not know what you have experienced." }
+      ],
+      "tip": "When you see \u1f45\u03c4\u03b9, look for the verb of speech or thought that introduces it, and the statement that follows it."
+    },
+    {
+      "id": "g-article",
+      "title": "The Greek Article: \u1f41, \u1f21, \u03c4\u03cc",
+      "explanation": "Greek has a definite article that changes for gender, number, and case, much like 'the' would if English declined it. Masculine: <strong>\u1f41</strong> (ho), Feminine: <strong>\u1f21</strong> (h\u0113), Neuter: <strong>\u03c4\u03cc</strong> (to). The article is far more important in Greek than in English \u2014 it can turn any word into a noun: \u03c4\u1f78 \u1f00\u03bb\u03b7\u03b8\u03ad\u03c2 = 'the true (thing)' = 'the truth'. It also helps identify a word's case when endings are ambiguous.",
+      "examples": [
+        { "greek": "\u03bf\u1f31 \u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03b9 (masc. nom. pl.)", "english": "the accusers" },
+        { "greek": "\u03c4\u1f74\u03bd \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd (fem. acc. sg.)", "english": "the truth" }
+      ],
+      "tip": "The article is your best friend for determining case and gender. If you see \u03c4\u03ae\u03bd or \u03c4\u03cc\u03bd, you know the following word is accusative."
+    }
+  ],
+
+  "reading": {
+    "title": "Apology, 17a",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "\u1f45 \u03c4\u03b9 \u03bc\u1f72\u03bd \u1f51\u03bc\u03b5\u1fd6\u03c2, \u1f66 \u1f04\u03bd\u03b4\u03c1\u03b5\u03c2 \u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9, \u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5 \u1f51\u03c0\u1f78 \u03c4\u1ff6\u03bd \u1f10\u03bc\u1ff6\u03bd \u03ba\u03b1\u03c4\u03b7\u03b3\u03cc\u03c1\u03c9\u03bd, \u03bf\u1f50\u03ba \u03bf\u1f36\u03b4\u03b1.",
+        "translation": "How you, men of Athens, have been affected by my accusers, I do not know.",
+        "words": [
+          { "surface": "\u1f45", "lemma": "\u1f45\u03c2", "partOfSpeech": "pronoun", "morphology": "rel. pron.", "definition": "how, what" },
+          { "surface": "\u03c4\u03b9", "lemma": "\u03c4\u03b9\u03c2", "partOfSpeech": "pronoun", "morphology": "indef.", "definition": "in some way" },
+          { "surface": "\u03bc\u1f72\u03bd", "lemma": "\u03bc\u03ad\u03bd", "partOfSpeech": "particle", "morphology": "", "definition": "indeed, on the one hand" },
+          { "surface": "\u1f51\u03bc\u03b5\u1fd6\u03c2", "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2", "partOfSpeech": "pronoun", "morphology": "nom. pl.", "definition": "you (all)", "vocabRef": "v-hymeis" },
+          { "surface": "\u1f66", "lemma": "\u1f66", "partOfSpeech": "interjection", "morphology": "", "definition": "O (vocative particle)" },
+          { "surface": "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2", "lemma": "\u1f00\u03bd\u03ae\u03c1", "partOfSpeech": "noun", "morphology": "voc. pl. masc.", "definition": "men" },
+          { "surface": "\u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9", "lemma": "\u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03c2", "partOfSpeech": "adjective", "morphology": "voc. pl. masc.", "definition": "Athenian" },
+          { "surface": "\u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5", "lemma": "\u03c0\u03ac\u03c3\u03c7\u03c9", "partOfSpeech": "verb", "morphology": "2nd pl. perf. ind. act.", "definition": "have been affected", "vocabRef": "v-pascho" },
+          { "surface": "\u1f51\u03c0\u1f78", "lemma": "\u1f51\u03c0\u03cc", "partOfSpeech": "preposition", "morphology": "+ gen.", "definition": "by" },
+          { "surface": "\u03c4\u1ff6\u03bd", "lemma": "\u1f41", "partOfSpeech": "article", "morphology": "gen. pl. masc.", "definition": "the" },
+          { "surface": "\u1f10\u03bc\u1ff6\u03bd", "lemma": "\u1f10\u03bc\u03cc\u03c2", "partOfSpeech": "adjective", "morphology": "gen. pl. masc.", "definition": "my" },
+          { "surface": "\u03ba\u03b1\u03c4\u03b7\u03b3\u03cc\u03c1\u03c9\u03bd", "lemma": "\u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2", "partOfSpeech": "noun", "morphology": "gen. pl. masc.", "definition": "accusers", "vocabRef": "v-kategoros" },
+          { "surface": "\u03bf\u1f50\u03ba", "lemma": "\u03bf\u1f50", "partOfSpeech": "adverb", "morphology": "", "definition": "not" },
+          { "surface": "\u03bf\u1f36\u03b4\u03b1", "lemma": "\u03bf\u1f36\u03b4\u03b1", "partOfSpeech": "verb", "morphology": "1st sg. perf. ind. act.", "definition": "I know" }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "\u1f10\u03b3\u1f7c \u03b4\u1fbd \u03bf\u1f56\u03bd \u1f51\u03bc\u1fd6\u03bd \u03c4\u1f74\u03bd \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd \u1f10\u03c1\u1ff6.",
+        "translation": "But I shall speak the truth to you.",
+        "words": [
+          { "surface": "\u1f10\u03b3\u1f7c", "lemma": "\u1f10\u03b3\u03ce", "partOfSpeech": "pronoun", "morphology": "nom. sg.", "definition": "I" },
+          { "surface": "\u03b4\u1fbd", "lemma": "\u03b4\u03ad", "partOfSpeech": "particle", "morphology": "", "definition": "but, however" },
+          { "surface": "\u03bf\u1f56\u03bd", "lemma": "\u03bf\u1f56\u03bd", "partOfSpeech": "particle", "morphology": "", "definition": "therefore, then" },
+          { "surface": "\u1f51\u03bc\u1fd6\u03bd", "lemma": "\u1f51\u03bc\u03b5\u1fd6\u03c2", "partOfSpeech": "pronoun", "morphology": "dat. pl.", "definition": "to you" },
+          { "surface": "\u03c4\u1f74\u03bd", "lemma": "\u1f41", "partOfSpeech": "article", "morphology": "acc. sg. fem.", "definition": "the" },
+          { "surface": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd", "lemma": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1", "partOfSpeech": "noun", "morphology": "acc. sg. fem.", "definition": "truth", "vocabRef": "v-aletheia" },
+          { "surface": "\u1f10\u03c1\u1ff6", "lemma": "\u03bb\u03ad\u03b3\u03c9", "partOfSpeech": "verb", "morphology": "1st sg. fut. ind. act.", "definition": "I will speak", "vocabRef": "v-lego" }
+        ]
+      }
+    ]
+  },
+
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "multiple-choice",
+      "prompt": "What does Socrates say he will speak to the jury?",
+      "options": ["Clever rhetoric", "The truth (\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1)", "A defense of the gods", "Nothing at all"],
+      "correctIndex": 1,
+      "explanation": "Socrates promises to speak \u03c4\u1f74\u03bd \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd (the truth), contrasting himself with his accusers' persuasive but deceptive rhetoric."
+    },
+    {
+      "id": "ex2",
+      "type": "multiple-choice",
+      "prompt": "What does \u03b4\u03b5\u03b9\u03bd\u03cc\u03c2 \u03bb\u03ad\u03b3\u03b5\u03b9\u03bd mean?",
+      "options": ["Terrible to hear", "Clever at speaking", "Afraid to speak", "Forced to speak"],
+      "correctIndex": 1,
+      "explanation": "\u03b4\u03b5\u03b9\u03bd\u03cc\u03c2 here means 'clever' or 'skilled,' and \u03bb\u03ad\u03b3\u03b5\u03b9\u03bd is the infinitive 'to speak.' Together: 'clever at speaking.'"
+    },
+    {
+      "id": "ex3",
+      "type": "matching",
+      "prompt": "Match the Greek word with its English meaning.",
+      "pairs": [
+        { "left": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1", "right": "truth" },
+        { "left": "\u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2", "right": "accuser" },
+        { "left": "\u03b4\u03b5\u03b9\u03bd\u03cc\u03c2", "right": "clever / terrible" },
+        { "left": "\u1fe5\u03ae\u03c4\u03c9\u03c1", "right": "orator" }
+      ]
+    },
+    {
+      "id": "ex4",
+      "type": "fill-in-the-blank",
+      "prompt": "\u1f10\u03b3\u1f7c \u03b4\u1fbd \u03bf\u1f56\u03bd \u1f51\u03bc\u1fd6\u03bd \u03c4\u1f74\u03bd ____ \u1f10\u03c1\u1ff6.",
+      "answer": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd",
+      "acceptableAnswers": ["\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd", "\u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03bd", "aletheian", "aletheia"],
+      "hint": "This word means 'truth' and is in the accusative case here."
+    },
+    {
+      "id": "ex5",
+      "type": "fill-in-the-blank",
+      "prompt": "\u1f66 \u1f04\u03bd\u03b4\u03c1\u03b5\u03c2 ____, \u03c0\u03b5\u03c0\u03cc\u03bd\u03b8\u03b1\u03c4\u03b5 \u1f51\u03c0\u1f78 \u03c4\u1ff6\u03bd \u1f10\u03bc\u1ff6\u03bd \u03ba\u03b1\u03c4\u03b7\u03b3\u03cc\u03c1\u03c9\u03bd.",
+      "answer": "\u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9",
+      "acceptableAnswers": ["\u1f08\u03b8\u03b7\u03bd\u03b1\u1fd6\u03bf\u03b9", "\u0391\u03b8\u03b7\u03bd\u03b1\u03b9\u03bf\u03b9", "Athenaioi"],
+      "hint": "Socrates addresses the jury as 'men of ____' \u2014 citizens of which city?"
+    }
+  ]
+}

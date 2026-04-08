@@ -1,0 +1,211 @@
+/* Standard Ebooks Semantic CSS for Tome Reader */
+
+.tome-reader {
+  font-family: var(--font-literata), 'Literata', Georgia, serif;
+  background: var(--reader-bg, #FDF6E3);
+  color: var(--reader-text, #3B2E1A);
+  line-height: 1.7;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+  font-size: 1.125rem;
+}
+
+/* Chapter sections */
+.tome-reader section[data-epub-type~="chapter"],
+.tome-reader section[data-epub-type~="bodymatter"] {
+  margin-bottom: 3rem;
+}
+
+/* Chapter titles */
+.tome-reader h2[data-epub-type~="title"],
+.tome-reader h2 {
+  font-family: var(--font-playfair), 'Playfair Display', serif;
+  text-align: center;
+  margin: 2.5rem 0 1.5rem;
+  font-size: 1.75rem;
+  line-height: 1.3;
+  letter-spacing: 0.02em;
+}
+
+.tome-reader h3 {
+  font-family: var(--font-playfair), 'Playfair Display', serif;
+  text-align: center;
+  margin: 1.5rem 0 1rem;
+  font-size: 1.35rem;
+}
+
+/* Base paragraphs */
+.tome-reader p {
+  margin: 0 0 0.15em;
+  text-indent: 1.5em;
+}
+
+.tome-reader section > p:first-of-type,
+.tome-reader header + p,
+.tome-reader h2 + p,
+.tome-reader h3 + p,
+.tome-reader hr + p,
+.tome-reader blockquote + p {
+  text-indent: 0;
+}
+
+/* Verse & poetry */
+.tome-reader [data-epub-type~="z3998:verse"],
+.tome-reader [data-epub-type~="z3998:poem"],
+.tome-reader [data-epub-type~="z3998:song"] {
+  white-space: pre-line;
+  text-indent: 0;
+  padding-left: 2em;
+  margin: 1.5em 0;
+  font-style: italic;
+}
+
+.tome-reader [data-epub-type~="z3998:verse"] p,
+.tome-reader [data-epub-type~="z3998:poem"] p,
+.tome-reader [data-epub-type~="z3998:song"] p {
+  text-indent: 0;
+  margin: 0.75em 0;
+}
+
+/* Drama */
+.tome-reader [data-epub-type~="z3998:drama"] {
+  margin: 1.5em 0;
+}
+
+.tome-reader [data-epub-type~="z3998:drama"] p {
+  text-indent: 0;
+}
+
+/* Persona / speaker names */
+.tome-reader b[data-epub-type~="z3998:persona"],
+.tome-reader span[data-epub-type~="z3998:persona"],
+.tome-reader [data-epub-type~="z3998:persona"] {
+  font-variant: small-caps;
+  color: var(--reader-gold, #D4A04C);
+  display: block;
+  margin-top: 1em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+
+/* Stage directions */
+.tome-reader [data-epub-type~="z3998:stage-direction"] {
+  font-style: italic;
+}
+
+.tome-reader i[data-epub-type~="z3998:stage-direction"]::before {
+  content: "[";
+}
+.tome-reader i[data-epub-type~="z3998:stage-direction"]::after {
+  content: "]";
+}
+
+/* Blockquotes */
+.tome-reader blockquote {
+  margin: 1.5em 0 1.5em 1.5em;
+  padding-left: 1em;
+  border-left: 3px solid var(--reader-gold, #D4A04C);
+  font-style: italic;
+}
+
+/* Section breaks */
+.tome-reader hr,
+.tome-reader hr[data-epub-type~="z3998:section-break"] {
+  border: none;
+  text-align: center;
+  margin: 2em 0;
+  color: var(--reader-gold, #D4A04C);
+}
+
+.tome-reader hr::after {
+  content: "⁂";
+  font-size: 1.2em;
+  letter-spacing: 0.3em;
+}
+
+/* Drop caps */
+.tome-reader [data-epub-type~="se:letter.drop-cap"],
+.tome-reader span[data-epub-type~="z3998:roman"] {
+  font-family: var(--font-playfair), 'Playfair Display', serif;
+}
+
+.tome-reader [data-epub-type~="se:letter.drop-cap"] {
+  float: left;
+  font-size: 3.2em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+  color: var(--reader-gold, #D4A04C);
+  font-family: var(--font-playfair), 'Playfair Display', serif;
+}
+
+/* Elision */
+.tome-reader .elision {
+  letter-spacing: 0.2em;
+}
+
+/* Epigraphs */
+.tome-reader [data-epub-type~="epigraph"] {
+  margin: 2em 2em;
+  font-style: italic;
+  text-indent: 0;
+}
+
+.tome-reader [data-epub-type~="epigraph"] cite {
+  display: block;
+  text-align: right;
+  font-style: normal;
+  margin-top: 0.5em;
+}
+
+/* Letters */
+.tome-reader [data-epub-type~="z3998:letter"] {
+  margin: 1.5em 1em;
+  padding: 1em;
+}
+
+.tome-reader [data-epub-type~="z3998:salutation"] {
+  font-style: italic;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+}
+
+.tome-reader [data-epub-type~="z3998:sender"],
+.tome-reader [data-epub-type~="z3998:signature"] {
+  text-align: right;
+  font-style: italic;
+  text-indent: 0;
+}
+
+/* Images */
+.tome-reader img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tables */
+.tome-reader table {
+  margin: 1.5em auto;
+  border-collapse: collapse;
+}
+
+.tome-reader td, .tome-reader th {
+  padding: 0.3em 0.8em;
+  border-bottom: 1px solid currentColor;
+  text-align: left;
+}
+
+/* Footnotes */
+.tome-reader [data-epub-type~="noteref"] {
+  font-size: 0.8em;
+  vertical-align: super;
+  text-decoration: none;
+  color: var(--reader-gold, #D4A04C);
+}
+
+.tome-reader [data-epub-type~="endnote"],
+.tome-reader [data-epub-type~="footnote"] {
+  font-size: 0.9em;
+  margin: 1em 0 1em 1.5em;
+}

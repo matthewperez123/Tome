@@ -1,0 +1,67 @@
+:root {
+  /* Color palette — warm scholarly tones */
+  --color-parchment: #FAF6F0;
+  --color-parchment-dark: #F0EDE8;
+  --color-ink: #2C2418;
+  --color-ink-light: #5A4D3C;
+  --color-gold: #C9A84C;
+  --color-gold-light: #E8D48B;
+  --color-gold-dark: #A68A2E;
+  --color-terracotta: #C45D3E;
+  --color-terracotta-light: #E8856A;
+  --color-olive: #5C6B4F;
+  --color-olive-light: #8A9B7A;
+  --color-lapis: #2E5A88;
+  --color-lapis-light: #5A8ABF;
+  --color-marble: #F0EDE8;
+  --color-shadow: #8B7E6E;
+  --color-white: #FFFFFF;
+  --color-error: #C0392B;
+  --color-success: #27AE60;
+
+  /* Typography */
+  --font-serif: 'Crimson Pro', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Font sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+
+  /* Spacing scale (4px base) */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  /* Layout */
+  --max-width: 900px;
+  --sidebar-width: 240px;
+  --header-height: 64px;
+
+  /* Border radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(44, 36, 24, 0.08);
+  --shadow-md: 0 4px 12px rgba(44, 36, 24, 0.1);
+  --shadow-lg: 0 8px 24px rgba(44, 36, 24, 0.12);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+}
