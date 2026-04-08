@@ -251,6 +251,46 @@ export default function StoriesPage() {
       {/* Community — Reading Circles + Recommendations */}
       <ReadingCircles />
 
+      {/* Full Library — Scroll Reader */}
+      <section>
+        <div className="flex items-center justify-between mb-3">
+          <h2 className="font-serif text-lg font-semibold text-ink">Full Library</h2>
+          <span className="text-xs text-graphite">797 books available</span>
+        </div>
+        <Link
+          href="/read/scroll/the-odyssey"
+          className="block rounded-xl border border-stone/40 bg-linen/50 p-4 hover:border-ocean/40 hover:bg-ocean/5 transition-all duration-200"
+        >
+          <p className="text-sm font-medium text-ink">Browse the complete Supabase library</p>
+          <p className="text-xs text-graphite mt-1">
+            Access 797 books with 3,484 chapters in the scroll reader — full texts from antiquity to modern classics.
+          </p>
+          <span className="inline-flex items-center gap-1 mt-2 text-xs font-semibold text-ocean">
+            Open scroll reader &rarr;
+          </span>
+        </Link>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-3">
+          {MOCK_BOOKS.slice(0, 3).map((book) => (
+            <Link
+              key={book.id}
+              href={`/read/scroll/${book.id}`}
+              className="flex items-center gap-2 rounded-lg border border-stone/30 bg-snow px-3 py-2 hover:border-ocean/40 transition-colors"
+            >
+              <div
+                className="shrink-0 size-8 rounded-md flex items-center justify-center text-[10px] font-bold text-white"
+                style={{ backgroundColor: LANGUAGE_HEX[book.language] }}
+              >
+                {book.title.charAt(0)}
+              </div>
+              <div className="min-w-0">
+                <p className="text-xs font-medium text-ink truncate">{book.title}</p>
+                <p className="text-[10px] text-graphite truncate">{book.author}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {/* Language filter */}
       <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1 scrollbar-hide">
         {LANGUAGE_OPTIONS.map((option) => (

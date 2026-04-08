@@ -21,7 +21,7 @@ import { motion } from "framer-motion"
 import {
   Flame, Heart, Zap, BookOpen, Trophy, Clock,
   ChevronRight, Star, Check, Sparkles, AlertTriangle,
-  TrendingUp, Bookmark,
+  TrendingUp, Bookmark, ScrollText,
 } from "lucide-react"
 import { useEconomy } from "@/components/tome/economy-provider"
 import { getAllBookProgress } from "@/lib/book-progress"
@@ -642,12 +642,21 @@ export default function DashboardPage() {
                       </div>
 
                       {/* CTA */}
-                      <Link href={`/read/${book.id}`} className="shrink-0">
-                        <Button size="sm" className="text-xs gap-1">
-                          Continue
-                          <ChevronRight className="size-3" />
-                        </Button>
-                      </Link>
+                      <div className="shrink-0 flex flex-col gap-1.5">
+                        <Link href={`/read/${book.id}`}>
+                          <Button size="sm" className="text-xs gap-1 w-full">
+                            Continue
+                            <ChevronRight className="size-3" />
+                          </Button>
+                        </Link>
+                        <Link
+                          href={`/read/scroll/${book.id}`}
+                          className="flex items-center justify-center gap-1 text-[10px] text-muted-foreground hover:text-foreground transition-colors"
+                        >
+                          <ScrollText className="size-3" />
+                          Full text
+                        </Link>
+                      </div>
                     </div>
                   )
                 })}

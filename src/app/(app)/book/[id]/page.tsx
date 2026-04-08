@@ -21,7 +21,7 @@ import Link from "next/link"
 import {
   BookOpen, Bookmark, BookmarkCheck, ChevronRight, Clock,
   Globe, Lock, Play, CheckCircle2, ArrowRight, Hash,
-  LayoutList, ChevronDown,
+  LayoutList, ChevronDown, ScrollText,
 } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -314,6 +314,13 @@ export default function BookDetailPage() {
                     {progress ? <Play className="size-3.5 fill-current" /> : <BookOpen className="size-3.5" />}
                     {ctaLabel}
                   </button>
+                  <Link
+                    href={`/read/scroll/${bookId}`}
+                    className="flex items-center gap-1.5 h-9 px-3 rounded-full border border-border text-xs font-semibold text-muted-foreground hover:text-foreground hover:border-foreground/30 transition-colors"
+                  >
+                    <ScrollText className="size-3.5" />
+                    Read Full Text
+                  </Link>
                   <button
                     onClick={toggleBookmark}
                     aria-label={isBookmarked ? "Remove bookmark" : "Add to shelf"}
@@ -525,6 +532,13 @@ export default function BookDetailPage() {
           {progress ? <Play className="size-4 fill-current" /> : <BookOpen className="size-4" />}
           {ctaLabel}
         </button>
+        <Link
+          href={`/read/scroll/${bookId}`}
+          aria-label="Read full text"
+          className="size-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-foreground transition-colors"
+        >
+          <ScrollText className="size-4" />
+        </Link>
         <button
           onClick={toggleBookmark}
           aria-label={isBookmarked ? "Remove bookmark" : "Bookmark"}
