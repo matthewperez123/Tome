@@ -126,7 +126,7 @@ function HeartsDisplay({
             className={`w-5 h-5 transition-colors duration-200 ${
               i < current
                 ? "fill-rose-500 text-rose-500"
-                : "fill-transparent text-stone-300"
+                : "fill-transparent text-stone-400 dark:text-stone-300"
             }`}
           />
         </motion.div>
@@ -170,17 +170,17 @@ function OptionButton({
   onClick: () => void
 }) {
   const stateClasses = {
-    idle: "border-[#333333] bg-[#222222] text-foreground hover:border-[var(--tome-accent)]",
-    correct: "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]",
-    wrong: "border-[#A04444] bg-[#2E1A1A] text-[#C87272]",
-    disabled: "border-[#333333] bg-[#1A1A1A] text-muted-foreground opacity-50",
+    idle: "border-stone-300 bg-stone-100 dark:border-[#333333] dark:bg-[#222222] text-foreground hover:border-[var(--tome-accent)]",
+    correct: "border-green-400 bg-green-50 text-green-700 dark:border-[#5A9A5A] dark:bg-[#1A2E1A] dark:text-[#6EAA6E]",
+    wrong: "border-red-400 bg-red-50 text-red-700 dark:border-[#A04444] dark:bg-[#2E1A1A] dark:text-[#C87272]",
+    disabled: "border-stone-300 bg-stone-100 dark:border-[#333333] dark:bg-[#1A1A1A] text-muted-foreground opacity-50",
   }
 
   const badgeClasses = {
-    idle: "border-[#444444] bg-[#2A2A2A] text-[#B0A898]",
-    correct: "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]",
-    wrong: "border-[#A04444] bg-[#2E1A1A] text-[#C87272]",
-    disabled: "border-[#333333] bg-[#1A1A1A] text-[#666666]",
+    idle: "border-stone-300 bg-stone-200 text-stone-600 dark:border-[#444444] dark:bg-[#2A2A2A] dark:text-[#B0A898]",
+    correct: "border-green-400 bg-green-50 text-green-700 dark:border-[#5A9A5A] dark:bg-[#1A2E1A] dark:text-[#6EAA6E]",
+    wrong: "border-red-400 bg-red-50 text-red-700 dark:border-[#A04444] dark:bg-[#2E1A1A] dark:text-[#C87272]",
+    disabled: "border-stone-300 bg-stone-100 text-stone-400 dark:border-[#333333] dark:bg-[#1A1A1A] dark:text-[#666666]",
   }
 
   return (
@@ -397,8 +397,8 @@ function QuizPhase({
                   animate={{ opacity: 1, scale: 1 }}
                   className={`text-xs font-semibold px-2 py-0.5 rounded-full ${
                     isCorrect
-                      ? "bg-emerald-50 text-emerald-600"
-                      : "bg-rose-50 text-rose-600"
+                      ? "bg-emerald-50 text-emerald-600 dark:bg-emerald-950/50 dark:text-emerald-400"
+                      : "bg-rose-50 text-rose-600 dark:bg-rose-950/50 dark:text-rose-400"
                   }`}
                 >
                   {isCorrect ? "+10 Wisdom" : "Wrong — lost 1 heart"}
@@ -443,8 +443,8 @@ function QuizPhase({
                   transition={{ duration: 0.35 }}
                   className={`rounded-xl p-4 text-sm leading-relaxed border ${
                     isCorrect
-                      ? "bg-emerald-50 border-emerald-200 text-emerald-700"
-                      : "bg-rose-50 border-rose-200 text-rose-700"
+                      ? "bg-emerald-50 border-emerald-200 text-emerald-700 dark:bg-emerald-950/30 dark:border-emerald-800 dark:text-emerald-300"
+                      : "bg-rose-50 border-rose-200 text-rose-700 dark:bg-rose-950/30 dark:border-rose-800 dark:text-rose-300"
                   }`}
                 >
                   <span className="font-semibold mr-1">{isCorrect ? "Exactly." : "Not quite."}</span>
@@ -594,8 +594,8 @@ function ResultsPhase({
           className="space-y-3 w-full max-w-sm"
         >
           {/* Unlock badge */}
-          <div className="flex items-center justify-center gap-2 py-2 px-4 rounded-xl border border-amber-300 bg-amber-50">
-            <span className="text-amber-800 text-sm font-semibold">Next Chapter Unlocked!</span>
+          <div className="flex items-center justify-center gap-2 py-2 px-4 rounded-xl border border-amber-300 bg-amber-50 dark:border-amber-600/40 dark:bg-amber-950/30">
+            <span className="text-amber-800 dark:text-amber-300 text-sm font-semibold">Next Chapter Unlocked!</span>
           </div>
 
           <Button
@@ -618,7 +618,7 @@ function ResultsPhase({
         >
           <Button
             onClick={onRetry}
-            className="w-full bg-stone-200 hover:bg-stone-300 text-ink py-3 rounded-xl text-base font-semibold gap-2"
+            className="w-full bg-stone-200 hover:bg-stone-300 dark:bg-stone-800 dark:hover:bg-stone-700 text-ink py-3 rounded-xl text-base font-semibold gap-2"
           >
             <RotateCcw className="w-4 h-4" />
             Try Again
