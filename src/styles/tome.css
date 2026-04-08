@@ -33,7 +33,7 @@
   --tome-success: #2D9A47;
   --tome-warning: #C8801F;
   --tome-error: #C84A52;
-  --tome-accent: #6366F1;
+  --tome-accent: #D4A04C;
 
   /* ── Typography ──────────────────────────── */
   --tome-fs-display: 40px;
@@ -138,7 +138,7 @@
   --tome-success: #6EAA6E;
   --tome-warning: #C8A04A;
   --tome-error: #C85858;
-  --tome-accent: #6366F1;
+  --tome-accent: #D4A04C;
 }
 
 .dark * {

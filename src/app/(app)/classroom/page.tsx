@@ -37,7 +37,7 @@ export default function ClassroomDashboard() {
                 <div className="flex items-start justify-between">
                   <div>
                     <h2 className="text-lg font-semibold">{cls.name}</h2>
-                    <span className="mt-1 inline-block text-xs bg-indigo-50 text-indigo-600 px-2 py-0.5 rounded-full">
+                    <span className="mt-1 inline-block text-xs bg-[#D4A04C]/10 text-[#D4A04C] px-2 py-0.5 rounded-full">
                       {cls.subject}
                     </span>
                   </div>

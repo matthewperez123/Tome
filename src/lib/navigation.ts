@@ -35,7 +35,8 @@ export const sidebarNav: NavItem[] = [
   { label: "Classrooms", href: "/classroom", icon: GraduationCap },
   { label: "Explore", href: "/explore", icon: Globe2 },
   { label: "Achievements", href: "/achievements", icon: Trophy },
-  { label: "Community", href: "/social", icon: Users },
+  { label: "Friends", href: "/friends", icon: Users },
+  { label: "Community", href: "/social", icon: Users2 },
   { label: "Shop", href: "/shop", icon: ShoppingBag },
   { label: "Profile", href: "/profile", icon: User },
 ]

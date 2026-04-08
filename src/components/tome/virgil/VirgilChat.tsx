@@ -19,7 +19,7 @@ function ThinkingDots() {
           key={i}
           animate={{ opacity: [0.3, 1, 0.3] }}
           transition={{ duration: 1, repeat: Infinity, delay: i * 0.2 }}
-          className="size-1.5 rounded-full bg-indigo-400"
+          className="size-1.5 rounded-full bg-[#D4A04C]"
         />
       ))}
     </div>
@@ -37,7 +37,7 @@ function SuggestionPills({ onSelect }: { onSelect: (text: string) => void }) {
         <button
           key={s}
           onClick={() => onSelect(s)}
-          className="text-xs bg-muted hover:bg-indigo-50 text-muted-foreground hover:text-indigo-600 px-3 py-1.5 rounded-full transition-colors"
+          className="text-xs bg-muted hover:bg-[#D4A04C]/10 text-muted-foreground hover:text-[#D4A04C] px-3 py-1.5 rounded-full transition-colors"
         >
           {s}
         </button>
@@ -158,8 +158,8 @@ export function VirgilChat() {
           >
             {/* Header */}
             <div className="flex items-center gap-3 px-4 py-3 border-b border-border shrink-0">
-              <div className="size-9 rounded-full ring-1 ring-[#D4B37A40] bg-[#D4B37A20] shrink-0 flex items-center justify-center">
-                <span className="text-sm font-serif font-bold text-[#D4B37A]">V</span>
+              <div className="size-9 rounded-full ring-1 ring-[#C9A84C]/50 bg-[#C9A84C] shrink-0 flex items-center justify-center">
+                <span className="text-sm font-semibold text-[#1a1a2e]">V</span>
               </div>
               <div className="flex-1 min-w-0">
                 <p className="text-sm font-semibold">Virgil</p>
@@ -186,16 +186,16 @@ export function VirgilChat() {
                   className={cn("flex gap-2", msg.role === "user" && "justify-end")}
                 >
                   {msg.role === "virgil" && (
-                    <div className="size-6 rounded-full overflow-hidden ring-1 ring-indigo-200 shrink-0 mt-1">
-                      <span className="text-[10px] font-serif font-bold text-[#D4B37A]">V</span>
+                    <div className="size-6 rounded-full overflow-hidden ring-1 ring-[#C9A84C]/50 bg-[#C9A84C] shrink-0 mt-1 flex items-center justify-center">
+                      <span className="text-[8px] font-semibold text-[#1a1a2e]">V</span>
                     </div>
                   )}
                   <div
                     className={cn(
                       "max-w-[85%] px-4 py-2.5 text-sm leading-relaxed",
                       msg.role === "virgil"
-                        ? "bg-indigo-50 text-foreground rounded-2xl rounded-bl-md"
-                        : "bg-indigo-600 text-white rounded-2xl rounded-br-md ml-auto",
+                        ? "bg-[#D4A04C]/10 text-foreground rounded-2xl rounded-bl-md"
+                        : "bg-[#D4A04C] text-[#1a1a2e] rounded-2xl rounded-br-md ml-auto",
                     )}
                   >
                     {msg.content}
@@ -206,10 +206,10 @@ export function VirgilChat() {
               {/* Streaming response */}
               {streamingContent && (
                 <div className="flex gap-2">
-                  <div className="size-6 rounded-full overflow-hidden ring-1 ring-indigo-200 shrink-0 mt-1">
+                  <div className="size-6 rounded-full overflow-hidden ring-1 ring-[#D4A04C]/25 shrink-0 mt-1">
                     <span className="text-[10px] font-serif font-bold text-[#D4B37A]">V</span>
                   </div>
-                  <div className="max-w-[85%] px-4 py-2.5 text-sm leading-relaxed bg-indigo-50 text-foreground rounded-2xl rounded-bl-md">
+                  <div className="max-w-[85%] px-4 py-2.5 text-sm leading-relaxed bg-[#D4A04C]/10 text-foreground rounded-2xl rounded-bl-md">
                     {streamingContent}
                   </div>
                 </div>
@@ -218,10 +218,10 @@ export function VirgilChat() {
               {/* Thinking indicator */}
               {isThinking && !streamingContent && (
                 <div className="flex gap-2">
-                  <div className="size-6 rounded-full overflow-hidden ring-1 ring-indigo-200 shrink-0 mt-1">
+                  <div className="size-6 rounded-full overflow-hidden ring-1 ring-[#D4A04C]/25 shrink-0 mt-1">
                     <span className="text-[10px] font-serif font-bold text-[#D4B37A]">V</span>
                   </div>
-                  <div className="bg-indigo-50 rounded-2xl rounded-bl-md">
+                  <div className="bg-[#D4A04C]/10 rounded-2xl rounded-bl-md">
                     <ThinkingDots />
                   </div>
                 </div>
@@ -244,14 +244,14 @@ export function VirgilChat() {
                   onChange={(e) => setInput(e.target.value)}
                   placeholder="Ask Virgil anything..."
                   disabled={isThinking}
-                  className="flex-1 bg-muted rounded-xl px-4 py-2.5 text-sm outline-none focus:ring-2 focus:ring-indigo-200 disabled:opacity-50"
+                  className="flex-1 bg-muted rounded-xl px-4 py-2.5 text-sm outline-none focus:ring-2 focus:ring-[#D4A04C]/25 disabled:opacity-50"
                 />
                 {input.trim() && (
                   <motion.button
                     type="submit"
                     initial={{ scale: 0 }}
                     animate={{ scale: 1 }}
-                    className="size-9 flex items-center justify-center rounded-full bg-indigo-600 text-white shrink-0 hover:bg-indigo-700 transition-colors"
+                    className="size-9 flex items-center justify-center rounded-full bg-[#D4A04C] text-[#1a1a2e] shrink-0 hover:bg-[#C8A046] transition-colors"
                     disabled={isThinking}
                   >
                     <SendHorizontal className="size-4" />

@@ -226,7 +226,7 @@ Dante wrote the Comedy in Tuscan vernacular rather than Latin, a choice that was
     ],
     virgilNote: "Virgil is Dante's guide through Hell and Purgatory in the Divine Comedy. Dante chose the Roman poet deliberately and reverently: Virgil represented the pinnacle of human wisdom and poetic achievement attainable by reason alone, without the light of Christian faith. In Dante's theology, Virgil's soul dwells in Limbo — neither punished nor blessed — because he lived before Christ. His presence as guide is both a tribute to Virgil's greatness and a meditation on the limits of pagan wisdom. Dante had absorbed the Aeneid so thoroughly that it permeates the Comedy at the level of imagery, structure, and emotional register.",
     bookAuthorNames: ["Dante Alighieri", "Dante"],
-    worksInLibrary: ["inferno", "purgatorio", "paradiso"],
+    worksInLibrary: ["the-divine-comedy"],
     portraitPlaceholder: "linear-gradient(135deg, #78350F, #92400E)",
   },
 

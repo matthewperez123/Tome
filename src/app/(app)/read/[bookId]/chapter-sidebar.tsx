@@ -12,6 +12,8 @@ export type ChapterType = "front-matter" | "chapter" | "back-matter"
 const FRONT_MATTER_KEYWORDS = [
   "preface", "introduction", "introductory", "foreword", "dedication",
   "prologue", "epigraph", "letter", "note to", "author's note",
+  "translator's", "dramatis personae", "the story", "frontispiece",
+  "acknowledgment", "our raison",
 ]
 
 const BACK_MATTER_KEYWORDS = [
@@ -157,6 +159,13 @@ export function ChapterSidebar({
                             <Lock className="size-3 shrink-0" />
                           ) : isCompleted && !isActive ? (
                             <CheckCircle2 className="size-3 shrink-0 text-emerald-500" />
+                          ) : group.type !== "chapter" ? (
+                            <Icon
+                              className={cn(
+                                "size-3 shrink-0",
+                                isActive ? "text-foreground" : "text-muted-foreground"
+                              )}
+                            />
                           ) : (
                             <span
                               className={cn(
@@ -166,7 +175,7 @@ export function ChapterSidebar({
                                   : "bg-muted text-muted-foreground"
                               )}
                             >
-                              {i + 1}
+                              {group.chapters.findIndex(c => c.index === i) + 1}
                             </span>
                           )}
                           <span className="truncate">{title}</span>

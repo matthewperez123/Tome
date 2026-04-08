@@ -41,11 +41,11 @@ export function FreeModeBanner({ onSwitchToGuided }: FreeModebannerProps) {
       <button
         onClick={onSwitchToGuided}
         className="
-          ml-4 flex-shrink-0 text-indigo-600 dark:text-indigo-400
+          ml-4 flex-shrink-0 text-[#D4A04C]
           text-xs font-semibold whitespace-nowrap
           hover:underline underline-offset-2 transition-colors
-          hover:text-indigo-700 dark:hover:text-indigo-300
-          focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 rounded
+          hover:text-[#C8A046]
+          focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4A04C]/40 rounded
         "
       >
         Switch to Guided &rarr;

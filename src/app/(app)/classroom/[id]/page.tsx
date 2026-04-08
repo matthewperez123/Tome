@@ -27,7 +27,7 @@ export default function ClassroomDetail({ params }: { params: Promise<{ id: stri
     return (
       <div className="flex flex-col items-center justify-center py-20">
         <p className="text-muted-foreground">Classroom not found</p>
-        <Link href="/classroom" className="mt-2 text-sm text-indigo-500 hover:underline">
+        <Link href="/classroom" className="mt-2 text-sm text-[#D4A04C] hover:underline">
           Back to classrooms
         </Link>
       </div>
@@ -63,7 +63,7 @@ export default function ClassroomDetail({ params }: { params: Promise<{ id: stri
       {/* Header */}
       <div className="flex flex-wrap items-center gap-3">
         <h1 className="text-2xl font-bold">{classroom.name}</h1>
-        <span className="text-xs bg-indigo-50 text-indigo-600 px-2 py-0.5 rounded-full">{classroom.subject}</span>
+        <span className="text-xs bg-[#D4A04C]/10 text-[#D4A04C] px-2 py-0.5 rounded-full">{classroom.subject}</span>
         <button
           onClick={() => { navigator.clipboard.writeText(classroom.joinCode); setCopied(true); setTimeout(() => setCopied(false), 2000) }}
           className="inline-flex items-center gap-1.5 rounded-lg bg-muted px-3 py-1 text-xs font-mono text-muted-foreground hover:bg-muted/80 transition-colors"
@@ -76,7 +76,7 @@ export default function ClassroomDetail({ params }: { params: Promise<{ id: stri
       {/* Stats */}
       <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
         {[
-          { icon: Users, label: "Students", value: stats.students, color: "text-indigo-500" },
+          { icon: Users, label: "Students", value: stats.students, color: "text-[#D4A04C]" },
           { icon: BookOpen, label: "Assignments", value: stats.assignments, color: "text-teal-500" },
           { icon: TrendingUp, label: "Avg completion", value: `${stats.avgCompletion}%`, color: "text-amber-500" },
           { icon: Activity, label: "Active today", value: stats.activeToday, color: "text-green-500" },
@@ -222,12 +222,12 @@ function AssignmentCard({
       transition={{ delay: index * 0.08 }}
       onClick={onToggle}
       className={`w-full text-left rounded-xl border p-5 transition-all ${
-        isExpanded ? "border-indigo-200 bg-indigo-50/30 shadow-sm" : "border-border bg-card hover:shadow-sm"
+        isExpanded ? "border-[#D4A04C]/25 bg-[#D4A04C]/5 shadow-sm" : "border-border bg-card hover:shadow-sm"
       }`}
     >
       <div className="flex items-center gap-4">
         {/* Book color block */}
-        <div className="size-12 shrink-0 rounded-lg bg-gradient-to-br from-indigo-400 to-indigo-600" />
+        <div className="size-12 shrink-0 rounded-lg bg-gradient-to-br from-[#D4A04C] to-[#B8862D]" />
 
         {/* Info */}
         <div className="flex-1 min-w-0">

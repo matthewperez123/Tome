@@ -2,12 +2,13 @@
 
 import * as React from "react"
 import Link from "next/link"
-import { Search, Bell, X } from "lucide-react"
+import { Search, X } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { SidebarTrigger } from "@/components/ui/sidebar"
 import { cn } from "@/lib/utils"
 import { ThemeToggle } from "@/components/tome/ThemeToggle"
+import { NotificationBell } from "@/components/social/NotificationBell"
 import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
 import { getCurrentAvatar } from "@/lib/avatar-state"
 import type { BookCharacter } from "@/data/character-avatars"
@@ -80,10 +81,7 @@ export function TopBar({ className }: { className?: string }) {
         <ThemeToggle />
 
         {/* Notification bell */}
-        <Button variant="ghost" size="icon-sm" className="text-muted-foreground">
-          <Bell className="size-4" />
-          <span className="sr-only">Notifications</span>
-        </Button>
+        <NotificationBell />
 
         {/* User avatar */}
         <Link href="/profile/avatar" className="rounded-full hover:opacity-80 transition-opacity">

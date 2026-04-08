@@ -18,7 +18,7 @@
 import { useEffect, useState, useRef, useCallback } from "react"
 import { useParams, useRouter } from "next/navigation"
 import { AnimatePresence, motion } from "framer-motion"
-import { MessageSquare, BookCheck, Bookmark } from "lucide-react"
+import { MessageSquare, BookCheck, Bookmark, BookMarked } from "lucide-react"
 import { toast } from "sonner"
 import { supabase } from "@/lib/supabase"
 import type { Book } from "@/lib/supabase"
@@ -38,7 +38,7 @@ import { ReaderSettings, type ReaderTheme, type ReaderLayout, type FontSize } fr
 import { WordTooltipProvider } from "./word-tooltip"
 import { useBookProgress } from "@/components/tome/book-progress-provider"
 import { useEconomy } from "@/components/tome/economy-provider"
-import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
+// ReadingModeModal removed — users go straight to reading
 import { ChapterQuizOverlay } from "@/components/tome/chapter-quiz-overlay"
 import { FreeModeBanner } from "@/components/tome/free-mode-banner"
 import { PaginatedReader } from "@/components/tome/paginated-reader"
@@ -48,6 +48,9 @@ import { paginateHTML } from "@/lib/paginator"
 import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { AuthorLink } from "@/components/tome/author-link"
 import { cn } from "@/lib/utils"
+import { useTheme } from "next-themes"
+import { VirgilDrawer } from "@/components/reader/VirgilDrawer"
+import { getAnnotationsForChapter } from "@/lib/virgil/annotations"
 
 // ── Types ──
 
@@ -62,10 +65,7 @@ const PLACEHOLDER_HTML = `<p>The dawn spread her fingertips of rose across the s
 <p>In the great hall, the fire crackled and sent shadows dancing across the stone walls. The bard took up his lyre and began to sing of the deeds of men and gods.</p>
 <p>The philosopher sat beneath the olive tree, his students gathered around him. He posed his question not to instruct, but to illuminate.</p>`
 
-const themeStyles: Record<ReaderTheme, { bg: string; text: string; muted: string; border: string }> = {
-  light: { bg: "var(--tome-surface-elevated)", text: "rgba(0,0,0,0.85)", muted: "rgba(0,0,0,0.45)", border: "var(--border)" },
-  dark:  { bg: "#1C1914", text: "#E8DCC8", muted: "#8B7E6A", border: "#2A2520" },
-}
+// Reader uses the global theme via next-themes. No separate theme system.
 
 // Padding constants — must match PaginatedReader's own padding
 const PAGE_PADDING_V = 80  // 40px top + 40px bottom
@@ -86,7 +86,10 @@ export default function ReaderPage() {
   const [sidebarOpen, setSidebarOpen] = useState(true)
   const [annotationOpen, setAnnotationOpen] = useState(false)
   const [bookmarkOpen, setBookmarkOpen] = useState(false)
-  const [theme, setTheme]             = useState<ReaderTheme>("light")
+  // Reader uses the global next-themes toggle
+  const { theme: resolvedTheme, setTheme: setGlobalTheme } = useTheme()
+  const theme: ReaderTheme = (resolvedTheme as ReaderTheme) ?? "dark"
+  const setTheme = (t: ReaderTheme) => setGlobalTheme(t)
   const [viewMode, setViewMode]       = useState<ReaderLayout>("scroll" as ReaderLayout)
   const [fontSize, setFontSize]       = useState<FontSize>(18)
 
@@ -97,9 +100,13 @@ export default function ReaderPage() {
   const [containerDims, setContainerDims] = useState({ w: 0, h: 0 })
 
   // ── Guided / Free flow state ──
-  const [showModeModal, setShowModeModal]     = useState(false)
+  // showModeModal removed — auto-start with guided/Apprentice
   const [showQuizOverlay, setShowQuizOverlay] = useState(false)
   const [chapterEndReached, setChapterEndReached] = useState(false)
+
+  // ── Virgil drawer (annotations) ──
+  const [virgilEnabled, setVirgilEnabled] = useState(true)
+  const [activeAnnotationId, setActiveAnnotationId] = useState<string | null>(null)
 
   // ── Refs ──
   const scrollContentRef       = useRef<HTMLDivElement>(null)
@@ -138,8 +145,12 @@ export default function ReaderPage() {
     }
 
     const existingProgress = getProgress(bookId)
-    if (!existingProgress) setShowModeModal(true)
-    else setCurrentChapter(existingProgress.currentChapterIndex)
+    if (!existingProgress) {
+      // Auto-start with guided/Apprentice — no modal prompt
+      startBook(bookId, "guided", "Apprentice")
+    } else {
+      setCurrentChapter(existingProgress.currentChapterIndex)
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bookId])
 
@@ -233,25 +244,6 @@ export default function ReaderPage() {
     observer.observe(sentinel)
     return () => observer.disconnect()
   }, [currentChapter, viewMode])
-
-  // Keyboard navigation (scroll mode only — PaginatedReader owns keyboard in capture phase)
-  useEffect(() => {
-    function handleKey(e: KeyboardEvent) {
-      if (viewMode !== "scroll") return
-      const total = chapters.length || 1
-      if (e.key === "ArrowRight" || e.key === "ArrowDown" || e.key === "j") {
-        e.preventDefault()
-        setCurrentChapter(c => Math.min(c + 1, total - 1))
-      } else if (e.key === "ArrowLeft" || e.key === "ArrowUp" || e.key === "k") {
-        e.preventDefault()
-        setCurrentChapter(c => Math.max(c - 1, 0))
-      } else if (e.key === "Escape") {
-        router.back()
-      }
-    }
-    window.addEventListener("keydown", handleKey)
-    return () => window.removeEventListener("keydown", handleKey)
-  }, [router, chapters.length, viewMode])
 
   // ResizeObserver — track paginated container dimensions
   useEffect(() => {
@@ -362,10 +354,7 @@ export default function ReaderPage() {
     }
   }, [bookId, getProgress, viewMode])
 
-  const handleModeSelect = useCallback((mode: "guided" | "free", difficulty?: QuizDifficulty) => {
-    startBook(bookId, mode, difficulty ?? 'Apprentice')
-    setShowModeModal(false)
-  }, [bookId, startBook])
+  // handleModeSelect removed — modal no longer used
 
   const handleFinishChapter = useCallback(() => {
     const prog = getProgress(bookId)
@@ -404,6 +393,24 @@ export default function ReaderPage() {
     setMode(bookId, "guided")
   }, [bookId, setMode])
 
+  // Keyboard navigation (scroll mode only — PaginatedReader owns keyboard in capture phase)
+  useEffect(() => {
+    function handleKey(e: KeyboardEvent) {
+      if (viewMode !== "scroll") return
+      if (e.key === "ArrowRight" || e.key === "ArrowDown" || e.key === "j") {
+        e.preventDefault()
+        handleChapterSelect(currentChapter + 1)
+      } else if (e.key === "ArrowLeft" || e.key === "ArrowUp" || e.key === "k") {
+        e.preventDefault()
+        handleChapterSelect(currentChapter - 1)
+      } else if (e.key === "Escape") {
+        router.back()
+      }
+    }
+    window.addEventListener("keydown", handleKey)
+    return () => window.removeEventListener("keydown", handleKey)
+  }, [router, viewMode, currentChapter, handleChapterSelect])
+
   // ────────────────────────────────────────────────────
   // Loading / Error
   // ────────────────────────────────────────────────────
@@ -425,7 +432,14 @@ export default function ReaderPage() {
   const totalChapters        = chapters.length || 1
   const chapter              = (chapters[currentChapter] ?? { id: "0", title: "Chapter 1" }) as { id: string; title: string }
   const genreColor           = coverParams.primaryColor
-  const t                    = themeStyles[theme]
+  // Theme colors now come from CSS variables via Tailwind classes.
+  // Keeping a simple lookup for inline styles that can't easily use Tailwind.
+  const t = {
+    bg: "var(--background)",
+    text: "var(--foreground)",
+    muted: "var(--muted-foreground)",
+    border: "var(--border)",
+  }
   // reading_time_minutes (Supabase) or derive from wordCount (TomeBook)
   const totalReadingMinutes  = ('reading_time_minutes' in (book ?? {}))
     ? ((book as Book).reading_time_minutes ?? 60)
@@ -457,13 +471,6 @@ export default function ReaderPage() {
         <FreeModeBanner onSwitchToGuided={handleSwitchToGuided} />
       )}
 
-      {/* Reading Mode Modal */}
-      <ReadingModeModal
-        bookTitle={book.title}
-        isOpen={showModeModal}
-        onSelect={handleModeSelect}
-      />
-
       {/* Quiz Overlay */}
       {book && (
         <ChapterQuizOverlay
@@ -479,7 +486,7 @@ export default function ReaderPage() {
         />
       )}
 
-      <div className="relative flex h-[calc(100vh-3rem)] overflow-hidden">
+      <div className="relative flex h-[calc(100vh-3rem)] overflow-hidden bg-background text-foreground">
         {/* Chapter progress bar */}
         <div
           className="fixed inset-x-0 top-12 z-50 h-0.5 origin-left motion-reduce:transition-none"
@@ -525,19 +532,13 @@ export default function ReaderPage() {
           <div
             className="pointer-events-none absolute inset-0 z-0"
             style={{
-              background: theme === "dark"
-                ? "radial-gradient(ellipse at 50% 30%, rgba(234,179,8,0.02), transparent 70%)"
-                : "radial-gradient(ellipse at 50% 30%, rgba(14,165,233,0.03), transparent 70%)",
+              background: "radial-gradient(ellipse at 50% 30%, rgba(234,179,8,0.015), transparent 70%)",
             }}
           />
 
           {/* Reader Toolbar */}
           <div
-            className="sticky top-0 z-20 flex shrink-0 items-center justify-between border-b px-4 py-1.5 backdrop-blur-sm"
-            style={{
-              borderColor:     t.border,
-              backgroundColor: theme === "dark" ? "#1C1914E6" : "rgba(249,250,251,0.8)",
-            }}
+            className="sticky top-0 z-20 flex shrink-0 items-center justify-between border-b border-border px-4 py-1.5 backdrop-blur-sm bg-background/90"
           >
             <div className="flex flex-col min-w-0 max-w-[200px]">
               <p className="text-[10px] font-medium truncate" style={{ color: t.muted }}>
@@ -549,6 +550,18 @@ export default function ReaderPage() {
               />
             </div>
             <div className="flex items-center gap-1">
+              {/* Virgil annotations toggle */}
+              <button
+                onClick={() => setVirgilEnabled(!virgilEnabled)}
+                className={cn(
+                  "flex size-7 items-center justify-center rounded-md transition-colors",
+                  virgilEnabled ? "text-[#D4A04C]" : "text-muted-foreground hover:opacity-70"
+                )}
+                aria-label={virgilEnabled ? "Hide Virgil" : "Show Virgil"}
+                title={virgilEnabled ? "Hide Virgil annotations" : "Show Virgil annotations"}
+              >
+                <BookMarked className="size-3.5" />
+              </button>
               <button
                 onClick={() => setAnnotationOpen(!annotationOpen)}
                 className="flex size-7 items-center justify-center rounded-md transition-colors hover:opacity-70"
@@ -598,16 +611,21 @@ export default function ReaderPage() {
                     </h1>
                     <div className="mt-2 h-px w-16" style={{ backgroundColor: t.border }} />
 
-                    {/* Body Text */}
+                    {/* Body Text — strip leading heading that duplicates the chapter title */}
                     <div
                       className="mt-8 font-serif prose-reader"
                       style={{
                         fontSize:   `${fontSize}px`,
                         lineHeight: 1.8,
-                        color:      theme === "dark" ? "#E8DCC8E6" : "rgba(0,0,0,0.85)",
+                        color:      "var(--foreground)",
                       }}
                       data-reader-text
-                      dangerouslySetInnerHTML={{ __html: chapterHTML }}
+                      dangerouslySetInnerHTML={{
+                        __html: chapterHTML.replace(
+                          /^\s*(<section[^>]*>\s*)?<h[12][^>]*>[^<]*<\/h[12]>/i,
+                          "$1"
+                        ),
+                      }}
                     />
 
                     {/* Virgil Reflection */}
@@ -622,54 +640,80 @@ export default function ReaderPage() {
                       />
                     )}
 
-                    {/* Finish Chapter CTA */}
-                    <AnimatePresence>
-                      {chapterEndReached && (
-                        <motion.div
-                          initial={{ opacity: 0, y: 16 }}
-                          animate={{ opacity: 1, y: 0 }}
-                          exit={{ opacity: 0, y: 8 }}
-                          transition={springs.gentle}
-                          className="mt-12 flex flex-col items-center gap-3"
-                        >
-                          <button
-                            onClick={handleFinishChapter}
-                            className="flex items-center gap-2 rounded-xl px-6 py-3 text-sm font-semibold text-white transition-all hover:opacity-90 active:scale-95"
-                            style={{ background: "linear-gradient(135deg, #4f46e5, #7c3aed)" }}
+                    {/* Chapter Navigation — Quiz gate between prev/next */}
+                    <div className="mt-16 border-t pt-6" style={{ borderColor: t.border }}>
+                      {/* Chapter end CTA — quiz gate (guided) or simple next (free) */}
+                      <AnimatePresence>
+                        {chapterEndReached && currentChapter < totalChapters - 1 && readingMode === "free" && (
+                          <motion.div
+                            initial={{ opacity: 0, y: 16 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            exit={{ opacity: 0, y: 8 }}
+                            transition={springs.gentle}
+                            className="mb-6 flex justify-center"
                           >
-                            <BookCheck className="size-4" />
-                            {readingMode === "guided" ? "Finish Chapter & Take Trial" : "Next Chapter →"}
-                          </button>
-                          {readingMode === "guided" && (
+                            <button
+                              onClick={() => handleChapterSelect(currentChapter + 1)}
+                              className="flex items-center gap-2 rounded-xl px-6 py-3 text-sm font-semibold text-[#1a1a2e] transition-all hover:opacity-90 active:scale-95"
+                              style={{ background: "linear-gradient(135deg, #D4A04C, #B8862D)" }}
+                            >
+                              Next Chapter →
+                            </button>
+                          </motion.div>
+                        )}
+                        {chapterEndReached && currentChapter < totalChapters - 1 && readingMode === "guided" && (
+                          <motion.div
+                            initial={{ opacity: 0, y: 16 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            exit={{ opacity: 0, y: 8 }}
+                            transition={springs.gentle}
+                            className="mb-6 flex flex-col items-center gap-3"
+                          >
+                            <button
+                              onClick={handleFinishChapter}
+                              className="flex items-center gap-2 rounded-xl px-6 py-3 text-sm font-semibold text-[#1a1a2e] transition-all hover:opacity-90 active:scale-95"
+                              style={{ background: "linear-gradient(135deg, #D4A04C, #B8862D)" }}
+                            >
+                              <BookCheck className="size-4" />
+                              Complete Trial to Unlock Next Chapter
+                            </button>
                             <p className="text-[11px]" style={{ color: t.muted }}>
-                              Pass the trial to unlock the next chapter
+                              Pass the trial to continue your journey
                             </p>
-                          )}
-                        </motion.div>
-                      )}
-                    </AnimatePresence>
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
 
-                    {/* Chapter Navigation */}
-                    <div className="mt-16 flex items-center justify-between border-t pt-6" style={{ borderColor: t.border }}>
-                      <button
-                        disabled={currentChapter === 0}
-                        onClick={() => handleChapterSelect(currentChapter - 1)}
-                        className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
-                        style={{ color: t.muted }}
-                      >
-                        Previous chapter
-                      </button>
-                      <span className="text-[10px] tabular-nums" style={{ color: t.muted }}>
-                        {currentChapter + 1} / {totalChapters}
-                      </span>
-                      <button
-                        disabled={currentChapter === totalChapters - 1}
-                        onClick={() => handleChapterSelect(currentChapter + 1)}
-                        className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
-                        style={{ color: t.muted }}
-                      >
-                        Next chapter
-                      </button>
+                      {/* Prev / counter / Next row */}
+                      <div className="flex items-center justify-between">
+                        <button
+                          disabled={currentChapter === 0}
+                          onClick={() => handleChapterSelect(currentChapter - 1)}
+                          className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
+                          style={{ color: t.muted }}
+                        >
+                          ← Previous chapter
+                        </button>
+                        <span className="text-[10px] tabular-nums" style={{ color: t.muted }}>
+                          {currentChapter + 1} / {totalChapters}
+                        </span>
+                        {/* Next button — triggers quiz in guided mode, direct nav in free mode */}
+                        <button
+                          disabled={currentChapter === totalChapters - 1}
+                          onClick={() => {
+                            if (readingMode === "guided" && progress && isChapterLocked(progress, currentChapter + 1)) {
+                              // Chapter is locked — trigger quiz flow
+                              handleFinishChapter()
+                            } else {
+                              handleChapterSelect(currentChapter + 1)
+                            }
+                          }}
+                          className="text-xs transition-colors disabled:opacity-30 hover:opacity-70"
+                          style={{ color: t.muted }}
+                        >
+                          Next chapter →
+                        </button>
+                      </div>
                     </div>
 
                     {/* End-of-chapter sentinel for IntersectionObserver */}
@@ -683,7 +727,7 @@ export default function ReaderPage() {
                 className="sticky bottom-0 z-20 border-t px-6 py-2 text-center backdrop-blur-sm"
                 style={{
                   borderColor:     t.border,
-                  backgroundColor: theme === "dark" ? "#1C1914CC" : "rgba(249,250,251,0.8)",
+                  backgroundColor: "color-mix(in srgb, var(--background) 80%, transparent)",
                 }}
               >
                 <p className="text-[10px] tabular-nums" style={{ color: t.muted }}>
@@ -739,6 +783,12 @@ export default function ReaderPage() {
           onBookmarkAdded={() => setBookmarkOpen(true)}
         />
       </div>
+
+      {/* Virgil Drawer — unified annotations + chat stub */}
+      <VirgilDrawer
+        annotationId={activeAnnotationId}
+        onClose={() => setActiveAnnotationId(null)}
+      />
     </WordTooltipProvider>
   )
 }

@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { cn } from "@/lib/utils"
 
 // ── Tradition band colors ───────────────────────────────────────────────────
@@ -117,6 +118,8 @@ export interface ClassicsCoverProps {
   fallbackColors?: { primary: string; secondary: string; accent: string }
   className?: string
   showTomeWordmark?: boolean
+  /** Hide the bottom tradition band with title/author text */
+  hideBand?: boolean
   aspectRatio?: "2/3" | "1/1"
   priority?: boolean
 }
@@ -132,6 +135,7 @@ export function ClassicsCover({
   fallbackColors = { primary: "#1E3A5F", secondary: "#0F2744", accent: "#C9A84C" },
   className,
   showTomeWordmark = true,
+  hideBand = false,
   aspectRatio = "2/3",
   priority = false,
 }: ClassicsCoverProps) {
@@ -144,9 +148,13 @@ export function ClassicsCover({
     containerType: "inline-size",
   }
 
-  // Always use geometric SVG covers — no external images
-  const motifSvg = getTraditionMotif(tradition, fallbackColors.primary, fallbackColors.accent)
-  const fallbackGradient = getFallbackGradient(fallbackColors.primary, fallbackColors.secondary, fallbackColors.accent)
+  const motifSvg = !artImageUrl
+    ? getTraditionMotif(tradition, fallbackColors.primary, fallbackColors.accent)
+    : ""
+
+  const fallbackGradient = !artImageUrl
+    ? getFallbackGradient(fallbackColors.primary, fallbackColors.secondary, fallbackColors.accent)
+    : ""
 
   return (
     <div
@@ -158,64 +166,92 @@ export function ClassicsCover({
       style={containerStyle}
       data-book-id={bookId}
     >
-      {/* ── Geometric SVG background ── */}
-      <div className="absolute inset-0" style={{ background: fallbackGradient }}>
-        <svg
-          viewBox="0 0 200 190"
-          xmlns="http://www.w3.org/2000/svg"
-          className="absolute inset-0 w-full h-full"
-          aria-hidden="true"
-          preserveAspectRatio="xMidYMid slice"
-        >
-          <g dangerouslySetInnerHTML={{ __html: motifSvg }} />
-        </svg>
-      </div>
+      {/* ── Artwork / Fallback background ── */}
+      {artImageUrl ? (
+        <>
+          <Image
+            src={artImageUrl}
+            alt={`${title} cover artwork`}
+            fill
+            unoptimized
+            priority={priority}
+            sizes="(max-width: 768px) 50vw, 33vw"
+            className="object-cover object-center"
+          />
+          {/* Vignette: subtle dark gradient on the bottom half to blend into band */}
+          <div
+            aria-hidden="true"
+            className="absolute inset-0 pointer-events-none"
+            style={{
+              background:
+                "linear-gradient(to bottom, transparent 35%, rgba(0,0,0,0.22) 60%, rgba(0,0,0,0.55) 73%)",
+            }}
+          />
+        </>
+      ) : (
+        /* Procedural fallback */
+        <div className="absolute inset-0" style={{ background: fallbackGradient }}>
+          <svg
+            viewBox="0 0 200 190"
+            xmlns="http://www.w3.org/2000/svg"
+            className="absolute inset-0 w-full h-full"
+            aria-hidden="true"
+            preserveAspectRatio="xMidYMid slice"
+          >
+            <g dangerouslySetInnerHTML={{ __html: motifSvg }} />
+          </svg>
+        </div>
+      )}
 
-      {/* ── Gold/white separator line ── */}
-      <div
-        aria-hidden="true"
-        className="absolute left-0 right-0 pointer-events-none"
-        style={{
-          bottom: "30%",
-          height: "1px",
-          background: `linear-gradient(to right, transparent, ${accentGold}CC, transparent)`,
-          zIndex: 3,
-        }}
-      />
+      {!hideBand && (
+        <>
+          {/* ── Gold/white separator line ── */}
+          <div
+            aria-hidden="true"
+            className="absolute left-0 right-0 pointer-events-none"
+            style={{
+              bottom: "30%",
+              height: "1px",
+              background: `linear-gradient(to right, transparent, ${accentGold}CC, transparent)`,
+              zIndex: 3,
+            }}
+          />
 
-      {/* ── Colored band (bottom 30%) ── */}
-      <div
-        className="absolute left-0 right-0 bottom-0 flex flex-col justify-center px-[7%] py-[4%]"
-        style={{
-          height: "30%",
-          backgroundColor: bandColor,
-          zIndex: 4,
-        }}
-      >
-        {/* Title */}
-        <p
-          className="font-serif text-white leading-tight line-clamp-3"
-          style={{
-            fontSize: "clamp(0.6rem, 2.8cqw, 1rem)",
-            fontWeight: 700,
-            letterSpacing: "0.01em",
-            textShadow: "0 1px 3px rgba(0,0,0,0.5)",
-          }}
-        >
-          {title}
-        </p>
-        {/* Author */}
-        <p
-          className="text-white/75 mt-[3%] font-sans truncate"
-          style={{
-            fontSize: "clamp(0.5rem, 2cqw, 0.75rem)",
-            letterSpacing: "0.04em",
-            fontWeight: 400,
-          }}
-        >
-          {author}
-        </p>
-      </div>
+          {/* ── Colored band (bottom 30%) ── */}
+          <div
+            className="absolute left-0 right-0 bottom-0 flex flex-col justify-center px-[7%] py-[4%]"
+            style={{
+              height: "30%",
+              backgroundColor: bandColor,
+              zIndex: 4,
+            }}
+          >
+            {/* Title */}
+            <p
+              className="font-serif text-white leading-tight line-clamp-3"
+              style={{
+                fontSize: "clamp(0.6rem, 2.8cqw, 1rem)",
+                fontWeight: 700,
+                letterSpacing: "0.01em",
+                textShadow: "0 1px 3px rgba(0,0,0,0.5)",
+              }}
+            >
+              {title}
+            </p>
+            {/* Author */}
+            <p
+              className="text-white/75 mt-[3%] font-sans truncate"
+              style={{
+                fontSize: "clamp(0.5rem, 2cqw, 0.75rem)",
+                letterSpacing: "0.04em",
+                fontWeight: 400,
+              }}
+            >
+              {author}
+            </p>
+          </div>
+        </>
+      )}
 
       {/* ── TOME wordmark (top-right) ── */}
       {showTomeWordmark && (

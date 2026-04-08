@@ -23,6 +23,7 @@ import { Star, Heart, Share2, ArrowLeft, Check, BookOpen, Clock, GraduationCap, 
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { getBook, getBooks } from "@/lib/content"
+import { getBookCoverArt } from "@/data/cover-art"
 import { getAllBookProgress, getBookProgress } from "@/lib/book-progress"
 import { cn } from "@/lib/utils"
 import type { TomeBook } from "@/data/books"
@@ -434,6 +435,7 @@ export default function BookCompletePage() {
 
   if (!book || !mounted) return <CompleteSkeleton />
 
+  const coverArt    = getBookCoverArt(bookId)
   const tradColor   = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
   const chaptersDone = progress?.completedChapterIndices.length ?? book.chapters
   const quizCount   = progress?.quizResults.length ?? 0
@@ -502,6 +504,7 @@ export default function BookCompletePage() {
                 title={book.title}
                 author={book.author}
                 tradition={book.tradition}
+                artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                 fallbackColors={book.coverColors}
                 showTomeWordmark
                 className="w-full"

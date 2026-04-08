@@ -2,27 +2,27 @@
 // Persists user's onboarding selections to localStorage.
 
 export interface OnboardingData {
+  userType: "reader" | "teacher" | null
+  teacherSubject: string | null
+  teacherLevel: string | null
+  teacherClassSize: string | null
   intent: string | null
   traditions: string[]
   dailyGoalMinutes: number
   completedAt: string | null
-  userType: string | null
-  teacherClassSize: string | null
-  teacherSubject: string | null
-  teacherLevel: string | null
 }
 
 const STORAGE_KEY = "tome-onboarding"
 
 const DEFAULT_DATA: OnboardingData = {
+  userType: null,
+  teacherSubject: null,
+  teacherLevel: null,
+  teacherClassSize: null,
   intent: null,
   traditions: [],
   dailyGoalMinutes: 15,
   completedAt: null,
-  userType: null,
-  teacherClassSize: null,
-  teacherSubject: null,
-  teacherLevel: null,
 }
 
 export function getOnboardingData(): OnboardingData {

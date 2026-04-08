@@ -21,7 +21,7 @@ import { motion } from "framer-motion"
 import {
   Flame, Heart, Zap, BookOpen, Trophy, Clock,
   ChevronRight, Star, Check, Sparkles, AlertTriangle,
-  TrendingUp, Bookmark, ScrollText,
+  TrendingUp, Bookmark,
 } from "lucide-react"
 import { useEconomy } from "@/components/tome/economy-provider"
 import { getAllBookProgress } from "@/lib/book-progress"
@@ -29,6 +29,8 @@ import { getBooks, getFeaturedBooks } from "@/lib/content"
 import type { TomeBook } from "@/data/books"
 import { TRADITION_COLORS } from "@/components/tome/book-card"
 import { BookCover, getCoverParams } from "@/components/tome/book-cover"
+import { ClassicsCover } from "@/components/tome/ClassicsCover"
+import { getBookCoverArt } from "@/data/cover-art"
 import { AuthorLink } from "@/components/tome/author-link"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
@@ -39,7 +41,9 @@ import { AnimatedGridPattern } from "@/components/ui/animated-grid-pattern"
 import { Button } from "@/components/ui/button"
 import { X } from "lucide-react"
 import { VirgilReflection } from "@/components/tome/virgil-reflection"
+import { getTipOfTheDay } from "@/lib/virgil-tips"
 import { cn } from "@/lib/utils"
+import { StoaBanner } from "@/components/dashboard/StoaBanner"
 
 // ─────────────────────────────────────────────
 // Daily challenge pool (rotates by day-of-year)
@@ -262,12 +266,17 @@ export default function DashboardPage() {
 
       <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 py-6 space-y-8">
 
+        {/* ── Stoa Banner ─────────────────────────── */}
+        <BlurFade delay={0.02} inView>
+          <StoaBanner />
+        </BlurFade>
+
         {/* ── 1. Header ──────────────────────────── */}
         <BlurFade delay={0.04} inView>
           <div className="flex items-start justify-between gap-4">
             <div>
               <h1 className="font-serif text-2xl font-bold tracking-tight">
-                {greeting()}, Matthew
+                {greeting()}, Reader
               </h1>
               <p className="text-sm text-muted-foreground mt-0.5">
                 {new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}
@@ -585,6 +594,7 @@ export default function DashboardPage() {
               <div className="space-y-3">
                 {continueBooks.map(({ book, prog, pct }) => {
                   const coverParams = getCoverParams(book)
+                  const coverArt    = getBookCoverArt(book.id)
                   const tradColor   = TRADITION_COLORS[book.tradition]
                   const chapters    = prog?.completedChapterIndices.length ?? Math.round((pct / 100) * book.chapters)
 
@@ -602,7 +612,17 @@ export default function DashboardPage() {
 
                       {/* Cover */}
                       <div className="shrink-0 w-12 rounded-md overflow-hidden shadow-sm">
-                        <BookCover {...coverParams} className="w-full" />
+                        <ClassicsCover
+                          bookId={book.id}
+                          title={book.title}
+                          author={book.author}
+                          tradition={book.tradition}
+                          artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
+                          fallbackColors={book.coverColors}
+                          showTomeWordmark={false}
+                          hideBand
+                          className="w-full rounded-none"
+                        />
                       </div>
 
                       {/* Info */}
@@ -642,26 +662,63 @@ export default function DashboardPage() {
                       </div>
 
                       {/* CTA */}
-                      <div className="shrink-0 flex flex-col gap-1.5">
-                        <Link href={`/read/${book.id}`}>
-                          <Button size="sm" className="text-xs gap-1 w-full">
-                            Continue
-                            <ChevronRight className="size-3" />
-                          </Button>
-                        </Link>
-                        <Link
-                          href={`/read/scroll/${book.id}`}
-                          className="flex items-center justify-center gap-1 text-[10px] text-muted-foreground hover:text-foreground transition-colors"
-                        >
-                          <ScrollText className="size-3" />
-                          Full text
-                        </Link>
-                      </div>
+                      <Link href={`/read/${book.id}`} className="shrink-0">
+                        <Button size="sm" className="text-xs gap-1">
+                          Continue
+                          <ChevronRight className="size-3" />
+                        </Button>
+                      </Link>
                     </div>
                   )
                 })}
               </div>
             )}
+          </section>
+        </BlurFade>
+
+        {/* ── 5b. Trending This Week ──────────────── */}
+        <BlurFade delay={0.18} inView>
+          <section>
+            <SectionHeading
+              icon={TrendingUp}
+              color="#E8734A"
+              title="Trending This Week"
+              action="Library"
+              actionHref="/library"
+            />
+            <div className="flex gap-3 overflow-x-auto pb-2 -mx-1 px-1 snap-x snap-mandatory">
+              {(allBooks.filter(b => ["the-iliad", "the-divine-comedy", "the-republic", "hamlet", "moby-dick", "pride-and-prejudice"].includes(b.id)).slice(0, 6)).map((book) => {
+                const coverArt = getBookCoverArt(book.id)
+                const tradColor = TRADITION_COLORS[book.tradition]
+                return (
+                  <Link key={book.id} href={`/book/${book.id}`} className="w-32 shrink-0 snap-start group">
+                    <div className="relative rounded-lg overflow-hidden mb-1.5">
+                      <ClassicsCover
+                        bookId={book.id}
+                        title={book.title}
+                        author={book.author}
+                        tradition={book.tradition}
+                        artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
+                        fallbackColors={book.coverColors}
+                        showTomeWordmark={false}
+                        hideBand
+                        className="w-full transition-transform group-hover:scale-[1.02] rounded-none"
+                      />
+                      <span className="absolute top-1 right-1 flex items-center gap-0.5 px-1.5 py-0.5 rounded-full text-[8px] font-medium bg-[#E8734A20] text-[#E8734A]">
+                        <Flame className="size-2.5" /> Trending
+                      </span>
+                    </div>
+                    <p className="text-[11px] font-semibold leading-snug line-clamp-2">{book.title}</p>
+                    <p className="text-[9px] text-muted-foreground mt-0.5 truncate">{book.author}</p>
+                    {tradColor && (
+                      <span className="mt-1 inline-block rounded-full px-1.5 py-px text-[7px] font-medium" style={{ background: tradColor.bg, color: tradColor.text }}>
+                        {book.tradition}
+                      </span>
+                    )}
+                  </Link>
+                )
+              })}
+            </div>
           </section>
         </BlurFade>
 
@@ -678,7 +735,7 @@ export default function DashboardPage() {
 
             <div className="flex gap-3 overflow-x-auto pb-2 -mx-1 px-1 snap-x snap-mandatory">
               {featuredBooks.map((book) => {
-                const coverParams = getCoverParams(book)
+                const coverArt    = getBookCoverArt(book.id)
                 const tradColor   = TRADITION_COLORS[book.tradition]
                 const reasonTag   = book.trending ? REASON_TAGS[book.trending.trend] : <><BookOpen className="size-3 inline-block align-middle" /> Classic pick</>
 
@@ -686,7 +743,17 @@ export default function DashboardPage() {
                   <div key={book.id} className="shrink-0 snap-start w-36">
                     <Link href={`/book/${book.id}`} className="group block">
                       <div className="relative rounded-xl overflow-hidden shadow-sm group-hover:shadow-md transition-shadow mb-2">
-                        <BookCover {...coverParams} className="w-full aspect-[2/3]" />
+                        <ClassicsCover
+                          bookId={book.id}
+                          title={book.title}
+                          author={book.author}
+                          tradition={book.tradition}
+                          artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
+                          fallbackColors={book.coverColors}
+                          showTomeWordmark={false}
+                          hideBand
+                          className="w-full rounded-none"
+                        />
                         {/* Difficulty badge */}
                         <span
                           className="absolute top-1.5 right-1.5 text-[8px] font-semibold px-1.5 py-px rounded-full"
@@ -770,17 +837,16 @@ export default function DashboardPage() {
           >
             <div
               className="mt-0.5 shrink-0 size-8 rounded-full flex items-center justify-center"
-              style={{ background: "color-mix(in srgb, #6366f1 15%, transparent)" }}
+              style={{ background: "rgba(212,160,76,0.15)" }}
             >
-              <Bookmark className="size-4 text-indigo-500" />
+              <Bookmark className="size-4 text-[#D4A04C]" />
             </div>
             <div>
-              <p className="text-xs font-bold text-indigo-600 uppercase tracking-widest mb-1">
+              <p className="text-xs font-bold text-[#D4A04C] uppercase tracking-widest mb-1">
                 Virgil&rsquo;s Tip
               </p>
               <p className="text-sm leading-relaxed text-foreground/80 font-serif italic">
-                "The unread books on your shelf are not failures — they are invitations.
-                Each one waits patiently for the reader you will become."
+                &ldquo;{getTipOfTheDay()}&rdquo;
               </p>
             </div>
           </div>

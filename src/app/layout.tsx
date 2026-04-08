@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Plus_Jakarta_Sans, Literata } from "next/font/google";
+import { ThemeProvider } from "next-themes";
 import "@/styles/globals.css";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -86,10 +87,20 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`dark ${plusJakartaSans.variable} ${literata.variable}`}
-      style={{ colorScheme: "dark" }}
+      className={`${plusJakartaSans.variable} ${literata.variable}`}
+      suppressHydrationWarning
     >
-      <body>{children}</body>
+      <body>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="dark"
+          enableSystem={false}
+          disableTransitionOnChange
+          storageKey="tome-theme"
+        >
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   );
 }

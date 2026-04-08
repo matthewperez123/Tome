@@ -30,7 +30,7 @@ import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { springs } from "@/lib/design-tokens"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { SparklesText } from "@/components/ui/sparkles-text"
-import { Confetti, type ConfettiRef } from "@/components/ui/confetti"
+// Confetti removed
 import { cn } from "@/lib/utils"
 
 // ── Achievement definitions ────────────────────
@@ -110,7 +110,7 @@ const RARITY_BG = {
 export default function AchievementsPage() {
   const { stats } = useEconomy()
   const [filter, setFilter] = useState<string>("all")
-  const confettiRef = useRef<ConfettiRef>(null)
+  // confettiRef removed
   const [allProgress, setAllProgress] = useState<ReturnType<typeof getAllBookProgress>>({})
 
   useEffect(() => {
@@ -134,7 +134,7 @@ export default function AchievementsPage() {
 
   return (
     <div className="relative p-4 md:p-6">
-      <Confetti ref={confettiRef} className="absolute inset-0 size-full pointer-events-none z-50" />
+      {/* Confetti removed */}
 
       <BlurFade delay={0.05} inView>
         <h1 className="text-xl font-semibold tracking-tight md:text-2xl" style={{ letterSpacing: "-0.02em" }}>
@@ -172,14 +172,7 @@ export default function AchievementsPage() {
           <BlurFade key={achievement.id} delay={0.03 * i} inView>
             <AchievementCard
               achievement={achievement}
-              onCelebrate={() => {
-                confettiRef.current?.fire({
-                  particleCount: 40,
-                  spread: 70,
-                  origin: { y: 0.6 },
-                  colors: ["#EAB308", "#6366F1", "#EC4899", "#22C55E"],
-                })
-              }}
+              onCelebrate={() => {}}
             />
           </BlurFade>
         ))}

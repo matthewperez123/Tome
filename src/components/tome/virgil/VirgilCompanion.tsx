@@ -27,15 +27,15 @@ export function VirgilCompanion() {
       }}
       whileHover={{ scale: 1.12 }}
       whileTap={{ scale: 0.9 }}
-      className="fixed bottom-6 right-6 z-50 size-14 rounded-full bg-[#D4B37A20] ring-2 ring-[#D4B37A40] shadow-lg overflow-hidden cursor-pointer outline-none max-md:bottom-20 flex items-center justify-center"
+      className="fixed bottom-6 right-6 z-50 size-10 rounded-full bg-[#C9A84C] ring-2 ring-[#C9A84C]/50 shadow-lg overflow-hidden cursor-pointer outline-none flex items-center justify-center font-semibold leading-none tracking-tight text-xs"
       aria-label="Open Virgil chat"
     >
-      <span className="text-xl font-serif font-bold text-[#D4B37A]">V</span>
+      <span className="text-[#1a1a2e]">V</span>
       {hasNotification && (
         <motion.span
           animate={{ scale: [1, 1.4, 1] }}
           transition={{ duration: 2, repeat: Infinity }}
-          className="absolute top-0 right-0 size-3 rounded-full bg-indigo-500 border-2 border-white"
+          className="absolute top-0 right-0 size-3 rounded-full bg-[#D4A04C] border-2 border-background"
         />
       )}
     </motion.button>

@@ -53,39 +53,6 @@ export function ReaderSettings({
 
       <div className="mx-1 h-4 w-px bg-border" />
 
-      {/* Layout toggle — 2-segment: Scroll | Book Spread */}
-      <div className="rounded-md border border-border overflow-hidden flex items-center">
-        {/* Scroll segment */}
-        <button
-          onClick={() => onLayoutChange("scroll")}
-          className={cn(
-            "inline-flex size-7 items-center justify-center transition-colors",
-            layout === "scroll"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          )}
-          aria-label="Scroll layout"
-          aria-pressed={layout === "scroll"}
-        >
-          <AlignJustify className="size-3.5" />
-        </button>
-
-        {/* Book spread segment — hidden on mobile */}
-        <button
-          onClick={() => onLayoutChange("book")}
-          className={cn(
-            "hidden md:inline-flex size-7 items-center justify-center border-l border-border transition-colors",
-            layout === "book"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          )}
-          aria-label="Book spread layout"
-          aria-pressed={layout === "book"}
-        >
-          <Columns2 className="size-3.5" />
-        </button>
-      </div>
-
       {/* Theme toggle */}
       <button
         onClick={() => onThemeChange(theme === "light" ? "dark" : "light")}

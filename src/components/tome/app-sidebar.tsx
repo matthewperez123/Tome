@@ -83,6 +83,7 @@ export function AppSidebar() {
 }
 
 function SidebarNav({ pathname }: { pathname: string }) {
+  const { setOpenMobile } = useSidebar()
   const listRef = React.useRef<HTMLUListElement>(null)
 
   React.useEffect(() => {
@@ -135,7 +136,7 @@ function SidebarNav({ pathname }: { pathname: string }) {
             <SidebarMenuButton
               isActive={isActive}
               tooltip={item.label}
-              render={<Link href={item.href} />}
+              render={<Link href={item.href} onClick={() => setOpenMobile(false)} />}
             >
               <item.icon className="size-4" />
               <span>{item.label}</span>

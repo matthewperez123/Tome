@@ -7,8 +7,8 @@ export interface Quote {
 export const QUOTES: Quote[] = [
   { text: "Sing, O goddess, the anger of Achilles", attribution: "Homer, The Iliad", bookId: "the-iliad" },
   { text: "Tell me, O Muse, of that ingenious hero who travelled far and wide", attribution: "Homer, The Odyssey", bookId: "the-odyssey" },
-  { text: "Midway upon the journey of our life, I found myself within a forest dark", attribution: "Dante, Inferno", bookId: "the-inferno" },
-  { text: "Abandon all hope, ye who enter here", attribution: "Dante, Inferno", bookId: "the-inferno" },
+  { text: "Midway upon the journey of our life, I found myself within a forest dark", attribution: "Dante, The Divine Comedy", bookId: "the-divine-comedy" },
+  { text: "Abandon all hope, ye who enter here", attribution: "Dante, The Divine Comedy", bookId: "the-divine-comedy" },
   { text: "The unexamined life is not worth living", attribution: "Socrates (Plato, Apology)", bookId: "apology" },
   { text: "I know that I know nothing", attribution: "Socrates (Plato, Apology)", bookId: "apology" },
   { text: "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife", attribution: "Jane Austen, Pride and Prejudice", bookId: "pride-and-prejudice" },

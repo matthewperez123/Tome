@@ -14,7 +14,7 @@ const options: { label: string; icon: LucideIcon; id: string }[] = [
   { label: "Curious reader", icon: BookOpen, id: "curious" },
 ]
 
-export function StepIntent({ onNext }: { onNext: () => void }) {
+export function StepIntent({ onNext, onBack }: { onNext: () => void; onBack?: () => void }) {
   const [selected, setSelected] = useState<string | null>(null)
 
   return (
@@ -51,13 +51,16 @@ export function StepIntent({ onNext }: { onNext: () => void }) {
         })}
       </div>
 
-      <Button
-        className="mt-8 w-full"
-        disabled={!selected}
-        onClick={onNext}
-      >
-        Continue
-      </Button>
+      <div className={`mt-8 flex w-full ${onBack ? "gap-3" : ""}`}>
+        {onBack && (
+          <Button variant="ghost" onClick={onBack} className="flex-1">
+            Back
+          </Button>
+        )}
+        <Button className="flex-1" disabled={!selected} onClick={onNext}>
+          Continue
+        </Button>
+      </div>
     </div>
   )
 }

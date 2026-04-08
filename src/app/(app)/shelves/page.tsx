@@ -21,6 +21,7 @@ import {
 } from "@/lib/shelves/store"
 import { getBook, getBooks } from "@/lib/content"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
+import { getBookCoverArt } from "@/data/cover-art"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { CHARACTERS_BY_BOOK } from "@/data/character-avatars"
 import { cn } from "@/lib/utils"
@@ -54,6 +55,7 @@ function TinyCover({
   height?: number
 }) {
   const book     = getBook(bookId)
+  const coverArt = getBookCoverArt(bookId)
   if (!book) return <div className="rounded-sm bg-muted shrink-0" style={{ width, height }} />
   return (
     <div className="shrink-0" style={{ width, height }}>
@@ -62,6 +64,7 @@ function TinyCover({
         title={book.title}
         author={book.author}
         tradition={book.tradition}
+        artImageUrl={coverArt?.localThumbnailPath ?? coverArt?.thumbnailUrl}
         fallbackColors={book.coverColors}
         className="w-full h-full"
         showTomeWordmark={false}
@@ -77,7 +80,7 @@ function ProgressBar({ value, max, className }: { value: number; max: number; cl
   return (
     <div className={cn("h-1.5 rounded-full bg-muted overflow-hidden", className)}>
       <div
-        className="h-full rounded-full bg-indigo-500 transition-all duration-500"
+        className="h-full rounded-full bg-[#D4A04C] transition-all duration-500"
         style={{ width: `${pct}%` }}
       />
     </div>
@@ -282,7 +285,7 @@ export default function ShelvesPage() {
           <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 gap-3">
             {sortedFavorites.map((entry) => {
               const book     = getBook(entry.bookId)
-
+              const coverArt = getBookCoverArt(entry.bookId)
               if (!book) return null
               return (
                 <div key={entry.bookId} className="relative group">
@@ -301,7 +304,7 @@ export default function ShelvesPage() {
                       title={book.title}
                       author={book.author}
                       tradition={book.tradition}
-
+                      artImageUrl={coverArt?.localThumbnailPath ?? coverArt?.thumbnailUrl}
                       fallbackColors={book.coverColors}
                       className="w-full"
                       showTomeWordmark={false}
@@ -397,7 +400,7 @@ export default function ShelvesPage() {
           <div className="space-y-3">
             {currentlyReadingEntries.map((entry) => {
               const book     = getBook(entry.bookId)
-
+              const coverArt = getBookCoverArt(entry.bookId)
               const prog     = progress[entry.bookId]
               if (!book) return null
 
@@ -417,7 +420,7 @@ export default function ShelvesPage() {
                       title={book.title}
                       author={book.author}
                       tradition={book.tradition}
-
+                      artImageUrl={coverArt?.localThumbnailPath ?? coverArt?.thumbnailUrl}
                       fallbackColors={book.coverColors}
                       className="w-full h-full"
                       showTomeWordmark={false}
@@ -478,7 +481,7 @@ export default function ShelvesPage() {
             <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 gap-3">
               {completed.map((entry) => {
                 const book     = getBook(entry.bookId)
-  
+                const coverArt = getBookCoverArt(entry.bookId)
                 if (!book) return null
 
                 return (
@@ -489,7 +492,7 @@ export default function ShelvesPage() {
                         title={book.title}
                         author={book.author}
                         tradition={book.tradition}
-  
+                        artImageUrl={coverArt?.localThumbnailPath ?? coverArt?.thumbnailUrl}
                         fallbackColors={book.coverColors}
                         className="w-full"
                         showTomeWordmark={false}

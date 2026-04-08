@@ -12,7 +12,7 @@ import type { TomeBook } from "@/data/books"
 const QUIZ_BOOKS = [
   { key: "the-iliad", name: "The Iliad", chapters: [0, 1, 2, 3, 4] },
   { key: "the-odyssey", name: "The Odyssey", chapters: [0, 1, 2, 3, 4] },
-  { key: "the-inferno", name: "Inferno", chapters: [0, 1, 2, 3] },
+  { key: "the-divine-comedy", name: "The Divine Comedy", chapters: [0, 1, 2, 3] },
   { key: "hamlet", name: "Hamlet", chapters: [0, 1, 2, 3] },
   { key: "pride-and-prejudice", name: "Pride and Prejudice", chapters: [0, 1, 2] },
   { key: "crime-and-punishment", name: "Crime and Punishment", chapters: [0, 1, 2] },

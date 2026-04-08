@@ -28,7 +28,7 @@ interface PaintingCard {
 
 const ROW_1: PaintingCard[] = [
   { slug: "the-odyssey", title: "The Odyssey", author: "Homer", painting: "Ulysses and the Sirens", artist: "Waterhouse, 1891", cover: "/paintings/ulysses-and-the-sirens.jpg" },
-  { slug: "the-inferno", title: "Inferno", author: "Dante", painting: "The Barque of Dante", artist: "Delacroix, 1822", cover: "/paintings/barque-of-dante.jpg" },
+  { slug: "the-divine-comedy", title: "The Divine Comedy", author: "Dante", painting: "The Barque of Dante", artist: "Delacroix, 1822", cover: "/paintings/barque-of-dante.jpg" },
   { slug: "the-republic", title: "The Republic", author: "Plato", painting: "The School of Athens", artist: "Raphael, 1511", cover: "/paintings/school-of-athens.jpg" },
   { slug: "moby-dick", title: "Moby-Dick", author: "Herman Melville", painting: "Snow Storm — Steam-Boat", artist: "Turner, 1842", cover: "/paintings/moby-dick-turner.jpg" },
   { slug: "hamlet", title: "Hamlet", author: "Shakespeare", painting: "Ophelia", artist: "Millais, 1852", cover: "/paintings/ophelia.jpg" },
@@ -54,35 +54,18 @@ const ROW_2: PaintingCard[] = [
   { slug: "the-art-of-war", title: "The Art of War", author: "Sun Tzu", painting: "The Great Wave off Kanagawa", artist: "Hokusai, c.1831", cover: "/paintings/great-wave.jpg" },
 ]
 
-// ── Tradition Data ────────────────────────────────
-
-const TRADITIONS_FOR_PILLS = [
-  { name: "Ancient Greek", count: 42, color: "#0EA5E9" },
-  { name: "Roman", count: 31, color: "#EF4444" },
-  { name: "Medieval European", count: 38, color: "#F59E0B" },
-  { name: "Renaissance", count: 45, color: "#D97706" },
-  { name: "Enlightenment", count: 36, color: "#06B6D4" },
-  { name: "Romantic", count: 52, color: "#F43F5E" },
-  { name: "Victorian", count: 67, color: "#8B5CF6" },
-  { name: "Russian", count: 34, color: "#6366F1" },
-  { name: "American", count: 78, color: "#22C55E" },
-  { name: "French", count: 41, color: "#EC4899" },
-  { name: "Modernist", count: 56, color: "#14B8A6" },
-  { name: "Eastern", count: 29, color: "#F97316" },
-]
-
 // ── Landing Page ──────────────────────────────────
 
 export default function LandingPage() {
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen bg-[#111111] text-[#F0ECE6]">
       <LandingNav />
 
       {/* ── Hero ── */}
       <section className="relative h-screen w-full overflow-hidden">
         <Image
-          src="/paintings/barque-of-dante.jpg"
-          alt="The Barque of Dante by Eugène Delacroix"
+          src="/paintings/creation-of-adam.jpg"
+          alt="The Creation of Adam by Michelangelo, c.1512"
           fill
           priority
           className="object-cover object-center"
@@ -140,7 +123,7 @@ export default function LandingPage() {
             { icon: Bookmark, label: "Annotations & Bookmarks", desc: "Highlight passages, save notes, export your marginalia. Your reading journal, built in." },
           ].map((feat, i) => (
             <BlurFade key={feat.label} delay={0.05 + i * 0.04} inView>
-              <div className="rounded-lg bg-card border border-border p-5">
+              <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-5">
                 <feat.icon className="size-6 text-[#D4B37A] mb-3" />
                 <h3 className="font-semibold text-[#F0ECE6] text-sm">{feat.label}</h3>
                 <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">{feat.desc}</p>
@@ -151,11 +134,11 @@ export default function LandingPage() {
       </section>
 
       {/* ── Section 5: The Reader ── */}
-      <section className="bg-background py-24 px-6 md:px-12">
+      <section className="bg-[#111111] py-24 px-6 md:px-12">
         <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           {/* Mock Reader */}
           <BlurFade delay={0.1} inView>
-            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6">
+            <div className="bg-[#0D0D0D] rounded-xl border border-[#333333] p-6">
               {/* Progress bar */}
               <div className="w-full h-1 bg-[#222222] rounded-full mb-5">
                 <div className="h-1 bg-[#D4B37A] rounded-full" style={{ width: "30%" }} />
@@ -217,7 +200,7 @@ export default function LandingPage() {
 
           {/* Mock Quiz */}
           <BlurFade delay={0.1} inView>
-            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6 order-1 md:order-2">
+            <div className="bg-[#0D0D0D] rounded-xl border border-[#333333] p-6 order-1 md:order-2">
               <p className="font-serif text-[#F0ECE6] text-sm font-semibold mb-4">
                 Why does Odysseus blind the Cyclops instead of killing him?
               </p>
@@ -234,7 +217,7 @@ export default function LandingPage() {
                       "flex items-center gap-3 rounded-lg border px-4 py-2.5 text-sm",
                       opt.correct
                         ? "border-[#5A9A5A] bg-[#1A2E1A] text-[#6EAA6E]"
-                        : "border-border bg-[#222222] text-[#F0ECE6]"
+                        : "border-[#333333] bg-[#222222] text-[#F0ECE6]"
                     )}
                   >
                     <span className="font-semibold text-xs">{opt.letter}</span>
@@ -257,7 +240,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Section 7: The Journey ── */}
-      <section className="bg-background py-24 px-6 md:px-12">
+      <section className="bg-[#111111] py-24 px-6 md:px-12">
         <BlurFade delay={0.1} inView>
           <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-12">
             Reading becomes a ritual
@@ -266,7 +249,7 @@ export default function LandingPage() {
         <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6">
           {/* Wisdom (XP) */}
           <BlurFade delay={0.1} inView>
-            <div className="rounded-lg bg-card border border-border p-5 text-center">
+            <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-5 text-center">
               <Sparkles className="size-6 text-[#D4B37A] mx-auto mb-3" />
               <h4 className="font-semibold text-[#F0ECE6] text-sm">Wisdom (XP)</h4>
               <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Earn XP for correct answers and completed chapters. Level up from Reader to Sage.</p>
@@ -281,7 +264,7 @@ export default function LandingPage() {
 
           {/* Streaks */}
           <BlurFade delay={0.15} inView>
-            <div className="rounded-lg bg-card border border-border p-5 text-center">
+            <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-5 text-center">
               <Flame className="size-6 text-[#D4B37A] mx-auto mb-3" />
               <h4 className="font-semibold text-[#F0ECE6] text-sm">Streaks</h4>
               <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Read every day. Your streak grows. Miss a day — it resets.</p>
@@ -294,7 +277,7 @@ export default function LandingPage() {
 
           {/* Seals */}
           <BlurFade delay={0.2} inView>
-            <div className="rounded-lg bg-card border border-border p-5 text-center">
+            <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-5 text-center">
               <Shield className="size-6 text-[#D4B37A] mx-auto mb-3" />
               <h4 className="font-semibold text-[#F0ECE6] text-sm">Seals</h4>
               <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">21 achievement badges across 6 categories.</p>
@@ -309,7 +292,7 @@ export default function LandingPage() {
 
           {/* Coins & Shop */}
           <BlurFade delay={0.25} inView>
-            <div className="rounded-lg bg-card border border-border p-5 text-center">
+            <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-5 text-center">
               <Coins className="size-6 text-[#D4B37A] mx-auto mb-3" />
               <h4 className="font-semibold text-[#F0ECE6] text-sm">Coins &amp; Shop</h4>
               <p className="text-xs text-[#B0A898] mt-1 leading-relaxed">Earn coins by reading, quizzing, and streaking. Spend on power-ups.</p>
@@ -322,40 +305,8 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* ── Section 8: The World ── */}
-      <section className="bg-[#1A1A1A] py-24 px-6 md:px-12">
-        <BlurFade delay={0.1} inView>
-          <h2 className="font-serif text-2xl md:text-3xl font-bold text-center text-[#F0ECE6] mb-8">
-            Literature across 3,000 years and 12 traditions
-          </h2>
-        </BlurFade>
-        <BlurFade delay={0.2} inView>
-          <div className="mx-auto max-w-4xl rounded-lg border border-[#8B7A5440] overflow-hidden">
-            <Image src="/paintings/ortelius-map.jpg" alt="Typus Orbis Terrarum — Abraham Ortelius, 1570" width={1600} height={1100} className="w-full h-auto" unoptimized />
-          </div>
-        </BlurFade>
-        <div className="mt-8 overflow-x-auto pb-2">
-          <div className="flex items-center gap-2 max-w-4xl mx-auto px-1">
-            {TRADITIONS_FOR_PILLS.map((t) => (
-              <Link
-                key={t.name}
-                href={`/library?tradition=${encodeURIComponent(t.name)}`}
-                className="shrink-0 flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-medium transition-colors hover:opacity-80"
-                style={{
-                  backgroundColor: `${t.color}1F`,
-                  color: t.color,
-                }}
-              >
-                {t.name}
-                <span className="opacity-60">{t.count}</span>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* ── Section 9: The Classroom ── */}
-      <section className="bg-background py-24 px-6 md:px-12">
+      <section className="bg-[#111111] py-24 px-6 md:px-12">
         <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           {/* Callouts */}
           <div>
@@ -386,13 +337,13 @@ export default function LandingPage() {
 
           {/* Mock Classroom Card */}
           <BlurFade delay={0.1} inView>
-            <div className="bg-[#0D0D0D] rounded-xl border border-border p-6">
+            <div className="bg-[#0D0D0D] rounded-xl border border-[#333333] p-6">
               <div className="flex items-center justify-between mb-4">
                 <div>
                   <h3 className="font-serif text-[#F0ECE6] text-sm font-semibold">AP Literature — Period 3</h3>
                   <p className="text-xs text-[#787068] mt-0.5">Mrs. Holloway &middot; 28 students</p>
                 </div>
-                <div className="rounded-md bg-[#222222] border border-border px-3 py-1.5">
+                <div className="rounded-md bg-[#222222] border border-[#333333] px-3 py-1.5">
                   <p className="text-[10px] text-[#787068] uppercase tracking-wider">Join Code</p>
                   <p className="text-sm font-mono font-bold text-[#D4B37A]">TOME42</p>
                 </div>
@@ -446,7 +397,7 @@ export default function LandingPage() {
                 { icon: GitBranch, label: "Connections", desc: "Virgil draws parallels between books across traditions and centuries." },
               ].map((cap, i) => (
                 <BlurFade key={cap.label} delay={0.2 + i * 0.05} inView>
-                  <div className="rounded-lg bg-card border border-border p-4 flex gap-3 items-start">
+                  <div className="rounded-lg bg-[#1A1A1A] border border-[#333333] p-4 flex gap-3 items-start">
                     <cap.icon className="size-5 text-[#D4B37A] shrink-0 mt-0.5" />
                     <div>
                       <h4 className="font-semibold text-[#F0ECE6] text-sm">{cap.label}</h4>
@@ -475,7 +426,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Section 11: Stats Bar ── */}
-      <section className="bg-background py-24 px-6">
+      <section className="bg-[#111111] py-24 px-6">
         <BlurFade delay={0.1} inView>
           <div className="max-w-2xl mx-auto flex justify-center gap-16 md:gap-24">
             {[
@@ -493,7 +444,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Section 12: Final CTA ── */}
-      <section className="bg-background py-24 px-6 text-center">
+      <section className="bg-[#111111] py-24 px-6 text-center">
         <BlurFade delay={0.1} inView>
           <h2 className="font-serif text-3xl md:text-5xl font-bold text-[#F0ECE6] mb-6">
             Start reading tonight.
@@ -507,11 +458,11 @@ export default function LandingPage() {
       </section>
 
       {/* ── Section 13: Footer ── */}
-      <footer className="border-t border-border py-12 px-6 md:px-12">
+      <footer className="border-t border-[#333333] py-12 px-6 md:px-12">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-2">
             <BookOpen className="size-5 text-[#D4B37A]" />
-            <span className="font-serif font-bold text-[#F0ECE6] tracking-wide">TOME</span>
+            <span className="text-base font-semibold tracking-tight text-[#F0ECE6]">Tome</span>
           </div>
           <div className="flex items-center gap-6 text-xs text-[#787068]">
             <Link href="/library" className="hover:text-[#B0A898] transition-colors">Library</Link>
@@ -593,16 +544,16 @@ function LandingNav() {
     <nav
       className={cn(
         "fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 md:px-12 py-4 transition-all duration-300",
-        scrolled ? "bg-[#111111]/90 backdrop-blur-md border-b border-[#333333]" : "bg-transparent"
+        scrolled ? "bg-[#111111]/95 backdrop-blur-md border-b border-[#333333]" : "bg-gradient-to-b from-black/60 to-transparent"
       )}
     >
-      <Link href="/" className="flex items-center gap-2">
+      <Link href="/" className="flex items-center gap-2 drop-shadow-md">
         <BookOpen className="size-5 text-[#D4B37A]" />
-        <span className="font-serif font-bold text-[#F0ECE6] tracking-wide text-sm">TOME</span>
+        <span className="text-base font-bold tracking-tight text-[#F0ECE6] drop-shadow-md">Tome</span>
       </Link>
-      <div className="flex items-center gap-4">
-        <Link href="/dashboard" className="text-xs text-[#B0A898] hover:text-[#F0ECE6] transition-colors">Log in</Link>
-        <Link href="/onboarding" className="text-xs font-medium text-[#D4B37A] border border-[#D4B37A40] rounded-full px-4 py-1.5 hover:bg-[#D4B37A10] transition-colors">Get started</Link>
+      <div className="flex items-center gap-3">
+        <Link href="/dashboard" className="text-sm font-medium text-[#F0ECE6] hover:text-white transition-colors drop-shadow-md px-3 py-1.5 rounded-full hover:bg-white/10">Log in</Link>
+        <Link href="/onboarding" className="text-sm font-semibold text-[#111111] bg-[#D4B37A] rounded-full px-5 py-2 hover:bg-[#E0C48A] transition-colors shadow-md">Get started</Link>
       </div>
     </nav>
   )

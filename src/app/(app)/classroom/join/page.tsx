@@ -48,7 +48,7 @@ export default function JoinClassroom() {
             setError("")
           }}
           placeholder="XXXXXX"
-          className="w-full rounded-xl border border-border bg-muted px-4 py-4 text-center text-2xl font-mono uppercase tracking-[0.5em] outline-none focus:ring-2 focus:ring-indigo-200"
+          className="w-full rounded-xl border border-border bg-muted px-4 py-4 text-center text-2xl font-mono uppercase tracking-[0.5em] outline-none focus:ring-2 focus:ring-[#D4A04C]/30"
         />
 
         {error && (

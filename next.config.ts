@@ -5,6 +5,15 @@ const nextConfig: NextConfig = {
     root: __dirname,
   },
 
+  // Reduce file-watcher CPU by ignoring 27K static content files
+  webpack: (config) => {
+    config.watchOptions = {
+      ...config.watchOptions,
+      ignored: /node_modules|public\/content/,
+    };
+    return config;
+  },
+
   // Compress responses
   compress: true,
 

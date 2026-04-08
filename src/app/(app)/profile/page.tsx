@@ -166,9 +166,22 @@ function OrnamentalDivider({ color }: { color: string }) {
 export default function ProfilePage() {
   const [allProgress, setAllProgress]   = useState<ReturnType<typeof getAllBookProgress>>({})
   const [shelfTab,    setShelfTab]       = useState<"progress" | "completed">("progress")
-  const [settingMode, setSettingMode]    = useState<"guided" | "free">("guided")
-  const [settingGoal, setSettingGoal]    = useState(20)
-  const [settingTheme,setSettingTheme]   = useState("default")
+  const [settingMode, _setSettingMode]    = useState<"guided" | "free">(() => {
+    if (typeof window !== "undefined") return (localStorage.getItem("tome:setting-mode") as "guided" | "free") ?? "guided"
+    return "guided"
+  })
+  const [settingGoal, _setSettingGoal]    = useState(() => {
+    if (typeof window !== "undefined") return Number(localStorage.getItem("tome:setting-goal")) || 20
+    return 20
+  })
+  const [settingTheme, _setSettingTheme]   = useState(() => {
+    if (typeof window !== "undefined") return localStorage.getItem("tome:setting-theme") ?? "default"
+    return "default"
+  })
+
+  const setSettingMode = (v: "guided" | "free") => { _setSettingMode(v); localStorage.setItem("tome:setting-mode", v) }
+  const setSettingGoal = (v: number) => { _setSettingGoal(v); localStorage.setItem("tome:setting-goal", String(v)) }
+  const setSettingTheme = (v: string) => { _setSettingTheme(v); localStorage.setItem("tome:setting-theme", v) }
   const [shareOpen,   setShareOpen]      = useState(false)
   const [avatarCharacter, setAvatarCharacter] = useState<BookCharacter | null>(null)
   const [pickerOpen, setPickerOpen] = useState(false)
@@ -754,7 +767,7 @@ export default function ProfilePage() {
 
                 {/* User name */}
                 <p className="font-serif text-white text-2xl font-bold mb-1">Matthew</p>
-                <p className="text-indigo-300 text-sm mb-6">
+                <p className="text-[#D4A04C]/70 text-sm mb-6">
                   {levelInfo.current.title} · Level {levelInfo.current.level}
                 </p>
 
@@ -767,22 +780,22 @@ export default function ProfilePage() {
                     { label: "Chapters",value: `${totalChapters}`,              icon: Bookmark },
                   ].map(({ label, value, icon: Icon }) => (
                     <div key={label} className="rounded-xl bg-white/10 px-3 py-2.5">
-                      <Icon className="size-3.5 text-indigo-300 mb-1" />
+                      <Icon className="size-3.5 text-[#D4A04C]/70 mb-1" />
                       <p className="text-white text-sm font-bold">{value}</p>
-                      <p className="text-indigo-300 text-[10px]">{label}</p>
+                      <p className="text-[#D4A04C]/70 text-[10px]">{label}</p>
                     </div>
                   ))}
                 </div>
 
                 {/* Quote */}
-                <blockquote className="border-l-2 border-indigo-400/50 pl-4 mb-4">
-                  <p className="font-serif italic text-indigo-100 text-sm leading-relaxed">
+                <blockquote className="border-l-2 border-[#D4A04C]/40 pl-4 mb-4">
+                  <p className="font-serif italic text-white/85 text-sm leading-relaxed">
                     &ldquo;{quote.text}&rdquo;
                   </p>
-                  <cite className="text-indigo-300/70 text-[11px] not-italic">— {quote.author}</cite>
+                  <cite className="text-[#D4A04C]/50 text-[11px] not-italic">— {quote.author}</cite>
                 </blockquote>
 
-                <p className="text-indigo-400 text-[11px]">tome.app</p>
+                <p className="text-[#D4A04C]/60 text-[11px]">tome.app</p>
               </div>
             </div>
 
@@ -867,7 +880,7 @@ export default function ProfilePage() {
                       key={mode}
                       onClick={() => setSettingMode(mode)}
                       className={cn(
-                        "flex-1 rounded-lg border py-2.5 text-sm font-medium capitalize transition-colors",
+                        "flex-1 flex items-center justify-center gap-1.5 rounded-lg border py-2.5 text-sm font-medium capitalize transition-colors",
                         settingMode === mode
                           ? "border-[var(--tome-accent)] text-[var(--tome-accent)] bg-[var(--tome-accent)]/10"
                           : "border-border text-muted-foreground hover:border-muted-foreground"

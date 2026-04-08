@@ -563,7 +563,7 @@ const QUESTION_BANK: Record<string, Record<number, ChapterQuestion[]>> = {
     ],
   },
 
-  inferno: {
+  "divine comedy": {
     0: [
       {
         id: 'inferno-0-1',
@@ -1630,8 +1630,8 @@ export function getQuestionsForChapter(
     bankKey = 'iliad'
   } else if (title.includes('odyssey')) {
     bankKey = 'odyssey'
-  } else if (title.includes('inferno')) {
-    bankKey = 'inferno'
+  } else if (title.includes('divine comedy')) {
+    bankKey = 'divine comedy'
   } else if (title.includes('hamlet')) {
     bankKey = 'hamlet'
   } else if (title.includes('pride')) {

@@ -21,13 +21,14 @@ import Link from "next/link"
 import {
   BookOpen, Bookmark, BookmarkCheck, ChevronRight, Clock,
   Globe, Lock, Play, CheckCircle2, ArrowRight, Hash,
-  LayoutList, ChevronDown, ScrollText,
+  LayoutList, ChevronDown, Palette, ExternalLink,
 } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { Skeleton } from "@/components/ui/skeleton"
 import { getCoverParams } from "@/components/tome/book-cover"
 import { ClassicsCover } from "@/components/tome/ClassicsCover"
+import { getBookCoverArt } from "@/data/cover-art"
 import { BookCard, TRADITION_COLORS } from "@/components/tome/book-card"
 import { AuthorLink } from "@/components/tome/author-link"
 import { ReadingModeModal } from "@/components/tome/reading-mode-modal"
@@ -41,6 +42,7 @@ import type { TomeChapter } from "@/data/chapters"
 import type { Author } from "@/data/authors"
 import { cn } from "@/lib/utils"
 import { toggleFavorite as toggleShelfFavorite, isFavorite as isShelfFavorite } from "@/lib/shelves/store"
+import { BookRating } from "@/components/books/BookRating"
 
 // ── Constants ──────────────────────────────────
 
@@ -104,8 +106,8 @@ export default function BookDetailPage() {
   const [notFound,      setNotFound]      = useState(false)
 
   // ── UI state ──────────────────────────────────
-  const [showModeModal,    setShowModeModal]    = useState(false)
   const [showAllChapters,  setShowAllChapters]  = useState(false)
+  const [showModeModal,    setShowModeModal]    = useState(false)
   const [mounted,          setMounted]          = useState(false)
 
   // ── Load ──────────────────────────────────────
@@ -125,15 +127,16 @@ export default function BookDetailPage() {
 
   // ── Handlers ──────────────────────────────────
   function handleStartReading() {
-    if (progress) {
-      router.push(`/read/${bookId}`)
-    } else {
+    if (!progress) {
+      // First time — show mode/difficulty selection
       setShowModeModal(true)
+      return
     }
+    router.push(`/read/${bookId}`)
   }
 
-  function handleModeSelect(mode: "guided" | "free", difficulty?: import("@/lib/book-progress").QuizDifficulty) {
-    const newProgress = createBookProgress(bookId, mode, difficulty ?? "Apprentice")
+  function handleModeSelect(mode: 'guided' | 'free', difficulty?: import("@/lib/book-progress").QuizDifficulty) {
+    const newProgress = createBookProgress(bookId, mode, difficulty ?? 'Apprentice')
     saveBookProgress(newProgress)
     setProgress(newProgress)
     setShowModeModal(false)
@@ -178,12 +181,14 @@ export default function BookDetailPage() {
   const tradColor = TRADITION_COLORS[book.tradition] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca", dot: "#6366F1" }
   const diffColor = DIFFICULTY_COLORS[book.difficulty] ?? { bg: "rgba(99,102,241,0.14)", text: "#4338ca" }
   const coverParams = getCoverParams(book)
+  const coverArt = getBookCoverArt(bookId)
   const authorBio1 = author?.bio.split("\n\n")[0] ?? ""
   const authorInitials = author?.name.split(" ").map(w => w[0]).join("").slice(0, 2).toUpperCase() ?? "?"
   const visibleChapters = showAllChapters ? chapters : chapters.slice(0, INITIAL_CHAPTERS)
 
   return (
     <>
+      {/* Reading Mode / Difficulty Selection Modal */}
       <ReadingModeModal
         bookTitle={book.title}
         isOpen={showModeModal}
@@ -219,6 +224,7 @@ export default function BookDetailPage() {
                   title={book.title}
                   author={book.author}
                   tradition={book.tradition}
+                  artImageUrl={coverArt?.localPath ?? coverArt?.imageUrl}
                   fallbackColors={book.coverColors}
                   showTomeWordmark
                   priority
@@ -286,6 +292,9 @@ export default function BookDetailPage() {
                   )}
                 </div>
 
+                {/* Rating */}
+                <BookRating bookId={book.id} className="mt-3" />
+
                 {/* Progress bar (if reading) */}
                 {progress && progressPct > 0 && (
                   <div className="mt-3 w-full max-w-[260px]">
@@ -314,13 +323,6 @@ export default function BookDetailPage() {
                     {progress ? <Play className="size-3.5 fill-current" /> : <BookOpen className="size-3.5" />}
                     {ctaLabel}
                   </button>
-                  <Link
-                    href={`/read/scroll/${bookId}`}
-                    className="flex items-center gap-1.5 h-9 px-3 rounded-full border border-border text-xs font-semibold text-muted-foreground hover:text-foreground hover:border-foreground/30 transition-colors"
-                  >
-                    <ScrollText className="size-3.5" />
-                    Read Full Text
-                  </Link>
                   <button
                     onClick={toggleBookmark}
                     aria-label={isBookmarked ? "Remove bookmark" : "Add to shelf"}
@@ -356,6 +358,42 @@ export default function BookDetailPage() {
             </section>
           </BlurFade>
 
+          {/* ── Cover Art Credit ── */}
+          {coverArt && (
+            <BlurFade delay={0.115} inView>
+              <section>
+                <div className="flex items-start gap-3 px-4 py-3 rounded-xl border border-border/60 bg-card/50">
+                  <Palette className="size-3.5 shrink-0 text-muted-foreground/60 mt-0.5" />
+                  <div className="min-w-0 flex-1">
+                    <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/70 mb-0.5">
+                      Cover Artwork
+                    </p>
+                    <p className="text-xs text-foreground/80 leading-relaxed">
+                      <span className="font-medium">{coverArt.title}</span>
+                      {coverArt.artist && coverArt.artist !== "Unknown" && (
+                        <> &mdash; {coverArt.artist}</>
+                      )}
+                      {coverArt.date && <>, {coverArt.date}</>}
+                    </p>
+                    <div className="flex items-center gap-2 mt-1">
+                      <p className="text-[10px] text-muted-foreground/60 flex-1 truncate">
+                        {coverArt.creditLine}
+                      </p>
+                      <a
+                        href={coverArt.objectUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="shrink-0 flex items-center gap-1 text-[10px] text-[var(--tome-accent)] hover:underline"
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        View <ExternalLink className="size-2.5" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </BlurFade>
+          )}
 
           {/* ── Themes ── */}
           {book.themes.length > 0 && (
@@ -532,13 +570,6 @@ export default function BookDetailPage() {
           {progress ? <Play className="size-4 fill-current" /> : <BookOpen className="size-4" />}
           {ctaLabel}
         </button>
-        <Link
-          href={`/read/scroll/${bookId}`}
-          aria-label="Read full text"
-          className="size-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-foreground transition-colors"
-        >
-          <ScrollText className="size-4" />
-        </Link>
         <button
           onClick={toggleBookmark}
           aria-label={isBookmarked ? "Remove bookmark" : "Bookmark"}

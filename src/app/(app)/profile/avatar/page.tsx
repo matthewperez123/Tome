@@ -380,7 +380,7 @@ export default function AvatarPage() {
                 </div>
                 <div className="h-2 bg-muted rounded-full overflow-hidden">
                   <div
-                    className="h-full rounded-full bg-indigo-500 transition-all duration-700"
+                    className="h-full rounded-full bg-[#D4A04C] transition-all duration-700"
                     style={{ width: `${progress.percentage}%` }}
                   />
                 </div>
@@ -433,7 +433,7 @@ export default function AvatarPage() {
                         <span className="text-xs text-muted-foreground w-28 shrink-0 truncate">{tradition}</span>
                         <div className="flex-1 h-1.5 bg-muted rounded-full overflow-hidden">
                           <div
-                            className="h-full rounded-full bg-indigo-400 transition-all duration-500"
+                            className="h-full rounded-full bg-[#D4A04C]/80 transition-all duration-500"
                             style={{ width: `${Math.round((stat.unlocked / stat.total) * 100)}%` }}
                           />
                         </div>
