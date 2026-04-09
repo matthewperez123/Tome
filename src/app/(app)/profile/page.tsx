@@ -12,10 +12,11 @@ import { VirgilReflection } from "@/components/tome/virgil-reflection"
 import { getAllBookProgress } from "@/lib/book-progress"
 import { getBooks } from "@/lib/content"
 import { TRADITION_COLORS } from "@/components/tome/book-card"
-import { BookCover, getCoverParams } from "@/components/tome/book-cover"
+import { ClassicsCover } from "@/components/tome/ClassicsCover"
 import { AuthorLink } from "@/components/tome/author-link"
 import { BlurFade } from "@/components/ui/blur-fade"
 import { cn } from "@/lib/utils"
+import { useTheme } from "next-themes"
 import { UserAvatar } from "@/components/tome/avatar/UserAvatar"
 import { getCurrentAvatar, getSelectedCharacterId } from "@/lib/avatar-state"
 import type { BookCharacter } from "@/data/character-avatars"
@@ -174,14 +175,12 @@ export default function ProfilePage() {
     if (typeof window !== "undefined") return Number(localStorage.getItem("tome:setting-goal")) || 20
     return 20
   })
-  const [settingTheme, _setSettingTheme]   = useState(() => {
-    if (typeof window !== "undefined") return localStorage.getItem("tome:setting-theme") ?? "default"
-    return "default"
-  })
+  const { theme: globalTheme, setTheme: setGlobalTheme } = useTheme()
+  const settingTheme = globalTheme === "dark" ? "night" : "default"
 
   const setSettingMode = (v: "guided" | "free") => { _setSettingMode(v); localStorage.setItem("tome:setting-mode", v) }
   const setSettingGoal = (v: number) => { _setSettingGoal(v); localStorage.setItem("tome:setting-goal", String(v)) }
-  const setSettingTheme = (v: string) => { _setSettingTheme(v); localStorage.setItem("tome:setting-theme", v) }
+  const setSettingTheme = (v: string) => { setGlobalTheme(v === "night" ? "dark" : "light") }
   const [shareOpen,   setShareOpen]      = useState(false)
   const [avatarCharacter, setAvatarCharacter] = useState<BookCharacter | null>(null)
   const [pickerOpen, setPickerOpen] = useState(false)
@@ -628,15 +627,19 @@ export default function ProfilePage() {
             {shelfTab === "progress" && (
               <div className="flex gap-3 overflow-x-auto pb-3 -mx-1 px-1 snap-x snap-mandatory">
                 {shelfInProgress.map(({ book, pct, lastRead }) => {
-                  const coverParams  = getCoverParams(book)
                   const tradColor    = TRADITION_COLORS[book.tradition]
                   return (
                     <div key={book.id} className="shrink-0 snap-start w-32">
                       <Link href={`/book/${book.id}`} className="group block">
                         <div className="relative rounded-lg overflow-hidden shadow-sm group-hover:shadow-md transition-shadow mb-2">
-                          <BookCover
-                            {...coverParams}
-                            className="w-full aspect-[2/3]"
+                          <ClassicsCover
+                            bookId={book.id}
+                            title={book.title}
+                            author={book.author}
+                            tradition={book.tradition}
+                            fallbackColors={book.coverColors}
+                            showTomeWordmark={false}
+                            className="w-full rounded-none"
                           />
                           {/* Progress overlay */}
                           <div
@@ -672,14 +675,18 @@ export default function ProfilePage() {
             {shelfTab === "completed" && (
               <div className="flex gap-3 overflow-x-auto pb-3 -mx-1 px-1 snap-x snap-mandatory">
                 {shelfCompleted.map(({ book, completedOn }) => {
-                  const coverParams = getCoverParams(book)
                   return (
                     <div key={book.id} className="shrink-0 snap-start w-32">
                       <Link href={`/book/${book.id}`} className="group block">
                         <div className="relative rounded-lg overflow-hidden shadow-sm mb-2">
-                          <BookCover
-                            {...coverParams}
-                            className="w-full aspect-[2/3]"
+                          <ClassicsCover
+                            bookId={book.id}
+                            title={book.title}
+                            author={book.author}
+                            tradition={book.tradition}
+                            fallbackColors={book.coverColors}
+                            showTomeWordmark={false}
+                            className="w-full rounded-none"
                           />
                           {/* Checkmark overlay */}
                           <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
@@ -819,13 +826,6 @@ export default function ProfilePage() {
                 {shareOpen ? <Check className="size-4" /> : <Share2 className="size-4" />}
                 {shareOpen ? "Copied!" : "Copy Link"}
               </button>
-              <button
-                className="flex items-center gap-2 rounded-full border border-border px-4 py-2 text-sm font-medium hover:bg-muted transition-colors"
-                title="Download coming soon"
-              >
-                <Target className="size-4" />
-                Download
-              </button>
             </div>
           </section>
         </BlurFade>
@@ -898,7 +898,6 @@ export default function ProfilePage() {
                 <div className="flex gap-2">
                   {[
                     { label: "Default",       val: "default",  swatch: "#ffffff" },
-                    { label: "Parchment",     val: "parchment",swatch: "#fef3c7" },
                     { label: "Night Scholar", val: "night",    swatch: "#111827" },
                   ].map(({ label, val, swatch }) => (
                     <button

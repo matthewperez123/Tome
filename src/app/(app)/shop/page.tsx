@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import {
   ShieldCheck, Heart, Zap, RefreshCw,
-  Moon, Scroll, BookMarked, Contrast,
+  Moon, BookMarked, Contrast,
   Shirt, Crown, Star, BookOpen,
   ChevronDown, ChevronUp, Check, AlertCircle,
   Coins, Palette, ScrollText,
@@ -89,17 +89,6 @@ const SHOP_ITEMS: ShopItem[] = [
     icon: Moon,
     color: "#A78BFA",
     accent: "rgba(167,139,250,0.10)",
-  },
-  {
-    id: "theme-parchment",
-    category: "themes",
-    name: "Parchment",
-    description: "Aged paper texture for an antique, book-like feel.",
-    price: 50,
-    icon: Scroll,
-    color: "#F59E0B",
-    accent: "rgba(245,158,11,0.10)",
-    badge: "Popular",
   },
   {
     id: "theme-manuscript",

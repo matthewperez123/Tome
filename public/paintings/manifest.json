@@ -25,5 +25,7 @@
   { "id": "slave-ship", "filename": "slave-ship.jpg", "src": "/paintings/slave-ship.jpg", "title": "The Slave Ship", "artist": "J.M.W. Turner", "year": "1840", "focalPoint": "center" },
   { "id": "washington-crossing", "filename": "washington-crossing.jpg", "src": "/paintings/washington-crossing.jpg", "title": "Washington Crossing the Delaware", "artist": "Emanuel Leutze", "year": "1851", "focalPoint": "center" },
   { "id": "rembrandt-self-portrait", "filename": "rembrandt-self-portrait.jpg", "src": "/paintings/rembrandt-self-portrait.jpg", "title": "Self-Portrait with Two Circles", "artist": "Rembrandt van Rijn", "year": "c.1665", "focalPoint": "top" },
-  { "id": "ortelius-map", "filename": "ortelius-map.jpg", "src": "/paintings/ortelius-map.jpg", "title": "Typus Orbis Terrarum", "artist": "Abraham Ortelius", "year": "1570", "focalPoint": "center" }
+  { "id": "ortelius-map", "filename": "ortelius-map.jpg", "src": "/paintings/ortelius-map.jpg", "title": "Typus Orbis Terrarum", "artist": "Abraham Ortelius", "year": "1570", "focalPoint": "center" },
+  { "id": "pandemonium", "filename": "pandemonium.jpg", "src": "/paintings/pandemonium.jpg", "title": "Pandemonium", "artist": "John Martin", "year": "1841", "focalPoint": "center" },
+  { "id": "destruction-course-of-empire", "filename": "destruction-course-of-empire.jpg", "src": "/paintings/destruction-course-of-empire.jpg", "title": "Destruction (The Course of Empire)", "artist": "Thomas Cole", "year": "1836", "focalPoint": "center" }
 ]
