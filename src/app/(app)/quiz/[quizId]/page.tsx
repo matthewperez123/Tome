@@ -403,10 +403,11 @@ export default function QuizPage() {
           </div>
         </div>
 
-        {/* Progress Bar */}
-        <div className="h-2 w-full rounded-full bg-muted overflow-hidden mb-8">
+        {/* Progress Bar — Quiz owns the Quizzes / vermilion accent */}
+        <div className="depth-track h-2 w-full mb-8" style={{ ["--accent" as string]: "var(--flame-streak)" }}>
           <motion.div
-            className="h-full rounded-full bg-[var(--tome-amber)]"
+            className="depth-fill"
+            style={{ ["--accent" as string]: "var(--flame-streak)" }}
             animate={{ width: `${progress}%` }}
             transition={springs.gentle}
           />
@@ -421,7 +422,7 @@ export default function QuizPage() {
             exit={{ opacity: 0, x: -20 }}
             transition={springs.interactive}
           >
-            <p className="text-[10px] font-medium text-muted-foreground uppercase tracking-wider mb-2">
+            <p className="chip-accent mb-2 text-[10px] font-semibold uppercase tracking-wider" style={{ ["--accent" as string]: "var(--flame-streak)" }}>
               {question.type.replace("_", " ")}
             </p>
 
@@ -550,11 +551,11 @@ function OptionCard({
       variants={shakeVariants}
       transition={springs.interactive}
       className={cn(
-        "flex items-center gap-3 rounded-xl border p-3.5 text-left text-sm transition-colors",
+        "flex items-center gap-3 rounded-xl border p-3.5 text-left text-sm transition-all",
         result === "correct" && "border-[var(--tome-success)] bg-[var(--tome-success)]/5",
         result === "wrong" && selected && "border-[var(--tome-error)] bg-[var(--tome-error)]/5",
-        !result && selected && "border-[var(--tome-accent)] bg-[var(--tome-accent)]/5",
-        !result && !selected && "border-border hover:border-foreground/20",
+        !result && selected && "border-[var(--flame-streak)] bg-[color-mix(in_srgb,var(--flame-streak)_6%,transparent)]",
+        !result && !selected && "border-border hover:border-[color-mix(in_srgb,var(--flame-streak)_45%,var(--border))] hover:-translate-y-px",
         disabled && !result && "opacity-50"
       )}
     >
@@ -563,7 +564,8 @@ function OptionCard({
           "flex size-7 shrink-0 items-center justify-center rounded-lg text-xs font-semibold transition-colors",
           result === "correct" && "bg-[var(--tome-success)] text-white",
           result === "wrong" && selected && "bg-[var(--tome-error)] text-white",
-          !result && "bg-muted text-muted-foreground"
+          !result && selected && "bg-[var(--flame-streak)] text-white",
+          !result && !selected && "bg-muted text-muted-foreground"
         )}
       >
         {result === "correct" ? <Check className="size-3.5" /> : result === "wrong" && selected ? <X className="size-3.5" /> : letters[index] ?? index + 1}
@@ -600,7 +602,7 @@ function FreeTextInput({
         placeholder="Type your answer…"
         className={cn(
           "flex-1 rounded-xl border bg-[var(--tome-surface-recessed)] px-4 py-3 text-sm outline-none transition-colors",
-          "focus:border-[var(--tome-accent)]",
+          "focus:border-[var(--flame-streak)]",
           result === "correct" && "border-[var(--tome-success)]",
           result === "wrong" && "border-[var(--tome-error)]",
           !result && "border-border"

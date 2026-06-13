@@ -6,6 +6,7 @@
  */
 
 import { createBrowserClient } from "@supabase/ssr"
+import type { SupabaseClient } from "@supabase/supabase-js"
 
 // Build-time-safe placeholders so static prerender doesn't throw when
 // env vars are not in scope (e.g. preview build without Vercel env).
@@ -15,6 +16,9 @@ const SUPABASE_URL =
 const SUPABASE_ANON_KEY =
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder-anon-key"
 
+let browserClient: SupabaseClient | null = null
+
 export function createClient() {
-  return createBrowserClient(SUPABASE_URL, SUPABASE_ANON_KEY)
+  browserClient ??= createBrowserClient(SUPABASE_URL, SUPABASE_ANON_KEY)
+  return browserClient
 }

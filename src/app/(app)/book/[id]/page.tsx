@@ -299,10 +299,8 @@ export default function BookDetailPage() {
                 <div className="hidden sm:flex items-center gap-2 mt-4">
                   <button
                     onClick={handleStartReading}
-                    className={cn(
-                      "flex items-center gap-2 h-9 px-4 rounded-full text-xs font-semibold",
-                      "bg-foreground text-background hover:opacity-90 transition-opacity",
-                    )}
+                    className="tactile-btn h-9 px-4 text-xs"
+                    style={{ ["--accent" as string]: "var(--blue-default)" }}
                   >
                     {progress ? <Play className="size-3.5 fill-current" /> : <BookOpen className="size-3.5" />}
                     {ctaLabel}
@@ -509,7 +507,7 @@ export default function BookDetailPage() {
             <section>
               <div className="flex items-center justify-between mb-3">
                 <h2 className="text-xs font-semibold uppercase tracking-widest text-muted-foreground flex items-center gap-2">
-                  <LayoutList className="size-4" />
+                  <LayoutList className="size-4" style={{ color: "var(--indigo-default)" }} />
                   {getUnitLabel(book.structuralUnitType ?? 'chapter', true)}
                   <span className="font-normal normal-case tracking-normal">({chapters.length})</span>
                 </h2>
@@ -611,7 +609,8 @@ export default function BookDetailPage() {
       <div className="fixed inset-x-0 sm:hidden z-40 bottom-14 min-[480px]:bottom-0 border-t border-border bg-background/95 backdrop-blur-sm px-4 py-3 flex items-center gap-2">
         <button
           onClick={handleStartReading}
-          className="flex-1 flex items-center justify-center gap-2 h-10 rounded-full bg-foreground text-background text-sm font-semibold"
+          className="tactile-btn flex-1 h-10 text-sm"
+          style={{ ["--accent" as string]: "var(--blue-default)" }}
         >
           {progress ? <Play className="size-4 fill-current" /> : <BookOpen className="size-4" />}
           {ctaLabel}

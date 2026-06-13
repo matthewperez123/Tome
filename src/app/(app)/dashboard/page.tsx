@@ -110,8 +110,6 @@ const CHALLENGES = [
 
 // Days since epoch → use for seeding; demo: Mon ✓, Tue ✓, Wed ✓, Thu = today, Fri-Sun future
 const WEEK_DAYS  = ["M", "T", "W", "T", "F", "S", "S"]
-const TODAY_DOW  = new Date().getDay() // 0=Sun; convert to 0=Mon
-const DOW_MON    = TODAY_DOW === 0 ? 6 : TODAY_DOW - 1 // 0=Mon…6=Sun
 
 // ─────────────────────────────────────────────
 // Recent activity seed
@@ -129,20 +127,20 @@ const RECENT_ACTIVITY = [
 // Helpers
 // ─────────────────────────────────────────────
 
-function greeting(): string {
-  const h = new Date().getHours()
+function greeting(date: Date): string {
+  const h = date.getHours()
   if (h < 12) return "Good morning"
   if (h < 17) return "Good afternoon"
   return "Good evening"
 }
 
-function todayKey(): string {
-  const d = new Date()
+function todayKey(date = new Date()): string {
+  const d = date
   return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`
 }
 
-function dayOfYear(): number {
-  const now  = new Date()
+function dayOfYear(date: Date): number {
+  const now  = date
   const start = new Date(now.getFullYear(), 0, 0)
   return Math.floor((now.getTime() - start.getTime()) / 86_400_000)
 }
@@ -201,6 +199,8 @@ function StudentDashboard() {
   const [challengeAnswer,  setChallengeAnswer]  = useState<number | null>(null)
   const [challengeDone,    setChallengeDone]    = useState(false)
   const [allProgress,      setAllProgress]      = useState<ReturnType<typeof getAllBookProgress>>({})
+  const [clientDate, setClientDate] = useState(() => new Date(2026, 0, 1, 12))
+  const [dateReady, setDateReady] = useState(false)
 
   const allBooks      = useMemo(() => getBooks(), [])
   const featuredBooks = useMemo(() => getFeaturedBooks().slice(0, 6), [])
@@ -210,18 +210,24 @@ function StudentDashboard() {
     const prog = getAllBookProgress()
     setAllProgress(prog)
 
-    const key = `tome-challenge-done-${todayKey()}`
+    const now = new Date()
+    setClientDate(now)
+    setDateReady(true)
+
+    const key = `tome-challenge-done-${todayKey(now)}`
     if (localStorage.getItem(key)) setChallengeDone(true)
   }, [])
 
   // Today's challenge (rotates by day-of-year)
-  const challenge = CHALLENGES[dayOfYear() % CHALLENGES.length]
+  const challenge = CHALLENGES[dayOfYear(clientDate) % CHALLENGES.length]
+  const todayDow = clientDate.getDay()
+  const dowMon = todayDow === 0 ? 6 : todayDow - 1 // 0=Mon…6=Sun
 
   function handleChallengeAnswer(idx: number) {
     if (challengeDone || challengeAnswer !== null) return
     setChallengeAnswer(idx)
     if (idx === challenge.correct) {
-      const key = `tome-challenge-done-${todayKey()}`
+      const key = `tome-challenge-done-${todayKey(new Date())}`
       localStorage.setItem(key, "1")
       setTimeout(() => setChallengeDone(true), 1200)
     }
@@ -292,10 +298,12 @@ function StudentDashboard() {
           <div className="flex items-start justify-between gap-4">
             <div>
               <h1 className="font-serif text-2xl font-bold tracking-tight">
-                {greeting()}, Reader
+                {greeting(clientDate)}, Reader
               </h1>
               <p className="text-sm text-muted-foreground mt-0.5">
-                {new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}
+                {dateReady
+                  ? clientDate.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })
+                  : "Today"}
               </p>
             </div>
             <div className="shrink-0 text-right">
@@ -354,22 +362,23 @@ function StudentDashboard() {
         {/* ── 2. Daily Challenge (MCQ) ── */}
         <BlurFade delay={0.10} inView>
           <div
-            className="relative rounded-2xl overflow-hidden border"
+            className="tactile-card relative overflow-hidden"
             style={{
+              // Daily Challenge owns the reward / gold-leaf accent.
+              ["--accent" as string]: "var(--gold-default)",
               background: challengeDone
-                ? "linear-gradient(135deg, rgba(34,197,94,0.08) 0%, transparent 100%)"
-                : "linear-gradient(135deg, rgba(99,102,241,0.10) 0%, rgba(99,102,241,0.04) 100%)",
-              borderColor: challengeDone ? "rgba(34,197,94,0.3)" : "rgba(99,102,241,0.25)",
+                ? "linear-gradient(135deg, color-mix(in srgb, var(--green-default) 10%, transparent) 0%, transparent 100%)"
+                : "linear-gradient(135deg, var(--gold-muted) 0%, transparent 100%)",
             }}
           >
-            {!challengeDone && <BorderBeam size={80} duration={12} colorFrom="#6366F1" colorTo="#A78BFA" />}
+            {!challengeDone && <BorderBeam size={80} duration={12} colorFrom="#B8924A" colorTo="#D8B45C" />}
 
             <div className="p-5">
               {/* Header */}
               <div className="flex items-center justify-between mb-4">
                 <div className="flex items-center gap-2">
-                  <div className="size-7 rounded-lg bg-[#6366F1]/15 flex items-center justify-center">
-                    <Zap className="size-4 text-[#6366F1]" />
+                  <div className="size-7 rounded-lg flex items-center justify-center" style={{ background: "color-mix(in srgb, var(--gold-default) 16%, transparent)" }}>
+                    <Zap className="size-4" style={{ color: "var(--gold-default)" }} />
                   </div>
                   <div>
                     <h2 className="text-sm font-bold leading-none">Daily Challenge</h2>
@@ -377,10 +386,9 @@ function StudentDashboard() {
                   </div>
                 </div>
                 <span
-                  className="text-[10px] font-bold px-2 py-1 rounded-full"
+                  className="chip-accent text-[10px] font-bold px-2 py-1"
                   style={{
-                    background: challengeDone ? "rgba(34,197,94,0.15)" : "rgba(245,158,11,0.15)",
-                    color: challengeDone ? "#16a34a" : "#b45309",
+                    ["--accent" as string]: challengeDone ? "var(--green-default)" : "var(--gold-default)",
                   }}
                 >
                   {challengeDone ? <><Check className="size-3 inline" /> Done</> : `+${challenge.xp} Wisdom`}
@@ -388,12 +396,12 @@ function StudentDashboard() {
               </div>
 
               {challengeDone ? (
-                <div className="flex items-center gap-3 py-2">
-                  <div className="size-10 rounded-full bg-emerald-500/15 flex items-center justify-center">
-                    <Check className="size-5 text-emerald-500" />
+                <div className="accent-bloom relative flex items-center gap-3 py-2" style={{ ["--accent" as string]: "var(--gold-default)" }}>
+                  <div className="seal-stamp relative z-10 size-10" style={{ ["--accent" as string]: "var(--gold-default)" }}>
+                    <Check className="size-5" />
                   </div>
-                  <div>
-                    <p className="text-sm font-semibold text-emerald-700">+{challenge.xp} Wisdom earned</p>
+                  <div className="relative z-10">
+                    <p className="text-sm font-semibold" style={{ color: "var(--trial-correct-text)" }}>+{challenge.xp} Wisdom earned</p>
                     <p className="text-xs text-muted-foreground">Come back tomorrow for a new challenge.</p>
                   </div>
                 </div>
@@ -415,11 +423,11 @@ function StudentDashboard() {
                           className={cn(
                             "text-left rounded-xl border px-3.5 py-2.5 text-sm font-medium transition-all duration-200",
                             !answered
-                              ? "border-border hover:border-[#6366F1] hover:bg-[#6366F1]/5 cursor-pointer"
+                              ? "border-border hover:border-[var(--gold-default)] hover:bg-[color-mix(in_srgb,var(--gold-default)_7%,transparent)] hover:-translate-y-px cursor-pointer"
                               : isCorrect
-                              ? "border-emerald-500 bg-emerald-50 text-emerald-700"
+                              ? "border-[var(--trial-correct)] bg-[var(--trial-correct-soft)] text-[var(--trial-correct-text)]"
                               : isSelected
-                              ? "border-rose-400 bg-rose-50 text-rose-700"
+                              ? "border-[var(--trial-incorrect)] bg-[var(--trial-incorrect-soft)] text-[var(--trial-incorrect-text)]"
                               : "border-border opacity-50 cursor-not-allowed"
                           )}
                         >
@@ -428,7 +436,7 @@ function StudentDashboard() {
                           </span>
                           {opt}
                           {answered && isCorrect && (
-                            <Check className="inline-block size-3.5 ml-1.5 text-emerald-500" />
+                            <Check className="inline-block size-3.5 ml-1.5 text-[var(--trial-correct)]" />
                           )}
                         </button>
                       )
@@ -541,9 +549,9 @@ function StudentDashboard() {
             {/* Day-by-day tracker */}
             <div className="flex gap-1.5">
               {WEEK_DAYS.map((label, i) => {
-                const isPast    = i < DOW_MON
-                const isToday   = i === DOW_MON
-                const isFuture  = i > DOW_MON
+                const isPast    = i < dowMon
+                const isToday   = i === dowMon
+                const isFuture  = i > dowMon
                 const isDone    = i <= 2 // Mon, Tue, Wed done in demo
                 const isMissed  = isPast && !isDone
 
@@ -856,7 +864,7 @@ function StudentDashboard() {
                 Virgil&rsquo;s Tip
               </p>
               <p className="text-sm leading-relaxed text-foreground/80 font-serif italic">
-                &ldquo;{getTipOfTheDay()}&rdquo;
+                &ldquo;{getTipOfTheDay(clientDate)}&rdquo;
               </p>
             </div>
           </div>
@@ -866,4 +874,3 @@ function StudentDashboard() {
     </div>
   )
 }
-
