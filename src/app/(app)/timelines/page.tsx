@@ -160,9 +160,14 @@ export default function TimelinesPage() {
   if (!mounted) return <TimelineSkeleton />
 
   return (
-    <div className="space-y-6 px-4 py-6 sm:px-6">
-      {/* Header */}
-      <div>
+    <div className="space-y-6 px-4 py-6 sm:px-6" style={{ ["--accent" as string]: "var(--indigo-default)" }}>
+      {/* Header — Timeline owns the Catalogue / tyrian accent (chrome only) */}
+      <div className="relative pl-3">
+        <span
+          aria-hidden
+          className="absolute left-0 top-1 bottom-1 w-1 rounded-full"
+          style={{ background: "var(--indigo-default)" }}
+        />
         <h1 className="font-[var(--font-display)] text-3xl font-bold text-foreground">
           Timelines
         </h1>
@@ -182,17 +187,18 @@ export default function TimelinesPage() {
             {/* Region header — Level 1 toggle */}
             <button
               onClick={() => toggleRegion(region)}
-              className="flex items-center gap-2 w-full text-left group mb-2"
+              className="flex items-center gap-2 w-full text-left group mb-2 rounded-lg px-2 py-1 -mx-2 transition-colors hover:bg-[color-mix(in_srgb,var(--indigo-default)_7%,transparent)]"
             >
               <ChevronRight
-                className={`size-4 text-muted-foreground transition-transform duration-200 ${
+                className={`size-4 transition-transform duration-200 ${
                   regionExpanded ? "rotate-90" : ""
                 }`}
+                style={{ color: "var(--indigo-default)" }}
               />
               <h2 className="font-[var(--font-display)] text-xl font-bold text-foreground">
                 {region}
               </h2>
-              <span className="text-xs text-muted-foreground ml-1">
+              <span className="chip-accent ml-1 text-[10px]" style={{ ["--accent" as string]: "var(--indigo-default)" }}>
                 {timelines.length}{" "}
                 {timelines.length === 1 ? "tradition" : "traditions"}
               </span>

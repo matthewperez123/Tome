@@ -534,3 +534,105 @@ Pushed to `github/tome-beta-demo` cleanly (fast-forward).
   `tome-beta-demo` link is preserved as `.vercel/project.json.tome-beta-demo`
   in case you want to re-link.
 
+
+## Codex × Duolingo × Brilliant design port (2026-06-13)
+
+Visual + interaction-pattern port of four surfaces. Logic, routes, props,
+data wiring, gamification math: UNTOUCHED. "Borrow the form, keep the
+identity" — depth/shading/radii/motion/anatomy from Codex/Duo/Brilliant;
+all hues/typefaces/vellum ground stay RUBRIC. No Codex purple (#6C63FF),
+no Duo green, no Brilliant navy painted onto Tome.
+
+### RUBRIC accent roles → real Tome hexes (from src/styles/globals.css)
+
+Per-surface ownership. Correctness stays universally green/red regardless.
+
+| Surface         | RUBRIC role        | Token(s) used                         | Light hex            |
+| --------------- | ------------------ | ------------------------------------- | -------------------- |
+| Timeline        | Catalogue / tyrian | --indigo-default (+ --trial-adept)    | #6366F1 / #4338CA    |
+| Quiz            | Quizzes / vermilion| --flame-streak                        | #D14820 (#E8734A dk) |
+| Daily Challenge | reward / gold-leaf | --gold-default (+ --gold-muted)       | #B8924A / #F2EAD0    |
+| Book Details    | Reader / lapis CTA | --blue-default (CTA)                  | #2E75B6 (#6E9AC8 dk) |
+| Book Details    | Catalogue / tyrian | --indigo-default (chrome)             | #6366F1              |
+| correctness     | correct / incorrect| --trial-correct / --trial-incorrect   | #2D9A47 / #C84A52    |
+
+Note: vermilion (#D14820, orange-leaning) is only used for quiz CHROME
+(progress fill, headers, pre-answer selection ring). Once a question is
+answered, option state flips to trial-correct(green)/trial-incorrect(red)
+so it never reads as "wrong". Iridescence stays Virgil-only. Fonts:
+Fraunces(display)/Literata(serif reading)/Switzer(sans UI) via existing
+--font-display/serif/sans — unchanged.
+
+### Codex form-token inventory (from /Users/matthewperez/codex/Codex)
+
+- Radii: 6/10/14/20px + full (Codex). Tome already has --radius-sm…4xl;
+  reuse Tome's, no new radius scale.
+- Shadows: Codex --shadow-xs…xl + --shadow-glow (0 0 20px). Port the
+  *recipe* (soft ambient + tight contact) recolored to Tome accents.
+- Button depth (Codex Button.tsx): NOT a hard pressed-edge — it's a
+  lift recipe: hover -translate-y-px + shadow, active translate-y-0 +
+  shadow-xs, + ripple. Duolingo pressed-edge (colored face + darker
+  bottom border that collapses on :active) is the prompt's spec, built
+  fresh here as `.tactile-btn` (no Codex source had it literally).
+- Motion: ease-out cubic-bezier(0.16,1,0.3,1), ease-bounce
+  cubic-bezier(0.34,1.56,0.64,1), durations 150/250/400/500. Tome has
+  --tome-ease-out-expo (same curve) + springs {interactive 300/25,
+  gentle 120/20}. Reuse Tome's.
+
+### Shared primitives built (Part 0D) — namespaced `--codex-*` / `.tactile-*`
+
+Added to src/styles/globals.css (appended after @layer base). All accept a
+`--accent` CSS var so each surface recolors one primitive set:
+- `.tactile-btn` — pressed-edge 3D button (face + darker bottom edge,
+  collapses 2px on :active). reduced-motion: no translate.
+- `.tactile-card` — ambient+contact shadow card, accent-tinted border.
+- `.depth-track` / `.depth-fill` — recessed progress groove + raised fill.
+- `.chip-accent` — soft accent pill.
+- `.node-disc` — raised circular node (timeline author / quiz letter).
+- `.seal-stamp` — reward seal (Daily Challenge done state).
+- `.accent-bloom` — Brilliant-style radial glow behind correct/reward.
+- Depth tokens: --codex-shadow-ambient/-contact/-raised, --codex-edge.
+
+### Four-surface audit (Part 1) — behaviors that MUST survive
+
+1. **Timeline** — `src/app/(app)/timelines/page.tsx` +
+   `src/components/timelines/HorizontalTimeline.tsx`. CHRONOLOGICAL strip
+   (sorted by publicationYear, alternating above/below axis, 2-row split
+   via ResizeObserver). Data: `@/data/timelines` (REGION_ORDER,
+   getTimelinesByRegion, getTimelineAuthors) + BOOKS. Behaviors: 2-level
+   accordion w/ localStorage persistence (tome-timelines-accordion);
+   AuthorDropdown anchored to clicked node rect (click-outside + Escape);
+   per-tradition `timeline.accentColor`; per-author geography color
+   (getGeographyColor). Owns Catalogue/tyrian for CHROME only — keep the
+   per-tradition/per-geo node colors (data-driven identity).
+
+2. **Quiz** — `src/app/(app)/quiz/[quizId]/page.tsx`. Duolingo arena.
+   Data: Supabase quizzes/questions, falls back to SAMPLE_QUESTIONS.
+   Engine `@/lib/quiz-engine` supports 5 QuestionTypes (multiple_choice,
+   true_false, fill_blank, ordering, matching) but the PAGE only renders
+   3 UI patterns: OptionCard (MC/TF) + FreeTextInput (fill_blank).
+   ordering/matching have NO renderer — NOT adding one (logic untouched);
+   noted as out-of-scope. Behaviors: number-key 1-4 shortcuts, hearts
+   (economy quiz_correct/quiz_wrong), confetti on correct, shake on wrong,
+   heart-flash, complete/perfect/all-hearts-lost screens, keyboard X back.
+   Correct/incorrect ALREADY var(--tome-success/--tome-error) → keep.
+   Owns Quizzes/vermilion for chrome (progress fill currently --tome-amber,
+   pre-answer selection currently --tome-accent gold → vermilion).
+
+3. **Daily Challenge** — `src/app/(app)/dashboard/page.tsx` lines ~354-447
+   (inline card, not its own route). Single MCQ. Data: CHALLENGES pool,
+   rotates by dayOfYear(); done-state persists localStorage
+   tome-challenge-done-<dateKey>; correct → setChallengeDone after 1200ms.
+   Currently INDIGO (#6366F1) chrome + amber XP pill + emerald/rose answer
+   feedback + BorderBeam. Per new spec it OWNS reward/gold-leaf → repaint
+   chrome gold, done-state seal. Keep emerald correct / rose incorrect.
+
+4. **Book Details** — `src/app/(app)/book/[id]/page.tsx`. Data: getBook/
+   getChapters/getAuthor/getBooksByTradition/getBooksByAuthor; progress
+   via book-progress localStorage. Behaviors: Start/Continue CTA
+   (handleStartReading creates+saves progress, routes /read/[id]);
+   bookmark toggle (shelves store); show-all-chapters; mobile sticky CTA;
+   Canterbury-only enrichments; ChapterRow status (completed/current/
+   available). CTA currently bg-foreground (ink). Owns Reader/lapis for
+   the primary CTA + Catalogue/tyrian for chrome (breadcrumb/section
+   accents). Keep per-tradition tradColor for covers/badges (identity).

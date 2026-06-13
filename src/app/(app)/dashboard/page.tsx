@@ -354,22 +354,23 @@ function StudentDashboard() {
         {/* ── 2. Daily Challenge (MCQ) ── */}
         <BlurFade delay={0.10} inView>
           <div
-            className="relative rounded-2xl overflow-hidden border"
+            className="tactile-card relative overflow-hidden"
             style={{
+              // Daily Challenge owns the reward / gold-leaf accent.
+              ["--accent" as string]: "var(--gold-default)",
               background: challengeDone
-                ? "linear-gradient(135deg, rgba(34,197,94,0.08) 0%, transparent 100%)"
-                : "linear-gradient(135deg, rgba(99,102,241,0.10) 0%, rgba(99,102,241,0.04) 100%)",
-              borderColor: challengeDone ? "rgba(34,197,94,0.3)" : "rgba(99,102,241,0.25)",
+                ? "linear-gradient(135deg, color-mix(in srgb, var(--green-default) 10%, transparent) 0%, transparent 100%)"
+                : "linear-gradient(135deg, var(--gold-muted) 0%, transparent 100%)",
             }}
           >
-            {!challengeDone && <BorderBeam size={80} duration={12} colorFrom="#6366F1" colorTo="#A78BFA" />}
+            {!challengeDone && <BorderBeam size={80} duration={12} colorFrom="#B8924A" colorTo="#D8B45C" />}
 
             <div className="p-5">
               {/* Header */}
               <div className="flex items-center justify-between mb-4">
                 <div className="flex items-center gap-2">
-                  <div className="size-7 rounded-lg bg-[#6366F1]/15 flex items-center justify-center">
-                    <Zap className="size-4 text-[#6366F1]" />
+                  <div className="size-7 rounded-lg flex items-center justify-center" style={{ background: "color-mix(in srgb, var(--gold-default) 16%, transparent)" }}>
+                    <Zap className="size-4" style={{ color: "var(--gold-default)" }} />
                   </div>
                   <div>
                     <h2 className="text-sm font-bold leading-none">Daily Challenge</h2>
@@ -377,10 +378,9 @@ function StudentDashboard() {
                   </div>
                 </div>
                 <span
-                  className="text-[10px] font-bold px-2 py-1 rounded-full"
+                  className="chip-accent text-[10px] font-bold px-2 py-1"
                   style={{
-                    background: challengeDone ? "rgba(34,197,94,0.15)" : "rgba(245,158,11,0.15)",
-                    color: challengeDone ? "#16a34a" : "#b45309",
+                    ["--accent" as string]: challengeDone ? "var(--green-default)" : "var(--gold-default)",
                   }}
                 >
                   {challengeDone ? <><Check className="size-3 inline" /> Done</> : `+${challenge.xp} Wisdom`}
@@ -388,12 +388,12 @@ function StudentDashboard() {
               </div>
 
               {challengeDone ? (
-                <div className="flex items-center gap-3 py-2">
-                  <div className="size-10 rounded-full bg-emerald-500/15 flex items-center justify-center">
-                    <Check className="size-5 text-emerald-500" />
+                <div className="accent-bloom relative flex items-center gap-3 py-2" style={{ ["--accent" as string]: "var(--gold-default)" }}>
+                  <div className="seal-stamp relative z-10 size-10" style={{ ["--accent" as string]: "var(--gold-default)" }}>
+                    <Check className="size-5" />
                   </div>
-                  <div>
-                    <p className="text-sm font-semibold text-emerald-700">+{challenge.xp} Wisdom earned</p>
+                  <div className="relative z-10">
+                    <p className="text-sm font-semibold" style={{ color: "var(--trial-correct-text)" }}>+{challenge.xp} Wisdom earned</p>
                     <p className="text-xs text-muted-foreground">Come back tomorrow for a new challenge.</p>
                   </div>
                 </div>
@@ -415,11 +415,11 @@ function StudentDashboard() {
                           className={cn(
                             "text-left rounded-xl border px-3.5 py-2.5 text-sm font-medium transition-all duration-200",
                             !answered
-                              ? "border-border hover:border-[#6366F1] hover:bg-[#6366F1]/5 cursor-pointer"
+                              ? "border-border hover:border-[var(--gold-default)] hover:bg-[color-mix(in_srgb,var(--gold-default)_7%,transparent)] hover:-translate-y-px cursor-pointer"
                               : isCorrect
-                              ? "border-emerald-500 bg-emerald-50 text-emerald-700"
+                              ? "border-[var(--trial-correct)] bg-[var(--trial-correct-soft)] text-[var(--trial-correct-text)]"
                               : isSelected
-                              ? "border-rose-400 bg-rose-50 text-rose-700"
+                              ? "border-[var(--trial-incorrect)] bg-[var(--trial-incorrect-soft)] text-[var(--trial-incorrect-text)]"
                               : "border-border opacity-50 cursor-not-allowed"
                           )}
                         >
@@ -428,7 +428,7 @@ function StudentDashboard() {
                           </span>
                           {opt}
                           {answered && isCorrect && (
-                            <Check className="inline-block size-3.5 ml-1.5 text-emerald-500" />
+                            <Check className="inline-block size-3.5 ml-1.5 text-[var(--trial-correct)]" />
                           )}
                         </button>
                       )

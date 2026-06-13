@@ -386,3 +386,147 @@
     @apply font-sans;
   }
 }
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Codex × Duolingo × Brilliant depth primitives.
+   Form borrowed (depth/shading/press/glow); identity kept (Tome hues).
+   Each consumer sets `--accent` (+ optional --accent-edge / --accent-soft)
+   so one primitive set recolors per surface. Honors reduced-motion.
+   ───────────────────────────────────────────────────────────────────────── */
+:root {
+  --codex-shadow-ambient: 0 6px 16px -8px rgba(26, 24, 22, 0.18);
+  --codex-shadow-contact: 0 1px 2px rgba(26, 24, 22, 0.10);
+  --codex-shadow-raised: var(--codex-shadow-ambient), var(--codex-shadow-contact);
+  --codex-edge-alpha: 0.32;
+}
+.dark {
+  --codex-shadow-ambient: 0 8px 22px -10px rgba(0, 0, 0, 0.55);
+  --codex-shadow-contact: 0 1px 2px rgba(0, 0, 0, 0.45);
+  --codex-edge-alpha: 0.5;
+}
+
+/* Pressed-edge 3D button (Duolingo anatomy, Tome accent). */
+.tactile-btn {
+  --accent: var(--gold-default);
+  --accent-edge: color-mix(in srgb, var(--accent) 62%, #000);
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: var(--radius-lg, 0.875rem);
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  box-shadow: 0 4px 0 0 var(--accent-edge), var(--codex-shadow-contact);
+  transform: translateY(0);
+  transition: transform 120ms var(--tome-ease-out-expo, ease),
+    box-shadow 120ms var(--tome-ease-out-expo, ease),
+    filter 150ms ease;
+}
+.tactile-btn:hover {
+  filter: brightness(1.04);
+}
+.tactile-btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 0 var(--accent-edge), var(--codex-shadow-contact);
+}
+.tactile-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.tactile-btn:disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* Tactile card — ambient lift + accent-tinted hairline. */
+.tactile-card {
+  --accent: var(--tome-accent);
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--border));
+  border-radius: var(--radius-2xl, 1.25rem);
+  background: var(--card);
+  box-shadow: var(--codex-shadow-raised);
+}
+
+/* Recessed progress groove + raised accent fill. */
+.depth-track {
+  position: relative;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent, var(--tome-accent)) 12%, var(--muted));
+  box-shadow: inset 0 1px 2px rgba(26, 24, 22, 0.16);
+  overflow: hidden;
+}
+.depth-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--accent, var(--tome-accent)) 88%, #fff) 0%,
+    var(--accent, var(--tome-accent)) 100%
+  );
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.35) inset;
+}
+
+/* Soft accent pill. */
+.chip-accent {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  border-radius: 999px;
+  padding: 0.125rem 0.5rem;
+  font-weight: 600;
+  background: color-mix(in srgb, var(--accent, var(--tome-accent)) 14%, transparent);
+  color: var(--accent, var(--tome-accent));
+}
+
+/* Raised circular node disc (timeline author / quiz letter). */
+.node-disc {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: var(--accent, var(--tome-accent));
+  color: #fff;
+  box-shadow: 0 2px 0 0 color-mix(in srgb, var(--accent, var(--tome-accent)) 58%, #000),
+    var(--codex-shadow-contact);
+}
+
+/* Reward seal stamp (Daily Challenge complete). */
+.seal-stamp {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: radial-gradient(
+    circle at 35% 30%,
+    color-mix(in srgb, var(--accent, var(--gold-default)) 78%, #fff) 0%,
+    var(--accent, var(--gold-default)) 70%
+  );
+  color: #fff;
+  box-shadow: 0 2px 8px -2px color-mix(in srgb, var(--accent, var(--gold-default)) 60%, transparent),
+    inset 0 0 0 2px color-mix(in srgb, #fff 35%, transparent);
+}
+
+/* Brilliant-style radial bloom behind correct/reward moments. */
+.accent-bloom::before {
+  content: "";
+  position: absolute;
+  inset: -40%;
+  border-radius: inherit;
+  background: radial-gradient(
+    circle at center,
+    color-mix(in srgb, var(--accent, var(--tome-accent)) 28%, transparent) 0%,
+    transparent 60%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tactile-btn,
+  .tactile-btn:active {
+    transition: filter 150ms ease;
+    transform: none;
+  }
+}
