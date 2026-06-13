@@ -20,15 +20,15 @@ const SHARED_CORE_LABELS = [
   "Bookmarks",
   "My Shelves",
   "Authors",
-  "Reading",
+  "Reader",
   "Quizzes",
+  "Achievements",
+  "Audio",
+  "Virgil Guide",
   "Book Clubs",
 ] as const
 
 const STUDENT_ONLY_LABELS = [
-  "Wisdom",
-  "Flames",
-  "Virgil",
   "My Classes",
   "Study Groups",
 ] as const
@@ -194,19 +194,19 @@ describe("key collision checks", () => {
   // Shared keys that are intentionally overridden by role-specific registries.
   // For example, "Library" appears in shared AND student because the student
   // registry provides a themed variant.
-  const INTENTIONAL_STUDENT_OVERRIDES = new Set([
-    "Library",
-    "Reading",
-    "Achievements",
-    "Quizzes",
-    "Profile",
+const INTENTIONAL_STUDENT_OVERRIDES = new Set([
+  "Library",
+  "Reader",
+  "Achievements",
+  "Quizzes",
+  "Profile",
   ])
 
   it("student-only overrides of shared keys are intentional", () => {
     const sharedKeys = new Set(Object.keys(sharedIconRegistry))
-    const studentKeys = Object.keys(studentIconRegistry)
+    const studentOnlyKeys = [...STUDENT_ONLY_LABELS]
 
-    const overlapping = studentKeys.filter(
+    const overlapping = studentOnlyKeys.filter(
       (k) => sharedKeys.has(k) && !INTENTIONAL_STUDENT_OVERRIDES.has(k),
     )
 

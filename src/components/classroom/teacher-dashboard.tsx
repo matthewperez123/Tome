@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import Link from "next/link"
 import { motion } from "framer-motion"
 import { Plus, ChevronDown, MonitorPlay } from "lucide-react"
@@ -18,12 +18,14 @@ export function TeacherDashboard() {
   const { profile } = useAuth()
   const [selectedClassroom, setSelectedClassroom] = useState<string | null>(null)
 
-  const greeting = (() => {
+  const [greeting, setGreeting] = useState("Welcome back")
+
+  useEffect(() => {
     const hour = new Date().getHours()
-    if (hour < 12) return "Good morning"
-    if (hour < 17) return "Good afternoon"
-    return "Good evening"
-  })()
+    if (hour < 12) setGreeting("Good morning")
+    else if (hour < 17) setGreeting("Good afternoon")
+    else setGreeting("Good evening")
+  }, [])
 
   const displayName = profile?.display_name ?? "Professor"
 

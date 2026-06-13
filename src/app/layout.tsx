@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Plus_Jakarta_Sans, Literata, Playfair_Display } from "next/font/google";
 import { ThemeProvider } from "next-themes";
+import { ClientIntegrations } from "@/components/integrations/client-integrations";
 import "@/styles/globals.css";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -30,12 +31,15 @@ export const viewport: Viewport = {
   themeColor: "#111111",
 };
 
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  process.env.NEXT_PUBLIC_APP_URL ||
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? "https://" + process.env.VERCEL_PROJECT_PRODUCTION_URL
+    : "http://localhost:3000");
+
 export const metadata: Metadata = {
-  metadataBase: new URL(
-    process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : "http://localhost:3000"
-  ),
+  metadataBase: new URL(siteUrl),
   title: {
     default: "Tome — Read the books that shaped the world",
     template: "%s | Tome",
@@ -105,6 +109,7 @@ export default function RootLayout({
           disableTransitionOnChange
           storageKey="tome-theme"
         >
+          <ClientIntegrations />
           {children}
         </ThemeProvider>
       </body>

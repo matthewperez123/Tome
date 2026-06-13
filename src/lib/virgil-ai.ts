@@ -7,21 +7,50 @@ interface VirgilRequest {
 }
 
 /**
- * Mock Virgil AI — swap this single function for real Claude API later.
- * Simulates streaming by emitting one word at a time.
+ * Virgil AI helper.
+ *
+ * Client code tries the server route first. If the Virgil upstream is not
+ * configured, unhealthy, or returns no text, the app falls back to a local
+ * guide response so preview deployments keep working without secrets.
  */
 export async function askVirgil(
   request: VirgilRequest,
   onToken: (token: string) => void,
   onComplete: () => void,
 ): Promise<void> {
-  const response = getMockResponse(request)
+  const response = await getServerResponse(request) ?? getMockResponse(request)
+  await streamResponse(response, onToken)
+  onComplete()
+}
+
+async function getServerResponse(request: VirgilRequest): Promise<string | null> {
+  try {
+    const response = await fetch("/api/virgil", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(request),
+    })
+
+    if (!response.ok) return null
+
+    const data = await response.json().catch(() => null)
+    return typeof data?.response === "string" && data.response.trim()
+      ? data.response
+      : null
+  } catch {
+    return null
+  }
+}
+
+async function streamResponse(
+  response: string,
+  onToken: (token: string) => void,
+) {
   const words = response.split(" ")
   for (let i = 0; i < words.length; i++) {
     await new Promise((r) => setTimeout(r, 35 + Math.random() * 30))
     onToken(words[i] + (i < words.length - 1 ? " " : ""))
   }
-  onComplete()
 }
 
 function getMockResponse({ userMessage, pageContext }: VirgilRequest): string {

@@ -16,8 +16,8 @@ export const VIRGIL_TIPS = [
   "You will forget most of what you read. What remains is who you become.",
 ]
 
-export function getTipOfTheDay(): string {
-  const now = new Date()
+export function getTipOfTheDay(date = new Date()): string {
+  const now = date
   const start = new Date(now.getFullYear(), 0, 0)
   const dayOfYear = Math.floor((now.getTime() - start.getTime()) / 86400000)
   return VIRGIL_TIPS[dayOfYear % VIRGIL_TIPS.length]

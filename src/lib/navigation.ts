@@ -21,6 +21,8 @@ import {
   Feather,
   History,
   Compass,
+  Headphones,
+  Sparkles,
   type LucideIcon,
 } from "lucide-react"
 
@@ -47,8 +49,11 @@ export const sidebarNav: NavItem[] = [
   { label: "Bookmarks", href: "/bookmarks", icon: Bookmark },
   { label: "My Shelves", href: "/shelves", icon: BookMarked },
   { label: "Authors", href: "/authors", icon: PenTool },
-  { label: "Reading", href: "/reading", icon: BookOpen },
+  { label: "Reader", href: "/reading", icon: BookOpen },
   { label: "Quizzes", href: "/quizzes", icon: Brain },
+  { label: "Achievements", href: "/achievements", icon: Trophy },
+  { label: "Audio", href: "/audio", icon: Headphones },
+  { label: "Virgil Guide", href: "/virgil", icon: Sparkles },
   { label: "Book Clubs", href: "/clubs", icon: BookHeart },
 
   // Teacher-only classroom tools
@@ -65,7 +70,6 @@ export const sidebarNav: NavItem[] = [
   // Discovery & social — all roles
   { label: "Explore", href: "/explore", icon: Globe2 },
   { label: "Timelines", href: "/timelines", icon: History },
-  { label: "Seals", href: "/seals", icon: Trophy },
   { label: "Friends", href: "/friends", icon: HeartHandshake },
   { label: "Community", href: "/social", icon: MessageCircle },
   { label: "Shop", href: "/shop", icon: ShoppingBag },
@@ -89,7 +93,7 @@ export function getNavForRole(role: UserRole | null): NavItem[] {
 export const dockNav: NavItem[] = [
   { label: "Home", href: "/", icon: Home },
   { label: "Library", href: "/library/browse", icon: Library },
-  { label: "Read", href: "/reading", icon: BookOpen },
+  { label: "Reader", href: "/reading", icon: BookOpen },
   { label: "Quiz", href: "/quizzes", icon: Brain },
   { label: "Profile", href: "/profile", icon: CircleUser },
 ]

@@ -110,8 +110,6 @@ const CHALLENGES = [
 
 // Days since epoch → use for seeding; demo: Mon ✓, Tue ✓, Wed ✓, Thu = today, Fri-Sun future
 const WEEK_DAYS  = ["M", "T", "W", "T", "F", "S", "S"]
-const TODAY_DOW  = new Date().getDay() // 0=Sun; convert to 0=Mon
-const DOW_MON    = TODAY_DOW === 0 ? 6 : TODAY_DOW - 1 // 0=Mon…6=Sun
 
 // ─────────────────────────────────────────────
 // Recent activity seed
@@ -129,20 +127,20 @@ const RECENT_ACTIVITY = [
 // Helpers
 // ─────────────────────────────────────────────
 
-function greeting(): string {
-  const h = new Date().getHours()
+function greeting(date: Date): string {
+  const h = date.getHours()
   if (h < 12) return "Good morning"
   if (h < 17) return "Good afternoon"
   return "Good evening"
 }
 
-function todayKey(): string {
-  const d = new Date()
+function todayKey(date = new Date()): string {
+  const d = date
   return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`
 }
 
-function dayOfYear(): number {
-  const now  = new Date()
+function dayOfYear(date: Date): number {
+  const now  = date
   const start = new Date(now.getFullYear(), 0, 0)
   return Math.floor((now.getTime() - start.getTime()) / 86_400_000)
 }
@@ -201,6 +199,8 @@ function StudentDashboard() {
   const [challengeAnswer,  setChallengeAnswer]  = useState<number | null>(null)
   const [challengeDone,    setChallengeDone]    = useState(false)
   const [allProgress,      setAllProgress]      = useState<ReturnType<typeof getAllBookProgress>>({})
+  const [clientDate, setClientDate] = useState(() => new Date(2026, 0, 1, 12))
+  const [dateReady, setDateReady] = useState(false)
 
   const allBooks      = useMemo(() => getBooks(), [])
   const featuredBooks = useMemo(() => getFeaturedBooks().slice(0, 6), [])
@@ -210,18 +210,24 @@ function StudentDashboard() {
     const prog = getAllBookProgress()
     setAllProgress(prog)
 
-    const key = `tome-challenge-done-${todayKey()}`
+    const now = new Date()
+    setClientDate(now)
+    setDateReady(true)
+
+    const key = `tome-challenge-done-${todayKey(now)}`
     if (localStorage.getItem(key)) setChallengeDone(true)
   }, [])
 
   // Today's challenge (rotates by day-of-year)
-  const challenge = CHALLENGES[dayOfYear() % CHALLENGES.length]
+  const challenge = CHALLENGES[dayOfYear(clientDate) % CHALLENGES.length]
+  const todayDow = clientDate.getDay()
+  const dowMon = todayDow === 0 ? 6 : todayDow - 1 // 0=Mon…6=Sun
 
   function handleChallengeAnswer(idx: number) {
     if (challengeDone || challengeAnswer !== null) return
     setChallengeAnswer(idx)
     if (idx === challenge.correct) {
-      const key = `tome-challenge-done-${todayKey()}`
+      const key = `tome-challenge-done-${todayKey(new Date())}`
       localStorage.setItem(key, "1")
       setTimeout(() => setChallengeDone(true), 1200)
     }
@@ -292,10 +298,12 @@ function StudentDashboard() {
           <div className="flex items-start justify-between gap-4">
             <div>
               <h1 className="font-serif text-2xl font-bold tracking-tight">
-                {greeting()}, Reader
+                {greeting(clientDate)}, Reader
               </h1>
               <p className="text-sm text-muted-foreground mt-0.5">
-                {new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}
+                {dateReady
+                  ? clientDate.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })
+                  : "Today"}
               </p>
             </div>
             <div className="shrink-0 text-right">
@@ -541,9 +549,9 @@ function StudentDashboard() {
             {/* Day-by-day tracker */}
             <div className="flex gap-1.5">
               {WEEK_DAYS.map((label, i) => {
-                const isPast    = i < DOW_MON
-                const isToday   = i === DOW_MON
-                const isFuture  = i > DOW_MON
+                const isPast    = i < dowMon
+                const isToday   = i === dowMon
+                const isFuture  = i > dowMon
                 const isDone    = i <= 2 // Mon, Tue, Wed done in demo
                 const isMissed  = isPast && !isDone
 
@@ -856,7 +864,7 @@ function StudentDashboard() {
                 Virgil&rsquo;s Tip
               </p>
               <p className="text-sm leading-relaxed text-foreground/80 font-serif italic">
-                &ldquo;{getTipOfTheDay()}&rdquo;
+                &ldquo;{getTipOfTheDay(clientDate)}&rdquo;
               </p>
             </div>
           </div>
@@ -866,4 +874,3 @@ function StudentDashboard() {
     </div>
   )
 }
-
